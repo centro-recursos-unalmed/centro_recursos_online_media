@@ -1,0 +1,122 @@
+Unit 14	Around the World: the game show
+
+Marlene, Jack, and Kathy are contestants in a game show.
+
+Announcer:	And now it's time to play "Around the World" with 
+		your host Johnny Traveler.
+
+		*	*	*
+
+Johnny:		Ladies and gentlemen, welcome to "Around the World,"
+		the game show about world geography. And now, let's
+		meet our players.
+
+Announcer:	A computer engineer from Seattle, Washington, 
+		Marlene Miller! A high school teacher from Boston,
+		Massachusetts, Jack Richardson! And from Vero 
+		Beach, Florida, an accountant, Kathy Hernandez!
+
+Johnny:		Welcome to "Around the World." And now, let's 
+		begin our game. Our categories are Deserts and 
+		Mountains, Rivers and Waterfalls, Oceans and 
+		Islands, Cities and Countries. Marlene, please 
+		begin.
+
+Marlene:	I'll try Rivers and Waterfalls for fifty, Johnny.
+
+Johnny:		Which is longer, the Nile River in Africa or the 
+		Amazon River in South America? . . . Jack?
+
+Jack:		Um . . . um . . . the Nile.
+
+Johnny:		That's right for fifty! Next category, please.
+
+Jack:		OK, I'll try Deserts and Mountains for fifty, 
+		Johnny.
+
+Johnny:		Which is higher, Mt. McKinley in North America or 
+		Mt. Kilimanjaro in Africa? . . . Marlene.
+
+Marlene:	Mt. McKinley.
+
+Johnny:		That's right. Your category, please, Marlene.
+
+Marlene:	I'll take Cities and Countries for fifty, Johnny.
+
+Johnny:		What country is sometimes called the "island 
+		continent"? . . . Kathy.
+
+Kathy:		Australia!
+
+Johnny:		That's right for fifty. Your category, please.
+
+Kathy:		I'll take Deserts and Mountains for one hundred, 
+		Johnny.
+
+Johnny:		What is the largest desert in Asia? . . . Jack.
+
+Jack:		Oh, I know the answer. It starts with G. . . . 
+		Go . . . Go . . . Gobi!
+
+Johnny:		Yes, the Gobi Desert! Wonderful! You have one 
+		hundred points. The next category, please, Jack.
+
+Jack:		Cities and Countries for a hundred.
+
+Johnny:		What is the largest city in North America? . . . 
+		Kathy.
+
+Kathy:		New York!
+
+Johnny:		No. Good try. . . . Jack.
+
+Jack:		Uh . . . Los Angeles?
+
+Johnny:		No. Sorry, Jack. Marlene.
+
+Marlene:	Mexico City.
+
+Johnny:		That's right for one hundred. Your category, 
+		Marlene?
+
+Marlene:	I'll try Rivers and Waterfalls for one hundred, 
+		Johnny.
+
+Johnny:		Angel Falls is the highest waterfall in the world.
+		What country is it in? . . . Jack.
+
+Jack:		Uh . . . Brazil.
+
+Johnny:		No. I'm sorry, Jack. . . . Kathy.
+
+Kathy:		Uh . . . Colombia!
+
+Johnny:		No, that's not correct, Kathy. . . . Marlene.
+
+Marlene:	It's Venezuela, Johnny.
+
+Johnny:		That's right! You have one hundred points. Next 
+		category, please, Marlene.
+
+Marlene:	Oceans and Islands for fifty, Johnny.
+
+Johnny:		Ooh! That's the end of our game. Let's look at 
+		the score. Hey, it looks like Marlene has won. 
+		Congratulations, Marlene.
+
+Marlene:	Thanks, Johnny.
+
+Johnny:		Now, let's see what you've won.
+
+Announcer:	Marlene, you've won tickets for two on Countryside
+		Airlines, the friendliest airline in the sky, to 
+		one of the most exciting, beautiful, fascinating 
+		cities in the country . . . Seattle, Washington!
+
+Marlene:	But I live in Seattle, Washington!
+
+Johnny:		Ooh. . . . Well, that's our show! Until next time,
+		I'm Johnny Traveler for "Around the World"!
+
+
+Copyright (c) Cambridge University Press 2005
