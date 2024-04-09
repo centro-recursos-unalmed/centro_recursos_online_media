@@ -1,0 +1,25 @@
+<?xml version="1.0" ?> 
+<unit number="4">
+<exercise>
+  <question number="1" answer="2"> I couldn't remember what I was supposed to say.</question> 
+  <question number="2" answer="3"> It was worth the effort.</question> 
+  <question number="3" answer="4"> We are rehearsing a play now.</question> 
+  <question number="4" answer="0"> It was a really scary experience.</question> 
+  <question number="5" answer="1"> It's interesting when you get to play bad characters.
+</question> 
+<!-- 
+ answer="0" means answer is not said
+  --> 
+  </exercise>
+<script timing="10,675,1076,1699" scrollindex="4">
+  <line number="1" name="Mark">I've taken a few classes and stuff, yeah.
+Really, good, you know when you get to be somebody else it's kind of neat, it's kind of neat to…, when you get to do stuff like evil characters, stuff like that when you're not really that type of person. You kind of see..., it kind of scares you a bit when you know you can go to those kind of places.</line> 
+  <line number="2" name="Miles">No, only at school. I was once a game show host in a play.
+Well, very stupid because I forgot my lines.</line> 
+  <line number="3" name="Jeff">I, a couple of years ago, I played one of the ugly sisters in a pantomime. 
+It was very rewarding – it was five months of rehearsals for two nights' performances. But at the end it was very very rewarding.</line> 
+  <line number="4" name="Anne">Well, I'm a retired teacher and I have been with the children, in fact at the moment, I'm taking a group of children to the Oxford Castle, which used to be the prison and they're performing a play there at Christmas time, so we're just in the throes of organizing it at the moment, so very exciting.</line> 
+  </script>
+  </unit>
+	
+

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='ISO-8859-1' ?>
+<grammar>
+<section>
+<title>&lt;i&gt;can&lt;/i&gt; and &lt;i&gt;can't&lt;/i&gt; for ability</title>
+<sectiontitle>We use &lt;i&gt;can + &lt;/i&gt;verb to say we are able to do something and &lt;i&gt;can't&lt;/i&gt; + verb to say we aren't able to do something.</sectiontitle>
+<titlesound>el_gram_11_1_1.mp3</titlesound>
+<text1></text1>
+<text1a>Peter &lt;b&gt;can&lt;/b&gt; speak German very well.</text1a>
+<sound1>el_gram_11_1_2.mp3</sound1>
+<text2></text2>
+<text2a>My dog &lt;b&gt;can't&lt;/b&gt; walk at the moment.</text2a>
+<sound2>el_gram_11_1_3.mp3</sound2>
+<sectiontitle2>In the question, we use &lt;i&gt;can&lt;/i&gt; + &lt;i&gt;I/you/he/she/it/we/they&lt;/i&gt; + verb. </sectiontitle2>
+<titlesound2>el_gram_11_1_4.mp3</titlesound2>
+<text3>You can swim.</text3>
+<text3a>&lt;b&gt;Can you&lt;/b&gt; swim? Yes, I can.</text3a>
+<sound3>el_gram_11_1_5.mp3</sound3>
+<text4>He can't run fast.</text4>
+<text4a>&lt;b&gt;Can he&lt;/b&gt; run fast? No, he can't.</text4a>
+<sound4>el_gram_11_1_6.mp3</sound4>
+</section>
+</grammar>

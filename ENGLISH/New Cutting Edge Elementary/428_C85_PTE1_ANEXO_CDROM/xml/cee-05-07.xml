@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<data>
+<gridSettings gridWidth="12" gridHeight="12" gapSize="0" upperCase="1" optionShow="1"/>
+<wordSettings directions="h,v" orientationsStraight="0,0" orientationsDiagonal="0,1,2,3"/>
+<wordsArray words="UNDERGROUND,BUS,AEROPLANE,FERRY,SHIP,TRAM,MOTORBIKE,TAXI,SCOOTER,SUBWAYTRAIN,CAR"/>
+</data>

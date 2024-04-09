@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?> 
+<pairs bckg_color="0xEFA499" congra_text="Congratulations!">
+<pair fbtext="Correct!">   
+  <picture label="Britain" picture="" />   
+  <picture label="British" picture="" />     
+</pair>  
+<pair fbtext="Well done!">   
+  <picture label="The USA" picture="" />   
+  <picture label="American" picture="" />   
+</pair>  
+<pair fbtext="That's right!">   
+  <picture label="Spain" picture="" />   
+  <picture label="Spanish" picture="" />   
+</pair>  
+<pair fbtext="Excellent!">   
+  <picture label="China" picture="" />   
+  <picture label="Chinese" picture="" />   
+</pair>  
+<pair fbtext="Brilliant!">   
+  <picture label="France" picture="" />   
+  <picture label="French" picture="" />   
+</pair>  
+<pair fbtext="That's correct!">   
+  <picture label="Russia" picture="" />   
+  <picture label="Russian" picture="" />   
+</pair>  
+<pair fbtext="Correct!">   
+  <picture label="Japan" picture="" />  
+  <picture label="Japanese" picture="" />    
+</pair>  
+<pair fbtext="Well done!">   
+  <picture label="Korea" picture="" /> 
+  <picture label="Korean" picture="" /> 
+</pair> 
+</pairs>
+
+

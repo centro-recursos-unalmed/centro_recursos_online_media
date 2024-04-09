@@ -1,0 +1,82 @@
+<content>
+	<question number="1" text="I can't go to work by bike, because I haven't got one.">
+<word>ABLE</word>
+ <answer>If I had a bike, I ['d be able to cycle] to work.</answer>
+</question>
+<question number="2" text="I don't drive to work by car because there's nowhere to park.">
+<word>DRIVE</word>
+ <answer>If there was somewhere to park, [I'd drive] to work.</answer>
+</question>
+<question number="3" text="I think you should tell the police.">
+<word>WERE</word>
+ <answer>[If I were you] , I'd tell the police.</answer>
+</question>
+<question number="4" text="You bought that expensive jacket and now you're broke.">
+<word>BOUGHT</word>
+ <answer>You wouldn't be broke if you [hadn't bought that] expensive jacket.</answer>
+</question>
+<question number="5" text="I didn't know you were in; otherwise I would have called you.">
+<word>IF</word>
+ <answer>[If I'd known] you were in, I would have called you.</answer>
+</question>
+<question number="6" text="He's too young; I don't think he'll be accepted.">
+<word>PROBABLY</word>
+ <answer>If he was older, he['d probably] be accepted.</answer>
+</question>
+<question number="7" text="They couldn't arrest him because they didn't find his fingerprints.">
+<word>HAD</word>
+ <answer>If the police [had found] his fingerprints, they would have arrested him.</answer>
+</question>
+<question number="8" text="Jennie's passport isn't in her bag.">
+<word>MUST</word>
+ <answer>Jennie [must have left] her passport at home.</answer>
+</question>
+<question number="9" text="I'm not sure whether David has left a message for you.">
+<word>MIGHT</word>
+ <answer>David [might have] left a message for you.</answer>
+ </question>
+ <question number="10" text="I don't believe they're out, the lights are on.">
+<word>GONE</word>
+ <answer>The lights are on so they [can't have gone] out.</answer>
+ </question>
+ <question number="11" text="I was sure it wasn't Bella in the car, because she was at home.">
+<word>CAN'T</word>
+ <answer>Bella was at home so [it can't have been] her in the car.</answer>
+ </question>
+ <question number="12" text="I'm sorry I didn't tell you I was working late.">
+<word>SHOULD</word>
+ <answer>I [should have told] you I was working late.</answer>
+ </question>
+ <question number="13" text="It was your mistake. You forgot.">
+<word>SHOULDN'T </word>
+ <answer>It was your mistake; you [shouldn't have forgotten] .</answer>
+ </question>
+ <question number="14" text="Oh no, I think there is something bad in the fridge.">
+<word>SMELLS</word>
+ <answer>[It smells like] there is something bad in the fridge.</answer>
+ </question>
+ <question number="15" text="Do you want to go out tonight?">
+<word>FEEL</word>
+ <answer>Do you [feel like going] out tonight?</answer>
+ </question>
+ <question number="16" text="Mark gets bad-tempered when he's tired.">
+<word>FEELS</word>
+ <answer>When Mark [feels tired] , he gets bad-tempered.</answer>
+ </question>
+ <question number="17" text="There seems to be a lot of salt in this soup.">
+<word>AS</word>
+ <answer>It tastes [as if] there's too much salt in this soup.</answer>
+ </question>
+ <question number="18" text="Would you prefer tea or coffee?">
+<word>RATHER</word>
+ <answer>Which [would you rather] have, tea or coffee?</answer>
+ </question>
+ <question number="19" text="I think you should take a warm coat with you.">
+<word>BETTER</word>
+ <answer>You['d better take] a warm coat with you.</answer>
+ </question>
+ <question number="20" text="Don't be late as Dad will be angry.">
+<word>BETTER</word>
+ <answer>You['d better not be late] . Dad will be angry if you are.</answer>
+ </question>
+</content>

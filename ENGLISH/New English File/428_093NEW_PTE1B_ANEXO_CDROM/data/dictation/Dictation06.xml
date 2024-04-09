@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<content title="A report" 
+rubric1="Before you start the dictation exercise, click the PLAY button to listen to the complete text." 
+rubric2="Now click CONTINUE to start the dictation exercise." 
+rubric3="Press the PLAY button and type the words you hear."
+rubric4="You have now finished the dictation exercise.[br]Click the PLAY button if you would like to listen again.">
+	 <sentence number="1">The aim of this report</sentence>
+	<sentence number="2">is to give students visiting Oxford</sentence>
+	<sentence number="3">advice on how to behave and how to keep safe.</sentence>
+	<sentence number="4">Some basic tips will be offered</sentence>
+	<sentence number="5">as well as some suggestions for which areas are safest.</sentence>
+	<sentence number="6">#Behaviour #In the summer Oxford fills up with foreign students learning English.</sentence>
+	<sentence number="7">This can cause problems with the local population</sentence>
+	<sentence number="8">who can feel that they are losing their city.</sentence>
+	<sentence number="9">Students should not move about in enormous groups.</sentence>
+	<sentence number="10">If students make British friends,</sentence>
+	<sentence number="11">they will enjoy the city and learn more English.</sentence>
+	<sentence number="12">#Safety #The north and west of the city are very safe areas.</sentence>
+	<sentence number="13">The eastern part of the city is vibrant and cosmopolitan</sentence>
+	<sentence number="14">but can be dangerous late at night.</sentence>
+	<sentence number="15">Some suburbs are very run down and are best avoided.</sentence>
+	<sentence number="16">#Conclusions #Students should integrate and if in doubt, stay in the safe areas.</sentence>
+</content>

@@ -1,0 +1,82 @@
+<content>
+	<question number="1" text="I would like to have curly hair, but I don't.">
+<word>WISH</word>
+ <answer>I [wish I had] curly hair.</answer>
+</question>
+<question number="2" text="The post hasn't arrived yet and I'm expecting a letter.">
+<word>ARRIVE</word>
+ <answer>I wish the post [would arrive] as I'm expecting a letter.</answer>
+</question>
+<question number="3" text="My brother's really selfish, and I don't like it.">
+<word>SO</word>
+ <answer>I wish my brother [wasn't so] selfish.</answer>
+</question>
+<question number="4" text="I'm sure Robert is sorry that he didn't work harder.">
+<word>WISHES</word>
+ <answer>I'm sure Robert [wishes he'd worked] harder.</answer>
+</question>
+<question number="5" text="I don't understand everything, but I am still enjoying this book.">
+<word>ALTHOUGH</word>
+ <answer>[Although I don't understand] everything, I am still enjoying this book.</answer>
+</question>
+<question number="6" text="He was ill but he went to work.">
+<word>DESPITE</word>
+ <answer>He went to work [despite being ill] .</answer>
+</question>
+<question number="7" text="It rained heavily, but we went ahead with the barbecue.">
+<word>SPITE</word>
+ <answer>We went ahead with the barbecue [in spite of] the heavy rain.</answer>
+</question>
+<question number="8" text="I didn't like it, but he bought it anyway.">
+<word>SPITE</word>
+ <answer>He bought it [in spite of the fact] that I didn't like it.</answer>
+</question>
+<question number="9" text="If you want to have a day off, fill in this form and give it to the boss.">
+<word>ORDER</word>
+ <answer>[In order to have] a day off fill in this form and give it to the boss.</answer>
+ </question>
+ <question number="10" text="I bought this special cloth to clean my computer screen.">
+<word>FOR</word>
+ <answer>I bought this special cloth [for cleaning] my computer screen.</answer>
+ </question>
+ <question number="11" text="I couldn't close the window so I stood on a chair.">
+<word>THAT</word>
+ <answer>I stood on a chair [so that I could] close the window.</answer>
+ </question>
+ <question number="12" text="That man helped me with my bags.">
+<word>WHO</word>
+ <answer>That's the [man who] helped me with my bags.</answer>
+ </question>
+ <question number="13" text="That woman's daughter is a concert pianist.">
+<word>THE</word>
+ <answer>That's [the woman whose] daughter is a concert pianist.</answer>
+ </question>
+ <question number="14" text="You're the only person to whom I can tell my secret.">
+<word>TO</word>
+ <answer>You're the only person [I can tell my secret to] .</answer>
+ </question>
+ <question number="15" text="I find Terry's laugh very irritating.">
+<word>IRRITATES</word>
+ <answer>[What irritates me about] Terry is his laugh.</answer>
+ </question>
+ <question number="16" text="The police arrested the teenage mugger.">
+<word>TEENAGER</word>
+ <answer>The mugger, [who was a teenager] , was arrested by the police.</answer>
+ </question>
+ <question number="17" text="I'm annoyed when Lucy always arrives late.">
+<word>WHICH</word>
+ <answer>Lucy always arrives late, [which annoys] me.</answer>
+ </question>
+ <question number="18" text="Ice hockey is popular in Canada; I love it.">
+<word>WHICH</word>
+ <answer>Ice hockey, [which I love] , is popular in Canada.</answer>
+ </question>
+ <question number="19" text="I don't mind when we go, you can decide.">
+<word>GO</word>
+ <answer>We can [go whenever] you want.</answer>
+ </question>
+ <question number="20" text="In all the places we visited, people were very kind to us.">
+<word>WENT</word>
+ <answer>People were very kind to us [wherever we went] .</answer>
+ </question>
+</content>

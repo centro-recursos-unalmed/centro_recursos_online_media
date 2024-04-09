@@ -1,0 +1,82 @@
+<content>
+	<question number="1" text="I got a letter from Margaret yesterday.">
+<word>LETTER</word>
+ <answer> [The letter] that I got yesterday was from Margaret.</answer>
+</question>
+<question number="2" text="He's working today; he'll be home at 5.30.">
+<word>WORK</word>
+ <answer>He's [at work] today; he'll be home at 5.30.</answer>
+</question>
+<question number="3" text="Someone from Martin's school phoned to ask where he was.">
+<word>AT</word>
+ <answer>Someone phoned to ask why Martin wasn't [at school] .</answer>
+</question>
+<question number="4" text="The drug dealer was given a three-year prison sentence.">
+<word>PRISON</word>
+ <answer>The drug dealer was sentenced to three years [in prison] .</answer>
+</question>
+<question number="5" text="Ellie works in this hotel.">
+<word>WHERE</word>
+ <answer>This is [the hotel where] Ellie works.</answer>
+</question>
+<question number="6" text="It's hard to find somewhere to live in Oxford.">
+<word>ACCOMMODATION</word>
+ <answer>[Accommodation is] hard to find in Oxford.</answer>
+</question>
+<question number="7" text="Let me give you some advice.">
+ <word>A</word>
+ <answer>Let me give you [a piece of] advice.</answer>
+</question>
+<question number="8" text="I'm not interested in politics.">
+<word>POLITICS</word>
+ <answer> [Politics doesn't] interest me.</answer>
+</question>
+<question number="9" text="I must buy some new shoes; these are too small.">
+<word>A</word>
+ <answer>My shoes are too small, I need [a new pair] .</answer>
+ </question>
+ <question number="10" text="What can I wear for my interview? I need something new.">
+<word>CLOTHES</word>
+ <answer>I need [some new clothes] for my interview.</answer>
+ </question>
+ <question number="11" text="Everyone who works in the hotel is very helpful.">
+<word>STAFF</word>
+ <answer>The hotel [staff are] very helpful.</answer>
+ </question>
+ <question number="12" text="Nearly everyone has gone home now.">
+<word>PEOPLE</word>
+ <answer>Most [people have] gone home now.</answer>
+ </question>
+ <question number="13" text="I can leave school after lunch on Tuesdays.">
+<word>DAY</word>
+ <answer>I don't have to stay at school [all day] on Tuesdays.</answer>
+ </question>
+ <question number="14" text="I can't get a ticket, they've all been sold.">
+<word>NONE</word>
+ <answer>The tickets are sold out, [there are none] left.</answer>
+ </question>
+ <question number="15" text="I don't mind which restaurant we go to. They all seem fine.">
+<word>CAN</word>
+ <answer>We [can go to any] restaurant, I don't mind which.</answer>
+ </question>
+ <question number="16" text="Frieda is a teacher and so is Gaston.">
+<word>BOTH</word>
+ <answer>Frieda and Gaston [are both teachers] .</answer>
+ </question>
+ <question number="17" text="My son doesn't like eggs and neither does my daughter.">
+<word>OF</word>
+ <answer>[Neither of] my children likes eggs.</answer>
+ </question>
+ <question number="18" text="Someone's going to clean my jacket today.">
+<word>HAVE</word>
+ <answer>I'm going to [have my jacket cleaned] today.</answer>
+ </question>
+ <question number="19" text="Tia cuts my hair when I go to the hairdresser's.">
+<word>BY</word>
+ <answer>I [have my hair cut by] Tia when I go to the hairdresser's.</answer>
+ </question>
+ <question number="20" text="My TV isn't working properly; I need someone to repair it.">
+<word>GET</word>
+ <answer>I need to [get my TV repaired] ; it isn't working properly.</answer>
+ </question>
+</content>

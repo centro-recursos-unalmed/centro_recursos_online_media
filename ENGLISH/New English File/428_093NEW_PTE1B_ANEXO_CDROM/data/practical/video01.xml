@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" ?> 
+<unit number="1">
+<exercise>
+  <question number="1" answer="1">I don't think horoscopes are detailed enough.</question> 
+  <question number="2" answer="0">I think horoscopes are boring.</question> 
+  <question number="3" answer="4">People can usually recognize something about themselves in a horoscope.</question> 
+  <question number="4" answer="3">Some people I know take horoscopes very seriously.</question> 
+  <question number="5" answer="2">Sometimes you hope that your horoscope doesn't come true.</question> 
+<!-- 
+ answer="0" means answer is not said
+  --> 
+  </exercise>
+<script timing="10,785,1291,1887" scrollindex="5">
+  <line number="1" name="Ben">I'm Aquarius. 
+No, not usually, although now and again, if I'm bored.
+I mean there does (do) seem to be certain traits that maybe fit in, but I just think it's too too ambiguous, too vague to be specific. I don't think there's (there are) 12 types of personality.</line> 
+  <line number="2" name="Mark">Virgo. 
+Once in a while, yeah. Hope that it comes true sometimes and other times kind of avoid it. 
+I think it can, yeah.</line> 
+  <line number="3" name="Anne">Libra, Libra, the scales.
+Sometimes, just for a laugh, that's all. 
+Not personally, I don't, but I do know people do believe in it religiously. But not personally, no. </line> 
+  <line number="4" name="Jeff">I'm a Pisces. 
+Occasionally, occasionally.
+Yes, I think if you read your horoscopes, you can always find something in there that relates to you, so I think you can believe that.</line> 
+  </script>
+  </unit>

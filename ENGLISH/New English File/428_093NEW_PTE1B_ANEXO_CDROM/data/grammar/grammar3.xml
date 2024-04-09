@@ -1,0 +1,82 @@
+<content>
+	<question number="1" text="Young people sometimes commit robberies.">
+<word>BY</word>
+ <answer>Robberies [are sometimes committed by] young people.</answer>
+</question>
+<question number="2" text="They're holding interviews for the job today.">
+<word>ARE</word>
+ <answer>Interviews for the job [are being held] today.</answer>
+</question>
+<question number="3" text="They said that Mike had been driving dangerously.">
+<word>ACCUSED</word>
+ <answer>Mike [was accused of] driving dangerously.</answer>
+</question>
+<question number="4" text="I gave the cat its dinner, but it didn't eat anything.">
+ <word>EATEN</word>
+ <answer>I gave the cat its dinner, but when I looked nothing [had been eaten] .</answer>
+</question>
+<question number="5" text="The police might stop you if your headlights don't work.">
+<word>MIGHT</word>
+ <answer>You [might be stopped] by the police if your headlights don't work.</answer>
+</question>
+<question number="6" text="They're publishing my book on Economics next year.">
+<word>WILL</word>
+ <answer>My book on Economics [will be published] next year.</answer>
+</question>
+<question number="7" text="People think it is raining more because of global warming.">
+<word>THOUGHT</word>
+ <answer>It [is thought that] it is raining more because of global warming.</answer>
+</question>
+<question number="8" text="They say that the burglar is a man in his 40s.">
+<word>SAID</word>
+ <answer>The burglar [is said to be] a man in his 40s.</answer>
+</question>
+<question number="9" text="They found drugs while they were searching the car.">
+<word>WAS</word>
+ <answer>Drugs were found while the car [was being searched] .</answer>
+ </question>
+ <question number="10" text="My last exam is in two days' time, on Monday.">
+<word>FINISHED</word>
+ <answer>By Tuesday, I ['ll have finished] my exams.</answer>
+ </question>
+ <question number="11" text="The film finishes at nine, so don't come before then.">
+ <word>BE</word>
+ <answer>Don't come before nine, as we ['ll be watching] the film.</answer>
+ </question>
+ <question number="12" text="They've started building a new house; it should be finished next year.">
+<word>HAVE</word>
+ <answer>They['ll have built] their new house by next year.</answer>
+ </question>
+ <question number="13" text="We're working now but next week we'll be on the beach.">
+<word>LYING</word>
+ <answer>This time next week we['ll be lying] on the beach.</answer>
+ </question>
+ <question number="14" text="Without practising, you'll never be able to play better.">
+<word>SHOULD</word>
+ <answer>If you want to play better, [you should practise] .</answer>
+ </question>
+ <question number="15" text="You have to leave when they arrive.">
+<word>SOON</word>
+ <answer>You have to leave [as soon as they arrive] .</answer>
+ </question>
+ <question number="16" text="You must do your homework before you watch TV.">
+<word>UNTIL</word>
+ <answer>You can't watch TV [until you've done] your homework.</answer>
+ </question>
+ <question number="17" text="If you don't write that down, you might forget to do it.">
+<word>CASE</word>
+ <answer>Write that down [in case you] forget to do it.</answer>
+ </question>
+ <question number="18" text="If you don't write to me, I'm not going to write to you.">
+<word>UNLESS</word>
+ <answer>I won't write to you [unless you write] to me.</answer>
+ </question>
+ <question number="19" text="They will probably get a long prison sentence.">
+<word>LIKELY</word>
+ <answer>They['re likely to be] sentenced to a long time in prison.</answer>
+ </question>
+ <question number="20" text="I expect they'll leave after a short time.">
+<word>PROBABLY</word>
+ <answer>They [probably won't] stay for long.</answer>
+ </question>
+</content>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='ISO-8859-1' ?>
+<grammar>
+<section>
+<title>&lt;i&gt;this&lt;/i&gt;,&lt;i&gt; that&lt;/i&gt;,&lt;i&gt; these &lt;/i&gt;and&lt;i&gt; those&lt;/i&gt;</title>
+<sectiontitle>We use &lt;i&gt;this&lt;/i&gt; and &lt;i&gt;these&lt;/i&gt; for things and people near here. We use &lt;i&gt;this&lt;/i&gt; for the singular and &lt;i&gt;these&lt;/i&gt; for the plural.</sectiontitle>
+<titlesound>el_gram_2_1_1.mp3</titlesound>
+<text1></text1>
+<text1a>Mrs Thomson, &lt;b&gt;this is&lt;/b&gt; Jane Dunn.  </text1a>
+<sound1>el_gram_2_1_2.mp3</sound1>
+<text2></text2>
+<text2a>&lt;b&gt;Are these&lt;/b&gt; your keys?</text2a>
+<sound2>el_gram_2_1_3.mp3</sound2>
+<sectiontitle2>We use &lt;i&gt;that&lt;/i&gt; and &lt;i&gt;those&lt;/i&gt; for things and people not near here. We use &lt;i&gt;that&lt;/i&gt; for the singular and &lt;i&gt;those&lt;/i&gt; for the plural.</sectiontitle2>
+<titlesound2>el_gram_2_1_4.mp3</titlesound2>
+<text3></text3>
+<text3a>&lt;b&gt;Is that &lt;/b&gt;your car over there?</text3a>
+<sound3>el_gram_2_1_5.mp3</sound3>
+<text4></text4>
+<text4a>Who are &lt;b&gt;those&lt;/b&gt; people?</text4a>
+<sound4>el_gram_2_1_6.mp3</sound4>
+</section>
+</grammar>

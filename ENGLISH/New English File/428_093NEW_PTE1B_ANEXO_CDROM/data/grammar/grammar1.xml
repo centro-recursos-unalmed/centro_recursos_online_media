@@ -1,0 +1,82 @@
+<content>
+<question number="1" text="Which films are on at the cinema?">
+<word>KNOW</word>
+ <answer> [Do you know which] films are on at the cinema?</answer>
+</question>
+<question number="2" text="Does this train stop in Oxford?">
+<word>WHETHER</word>
+ <answer>Can you tell me [whether this train stops] in Oxford?</answer>
+</question>
+<question number="3" text="I want to know what they've lost.">
+<word>LOOKING</word>
+ <answer>What are they [looking for] ?</answer>
+</question>
+<question number="4" text="Is it true that you didn't enjoy the film?">
+<word>LIKE</word>
+ <answer>[Didn't you like] the film?</answer>
+</question>
+<question number="5" text="My parents are both lawyers.">
+<word>SO</word>
+ <answer>My father is a lawyer, and [so is] my mother.</answer>
+</question>
+<question number="6" text="Anna can't speak French. I can't speak French.">
+<word>NEITHER</word>
+ <answer>Anna can't speak French, and [neither can I] .</answer>
+</question>
+<question number="7" text="My friends and I like this school.">
+<word>DO</word>
+ <answer>My friends like this school, and [so do I] .</answer>
+</question>
+<question number="8" text="We got back from the airport ten minutes ago.">
+<word>JUST</word>
+ <answer>We['ve just got back] from the airport.</answer>
+</question>
+<question number="9" text="I buy lots of computer games, but this is the best.">
+<word>EVER</word>
+ <answer>This is the best computer game I['ve ever bought] .</answer>
+ </question>
+ <question number="10" text="If you eat well, you have more energy.">
+<word>BETTER</word>
+ <answer>[The better you eat] , the more energy you have.</answer>
+ </question>
+ <question number="11" text="When you go to bed early, you aren't so tired.">
+<word>LESS</word>
+ <answer>The earlier you go to bed, the [less tired you are] .</answer>
+ </question>
+ <question number="12" text="When did you start painting that picture?">
+<word>HOW</word>
+ <answer> [How long have you been] painting that picture?</answer>
+ </question>
+ <question number="13" text="I finished my homework, I promise!">
+ <word>DID</word>
+ <answer>I [did finish] my homework!</answer>
+ </question>
+ <question number="14" text="I can swim. My brother can't swim.">
+<word>BUT</word>
+ <answer>I can swim, [but my brother can't] .</answer>
+ </question>
+ <question number="15" text="I felt tired all last week and I still feel tired now.">
+<word>RECENTLY</word>
+ <answer>I['ve been feeling tired recently] .</answer>
+ </question>
+ <question number="16" text="He phoned me this morning and then he phoned again this afternoon.">
+<word>TWICE</word>
+ <answer>He['s phoned me twice] today.</answer>
+ </question>
+ <question number="17" text="I went swimming, so my hair is wet.">
+<word>BEEN</word>
+ <answer>My hair is wet because [I've been] swimming.</answer>
+ </question>
+ <question number="18" text="Don't you think it's a lovely day?">
+<word>IT</word>
+ <answer>It's a lovely day, [isn't it] ?</answer>
+ </question>
+ <question number="19" text="I think Chris can drive.">
+<word>HE</word>
+ <answer>Chris can drive, [can't he] ?</answer>
+ </question>
+ <question number="20" text="Don't forget to post the letter tomorrow.">
+<word>YOU</word>
+ <answer>You won't forget to post the letter, [will you] ?</answer>
+ </question>
+</content>

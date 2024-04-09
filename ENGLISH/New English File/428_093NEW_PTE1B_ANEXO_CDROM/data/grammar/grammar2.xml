@@ -1,0 +1,82 @@
+<content>
+	<question number="1" text="People from Italy are the most fashionable in Europe.">
+<word>THE</word>
+ <answer>The most fashionable people in Europe are [the Italians] .</answer>
+</question>
+<question number="2" text="Jane's husband comes from Turkey.">
+<word>A</word>
+ <answer>Jane is married to [a Turk] .</answer>
+</question>
+<question number="3" text="People from The Netherlands usually speak English very well.">
+<word>THE</word>
+ <answer>[The Dutch] are usually very good at English.</answer>
+</question>
+<question number="4" text="The government should do more to help homeless people.">
+<word>THE</word>
+ <answer>[The homeless] should receive more help from the government.</answer>
+</question>
+<question number="5" text="Could I look at that black bag, please?">
+<word>THE</word>
+ <answer>I'd like to look at that bag please; [the black one] .</answer>
+</question>
+<question number="6" text="Tony's new car is fantastic!">
+ <word>HAS</word>
+ <answer>Tony [has a fantastic new] car.</answer>
+</question>
+<question number="7" text="Jane's blouse is white and made of silk. It's very stylish.">
+<word>SILK</word>
+ <answer>Jane is wearing a [stylish white silk] blouse.</answer>
+</question>
+<question number="8" text="John's got dark hair; it's curly, but it isn't long.">
+<word>SHORT</word>
+ <answer>John's got [short dark curly] hair.</answer>
+</question>
+<question number="9" text="I saw the film last week; I didn't want to see it again.">
+<word>ALREADY</word>
+ <answer>I didn't want to see the film because I['d already seen] it.</answer>
+ </question>
+ <question number="10" text="Our flight landed at 10.00; we waited an hour for our bags to arrive.">
+<word>WHEN</word>
+ <answer>We had been waiting for an hour [when our bags arrived] .</answer>
+ </question>
+ <question number="11" text="They waited half an hour for us to arrive.">
+<word>WAITING </word>
+ <answer>When we arrived they['d been waiting] for half an hour.</answer>
+ </question>
+ <question number="12" text="I started reading my book, then the lights went out.">
+<word>WHEN</word>
+ <answer>The lights went out [when I was reading] my book.</answer>
+ </question>
+ <question number="13" text="It's incredible how difficult this exercise is.">
+<word>DIFFICULT</word>
+ <answer>This exercise [is incredibly difficult] .</answer>
+ </question>
+ <question number="14" text="Jay was lucky; when his car crashed he wasn't hurt.">
+<word>LUCKILY</word>
+ <answer>[Luckily, Jay wasn't hurt] when his car crashed.</answer>
+ </question>
+ <question number="15" text="I'm certain that Leo's birthday is tomorrow.">
+<word>DEFINITELY</word>
+ <answer>It's [definitely Leo's birthday] tomorrow.</answer>
+ </question>
+ <question number="16" text="That pasta was awful; I gave it to the dog, but he wouldn't eat it.">
+<word>SO</word>
+ <answer>That pasta was [so awful] that even the dog wouldn't eat it.</answer>
+ </question>
+ <question number="17" text="The man's injuries were serious.">
+<word>INJURED</word>
+ <answer>The man was [seriously injured] .</answer>
+ </question>
+ <question number="18" text="You're very arrogant, which is why nobody likes you.">
+<word>SO</word>
+ <answer>You're [so arrogant] that nobody likes you.</answer>
+ </question>
+ <question number="19" text="I couldn't watch the end of the film because it was too scary.">
+<word>SUCH</word>
+ <answer>It was [such a scary film] that I couldn't watch the end.</answer>
+ </question>
+ <question number="20" text="We didn't enjoy the weekend because the weather was so horrible.">
+<word>SUCH</word>
+ <answer>It [was such horrible weather] that we didn't enjoy the weekend.</answer>
+ </question>
+</content>

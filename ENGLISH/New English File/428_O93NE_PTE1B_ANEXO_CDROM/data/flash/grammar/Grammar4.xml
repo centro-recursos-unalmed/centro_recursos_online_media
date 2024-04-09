@@ -1,0 +1,102 @@
+<content>
+<question number="1" text="[A]Have you ever [gap] to a fancy dress party?[B]Yes, I went to two last year. They're great fun, aren't they?" Correct="2">
+<answer number="1">go</answer>
+<answer number="2">been</answer>
+<answer number="3">went</answer>
+</question>
+<question number="2" text="Nick [gap] flown in a plane. He's terrified of flying." Correct="1">
+<answer number="1">has never</answer>
+<answer number="2">has ever</answer>
+<answer number="3">hasn't never</answer>
+</question>
+<question number="3" text="[A]Can I speak to Helen, please?[B]She's not here. [gap] to the post office." Correct="3">
+<answer number="1">She's been</answer>
+<answer number="2">She goes</answer>
+<answer number="3">She's gone</answer>
+</question>
+<question number="4" text="[gap] that film twice." Correct="1">
+<answer number="1">He's seen</answer>
+<answer number="2">He's see</answer>
+<answer number="3">He's saw</answer>
+</question>
+<question number="5" text="[A]Have you ever been to hospital?[B]Yes, I [gap] . I broke my arm when I was twelve." Correct="3">
+<answer number="1">been</answer>
+<answer number="2">have been</answer>
+<answer number="3">have</answer>
+</question>
+<question number="6" text="[A]Has John finished e-mailing his parents [gap] ?[B]No. Why? Do you need the computer?" Correct="2">
+<answer number="1">already</answer>
+<answer number="2">yet</answer>
+<answer number="3">ever</answer>
+</question>
+<question number="7" text="I haven't tidied my room [gap] , but I've done my homework." Correct="3">
+<answer number="1">just</answer>
+<answer number="2">already</answer>
+<answer number="3">yet</answer>
+</question>
+<question number="8" text="[A]Would you like me to make you a sandwich?[B]No, thanks. I've [gap] some biscuits." Correct="1">
+<answer number="1">just eaten</answer>
+<answer number="2">just ate</answer>
+<answer number="3">eat just</answer>
+</question>
+<question number="9" text="Don't walk on the floor - I've [gap] cleaned it." Correct="2">
+<answer number="1">already</answer>
+<answer number="2">just</answer>
+<answer number="3">yet</answer>
+</question>
+<question number="10" text="[A]Shall I book a table at the restaurant?[B]No, it's OK, [gap] it." Correct="2">
+<answer number="1">already I've done</answer>
+<answer number="2">I've already done</answer>
+<answer number="3">I already have done</answer>
+</question>
+<question number="11" text="[A]I've [gap] spent all my money, and it's only Thursday![B]I think you should look for a better job." Correct="3">
+<answer number="1">yet</answer>
+<answer number="2">never</answer>
+<answer number="3">already</answer>
+</question>
+<question number="12" text="I feel much [gap] here than in my last job." Correct="1">
+<answer number="1">happier</answer>
+<answer number="2">happyer</answer>
+<answer number="3">more happy</answer>
+</question>
+<question number="13" text="[A]I think your English is [gap] than mine.[B]Do you? I'm not sure." Correct="2">
+<answer number="1">gooder</answer>
+<answer number="2">better</answer>
+<answer number="3">best</answer>
+</question>
+<question number="14" text="I can ski a little, but not as [gap] as my sister." Correct="2">
+<answer number="1">good</answer>
+<answer number="2">well</answer>
+<answer number="3">better</answer>
+</question>
+<question number="15" text="[A]Can't you drive [gap] ? We'll be late if we don't hurry.[B]No, I can't. There's a speed limit here." Correct="3">
+<answer number="1">more quicker</answer>
+<answer number="2">more quick</answer>
+<answer number="3">more quickly</answer>
+</question>
+<question number="16" text="[A]I'm sorry, I haven't had time to do my homework.[B]You'll have to work [gap] if you want to pass your exams." Correct="3">
+<answer number="1">hardly</answer>
+<answer number="2">more hard</answer>
+<answer number="3">harder</answer>
+</question>
+<question number="17" text="[A]What's the [gap] you've ever flown?[B]To Vancouver - it took eleven hours." Correct="1">
+<answer number="1">furthest</answer>
+<answer number="2">further</answer>
+<answer number="3">most far</answer>
+</question>
+<question number="18" text="[A]Do you like science fiction films?[B]Yes. The [gap] one I've ever seen is 'Alien'." Correct="2">
+<answer number="1">most best</answer>
+<answer number="2">best</answer>
+<answer number="3">better</answer>
+</question>
+<question number="19" text="[A]I read somewhere that Tokyo is the [gap] city in the world.[B]Really? What about Mexico City?" Correct="1">
+<answer number="1">most crowded</answer>
+<answer number="2">more crowded</answer>
+<answer number="3">very crowded</answer>
+</question>
+<question number="20" text="I'm sure Australia isn't as big [gap] the United States." Correct="1">
+<answer number="1">as</answer>
+<answer number="2">than</answer>
+<answer number="3">like</answer>
+</question>
+</content>

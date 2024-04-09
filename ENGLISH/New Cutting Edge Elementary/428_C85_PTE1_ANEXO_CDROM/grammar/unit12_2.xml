@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='ISO-8859-1' ?>
+<grammar>
+<section>
+<title>Suggestions and offers</title>
+<sectiontitle>We use &lt;i&gt;Why don't we&lt;/i&gt; + verb and &lt;i&gt;How about &lt;/i&gt;+ verb + &lt;i&gt;-ing&lt;/i&gt; to make suggestions.</sectiontitle>
+<titlesound>el_gram_12_2_1.mp3</titlesound>
+<text1>I'm bored!</text1>
+<text1a>&lt;b&gt;Why don't we go&lt;/b&gt; for a walk?</text1a>
+<sound1>el_gram_12_2_2.mp3</sound1>
+<text2></text2>
+<text2a>&lt;b&gt;How about&lt;/b&gt; watch&lt;b&gt;ing&lt;/b&gt; a film?</text2a>
+<sound2>el_gram_12_2_3.mp3</sound2>
+<sectiontitle2>We also use &lt;i&gt;Let's&lt;/i&gt; + verb and &lt;i&gt;Shall I/we&lt;/i&gt; + verb.</sectiontitle2>
+<titlesound2>el_gram_12_2_4.mp3</titlesound2>
+<text3>What shall we do?</text3>
+<text3a>&lt;b&gt;Let's stay&lt;/b&gt; at home.</text3a>
+<sound3>el_gram_12_2_5.mp3</sound3>
+<text4></text4>
+<text4a>&lt;b&gt;Shall we listen&lt;/b&gt; to some music?</text4a>
+<sound4>el_gram_12_2_6.mp3</sound4>
+</section>
+<section>
+<title>Suggestions and offers</title>
+<sectiontitle>We use &lt;i&gt;I'll&lt;/i&gt; + verb and &lt;i&gt;Shall I&lt;/i&gt; + verb to make offers.</sectiontitle>
+<titlesound>el_gram_12_2_7.mp3</titlesound>
+<text1>I can't open the window.</text1>
+<text1a>&lt;b&gt;I'll help&lt;/b&gt; you.</text1a>
+<sound1>el_gram_12_2_8.mp3</sound1>
+<text2>This bag is very heavy.</text2>
+<text2a>&lt;b&gt;Shall I carry&lt;/b&gt; it?</text2a>
+<sound2>el_gram_12_2_9.mp3</sound2>
+<sectiontitle2></sectiontitle2>
+<titlesound2></titlesound2>
+<text3></text3>
+<text3a></text3a>
+<sound3></sound3>
+<text4></text4>
+<text4a></text4a>
+<sound4></sound4>
+</section>
+</grammar>

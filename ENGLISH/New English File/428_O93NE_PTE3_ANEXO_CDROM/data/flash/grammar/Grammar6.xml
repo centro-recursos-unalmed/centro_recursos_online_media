@@ -1,0 +1,102 @@
+<content>
+<question number="1" text="[A]If you don't get up soon, [gap] late for work.[B]OK, OK, I'm coming." Correct="1">
+<answer number="1">you'll be</answer>
+<answer number="2">you're</answer>
+<answer number="3">you'd be</answer>
+</question>
+<question number="2" text="[A]What shall we do if [gap] sunny at the weekend?[B]We could have a barbecue - I'll make some burgers." Correct="2">
+<answer number="1">it will be</answer>
+<answer number="2">it's</answer>
+<answer number="3">it was</answer>
+</question>
+<question number="3" text="If you take your time, I'm sure [gap] the right decision." Correct="3">
+<answer number="1">you make</answer>
+<answer number="2">you'd make</answer>
+<answer number="3">you'll make</answer>
+</question>
+<question number="4" text="[A]Why don't we park in the street?[B]Because if we park in the car park, we [gap] a parking ticket." Correct="1">
+<answer number="1">won't get</answer>
+<answer number="2">wouldn't get</answer>
+<answer number="3">don't get</answer>
+</question>
+<question number="5" text="[A]I can't do this grammar exercise.[B]I'll help you if you [gap] ." Correct="2">
+<answer number="1">wanted</answer>
+<answer number="2">want</answer>
+<answer number="3">will want</answer>
+</question>
+<question number="6" text="[A]What would you say if I [gap] you to marry me?[B]I don't know. Why don't you try it and see?" Correct="3">
+<answer number="1">ask</answer>
+<answer number="2">would ask</answer>
+<answer number="3">asked</answer>
+</question>
+<question number="7" text="If my parents weren't so old, [gap] a job abroad." Correct="1">
+<answer number="1">I'd get</answer>
+<answer number="2">I'll get</answer>
+<answer number="3">I'd got</answer>
+</question>
+<question number="8" text="[A]If I lent money to David, he [gap] pay me back.[B]Yes, it's never a good idea to lend money to friends." Correct="3">
+<answer number="1">won't</answer>
+<answer number="2">isn't</answer>
+<answer number="3">wouldn't</answer>
+</question>
+<question number="9" text="If we had a car, we [gap] get to the supermarket in five minutes." Correct="3">
+<answer number="1">can</answer>
+<answer number="2">would can</answer>
+<answer number="3">could</answer>
+</question>
+<question number="10" text="[A]My car radio's gone! Someone's stolen it![B]If I were you, [gap] the police straight away." Correct="1">
+<answer number="1">I'd call</answer>
+<answer number="2">I'll call</answer>
+<answer number="3">called</answer>
+</question>
+<question number="11" text="[A]Who's coming to the theatre with us tonight?[B]Well, Peter [gap] , but he's not sure." Correct="2">
+<answer number="1">mights come</answer>
+<answer number="2">might come</answer>
+<answer number="3">might coming</answer>
+</question>
+<question number="12" text="[A]Is that the time? I didn't know it was so late.[B]Yes, phone your mum - she [gap] worried about you." Correct="3">
+<answer number="1">should be</answer>
+<answer number="2">might</answer>
+<answer number="3">may be</answer>
+</question>
+<question number="13" text="I [gap] work this evening. I feel really tired." Correct="1">
+<answer number="1">might not</answer>
+<answer number="2">don't might</answer>
+<answer number="3">not might</answer>
+</question>
+<question number="14" text="[A]Shall I go and buy some bread?[B]OK, but the local shop [gap] be open." Correct="2">
+<answer number="1">must not</answer>
+<answer number="2">may not</answer>
+<answer number="3">should not</answer>
+</question>
+<question number="15" text="[A]Are you going to James's party on Saturday?[B]I don't know. Dave [gap] go, and I don't want to see him." Correct="3">
+<answer number="1">should</answer>
+<answer number="2">must</answer>
+<answer number="3">might</answer>
+</question>
+<question number="16" text="[A]My flatmates keep borrowing my things.[B]You [gap] move out and get your own flat." Correct="1">
+<answer number="1">should</answer>
+<answer number="2">shouldn't</answer>
+<answer number="3">might</answer>
+</question>
+<question number="17" text="You [gap] swim too far out - the sea is dangerous here." Correct="2">
+<answer number="1">should</answer>
+<answer number="2">shouldn't</answer>
+<answer number="3">don't have to</answer>
+</question>
+<question number="18" text="[A]Daniel and Jacqui are getting married in August.[B]They're too young. I think they [gap] wait until they're older." Correct="3">
+<answer number="1">have to</answer>
+<answer number="2">might</answer>
+<answer number="3">should</answer>
+</question>
+<question number="19" text="I'm worried about getting lost. We [gap] take a map." Correct="1">
+<answer number="1">should</answer>
+<answer number="2">should to</answer>
+<answer number="3">might</answer>
+</question>
+<question number="20" text="[A]The economy is definitely getting worse.[B]Well, what do you think the Government [gap] about it?" Correct="2">
+<answer number="1">should to do</answer>
+<answer number="2">should do</answer>
+<answer number="3">should doing</answer>
+</question>
+</content>

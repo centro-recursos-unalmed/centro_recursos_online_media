@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<data>
+<!-- instructionms
+gridWidth: Change this setting to adjust the width of the wordsearch; // Note the minimum width you can have is 8.
+gridHeight: Change this setting to adjust the height of the wordsearch; // Note the minimum height you can have is 8.
+gapSize: Change this setting to adjust the space between the grids. The higer the number is the bigger the space will be between the grids.
+upperCase: Change this setting in case you want the words to appear in upercase or in lowercase. 1 being upercase and 0 being lowercase.
+
+optionShow: Change this setting in case you want the user to see the words they looking for on the right hand side of the wordsearh, 
+			1 making the words visible, 0 hides the words;
+
+directions: Change this setting to adjust in which directions the wordsearch should draw. h = horizontal, v = verticle d, = diagonal,. If
+			one of these letter apears more then the others, the chances for the words to be drawn in that direction is greater than for the other letters.
+
+orientationsStraight: Change this setting to adjust in which direction the words should be read.. 
+					  0 = left to right or bottom to 1eft 1 = right to left or top to bottom
+
+orientationsDiagonal: Change this setting to adjust in which diagonal direction the words should be read. 
+					  0 = top right to top left, 1= top left to bottom rigth, 2 = bottom rigth to top left, 3 = bottom rigth to top right
+
+words: populate this with the words you want to include in your wordsearch. // note the words must be separated with a comma and shouldn't have
+	   space between them
+//-->
+<gridSettings gridWidth="14" gridHeight="12" gapSize="0" upperCase="1" optionShow="1" />
+<wordSettings directions="h,v" orientationsStraight="0,0" orientationsDiagonal="0,1,2,3"/>
+<wordsArray words="CLOTHESSHOP,SUPERMARKET,PHARMACY,DRYCLEANERS,BUTCHERS,HAIRDRESSERS,POSTOFFICE,BAKERY,LOCALSHOP,GIFTSHOP"/>
+</data>

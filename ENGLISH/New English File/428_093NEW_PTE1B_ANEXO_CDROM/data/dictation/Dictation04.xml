@@ -1,0 +1,22 @@
+﻿<?xml version="1.0"?>
+<content title="An article" 
+rubric1="Before you start the dictation exercise, click the PLAY button to listen to the complete text." 
+rubric2="Now click CONTINUE to start the dictation exercise." 
+rubric3="Press the PLAY button and type the words you hear."
+rubric4="You have now finished the dictation exercise.[br]Click the PLAY button if you would like to listen again.">
+	<sentence number="1">Simon Daniels set off hoping to become</sentence>
+	<sentence number="2">a famous adventurer,</sentence>
+	<sentence number="3">but in the end he came home on a cruise ship.</sentence>
+	<sentence number="4">Mr Daniels was taking part in a solo round-the-world yacht race.</sentence>
+	<sentence number="5">In the middle of the Pacific Ocean there was a sudden violent storm.</sentence>
+	<sentence number="6">His yacht hit some rocks,</sentence>
+	<sentence number="7">he was thrown into the sea</sentence>
+	<sentence number="8">and broke his ankle.</sentence>
+	<sentence number="9">The next day he found himself on what he thought was a deserted island.</sentence>
+	<sentence number="10">He managed to get a little food from his boat</sentence>
+	<sentence number="11">and he prepared himself for a long wait to be rescued.</sentence>
+	<sentence number="12">At night he heard some strange sounds coming from the jungle and was scared stiff.</sentence>
+	<sentence number="13">Then, after a week, two American tourists came out of the jungle.</sentence>
+	<sentence number="14">The island was a favourite destination for cruise ships.</sentence>
+	<sentence number="15">Mr Daniels was relieved to be saved.</sentence>
+</content>

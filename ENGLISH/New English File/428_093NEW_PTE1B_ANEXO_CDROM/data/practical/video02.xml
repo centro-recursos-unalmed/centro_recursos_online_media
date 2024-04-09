@@ -1,0 +1,30 @@
+
+  <?xml version="1.0" ?> 
+<unit number="2">
+<exercise>
+  <question number="1" answer="0">I really enjoy landing.</question> 
+  <question number="2" answer="4">I'm a very nervous passenger.</question> 
+  <question number="3" answer="3">There isn't enough space on the plane.</question> 
+  <question number="4" answer="2">Flying is boring.</question> 
+  <question number="5" answer="1">I was once really thirsty.</question> 
+<!-- 
+ answer="0" means answer is not said
+  --> 
+  </exercise>
+<script timing="10,1064,2879,3829" scrollindex="20.5">
+  <line number="1" name="Mark">I like the take-off, I feel kind of euphoric at the take-off, because I know I'm going somewhere and the, you know, the rush of the acceleration. I like that.
+Oh, the sitting for hours, waiting to get to the place that you really want to get to. 
+Yeah, one time the plane got stuck in an airport and they didn't give us any water for like three hours, and by the time it was all over I was parched and, you know, I had to almost drink a bathtub of water after that.</line> 
+  <line number="2" name="Ray">Well, quite excited that I'm going somewhere, bored with the whole process of it all. I hate flying, I mean the actual process of flying, so I get on and go to sleep. Whatever happens, I go to sleep.
+There's a lot of wasted time. There's (There are) three hours before you get on the plane, there's getting to airports. When you're coming home it's another three or four hours waiting in an airport and it's delays, it's lost luggage, things like that, but it's exciting because you actually get somewhere in the end. 
+By plane? A few delayed journeys I suppose. I suppose possibly our most frustrating up till now is, we've done a lot of travelling, reading a new guide book two days ago when we're flying to India tomorrow, and then realizing we needed a visa, and realizing we had to sort of come up from North Devon to here very early this morning in order to queue up at the Indian High Commission to get a visa.
+We have got it.</line> 
+  <line number="3" name="Miles">How do I feel? Cramped normally, because there's not enough leg room and I've got quite long legs. 
+The waiting around. Normally the flight times are quick but it's the waiting and the checking in and out that's the problem.
+Yes. I was once refused to get on a flight, because apparently my ticket wasn't valid. And I had to miss a flight - I was going to see Patricia's family for the first time in Spain, so it was a bit awkward, it was frustrating.</line> 
+  <line number="4" name="Theresa">Well, I've got a private pilot's licence, so I feel absolutely exhilarated normally, it's great fun, it's just the most fantastic feeling in the world to... to be up there on your own in the sky.
+When I'm flying myself I least like IMC, which is 'Instrument Meteorological Conditions', which means you're flying in cloud and you're relying on instruments. And it's extremely tiring and you get buffeted about all over the place. And I've really had some quite hairy moments when I've been flying in cloud.
+No, not really. Apart from the fact I don't like flying scheduled airlines, I grip the seats and my knuckles go white, because I'm not in control, so mostly I don't like 'going public'.</line> 
+  </script>
+  </unit>
+

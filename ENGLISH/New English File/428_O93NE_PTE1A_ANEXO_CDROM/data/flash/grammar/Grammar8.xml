@@ -1,0 +1,102 @@
+<content>
+<question number="1" text="[A]What did you do on your day off?[B][gap] . I relaxed and sunbathed in the garden all day." Correct="1">
+<answer number="1">Nothing</answer>
+<answer number="2">Anything</answer>
+<answer number="3">Something</answer>
+</question>
+<question number="2" text="[A]Did [gap] remember to pay the electricity bill?[B]Yes, I think Joe paid it." Correct="2">
+<answer number="1">no one</answer>
+<answer number="2">anybody</answer>
+<answer number="3">nobody</answer>
+</question>
+<question number="3" text="[A]What do you think about going out for the day?[B]Great - we haven't been [gap] nice for ages." Correct="3">
+<answer number="1">somewhere</answer>
+<answer number="2">nowhere</answer>
+<answer number="3">anywhere</answer>
+</question>
+<question number="4" text="[A]I want to eat [gap] healthy for dinner tonight.[B]OK, I'll make a chicken salad." Correct="1">
+<answer number="1">something</answer>
+<answer number="2">anything</answer>
+<answer number="3">nothing</answer>
+</question>
+<question number="5" text="[A]Is [gap] wrong? You look a bit sad.[B]I've just had an argument with my boyfriend." Correct="2">
+<answer number="1">anywhere</answer>
+<answer number="2">anything</answer>
+<answer number="3">anyone</answer>
+</question>
+<question number="6" text="[A]Let's stay in, it's [gap] cold to go out.[B]OK, we'll watch the film on TV." Correct="3">
+<answer number="1">too much</answer>
+<answer number="2">enough</answer>
+<answer number="3">too</answer>
+</question>
+<question number="7" text="You smoke [gap] - you really should give up." Correct="1">
+<answer number="1">too much</answer>
+<answer number="2">enough</answer>
+<answer number="3">much</answer>
+</question>
+<question number="8" text="Your diet is terrible. You don't eat [gap] ." Correct="1">
+<answer number="1">enough fruit</answer>
+<answer number="2">fruit enough</answer>
+<answer number="3">many fruit</answer>
+</question>
+<question number="9" text="[A]How much red meat do you eat?[B][gap] . I'm a vegetarian." Correct="2">
+<answer number="1">Nothing</answer>
+<answer number="2">None</answer>
+<answer number="3">A little</answer>
+</question>
+<question number="10" text="I'm really tired today - I only got [gap] hours' sleep." Correct="1">
+<answer number="1">a few</answer>
+<answer number="2">a little</answer>
+<answer number="3">few</answer>
+</question>
+<question number="11" text="[A]Jenny's left the radio on in her bedroom.[B]It's OK, I'll [gap] ." Correct="2">
+<answer number="1">turn off it</answer>
+<answer number="2">turn it off</answer>
+<answer number="3">turn off</answer>
+</question>
+<question number="12" text="[A]If you don't find your passport soon, we'll miss the flight.[B]OK, OK, I'm [gap] ." Correct="3">
+<answer number="1">looking it for</answer>
+<answer number="2">looking for</answer>
+<answer number="3">looking for it</answer>
+</question>
+<question number="13" text="Your clothes are all over the floor. Why don't you [gap] ?" Correct="1">
+<answer number="1">pick them up</answer>
+<answer number="2">pick up them</answer>
+<answer number="3">pick up to them</answer>
+</question>
+<question number="14" text="[A]Can I speak to Becky, please?[B]She's in the bath - can she [gap] ?" Correct="3">
+<answer number="1">you call back</answer>
+<answer number="2">call back you</answer>
+<answer number="3">call you back</answer>
+</question>
+<question number="15" text="[A]What does this word mean?[B]I don't know. Why don't you [gap] ?" Correct="1">
+<answer number="1">look it up</answer>
+<answer number="2">look them up</answer>
+<answer number="3">look up it</answer>
+</question>
+<question number="16" text="[A]I need to get fit.[B][gap] . Let's join a gym together." Correct="2">
+<answer number="1">So I do</answer>
+<answer number="2">So do I</answer>
+<answer number="3">Neither do I</answer>
+</question>
+<question number="17" text="[A]I didn't finish my homework last night.[B][gap] . I went to bed early and read a book." Correct="3">
+<answer number="1">So did I</answer>
+<answer number="2">Neither have I</answer>
+<answer number="3">Neither did I</answer>
+</question>
+<question number="18" text="[A]I'd love to have a big house by the sea.[B][gap] . I'm tired of living in the city." Correct="1">
+<answer number="1">So would I</answer>
+<answer number="2">Neither would I</answer>
+<answer number="3">So do I</answer>
+</question>
+<question number="19" text="[A]I wasn't very pleased with our latest pay rise.[B][gap] . I might start looking for a new job." Correct="3">
+<answer number="1">So was I</answer>
+<answer number="2">Neither am I</answer>
+<answer number="3">Neither was I</answer>
+</question>
+<question number="20" text="[A]Debra can speak Russian, you know.[B][gap] . I learned it at university." Correct="2">
+<answer number="1">So do I</answer>
+<answer number="2">So can I</answer>
+<answer number="3">Neither can I</answer>
+</question>
+</content>

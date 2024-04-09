@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?> 
+<pairs bckg_color="0xEFA499" congra_text="Congratulations!">
+<pair fbtext="Correct!">   
+  <picture label="small" picture="" />   
+  <picture label="big" picture="" />     
+</pair>  
+<pair fbtext="Well done!">   
+  <picture label="old" picture="" />   
+  <picture label="new" picture="" />   
+</pair>  
+<pair fbtext="That's right!">   
+  <picture label="easy" picture="" />   
+  <picture label="difficult" picture="" />   
+</pair>  
+<pair fbtext="Excellent!">   
+  <picture label="expensive" picture="" />   
+  <picture label="cheap" picture="" />   
+</pair>  
+<pair fbtext="Brilliant!">   
+  <picture label="ugly" picture="" />   
+  <picture label="attractive" picture="" />   
+</pair>  
+<pair fbtext="That's correct!">   
+  <picture label="comfortable" picture="" />   
+  <picture label="un-
+comfortable" picture="" />
+</pair>
+<pair fbtext="correct!">   
+  <picture label="healthy" picture="" />   
+  <picture label="unhealthy" picture="" />   
+</pair>
+<pair fbtext="well done!">   
+  <picture label="light" picture="" />   
+  <picture label="dark" picture="" />   
+</pair>
+  
+</pairs>
+
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+

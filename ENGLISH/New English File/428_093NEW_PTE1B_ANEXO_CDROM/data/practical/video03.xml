@@ -1,0 +1,21 @@
+<?xml version="1.0" ?> 
+<unit number="3">
+<exercise>
+  <question number="1" answer="2">I never want to repeat the experience.</question> 
+  <question number="2" answer="0">I really love flying.</question> 
+  <question number="3" answer="4">I once had a sporting injury.</question> 
+  <question number="4" answer="3">Bungee jumping is like nothing I've ever done.</question> 
+  <question number="5" answer="1">I once ignored a warning sign.</question> 
+<!-- 
+ answer="0" means answer is not said
+  --> 
+  </exercise>
+<script timing="10,1533,1955,2794" scrollindex="5">
+  <line number="1" name="Anthony">Well, in a sense yes. But only, you know, in terms of gliding or a bit of climbing. Doing things that you shouldn't be doing. I think in Belgium once, I decided to go up a cliff face and it said 'Do not go up the cliff face! Follow the path!' You know, and it was a bit hairy: loose pebbles and, you know, possibilities of causing an avalanche further down, but you know, sometimes you've got to take risks.
+I've thought about possibly bungee jumping, it's not particularly high-risk, but gosh I saw someone do a bungee jump and they went flat on the ground. But that was just in the movies. </line> 
+  <line number="2" name="Jane">Yes, I've white-water rafted on the Zambezi. That was very scary. I shan't be doing it again.</line> 
+  <line number="3" name="Louise">I don't know, I've been on like roller coasters and done a bungee jump. It's like the feeling of flying. Absolutely loved it, you can't get anything like that in the world, to be fair.
+Probably white-water rafting, I'd love to try that because I do love water, I love swimming.</line> 
+  <line number="4" name="Jae Wan">Yeah, I do a lot of high-risk sports, I do downhill mountain-biking - that's how I got this, I broke my shoulder. And yeah, I do a lot of BMX freestyle and everything else.</line> 
+  </script>
+  </unit>

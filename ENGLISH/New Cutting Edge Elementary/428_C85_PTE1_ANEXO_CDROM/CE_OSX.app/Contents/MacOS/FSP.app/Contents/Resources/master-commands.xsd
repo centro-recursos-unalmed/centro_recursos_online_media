@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<xsd:schema targetNamespace="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<!-- Standard SOAP schemas -->
+	<xsd:include schemaLocation="envelope.xsd"/>
+	<!--
+	<xsd:import namespace="http://schemas.xmlsoap.org/soap/encoding/" schemaLocation="encoding.xsd"/>
+	-->
+	<!-- Local schema -->
+	<xsd:import namespace="urn:schemas-multidmedia-com:mdm-commands" schemaLocation="mdm-commands.xsd"/>
+</xsd:schema>

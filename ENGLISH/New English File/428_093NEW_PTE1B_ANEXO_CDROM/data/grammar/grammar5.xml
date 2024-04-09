@@ -1,0 +1,82 @@
+<content>
+	<question number="1" text="Maria plays the piano; she really enjoys it.">
+<word>LOVES</word>
+ <answer>Maria [loves playing] the piano.</answer>
+</question>
+<question number="2" text="He told them he was an actor, but he wasn't really.">
+<word>PRETENDED</word>
+ <answer>He [pretended to be] an actor.</answer>
+</question>
+<question number="3" text="Mum and Dad don't allow me to go to clubs.">
+ <word>LET</word>
+ <answer>My parents [don't let me go] to clubs.</answer>
+</question>
+<question number="4" text="After she failed her exam, she had to repeat the course.">
+<word>MADE</word>
+ <answer>She [was made to] repeat the course after failing her exam.</answer>
+</question>
+<question number="5" text="Please pick James up from school. Don't forget!">
+ <word>REMEMBER</word>
+ <answer>Please [remember to pick] James up from school.</answer>
+</question>
+<question number="6" text="I went on a safari in Africa; I'll always remember it.">
+<word>FORGET</word>
+ <answer>I['ll never forget going] on safari in Africa.</answer>
+</question>
+<question number="7" text="My suitcase was too full, and I couldn't close it.">
+<word>TRIED</word>
+ <answer>I [tried to close] my suitcase, but it was too full.</answer>
+</question>
+<question number="8" text="We haven't painted the house for years.">
+<word>PAINTING</word>
+ <answer>The house [needs painting] .</answer>
+</question>
+<question number="9" text="I'm a vegetarian now so I don't eat meat any more.">
+<word>USED</word>
+ <answer>I [used to eat] meat, but now I'm a vegetarian.</answer>
+ </question>
+ <question number="10" text="I went to the beach every day when we lived in Spain.">
+<word>USED</word>
+ <answer>When we lived in Spain we [used to go] to the beach every day.</answer>
+ </question>
+ <question number="11" text="When you were younger you weren't so interested in art.">
+<word>USE</word>
+ <answer>You [didn't use to be] so interested in art.</answer>
+ </question>
+ <question number="12" text="Tim gets up at 7.00 every morning.">
+<word>IS</word>
+ <answer>Tim [is used to getting] up at 7.00 every morning.</answer>
+ </question>
+ <question number="13" text="Adriana had to drive on the left in England. She found it very difficult.">
+<word>USED</word>
+ <answer>Adriana couldn't [get used to] driving on the left in England.</answer>
+ </question>
+ <question number="14" text="Having a baby is all very new, but it will become easier soon.">
+<word>GET</word>
+ <answer>Having a baby is all very new, but you'll soon [get used to it] .</answer>
+ </question>
+ <question number="15" text="'Jason, if you hit the dog, I'll tell Mum!' said Sophie.">
+<word>THREATENED</word>
+ <answer>Sophie [threatened to tell] her mother if Jason hit the dog.</answer>
+ </question>
+ <question number="16" text="'Don't forget to apply for your passport,' Peter said to me.">
+ <word> REMINDED</word>
+ <answer>Peter [reminded me to apply] for my passport.</answer>
+ </question>
+ <question number="17" text="Helen said she was sorry that she was rude.">
+<word>APOLOGIZED</word>
+ <answer>Helen [apologized for being] rude.</answer>
+ </question>
+ <question number="18" text="Jumila works for an airline, she's a flight attendant.">
+<word>AS</word>
+ <answer>Jumila [works as a] flight attendant for an airline.</answer>
+ </question>
+ <question number="19" text="We were having lunch when the phone rang.">
+<word>AS</word>
+ <answer>The phone rang [as we were having] lunch.</answer>
+ </question>
+ <question number="20" text="Let's have a barbecue, the sun's shining.">
+<word>AS</word>
+ <answer>[As it's] so sunny, let's have a barbecue.</answer>
+ </question>
+</content>

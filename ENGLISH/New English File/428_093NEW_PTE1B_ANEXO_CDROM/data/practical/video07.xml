@@ -1,0 +1,27 @@
+  <?xml version="1.0" ?> 
+<unit number="7">
+<exercise>
+  <question number="1" answer="0">There are too many English words in my language.</question> 
+  <question number="2" answer="2">International words help people communicate.</question> 
+  <question number="3" answer="3">People shouldn't worry so much about the use of international words.</question> 
+  <question number="4" answer="1">English words are used everywhere. </question> 
+  <question number="5" answer="4">It's easier to use English words than to make our own.</question> 
+<!-- 
+ answer="0" means answer is not said
+  --> 
+  </exercise>
+<script timing="10,1393,2963,4784" scrollindex="20">
+  <line number="1" name="Mateusz">Yes, for example, hamburger. It's used I think worldwide, but in Poland we say 'hamburger', yes, maybe computer, in Poland 'komputer', there are plenty of words like that, plenty of words that are about cuisine, hot dog, 'hot dog' in Polish. Really, plenty of words like that.
+Rather different, using Polish alphabet, Polish letters.
+No, I don't think so, because they are used everywhere in this world and why not in Poland?</line> 
+  <line number="2" name="Victoria">Erm yes. Well, no I don't think there are a lot of English words, but there are French words that sound English, like 'parking' which actually doesn't make sense in English. It's a car park and we call it 'parking' and it's not French at all. But we have a lot of things like that because English is cool and so we try to make our words sound English, yeah. 
+No they don't. Bar is 'bar', pub is 'pub', so there are slight differences. Weekends we have as well, 'weekends'.
+No, we should... I like the idea that there are words that you can understand in every country, it makes us... it brings nations, people closer, you know?</line> 
+  <line number="3" name="Matandra">An English word that is used in the Italian language well, everything to do with technology, everything to do with the Internet, and the Internet itself, well someone could argue that Internet is actually Latin but... say 'download', we say... we've given up saying the Italian version of downloading which is 'scaricare' and most people just go with 'downloadare' which sounds very odd to the Italian ear, but we, we're going with it. 
+Well, we tend to pronounce every consonant and every vowel in Italian so they are slightly..., there is a slight difference.
+I don't think it's necessary to... to set off on a crusade to defend language, in so much as, you know, as specific areas which are just the domain of another language. Italian is the main domain in say music. No one complains around the world because you say 'pianissimo' when you have to play softly.</line> 
+  <line number="4" name="Jorg">Yes, especially the electronic items there are very much (many) or the world of the computers it is only English, laptop, notebook, mouse, desktop, computer, hardware, software.
+'Laptop', 'hardware', 'software', 'mouse', 'mouse', 'desktop'.
+I don't know, because, it would be very very difficult to create these words in German, I think. Because they would be very long. The words would become very long. I think it's better that they are in English.</line> 
+  </script>
+  </unit>

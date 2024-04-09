@@ -1,0 +1,102 @@
+<content>
+<question number="1" text="[A]How long [gap] in this class?[B]Since last week." Correct="3">
+<answer number="1">was he</answer>
+<answer number="2">is he</answer>
+<answer number="3">has he been</answer>
+</question>
+<question number="2" text="Belinda has been a doctor [gap] five years." Correct="1">
+<answer number="1">for</answer>
+<answer number="2">since</answer>
+<answer number="3">until</answer>
+</question>
+<question number="3" text="[A]How long have you been afraid of horses?[B][gap] I was eight. I fell off one." Correct="2">
+<answer number="1">For</answer>
+<answer number="2">Since</answer>
+<answer number="3">Because</answer>
+</question>
+<question number="4" text="[A]How long [gap] glasses?[B]For about five years. I can't see without them." Correct="3">
+<answer number="1">do you wear</answer>
+<answer number="2">are you wearing</answer>
+<answer number="3">have you worn</answer>
+</question>
+<question number="5" text="[gap] my oldest friend since we were at school together." Correct="1">
+<answer number="1">I've known</answer>
+<answer number="2">I knew</answer>
+<answer number="3">I'm knowing</answer>
+</question>
+<question number="6" text="[A]Do you know anything about Shakespeare?[B]Not much. I know he [gap] a lot of plays." Correct="2">
+<answer number="1">has written</answer>
+<answer number="2">wrote</answer>
+<answer number="3">writes</answer>
+</question>
+<question number="7" text="My brother-in-law is a film director. [gap] six films." Correct="3">
+<answer number="1">He made</answer>
+<answer number="2">He makes</answer>
+<answer number="3">He's made</answer>
+</question>
+<question number="8" text="Mr Parker retired last month. He [gap] here for 30 years." Correct="1">
+<answer number="1">worked</answer>
+<answer number="2">did work</answer>
+<answer number="3">has worked</answer>
+</question>
+<question number="9" text="[A]It's our first anniversary today - [gap] for a year.[B]Congratulations! Are you going out to celebrate?" Correct="2">
+<answer number="1">we were married</answer>
+<answer number="2">we've been married</answer>
+<answer number="3">we're married</answer>
+</question>
+<question number="10" text="[A]How long [gap] in Spain?[B]From 1998 to 2001." Correct="3">
+<answer number="1">does Robert live</answer>
+<answer number="2">has Robert lived</answer>
+<answer number="3">did Robert live</answer>
+</question>
+<question number="11" text="My mum [gap] be a nurse." Correct="1">
+<answer number="1">used to</answer>
+<answer number="2">use to</answer>
+<answer number="3">did use to</answer>
+</question>
+<question number="12" text="[A][gap] play in the street when you were young?[B]Yes, I did, but my children prefer watching TV." Correct="2">
+<answer number="1">Did you used to</answer>
+<answer number="2">Did you use to</answer>
+<answer number="3">Use you to</answer>
+</question>
+<question number="13" text="I'm sure we [gap] such hot summers in the past." Correct="2">
+<answer number="1">didn't used to have</answer>
+<answer number="2">didn't use to have</answer>
+<answer number="3">not used to have</answer>
+</question>
+<question number="14" text="Pam [gap] argue a lot with her sister, but they get on fine now." Correct="1">
+<answer number="1">used to</answer>
+<answer number="2">did use to</answer>
+<answer number="3">was used to</answer>
+</question>
+<question number="15" text="This [gap] a cinema, but it's a supermarket now." Correct="2">
+<answer number="1">use to be</answer>
+<answer number="2">used to be</answer>
+<answer number="3">used to being</answer>
+</question>
+<question number="16" text="This bridge is 2,000 years old. It was built [gap] the Romans." Correct="3">
+<answer number="1">of</answer>
+<answer number="2">for</answer>
+<answer number="3">by</answer>
+</question>
+<question number="17" text="[A]Do you know how much of the Earth [gap] by water?[B]I think it's over 70%, isn't it?" Correct="1">
+<answer number="1">is covered</answer>
+<answer number="2">are covered</answer>
+<answer number="3">was covered</answer>
+</question>
+<question number="18" text="[A]'Sergeant Pepper' was the Beatles' greatest album.[B]When [gap] ?" Correct="2">
+<answer number="1">is it recorded</answer>
+<answer number="2">was it recorded</answer>
+<answer number="3">did it record</answer>
+</question>
+<question number="19" text="Did you know that ballpoint pens [gap] by a man called Biro?" Correct="3">
+<answer number="1">are invented</answer>
+<answer number="2">invented</answer>
+<answer number="3">were invented</answer>
+</question>
+<question number="20" text="Van Gogh [gap] some of his best works in the south of France." Correct="1">
+<answer number="1">painted</answer>
+<answer number="2">was painted</answer>
+<answer number="3">has painted</answer>
+</question>
+</content>

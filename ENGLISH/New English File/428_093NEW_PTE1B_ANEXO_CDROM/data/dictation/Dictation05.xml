@@ -1,0 +1,24 @@
+﻿<?xml version="1.0"?>
+<content title="A formal letter" 
+rubric1="Before you start the dictation exercise, click the PLAY button to listen to the complete text." 
+rubric2="Now click CONTINUE to start the dictation exercise." 
+rubric3="Press the PLAY button and type the words you hear."
+rubric4="You have now finished the dictation exercise.[br]Click the PLAY button if you would like to listen again.">
+	<sentence number="1">Dear Ms Harris,</sentence>
+	<sentence number="2">#I am writing to express my extreme dissatisfaction</sentence>
+	<sentence number="3">with my recent holiday at your resort.</sentence>
+	<sentence number="4">I saw your advertisement in my Sunday paper</sentence>
+	<sentence number="5">and read that your resort was ideal for holidaymakers of all ages.</sentence>
+	<sentence number="6">I am 82 years old and hoped this would be the place for me.</sentence>
+	<sentence number="7">It wasn't. I am used to going to bed at nine o'clock</sentence>
+	<sentence number="8">and sleeping eight hours a night.</sentence>
+	<sentence number="9">My room overlooked the beach disco</sentence>
+	<sentence number="10">which played the monotonous beat of the terrible music</sentence>
+	<sentence number="11">that is popular with the young today,</sentence>
+	<sentence number="12">until three in the morning.</sentence>
+	<sentence number="13">I was also unable to have my afternoon nap</sentence>
+	<sentence number="14">due to the screams from the swimming pool.</sentence>
+	<sentence number="15">I expect a full refund and I think you should know</sentence>
+	<sentence number="16">that my son is the editor of a respected local newspaper.</sentence>
+	<sentence number="17">#Yours sincerely, #Mavis Bowen</sentence>
+</content>

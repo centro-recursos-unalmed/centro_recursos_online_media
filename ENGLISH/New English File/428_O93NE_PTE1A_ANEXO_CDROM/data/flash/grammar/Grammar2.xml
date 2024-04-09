@@ -1,0 +1,102 @@
+<content>
+<question number="1" text="Dan [gap] his leg when he was skiing." Correct="3">
+<answer number="1">breaked</answer>
+<answer number="2">broked</answer>
+<answer number="3">broke</answer>
+</question>
+<question number="2" text="[A]Did they spend their holiday in Spain this year?[B]Yes, they [gap] . They went to Granada." Correct="2">
+<answer number="1">spend</answer>
+<answer number="2">did</answer>
+<answer number="3">spent</answer>
+</question>
+<question number="3" text="Who did you [gap] to Paris with? You didn't invite me!" Correct="1">
+<answer number="1">go</answer>
+<answer number="2">went</answer>
+<answer number="3">be</answer>
+</question>
+<question number="4" text="Paula [gap] some lovely souvenirs when she went to Hawaii." Correct="1">
+<answer number="1">bought</answer>
+<answer number="2">buyed</answer>
+<answer number="3">did buy</answer>
+</question>
+<question number="5" text="[A]Why did they [gap] to leave early?[B]I think John had an argument with someone." Correct="3">
+<answer number="1">decided</answer>
+<answer number="2">deciding</answer>
+<answer number="3">decide</answer>
+</question>
+<question number="6" text="It [gap] when I left the office, and I didn't have an umbrella." Correct="2">
+<answer number="1">rained</answer>
+<answer number="2">was raining</answer>
+<answer number="3">is raining</answer>
+</question>
+<question number="7" text="[A]What [gap] when you saw her?[B]I think she was going to the gym." Correct="3">
+<answer number="1">does she do</answer>
+<answer number="2">she was doing</answer>
+<answer number="3">was she doing</answer>
+</question>
+<question number="8" text="[A]Were you having a shower when I phoned?[B]Yes, I [gap] . I often have a shower before dinner." Correct="1">
+<answer number="1">was</answer>
+<answer number="2">having</answer>
+<answer number="3">was having</answer>
+</question>
+<question number="9" text="She [gap] her husband when she was working in Milan." Correct="3">
+<answer number="1">was meeting</answer>
+<answer number="2">was met</answer>
+<answer number="3">met</answer>
+</question>
+<question number="10" text="[A]What happened in the film?[B]I don't know. I [gap] watching. I was asleep." Correct="3">
+<answer number="1">was</answer>
+<answer number="2">weren't</answer>
+<answer number="3">wasn't</answer>
+</question>
+<question number="11" text="What play [gap] at the theatre?" Correct="1">
+<answer number="1">did you see</answer>
+<answer number="2">saw you</answer>
+<answer number="3">did you saw</answer>
+</question>
+<question number="12" text="[A]Who [gap] the tennis?[B]They're still playing. Come and watch." Correct="2">
+<answer number="1">did win</answer>
+<answer number="2">won</answer>
+<answer number="3">did won</answer>
+</question>
+<question number="13" text="[A]What [gap] when Abby arrived in New York?[B]Someone stole all her luggage." Correct="2">
+<answer number="1">was happen</answer>
+<answer number="2">happened</answer>
+<answer number="3">did happen</answer>
+</question>
+<question number="14" text="Who [gap] the answer to this question?" Correct="1">
+<answer number="1">knows</answer>
+<answer number="2">does know</answer>
+<answer number="3">does knows</answer>
+</question>
+<question number="15" text="[A]Who [gap] this song?[B]It's by Bruce Springsteen, I think." Correct="1">
+<answer number="1">wrote</answer>
+<answer number="2">did write</answer>
+<answer number="3">writes</answer>
+</question>
+<question number="16" text="I'm cooking some pasta [gap] I'm hungry and I can't wait for dinner." Correct="3">
+<answer number="1">so</answer>
+<answer number="2">although</answer>
+<answer number="3">because</answer>
+</question>
+<question number="17" text="I wrote some poems, [gap] they weren't very good." Correct="2">
+<answer number="1">because</answer>
+<answer number="2">but</answer>
+<answer number="3">so</answer>
+</question>
+<question number="18" text="I was thirsty, [gap] I bought a bottle of water." Correct="3">
+<answer number="1">because</answer>
+<answer number="2">but</answer>
+<answer number="3">so</answer>
+</question>
+<question number="19" text="[gap] John worked hard, he didn't pass his exam." Correct="1">
+<answer number="1">Although</answer>
+<answer number="2">So</answer>
+<answer number="3">Because</answer>
+</question>
+<question number="20" text="We decided to fly to Edinburgh, [gap] the train was cheaper." Correct="2">
+<answer number="1">because</answer>
+<answer number="2">although</answer>
+<answer number="3">so</answer>
+</question>
+</content>

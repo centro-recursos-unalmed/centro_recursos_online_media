@@ -1,0 +1,30 @@
+﻿<?xml version="1.0"?>
+<content title="A short story" 
+rubric1="Before you start the dictation exercise, click the PLAY button to listen to the complete text." 
+rubric2="Now click CONTINUE to start the dictation exercise." 
+rubric3="Press the PLAY button and type the words you hear."
+rubric4="You have now finished the dictation exercise.[br]Click the PLAY button if you would like to listen again.">
+	 <sentence number="1">'Never again,' thought John.</sentence>
+	<sentence number="2">He normally took the train to Paris but he had an early meeting</sentence>
+	<sentence number="3">and he wanted to go to the hotel first</sentence>
+	<sentence number="4">to get changed into his suit.</sentence>
+	<sentence number="5">So he decided that this time he would fly as it is usually much quicker.</sentence>
+	<sentence number="6">But not this time!</sentence>
+	<sentence number="7">He wanted to take his small bag as hand luggage,</sentence>
+	<sentence number="8">but the woman at the check-in desk told him</sentence>
+	<sentence number="9">the rules had changed and his bag was too big.</sentence>
+	<sentence number="10">That was only the beginning of his problems.</sentence>
+	<sentence number="11">The flight was delayed for two hours because of bad weather.</sentence>
+	<sentence number="12">When they finally arrived in Paris,</sentence>
+	<sentence number="13">John hurried through baggage reclaim</sentence>
+	<sentence number="14">and got to his hotel ten minutes before the meeting.</sentence>
+	<sentence number="15">'Just in time,' John thought.</sentence>
+	<sentence number="16">He opened his bag; a denim jacket, leather sandals.</sentence>
+	<sentence number="17">'Oh no! This isn't my bag.'</sentence>
+</content>
+
+<!-- NOTES
+
+1. A hash (#) at the beggining of a sentence will force it to display on a new line.
+
+-->

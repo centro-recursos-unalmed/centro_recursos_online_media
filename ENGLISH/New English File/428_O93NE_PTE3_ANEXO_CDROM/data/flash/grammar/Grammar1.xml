@@ -1,0 +1,102 @@
+<content>
+<question number="1" text="[A]Where [gap]?[B]Montreal. How about you?" Correct="3">
+<answer number="1">you from</answer>
+<answer number="2">you're from</answer>
+<answer number="3">are you from</answer>
+</question>
+<question number="2" text="What [gap] at weekends?" Correct="1">
+<answer number="1">do you do</answer>
+<answer number="2">are you do</answer>
+<answer number="3">you do</answer>
+</question>
+<question number="3" text="I don't know this word. What [gap] ?" Correct="2">
+<answer number="1">is it mean</answer>
+<answer number="2">does it mean</answer>
+<answer number="3">it means</answer>
+</question>
+<question number="4" text="[A]Where [gap] ?[B]Mum works in the hospital and Dad works at home." Correct="2">
+<answer number="1">your parents work</answer>
+<answer number="2">do your parents work</answer>
+<answer number="3">your parents do work</answer>
+</question>
+<question number="5" text="[gap] here last year?" Correct="3">
+<answer number="1">You studied</answer>
+<answer number="2">Was you study</answer>
+<answer number="3">Did you study</answer>
+</question>
+<question number="6" text="Marta always [gap] on Sundays because she has a class on Mondays." Correct="1">
+<answer number="1">studies</answer>
+<answer number="2">study</answer>
+<answer number="3">studys</answer>
+</question>
+<question number="7" text="[A][gap] get on well with your brother?[B]No, we hate each other." Correct="1">
+<answer number="1">Do you</answer>
+<answer number="2">You do</answer>
+<answer number="3">You</answer>
+</question>
+<question number="8" text="I don't [gap] exercise - sometimes I go to an aerobics class." Correct="2">
+<answer number="1">do often</answer>
+<answer number="2">often do</answer>
+<answer number="3">often am</answer>
+</question>
+<question number="9" text="[A]What time does the film [gap] tonight?[B]About 9.30, I think. Shall we have a pizza after that?" Correct="3">
+<answer number="1">finshed</answer>
+<answer number="2">finishes</answer>
+<answer number="3">finish</answer>
+</question>
+<question number="10" text="[A]Does Paul like tall women?[B]Yes, of course [gap] ! He's 1.96 m!" Correct="3">
+<answer number="1">he do</answer>
+<answer number="2">he did</answer>
+<answer number="3">he does</answer>
+</question>
+<question number="11" text="[gap] you wearing those jeans to school?" Correct="1">
+<answer number="1">Are</answer>
+<answer number="2">Do</answer>
+<answer number="3">Is</answer>
+</question>
+<question number="12" text="[A]Why is Marco [gap] so hard?[B]He has an exam next week." Correct="2">
+<answer number="1">study</answer>
+<answer number="2">studying</answer>
+<answer number="3">studies</answer>
+</question>
+<question number="13" text="[A]Where's Sam [gap]?[B]Over there, at the back of the class." Correct="2">
+<answer number="1">siting</answer>
+<answer number="2">sitting</answer>
+<answer number="3">siteing</answer>
+</question>
+<question number="14" text="[gap] lunch at home today because the work canteen's closed." Correct="3">
+<answer number="1">I have</answer>
+<answer number="2">I having</answer>
+<answer number="3">I'm having</answer>
+</question>
+<question number="15" text="Look over there! Some people are [gap] in the street." Correct="2">
+<answer number="1">danceing</answer>
+<answer number="2">dancing</answer>
+<answer number="3">dance</answer>
+</question>
+<question number="16" text="A dentist is a person [gap] looks after your teeth." Correct="2">
+<answer number="1">which</answer>
+<answer number="2">who</answer>
+<answer number="3">what</answer>
+</question>
+<question number="17" text="That's the restaurant [gap] we had lunch on my birthday." Correct="1">
+<answer number="1">where</answer>
+<answer number="2">that</answer>
+<answer number="3">which</answer>
+</question>
+<question number="18" text="A pen is something [gap] you use to write with." Correct="1">
+<answer number="1">which</answer>
+<answer number="2">who</answer>
+<answer number="3">where</answer>
+</question>
+<question number="19" text="The shops [gap] open on Wednesday afternoons." Correct="3">
+<answer number="1">doesn't</answer>
+<answer number="2">not</answer>
+<answer number="3">don't</answer>
+</question>
+<question number="20" text="A gym is a place [gap] you do exercise." Correct="3">
+<answer number="1">that</answer>
+<answer number="2">which</answer>
+<answer number="3">where</answer>
+</question>
+</content>

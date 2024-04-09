@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='ISO-8859-1' ?>
+<grammar>
+<section>
+<title>&lt;i&gt;be: &lt;/i&gt;positive form&lt;i&gt;</title>
+<sectiontitle>We use &lt;i&gt;I am&lt;/i&gt; and &lt;i&gt;he/she/it is&lt;/i&gt;.&lt;i&gt; &lt;/i&gt;We usually use the short forms, &lt;i&gt;I'm, he's, she's, it's.&lt;/i&gt;</sectiontitle>
+<titlesound>el_gram_1_1_1.mp3</titlesound>
+<text1>I am from Valencia.</text1>
+<text1a>&lt;b&gt;I'm &lt;/b&gt;from Valencia. </text1a>
+<sound1>el_gram_1_1_2.mp3</sound1>
+<text2>She is Chinese.</text2>
+<text2a>&lt;b&gt;She's &lt;/b&gt;Chinese. </text2a>
+<sound2>el_gram_1_1_3.mp3</sound2>
+<sectiontitle2>We use &lt;i&gt;we/you/they are&lt;/i&gt;. We usually use the short forms, &lt;i&gt;we're, you're, they're.&lt;/i&gt;</sectiontitle2>
+<titlesound2>el_gram_1_1_4.mp3</titlesound2>
+<text3>You are a student.</text3>
+<text3a>&lt;b&gt;You're&lt;/b&gt; a student. </text3a>
+<sound3>el_gram_1_1_5.mp3</sound3>
+<text4>They are from Poland.</text4>
+<text4a>&lt;b&gt;They're&lt;/b&gt; from Poland. </text4a>
+<sound4>el_gram_1_1_6.mp3</sound4>
+</section>
+<section>
+<title>&lt;i&gt;be: &lt;/i&gt;negative form&lt;i&gt; </title>
+<sectiontitle>In the negative, we use &lt;i&gt;I am&lt;/i&gt; &lt;i&gt;not&lt;/i&gt; and &lt;i&gt;he/she/it is not. &lt;/i&gt;We usually use the short forms, &lt;i&gt;I'm not, he isn't, she isn't, it isn't.&lt;/i&gt;</sectiontitle>
+<titlesound>el_gram_1_1_7.mp3</titlesound>
+<text1>I am not married.</text1>
+<text1a>&lt;b&gt;I'm not&lt;/b&gt; married.</text1a>
+<sound1>el_gram_1_1_8.mp3</sound1>
+<text2>It is not Saturday.</text2>
+<text2a>&lt;b&gt;It isn't&lt;/b&gt; Saturday.</text2a>
+<sound2>el_gram_1_1_9.mp3</sound2>
+<sectiontitle2>In the negative, we use &lt;i&gt;we/you/they are not&lt;/i&gt;. We usually use the short forms, &lt;i&gt;we aren't, you aren't, they aren't.&lt;/i&gt;</sectiontitle2>
+<titlesound2>el_gram_1_1_10.mp3</titlesound2>
+<text3>We are not on holiday.</text3>
+<text3a>&lt;b&gt;We aren't&lt;/b&gt; on holiday.</text3a>
+<sound3>el_gram_1_1_11.mp3</sound3>
+<text4>You are not Italian.</text4>
+<text4a>&lt;b&gt;You aren't&lt;/b&gt; Italian.</text4a>
+<sound4>el_gram_1_1_12.mp3</sound4>
+</section>
+<section>
+<title>&lt;i&gt;be&lt;/i&gt;: question form</title>
+<sectiontitle>In the question, we use &lt;i&gt;am I, is he/she/it? &lt;/i&gt;</sectiontitle>
+<titlesound>el_gram_1_1_13.mp3</titlesound>
+<text1>I'm a teacher.</text1>
+<text1a>&lt;b&gt;Am I&lt;/b&gt; a teacher? Yes, I am.</text1a>
+<sound1>el_gram_1_1_14.mp3</sound1>
+<text2>He's Egyptian.</text2>
+<text2a>&lt;b&gt;Is he&lt;/b&gt; Egyptian? No, he isn't.</text2a>
+<sound2>el_gram_1_1_15.mp3</sound2>
+<sectiontitle2>In the question form we use &lt;i&gt;are you/we/they?&lt;/i&gt;</sectiontitle2>
+<titlesound2>el_gram_1_1_16.mp3</titlesound2>
+<text3>You're on holiday.</text3>
+<text3a>&lt;b&gt;Are you&lt;/b&gt; on holiday? &lt;b&gt;Yes, we are.&lt;/b&gt;</text3a>
+<sound3>el_gram_1_1_17.mp3</sound3>
+<text4>They aren't married.</text4>
+<text4a>&lt;b&gt;Are they&lt;/b&gt; married?  &lt;b&gt;No, they aren't.&lt;/b&gt;</text4a>
+<sound4>el_gram_1_1_18.mp3</sound4>
+</section>
+</grammar>

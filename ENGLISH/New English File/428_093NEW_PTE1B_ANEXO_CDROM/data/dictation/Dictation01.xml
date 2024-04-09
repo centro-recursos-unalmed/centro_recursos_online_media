@@ -1,0 +1,33 @@
+﻿<?xml version="1.0"?>
+<content title="An informal email" 
+rubric1="Before you start the dictation exercise, click the PLAY button to listen to the complete text." 
+rubric2="Now click CONTINUE to start the dictation exercise." 
+rubric3="Press the PLAY button and type the words you hear."
+rubric4="You have now finished the dictation exercise.[br]Click the PLAY button if you would like to listen again.">
+	 <sentence number="1">Hi Rachel, #Thanks for your email.</sentence>
+	<sentence number="2">I'm sorry to hear that you haven't been well.</sentence>
+	<sentence number="3">I had flu this time last year,</sentence>
+	<sentence number="4">so I know how you have been feeling.</sentence>
+	<sentence number="5">I had a temperature and a headache</sentence>
+	<sentence number="6">and had to stay in bed for a couple of days.</sentence>
+	<sentence number="7">#Let me tell you about something much nicer!</sentence>
+	<sentence number="8">Something, or should I say someone.</sentence>
+	<sentence number="9">His name is Nico.</sentence>
+	<sentence number="10">He has just joined my English class.</sentence>
+	<sentence number="11">Yesterday, Penelope, our eccentric English teacher,</sentence>
+	<sentence number="12">was looking everywhere for her glasses,</sentence>
+	<sentence number="13">and she was wearing them!</sentence>
+	<sentence number="14">I caught Nico's eye and we started giggling.</sentence>
+	<sentence number="15">After class we went for a coffee and chatted for hours.</sentence>
+	<sentence number="16">Oh Rachel, he's lovely - really funny and easy-going.</sentence>
+	<sentence number="17">He's a year younger than us,</sentence>
+	<sentence number="18">but he seems very mature and open-minded.</sentence>
+	<sentence number="19">#Anyway I'd better go, we're meeting later.</sentence>
+	<sentence number="20">#Love from Monica</sentence>
+</content>
+
+<!-- NOTES
+
+1. A hash (#) at the beggining of a sentence will force it to display on a new line. e.g. sentence 4 above.
+
+-->

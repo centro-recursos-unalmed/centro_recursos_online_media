@@ -1,0 +1,102 @@
+<content>
+<question number="1" text="[A]Why did you decide to go to South Africa?[B]Because we [gap] there before." Correct="3">
+<answer number="1">didn't go</answer>
+<answer number="2">hadn't go</answer>
+<answer number="3">hadn't been</answer>
+</question>
+<question number="2" text="[A]Did anybody recognize the man who hit you?[B]Yes, Liz was sure [gap] him before." Correct="2">
+<answer number="1">she hadn't seen</answer>
+<answer number="2">she'd seen</answer>
+<answer number="3">she'd saw</answer>
+</question>
+<question number="3" text="When we got to the station, the train [gap] ." Correct="3">
+<answer number="1">has already left</answer>
+<answer number="2">had left already</answer>
+<answer number="3">had already left</answer>
+</question>
+<question number="4" text="[A]Did you have a good holiday?[B]Yes, but when we got back home, someone [gap] our car." Correct="1">
+<answer number="1">had stolen</answer>
+<answer number="2">had steal</answer>
+<answer number="3">has stolen</answer>
+</question>
+<question number="5" text="When they [gap] to the party, all the food had gone." Correct="2">
+<answer number="1">have got</answer>
+<answer number="2">got</answer>
+<answer number="3">had got</answer>
+</question>
+<question number="6" text="There was no mineral water in the fridge. Someone [gap] it all." Correct="3">
+<answer number="1">has drunk</answer>
+<answer number="2">was drinking</answer>
+<answer number="3">had drunk</answer>
+</question>
+<question number="7" text="[A]Why didn't Pete come swimming?[B]Because [gap] his towel." Correct="1">
+<answer number="1">he'd forgotten</answer>
+<answer number="2">he'd forgot</answer>
+<answer number="3">he'd forget</answer>
+</question>
+<question number="8" text="When I got to work, I remembered that [gap] my phone at home." Correct="2">
+<answer number="1">I'd leave</answer>
+<answer number="2">I'd left</answer>
+<answer number="3">I left</answer>
+</question>
+<question number="9" text="We [gap] late and the film had already started." Correct="1">
+<answer number="1">arrived</answer>
+<answer number="2">had arrived</answer>
+<answer number="3">didn't arrive</answer>
+</question>
+<question number="10" text="I [gap] your house because I hadn't brought a map." Correct="1">
+<answer number="1">couldn't find</answer>
+<answer number="2">can't find</answer>
+<answer number="3">hadn't found</answer>
+</question>
+<question number="11" text="[A]Is Helen coming out with us tonight?[B]Yes, she said she [gap] ." Correct="2">
+<answer number="1">wanted coming</answer>
+<answer number="2">wanted to come</answer>
+<answer number="3">wanted</answer>
+</question>
+<question number="12" text="[A]Andrew [gap] me that he was ill.[B]He looked OK when I saw him." Correct="3">
+<answer number="1">said</answer>
+<answer number="2">told to</answer>
+<answer number="3">told</answer>
+</question>
+<question number="13" text="[A]What did that beautiful woman say to you, Paulo?[B]She asked me [gap] to dance." Correct="1">
+<answer number="1">if I wanted</answer>
+<answer number="2">if I want</answer>
+<answer number="3">if I did want</answer>
+</question>
+<question number="14" text="[A]Sorry, what did you say?[B]I asked you what [gap] to drink!" Correct="2">
+<answer number="1">you did want</answer>
+<answer number="2">you wanted</answer>
+<answer number="3">did you want</answer>
+</question>
+<question number="15" text="[A]Peter [gap] you wanted to borrow my dictionary.[B]Oh, yes - would that be OK?" Correct="3">
+<answer number="1">told</answer>
+<answer number="2">told to</answer>
+<answer number="3">said</answer>
+</question>
+<question number="16" text="[A]Sheila works for IBM now.[B]Really? She told us she [gap] for Microsoft." Correct="1">
+<answer number="1">worked</answer>
+<answer number="2">has worked</answer>
+<answer number="3">work</answer>
+</question>
+<question number="17" text="[A]What did Tom's mum want when she called?[B]She wanted to know if [gap] his homework." Correct="2">
+<answer number="1">he done</answer>
+<answer number="2">he'd done</answer>
+<answer number="3">he was done</answer>
+</question>
+<question number="18" text="[A]I don't really like seafood.[B]But you [gap] that you liked it when I asked you." Correct="3">
+<answer number="1">told</answer>
+<answer number="2">said me</answer>
+<answer number="3">said</answer>
+</question>
+<question number="19" text="[A]What did you tell Maria?[B]I said that [gap] her on Tuesday." Correct="1">
+<answer number="1">I'd see</answer>
+<answer number="2">I'll see</answer>
+<answer number="3">I see</answer>
+</question>
+<question number="20" text="He told me [gap] name, but I've forgotten it." Correct="2">
+<answer number="1">my</answer>
+<answer number="2">his</answer>
+<answer number="3">her</answer>
+</question>
+</content>

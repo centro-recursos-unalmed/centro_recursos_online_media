@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<content title="For and against" 
+rubric1="Before you start the dictation exercise, click the PLAY button to listen to the complete text." 
+rubric2="Now click CONTINUE to start the dictation exercise." 
+rubric3="Press the PLAY button and type the words you hear."
+rubric4="You have now finished the dictation exercise.[br]Click the PLAY button if you would like to listen again.">
+	 <sentence number="1">Should advertisements aimed at children be banned?</sentence>
+	<sentence number="2">There are arguments for and against banning advertising for children.</sentence>
+	<sentence number="3">Some people claim that the government should not control companies so much</sentence>
+	<sentence number="4">and that advertising is a vital part of doing business.</sentence>
+	<sentence number="5">Advertising campaigns are simply ways of informing clients about the launch of new products.</sentence>
+	<sentence number="6">On the other hand,</sentence>
+	<sentence number="7">many products that children want are not good for them,</sentence>
+	<sentence number="8">for example sweets and junk food.</sentence>
+	<sentence number="9">Children are not old and mature enough to make sensible decisions</sentence>
+	<sentence number="10">and are too influenced by advertising.</sentence>
+	<sentence number="11">In addition, advertising can make children want expensive toys</sentence>
+	<sentence number="12">that their parents cannot afford.</sentence>
+	<sentence number="13">In the long term this will create a society of consumers</sentence>
+	<sentence number="14">who can only find happiness through shopping.</sentence>
+	<sentence number="15">In my opinion, firms should be responsible to their customers</sentence>
+	<sentence number="16">and limit their adverts to healthy, inexpensive products.</sentence>
+</content>

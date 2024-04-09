@@ -1,0 +1,24 @@
+<?xml version="1.0" ?> 
+<unit number="6">
+<exercise>
+  <question number="1" answer="2">I think I would like the food in this place.</question> 
+  <question number="2" answer="4">I'm visiting this place very soon.</question> 
+  <question number="3" answer="0">I would really like to visit somewhere in Europe. </question> 
+  <question number="4" answer="3">I might go to this place quite soon.</question> 
+  <question number="5" answer="1">I know somebody who lives there. </question> 
+<!-- 
+ answer="0" means answer is not said
+  --> 
+  </exercise>
+<script timing="10,1255,2003,3304" scrollindex="12">
+  <line number="1" name="Cherry">I'd have to say London, really, although I did like Hong Kong. 
+I just like the diversity really. And the mix of, like, modern and old and just the different people and just everywhere you go it's different, like the east, the west, it's completely different everywhere you go.
+I don't know why but I'd quite like to go to Tokyo, yeah I think Tokyo probably. I have a friend who lives in Tokyo, like a pen pal, so I think it just looks so different from anywhere I've even been before. So probably that's why. European ones are all quite similar, but...</line> 
+  <line number="2" name="Mark">My favourite big city? Well, I like London, I've never been here before and I've been here for a day and half and I love it, Piccadilly Square (Circus), you know, Trafalgar Square, and right here is pretty cool too.
+I don't know, Tokyo. I've never been there before and I've seen a lot of stuff about it, it looks pretty cool. And I like sushi.</line> 
+  <line number="3" name="Volke">It's Munich. In Germany, it's Munich. Because it's a very big town, but at the same time it's like a little village, you know the people, and it's (there are) so many parks, it's the same in London, it's a big town, but you have a lot of green places and parks where you can sit down, and so that's the mixture I like. 
+It's New York, at the moment it's New York. I've never been there and I plan to go there next year maybe. I think it's a melting pot, it's (there are) so many cultures, I think it's the most, maybe the most important or the biggest city in the US and it's so complex, and it's (there is) so much to do there, and so many people from so many different cultures and stuff so... </line> 
+  <line number="4" name="Jane">I'm very fond of London, because I lived here a long time and I like Paris. I like Paris because the buildings are beautiful and it's well planned, and I like the French.
+I should say Delhi, because I'm going there tomorrow.</line> 
+  </script>
+  </unit>

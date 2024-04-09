@@ -1,0 +1,102 @@
+<content>
+<question number="1" text="[A]Tim wants [gap] me to the cinema, but I don't want to go.[B]Tell him you have to wash your hair." Correct="2">
+<answer number="1">take</answer>
+<answer number="2">to take</answer>
+<answer number="3">taking</answer>
+</question>
+<question number="2" text="[A]Try [gap] more friendly to your brother.[B]I'll try, but he's very annoying." Correct="1">
+<answer number="1">to be</answer>
+<answer number="2">be</answer>
+<answer number="3">to being</answer>
+</question>
+<question number="3" text="[A]Is it very expensive [gap] in London?[B]Yes, it is - I never have much money to spend." Correct="3">
+<answer number="1">live</answer>
+<answer number="2">to living</answer>
+<answer number="3">to live</answer>
+</question>
+<question number="4" text="It's important [gap] a lot of fat in your diet." Correct="1">
+<answer number="1">not to have</answer>
+<answer number="2">not have</answer>
+<answer number="3">not to having</answer>
+</question>
+<question number="5" text="We're having a party [gap] moving into our new house." Correct="2">
+<answer number="1">for celebrating</answer>
+<answer number="2">to celebrate</answer>
+<answer number="3">celebrate</answer>
+</question>
+<question number="6" text="[A]Where's Amanda?[B]She's gone to the pool [gap] a swim." Correct="3">
+<answer number="1">for have</answer>
+<answer number="2">for to have</answer>
+<answer number="3">to have</answer>
+</question>
+<question number="7" text="[A]Why are you going out again?[B][gap] some milk - I forgot to buy it." Correct="1">
+<answer number="1">To get</answer>
+<answer number="2">For to get</answer>
+<answer number="3">To getting</answer>
+</question>
+<question number="8" text="[A]What are you going to do after university?[B]I don't know. I need [gap] about it." Correct="3">
+<answer number="1">think</answer>
+<answer number="2">thinking</answer>
+<answer number="3">to think</answer>
+</question>
+<question number="9" text="Ben isn't very good [gap] ." Correct="2">
+<answer number="1">to dance</answer>
+<answer number="2">at dancing</answer>
+<answer number="3">to dancing</answer>
+</question>
+<question number="10" text="[A]We're thinking of [gap] to live in Mexico for a year.[B]Lucky you. I'd love to do that." Correct="1">
+<answer number="1">going</answer>
+<answer number="2">to go</answer>
+<answer number="3">go</answer>
+</question>
+<question number="11" text="[A]I hate [gap] in public.[B]Really? You always look so confident." Correct="2">
+<answer number="1">speak</answer>
+<answer number="2">speaking</answer>
+<answer number="3">to speaking</answer>
+</question>
+<question number="12" text="[gap] children changes your life in a way which you can't imagine." Correct="3">
+<answer number="1">To have</answer>
+<answer number="2">Have</answer>
+<answer number="3">Having</answer>
+</question>
+<question number="13" text="[A]Do you [gap] wear a uniform at your school?[B]No, we can wear what we like." Correct="2">
+<answer number="1">must</answer>
+<answer number="2">have to</answer>
+<answer number="3">has to</answer>
+</question>
+<question number="14" text="Cameras aren't allowed in the museum - you [gap] take photos." Correct="1">
+<answer number="1">mustn't</answer>
+<answer number="2">don't have to</answer>
+<answer number="3">have to</answer>
+</question>
+<question number="15" text="[A]I [gap] pass all my exams if I want to go to university.[B]Don't worry, you won't have any problems." Correct="2">
+<answer number="1">must to</answer>
+<answer number="2">have to</answer>
+<answer number="3">don't have to</answer>
+</question>
+<question number="16" text="[A]We [gap] wait for the bus. We can get a taxi.[B]Good idea. I don't want to get home too late." Correct="3">
+<answer number="1">have to</answer>
+<answer number="2">mustn't</answer>
+<answer number="3">don't have to</answer>
+</question>
+<question number="17" text="[A]Can you tell me how to get to the match?[B]Yes, just [gap] this road until you see the stadium." Correct="1">
+<answer number="1">go along</answer>
+<answer number="2">go past</answer>
+<answer number="3">go across</answer>
+</question>
+<question number="18" text="She [gap] the stairs and walked into the bedroom." Correct="3">
+<answer number="1">went</answer>
+<answer number="2">up</answer>
+<answer number="3">went up</answer>
+</question>
+<question number="19" text="There's always a lot of traffic going [gap] the tunnel at this time of day." Correct="3">
+<answer number="1">over</answer>
+<answer number="2">under</answer>
+<answer number="3">through</answer>
+</question>
+<question number="20" text="[A]How many times do they [gap] the track for the 1500 metres?[B]Don't ask me!" Correct="1">
+<answer number="1">run round</answer>
+<answer number="2">round</answer>
+<answer number="3">round run</answer>
+</question>
+</content>

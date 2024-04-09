@@ -1,0 +1,709 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSPY v2004 rel. 3 U (http://www.xmlspy.com) by Jethro (XYZ) -->
+<xs:schema targetNamespace="urn:schemas-multidmedia-com:mdm-commands" xmlns:mdm="urn:schemas-multidmedia-com:mdm-commands" xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" attributeFormDefault="unqualified">
+	<xs:group name="RBS2XPP">
+		<xs:annotation>
+			<xs:documentation>Messages sent from RBS to XPP</xs:documentation>
+		</xs:annotation>
+		<xs:all>
+			<xs:element ref="mdm:GetWindowList"/>
+			<xs:element ref="mdm:CreateWindow"/>
+			<xs:element ref="mdm:CloseWindow"/>
+			<xs:element ref="mdm:AddMenu"/>
+			<xs:element ref="mdm:AddMenuItem"/>
+			<xs:element ref="mdm:RemoveMenu"/>
+			<xs:element ref="mdm:RemoveMenuItem"/>
+			<xs:element ref="mdm:EnableMenuItem"/>
+			<xs:element ref="mdm:GetWindowSizePos"/>
+			<xs:element ref="mdm:ActivateWindow"/>
+			<xs:element ref="mdm:MinimizeWindow"/>
+			<xs:element ref="mdm:MaximizeWindow"/>
+			<xs:element ref="mdm:RestoreWindow"/>
+			<xs:element ref="mdm:MoveWindow"/>
+			<xs:element ref="mdm:PlayerResume"/>
+			<xs:element ref="mdm:PlayerSuspended"/>
+			<xs:element ref="mdm:RestoreWindow"/>
+			<xs:element ref="mdm:SetWindowTitle"/>
+			<xs:element ref="mdm:ShowWindow"/>
+			<xs:element ref="mdm:ZoomWindow"/>
+			<xs:element ref="mdm:ShowFullscreen"/>
+			<xs:element ref="mdm:HideMouse"/>
+			<xs:element ref="mdm:Exit"/>
+			<xs:element ref="mdm:EnableExitHandler"/>
+			<xs:element ref="mdm:BrowserCreate"/>
+			<xs:element ref="mdm:BrowserHistoryBack"/>
+			<xs:element ref="mdm:BrowserHistoryForward"/>
+			<xs:element ref="mdm:BrowserLoadURL"/>
+			<xs:element ref="mdm:BrowserLoadSource"/>
+			<xs:element ref="mdm:BrowserShow"/>
+			<xs:element ref="mdm:BrowserGetSource"/>
+			<xs:element ref="mdm:BrowserGetURL"/>
+			<xs:element ref="mdm:BrowserSetPosition"/>
+			<xs:element ref="mdm:BrowserSetSize"/>
+		</xs:all>
+	</xs:group>
+	<xs:group name="XPP2RBS">
+		<xs:annotation>
+			<xs:documentation>Messages sent from XPP to RBS</xs:documentation>
+		</xs:annotation>
+		<xs:all>
+			<xs:element ref="mdm:CreateWindowReturn"/>
+			<xs:element ref="mdm:GetWindowListReturn"/>
+			<xs:element ref="mdm:GetWindowSizePosReturn"/>
+			<xs:element ref="mdm:BrowserGetSourceReturn"/>
+			<xs:element ref="mdm:BrowserGetURLReturn"/>
+		</xs:all>
+	</xs:group>
+	<xs:group name="Events">
+		<xs:annotation>
+			<xs:documentation>Events XPP sends to RB</xs:documentation>
+		</xs:annotation>
+		<xs:all>
+			<xs:element ref="mdm:WindowMoved"/>
+			<xs:element ref="mdm:WindowSized"/>
+			<xs:element ref="mdm:WindowActivated"/>
+			<xs:element ref="mdm:WindowMinimized"/>
+			<xs:element ref="mdm:WindowMaximized"/>
+			<xs:element ref="mdm:WindowRestored"/>
+			<xs:element ref="mdm:ApplicationExit"/>
+			<xs:element ref="mdm:RequestExit"/>
+			<xs:element ref="mdm:BrowserDocumentComplete"/>
+			<xs:element ref="mdm:FilesDropped"/>
+		</xs:all>
+	</xs:group>
+	<xs:element name="CreateWindow">
+		<xs:annotation>
+			<xs:documentation>Creates a new window</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:all>
+				<xs:element name="EmbedParams" type="xs:string">
+					<xs:annotation>
+						<xs:documentation>This is the string of embed parameters that gets passed to the plugin. E.g. src="Grids.swf" loop=false menu=false quality=medium scale=exactfit salign=LT bgcolor=#FFFFFF WIDTH="800" HEIGHT="600" TYPE="application/x-shockwave-flash"</xs:documentation>
+					</xs:annotation>
+				</xs:element>
+				<xs:element name="WindowStyle" type="xs:long" minOccurs="0">
+					<xs:annotation>
+						<xs:documentation>The window style flags</xs:documentation>
+					</xs:annotation>
+				</xs:element>
+				<xs:element ref="mdm:WindowTitle" minOccurs="0"/>
+				<xs:element ref="mdm:WindowPosition" minOccurs="0"/>
+				<xs:element ref="mdm:WindowSize" minOccurs="0"/>
+				<xs:element name="Fullscreen" type="xs:boolean" nillable="false" minOccurs="0">
+					<xs:annotation>
+						<xs:documentation>Makes the window fullscreen. This overrides WindowPosition and WindowStyle.</xs:documentation>
+					</xs:annotation>
+				</xs:element>
+				<xs:element ref="mdm:Show" minOccurs="0"/>
+				<xs:element name="Shape" type="xs:string" nillable="false" minOccurs="0">
+					<xs:annotation>
+						<xs:documentation>A filename of an image to use as a shape mask to shape the window</xs:documentation>
+					</xs:annotation>
+				</xs:element>
+				<xs:element name="TransparencyKey" nillable="false" minOccurs="0">
+					<xs:annotation>
+						<xs:documentation>The colour (as RRGGBB) to use as transparent in the Shape image.</xs:documentation>
+					</xs:annotation>
+					<xs:simpleType>
+						<xs:restriction base="xs:string">
+							<xs:pattern value="[a-fA-F0-9]{6}"/>
+						</xs:restriction>
+					</xs:simpleType>
+				</xs:element>
+				<xs:element name="MouseMode" nillable="false" minOccurs="0">
+					<xs:annotation>
+						<xs:documentation>Normal, draggable or ignore.</xs:documentation>
+					</xs:annotation>
+					<xs:simpleType>
+						<xs:restriction base="xs:string">
+							<xs:enumeration value="normal"/>
+							<xs:enumeration value="draggable"/>
+							<xs:enumeration value="ignore"/>
+						</xs:restriction>
+					</xs:simpleType>
+				</xs:element>
+				<xs:element name="EscExits" type="xs:boolean" nillable="false" minOccurs="0">
+					<xs:annotation>
+						<xs:documentation>Whether esc key exits app.</xs:documentation>
+					</xs:annotation>
+				</xs:element>
+			</xs:all>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="CreateWindowReturn">
+		<xs:annotation>
+			<xs:documentation>The return of createWindow</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:choice>
+				<xs:element ref="mdm:Handle"/>
+				<xs:element ref="mdm:ErrorCode"/>
+			</xs:choice>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="CloseWindow">
+		<xs:annotation>
+			<xs:documentation>Destroys a window</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:all>
+				<xs:element ref="mdm:Handle"/>
+			</xs:all>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="ShowWindow">
+		<xs:annotation>
+			<xs:documentation>Show or hide a window</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:all>
+				<xs:element ref="mdm:Handle"/>
+				<xs:element ref="mdm:Show"/>
+			</xs:all>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="ShowFullscreen">
+		<xs:annotation>
+			<xs:documentation>Fill entire screen (e.g. kiosk mode)</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:all>
+				<xs:element ref="mdm:Handle"/>
+				<xs:element ref="mdm:Show"/>
+			</xs:all>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="HideMouse">
+		<xs:annotation>
+			<xs:documentation>Show or hide the mouse for a given window</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:all>
+				<xs:element ref="mdm:Handle"/>
+				<xs:element ref="mdm:Show"/>
+			</xs:all>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="MoveWindow">
+		<xs:annotation>
+			<xs:documentation>Allows a window to be moved/sized</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:all>
+				<xs:element ref="mdm:Handle"/>
+				<xs:element ref="mdm:WindowPosition" minOccurs="0"/>
+				<xs:element ref="mdm:WindowSize" minOccurs="0"/>
+			</xs:all>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="ZoomWindow">
+		<xs:annotation>
+			<xs:documentation>Zoom a window in or out</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:all>
+				<xs:element ref="mdm:Handle"/>
+				<xs:element name="ZoomMode">
+					<xs:simpleType>
+						<xs:restriction base="xs:string">
+							<xs:enumeration value="in"/>
+							<xs:enumeration value="out"/>
+						</xs:restriction>
+					</xs:simpleType>
+				</xs:element>
+			</xs:all>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="MinimizeWindow">
+		<xs:annotation>
+			<xs:documentation>Minimize a window to the dock</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:all>
+				<xs:element ref="mdm:Handle"/>
+			</xs:all>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="MaximizeWindow">
+		<xs:annotation>
+			<xs:documentation>Maximize a window</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:all>
+				<xs:element ref="mdm:Handle"/>
+			</xs:all>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="RestoreWindow">
+		<xs:annotation>
+			<xs:documentation>Restores a window from minimized or maximized</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:all>
+				<xs:element ref="mdm:Handle"/>
+			</xs:all>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="SetWindowTitle">
+		<xs:annotation>
+			<xs:documentation>Sets the window title (if it has a titlebar)</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:all>
+				<xs:element ref="mdm:Handle"/>
+				<xs:element ref="mdm:WindowTitle"/>
+			</xs:all>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="ActivateWindow">
+		<xs:annotation>
+			<xs:documentation>Activates a given window</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:all>
+				<xs:element ref="mdm:Handle"/>
+			</xs:all>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="RequestExit">
+		<xs:annotation>
+			<xs:documentation>XPP sends this to RB when the exit handler is enabled and the user is trying to quit the app. The active window handle is also sent along.</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:all>
+				<xs:element ref="mdm:Handle"/>
+			</xs:all>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="FilesDropped">
+		<xs:annotation>
+			<xs:documentation>XPP sends this to RB when files are dropped on a window.</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:all>
+				<xs:element ref="mdm:Handle"/>
+				<xs:element name="Files" type="xs:string"/>
+			</xs:all>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="Exit">
+		<xs:annotation>
+			<xs:documentation>Exits the application immediatly</xs:documentation>
+		</xs:annotation>
+	</xs:element>
+	<xs:element name="EnableExitHandler">
+		<xs:annotation>
+			<xs:documentation>Enables/disables the exit handler</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:all>
+				<xs:element name="Enable" type="xs:boolean" nillable="false"/>
+			</xs:all>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="Handle" type="xs:integer" nillable="false">
+		<xs:annotation>
+			<xs:documentation>A window handle (0 is the main window)</xs:documentation>
+		</xs:annotation>
+	</xs:element>
+	<xs:element name="ErrorCode" type="xs:short"/>
+	<xs:element name="WindowPosition" nillable="false">
+		<xs:annotation>
+			<xs:documentation>The window position expressed as x,y. Note -1,-1 is centered.</xs:documentation>
+		</xs:annotation>
+		<xs:simpleType>
+			<xs:restriction base="xs:string">
+				<xs:pattern value="-?\d+,-?\d+"/>
+			</xs:restriction>
+		</xs:simpleType>
+	</xs:element>
+	<xs:element name="WindowSize" nillable="false">
+		<xs:annotation>
+			<xs:documentation>The window size expessed as w,h</xs:documentation>
+		</xs:annotation>
+		<xs:simpleType>
+			<xs:restriction base="xs:string">
+				<xs:pattern value="-?\d+,-?\d+"/>
+			</xs:restriction>
+		</xs:simpleType>
+	</xs:element>
+	<xs:element name="Show" type="xs:boolean" nillable="false">
+		<xs:annotation>
+			<xs:documentation>Show state</xs:documentation>
+		</xs:annotation>
+	</xs:element>
+	<xs:element name="Enabled" type="xs:boolean" nillable="false">
+		<xs:annotation>
+			<xs:documentation>Enabled state</xs:documentation>
+		</xs:annotation>
+	</xs:element>
+	<xs:element name="WindowTitle" type="xs:string">
+		<xs:annotation>
+			<xs:documentation>The windows titlebar text (if the window has a titlebar)</xs:documentation>
+		</xs:annotation>
+	</xs:element>
+	<xs:element name="AddMenu">
+		<xs:annotation>
+			<xs:documentation>Adds a menu to a window</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:all>
+				<xs:element ref="mdm:Handle"/>
+				<xs:element ref="mdm:MenuLabel"/>
+			</xs:all>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="AddMenuItem">
+		<xs:annotation>
+			<xs:documentation>Adds a menu item to a menu</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:all>
+				<xs:element ref="mdm:Handle"/>
+				<xs:element ref="mdm:ItemLabel"/>
+				<xs:element ref="mdm:MenuLabel"/>
+			</xs:all>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="RemoveMenu">
+		<xs:annotation>
+			<xs:documentation>Removes a menu from a window</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:all>
+				<xs:element ref="mdm:Handle"/>
+				<xs:element ref="mdm:MenuLabel"/>
+			</xs:all>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="RemoveMenuItem">
+		<xs:annotation>
+			<xs:documentation>Removes a menu item from a windows menu</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:all>
+				<xs:element ref="mdm:Handle"/>
+				<xs:element ref="mdm:ItemLabel"/>
+				<xs:element ref="mdm:MenuLabel"/>
+			</xs:all>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="EnableMenuItem">
+		<xs:annotation>
+			<xs:documentation>Enables/disables a menu item</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:all>
+				<xs:element ref="mdm:Handle"/>
+				<xs:element ref="mdm:ItemLabel"/>
+				<xs:element ref="mdm:MenuLabel"/>
+				<xs:element ref="mdm:Enabled"/>
+			</xs:all>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="MenuItemClicked">
+		<xs:annotation>
+			<xs:documentation>XPP sends this message when a menu item is clicked</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:all>
+				<xs:element ref="mdm:Handle"/>
+				<xs:element ref="mdm:MenuLabel"/>
+				<xs:element ref="mdm:ItemLabel"/>
+			</xs:all>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="ItemLabel" type="xs:string" nillable="false"/>
+	<xs:element name="MenuLabel" type="xs:string" nillable="false"/>
+	<xs:element name="WindowClosed">
+		<xs:annotation>
+			<xs:documentation>XPP sends this when a window is closed</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:all>
+				<xs:element ref="mdm:Handle"/>
+			</xs:all>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="GetWindowSizePos">
+		<xs:annotation>
+			<xs:documentation>Requests a windows size and position</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:all>
+				<xs:element ref="mdm:Handle"/>
+			</xs:all>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="GetWindowSizePosReturn">
+		<xs:annotation>
+			<xs:documentation>The return to GetWindowSizePos</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:all>
+				<xs:element ref="mdm:Handle"/>
+				<xs:element ref="mdm:WindowSize"/>
+				<xs:element ref="mdm:WindowPosition"/>
+			</xs:all>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="PlayerSuspended">
+		<xs:annotation>
+			<xs:documentation>Sent to RBS from XPP when SO file is written by flash</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:all>
+				<xs:element name="FilePath"/>
+			</xs:all>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="PlayerResume">
+		<xs:annotation>
+			<xs:documentation>Sent from RBS to XPP to signal playback can resume </xs:documentation>
+		</xs:annotation>
+	</xs:element>
+	<xs:element name="WindowMoved">
+		<xs:annotation>
+			<xs:documentation>XPP sends this to RBS when a windows is moved</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:all>
+				<xs:element ref="mdm:Handle"/>
+				<xs:element ref="mdm:WindowPosition"/>
+			</xs:all>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="WindowSized">
+		<xs:annotation>
+			<xs:documentation>XPP sends this to RBS when a windows is sized</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:all>
+				<xs:element ref="mdm:Handle"/>
+				<xs:element ref="mdm:WindowSize"/>
+			</xs:all>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="WindowActivated">
+		<xs:annotation>
+			<xs:documentation>XPP sends this to RBS when a windows is activated</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:all>
+				<xs:element ref="mdm:Handle"/>
+				<xs:element ref="mdm:Activated"/>
+			</xs:all>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="GetWindowList">
+		<xs:annotation>
+			<xs:documentation>Sent from RBS to XPP to get the list of window ID's to WindowRef's</xs:documentation>
+		</xs:annotation>
+		<xs:complexType/>
+	</xs:element>
+	<xs:element name="GetWindowListReturn">
+		<xs:annotation>
+			<xs:documentation>Sent from XPP to RBS. Contains window handles to WindowRef's</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="mdm:Window" minOccurs="0" maxOccurs="unbounded"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="WindowRef" type="xs:integer">
+		<xs:annotation>
+			<xs:documentation>A windows WindowRef</xs:documentation>
+		</xs:annotation>
+	</xs:element>
+	<xs:element name="Window">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="mdm:Handle"/>
+				<xs:element ref="mdm:WindowRef"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="Activated" type="xs:boolean">
+		<xs:annotation>
+			<xs:documentation>Boolean to state whether activated (true) or de-activated (false)</xs:documentation>
+		</xs:annotation>
+	</xs:element>
+	<xs:element name="WindowMinimized">
+		<xs:annotation>
+			<xs:documentation>Sent by XPP to signify a window has been minimized</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:all>
+				<xs:element ref="mdm:Handle"/>
+			</xs:all>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="WindowMaximized">
+		<xs:annotation>
+			<xs:documentation>Sent by XPP to signify a window has been maximized</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:all>
+				<xs:element ref="mdm:Handle"/>
+			</xs:all>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="WindowRestored">
+		<xs:annotation>
+			<xs:documentation>Sent by XPP to signify a window has been restored</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:all>
+				<xs:element ref="mdm:Handle"/>
+			</xs:all>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="ApplicationExit">
+		<xs:annotation>
+			<xs:documentation>Sent by XPP to signify the application is about to quit. It is only sent if the exit handler is enabled and also RBS must send an Exit message to close the app in this case.</xs:documentation>
+		</xs:annotation>
+	</xs:element>
+	<!-- Browser commands and events -->
+	<xs:element name="BrowserCreate">
+		<xs:annotation>
+			<xs:documentation>Create/add a browser to a window (note, only one browser per window)</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:all>
+				<xs:element ref="mdm:Handle"/>
+				<xs:element ref="mdm:WindowSize"/>
+				<xs:element ref="mdm:WindowPosition"/>
+				<xs:element name="URL" type="xs:string"/>
+			</xs:all>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="BrowserLoadURL">
+		<xs:annotation>
+			<xs:documentation>Loads a URL into a previsouly created browser instance.</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:all>
+				<xs:element ref="mdm:Handle"/>
+				<xs:element name="URL" type="xs:string"/>
+			</xs:all>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="BrowserLoadSource">
+		<xs:annotation>
+			<xs:documentation>Loads source html code into a previsouly created browser instance.</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:all>
+				<xs:element ref="mdm:Handle"/>
+				<xs:element name="Source" type="xs:string"/>
+			</xs:all>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="BrowserHistoryBack">
+		<xs:annotation>
+			<xs:documentation>Browser history back</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:all>
+				<xs:element ref="mdm:Handle"/>
+			</xs:all>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="BrowserHistoryForward">
+		<xs:annotation>
+			<xs:documentation>Browser history forward</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:all>
+				<xs:element ref="mdm:Handle"/>
+			</xs:all>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="BrowserGetURL">
+		<xs:annotation>
+			<xs:documentation>Get browser current URL</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:all>
+				<xs:element ref="mdm:Handle"/>
+			</xs:all>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="BrowserGetSource">
+		<xs:annotation>
+			<xs:documentation>Get browser source</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:all>
+				<xs:element ref="mdm:Handle"/>
+			</xs:all>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="BrowserShow">
+		<xs:annotation>
+			<xs:documentation>Browser show/hide</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:all>
+				<xs:element ref="mdm:Handle"/>
+				<xs:element ref="mdm:Show"/>
+			</xs:all>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="BrowserDocumentComplete">
+		<xs:annotation>
+			<xs:documentation>Event fired when url/source has been loaded</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:all>
+				<xs:element ref="mdm:Handle"/>
+			</xs:all>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="BrowserSetSize">
+		<xs:annotation>
+			<xs:documentation>Set size of browser</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:all>
+				<xs:element ref="mdm:Handle"/>
+				<xs:element ref="mdm:WindowSize"/>
+			</xs:all>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="BrowserSetPosition">
+		<xs:annotation>
+			<xs:documentation>Set position of browser</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:all>
+				<xs:element ref="mdm:Handle"/>
+				<xs:element ref="mdm:WindowPosition"/>
+			</xs:all>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="BrowserGetSourceReturn">
+		<xs:annotation>
+			<xs:documentation>The return to BrowserGetSource</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:all>
+				<xs:element ref="mdm:Handle"/>
+				<xs:element name="Source" type="xs:string"/>
+			</xs:all>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="BrowserGetURLReturn">
+		<xs:annotation>
+			<xs:documentation>The return to BrowserGetSource</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:all>
+				<xs:element ref="mdm:Handle"/>
+				<xs:element name="URL" type="xs:string"/>
+			</xs:all>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

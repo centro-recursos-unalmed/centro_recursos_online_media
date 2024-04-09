@@ -1,0 +1,24 @@
+﻿<?xml version="1.0"?>
+<content title="Giving your opinion" 
+rubric1="Before you start the dictation exercise, click the PLAY button to listen to the complete text." 
+rubric2="Now click CONTINUE to start the dictation exercise." 
+rubric3="Press the PLAY button and type the words you hear."
+rubric4="You have now finished the dictation exercise.[br]Click the PLAY button if you would like to listen again.">
+	<sentence number="1">Traffic accidents are one of the biggest causes of deaths in the world.</sentence>
+	<sentence number="2">Experiments have shown that in most cases</sentence>
+	<sentence number="3">when a vehicle is travelling more slowly</sentence>
+	<sentence number="4">the chances of an accident resulting in fatal injuries are enormously reduced.</sentence>
+	<sentence number="5">Reducing the speed limit</sentence>
+	<sentence number="6">would make the roads safer.</sentence>
+	<sentence number="7">In my opinion it makes no sense</sentence>
+	<sentence number="8">that modern cars can go at double the speed limit.</sentence>
+	<sentence number="9">Manufacturers should not be allowed to make cars</sentence>
+	<sentence number="10">that go faster than 160 kilometres per hour.</sentence>
+	<sentence number="11">The speed limit should also be reduced</sentence>
+	<sentence number="12">to 30 in towns and 80 on motorways.</sentence>
+	<sentence number="13">In addition, we need to make sure that these limits are strictly enforced.</sentence>
+	<sentence number="14">If people break the speed limit,</sentence>
+	<sentence number="15">they should face a jail sentence not just a fine.</sentence>
+	<sentence number="16">In conclusion, I believe speeding is a dangerous crime</sentence>
+	<sentence number="17">and should be treated that way.</sentence>
+</content>

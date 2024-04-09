@@ -1,0 +1,102 @@
+<content>
+<question number="1" text="She's going [gap] a job in Italy when she leaves university." Correct="2">
+<answer number="1">to finding</answer>
+<answer number="2">to find</answer>
+<answer number="3">find</answer>
+</question>
+<question number="2" text="My niece [gap] to stay with us next weekend." Correct="3">
+<answer number="1">comes</answer>
+<answer number="2">coming</answer>
+<answer number="3">is coming</answer>
+</question>
+<question number="3" text="[A]Did you hear the weather forecast?[B]Yes, I think it's [gap] cold tonight." Correct="1">
+<answer number="1">going to be</answer>
+<answer number="2">being</answer>
+<answer number="3">going</answer>
+</question>
+<question number="4" text="[A]Tim and Paula have been together for two years.[B]Are they going [gap] married?" Correct="1">
+<answer number="1">to get</answer>
+<answer number="2">getting</answer>
+<answer number="3">get</answer>
+</question>
+<question number="5" text="[A][gap] on holiday in July.[B]Lucky you! Where to?" Correct="3">
+<answer number="1">We're go</answer>
+<answer number="2">We going</answer>
+<answer number="3">We're going</answer>
+</question>
+<question number="6" text="[A]I think [gap] your driving test this time.[B]Yes, third time lucky!" Correct="1">
+<answer number="1">you'll pass</answer>
+<answer number="2">you pass</answer>
+<answer number="3">you're passing</answer>
+</question>
+<question number="7" text="Don't worry, it [gap] rain. Look at that beautiful blue sky!" Correct="2">
+<answer number="1">will</answer>
+<answer number="2">won't</answer>
+<answer number="3">won't to</answer>
+</question>
+<question number="8" text="[A]Our four-year-old daughter doesn't want to start school.[B]I'm sure [gap] it when she gets there." Correct="3">
+<answer number="1">she enjoy</answer>
+<answer number="2">she's enjoying</answer>
+<answer number="3">she'll enjoy</answer>
+</question>
+<question number="9" text="You [gap] the new club in town. It's expensive, and the music's terrible." Correct="2">
+<answer number="1">aren't like</answer>
+<answer number="2">won't like</answer>
+<answer number="3">won't liking</answer>
+</question>
+<question number="10" text="[gap] a great time in Prague. Everyone says it's fantastic." Correct="1">
+<answer number="1">You'll have</answer>
+<answer number="2">You'll will have</answer>
+<answer number="3">You'll</answer>
+</question>
+<question number="11" text="[A]This suitcase is really heavy![B]Don't worry. [gap] you to the station in my car." Correct="2">
+<answer number="1">I take</answer>
+<answer number="2">I'll take</answer>
+<answer number="3">I'll taking</answer>
+</question>
+<question number="12" text="I promise [gap] anyone what you told me." Correct="2">
+<answer number="1">I'm not tell</answer>
+<answer number="2">I won't tell</answer>
+<answer number="3">I told</answer>
+</question>
+<question number="13" text="[A]I'm sorry, we don't have any steak left.[B]OK, [gap] the chicken, then." Correct="1">
+<answer number="1">I'll have</answer>
+<answer number="2">I'm going to have</answer>
+<answer number="3">I'm having</answer>
+</question>
+<question number="14" text="He says [gap] to me every day." Correct="3">
+<answer number="1">he's writing</answer>
+<answer number="2">he'll writing</answer>
+<answer number="3">he'll write</answer>
+</question>
+<question number="15" text="[A]I've had a really busy day today.[B][gap] I make you a cup of tea?" Correct="1">
+<answer number="1">Shall</answer>
+<answer number="2">Will</answer>
+<answer number="3">Do</answer>
+</question>
+<question number="16" text="[A]What [gap] you doing when he arrived?[B]I was talking on the phone in the kitchen." Correct="2">
+<answer number="1">are</answer>
+<answer number="2">were</answer>
+<answer number="3">did</answer>
+</question>
+<question number="17" text="[A]When are you [gap] your new job?[B]Next week. I have to go on a training course on Monday." Correct="3">
+<answer number="1">going start</answer>
+<answer number="2">going starting</answer>
+<answer number="3">going to start</answer>
+</question>
+<question number="18" text="Peter [gap] an old box when he was painting his house." Correct="3">
+<answer number="1">was finding</answer>
+<answer number="2">finded</answer>
+<answer number="3">found</answer>
+</question>
+<question number="19" text="[gap] shopping tomorrow afternoon. Would you like to come?" Correct="2">
+<answer number="1">I go</answer>
+<answer number="2">I'm going</answer>
+<answer number="3">I was going</answer>
+</question>
+<question number="20" text="[A]Ben doesn't usually [gap] money from his friends.[B]Well, I'm sure he'll pay me back tomorrow." Correct="1">
+<answer number="1">borrow</answer>
+<answer number="2">borrowing</answer>
+<answer number="3">borrows</answer>
+</question>
+</content>
