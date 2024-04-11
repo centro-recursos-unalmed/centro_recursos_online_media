@@ -1,0 +1,27 @@
+﻿<?Xml version="1.0" encoding="iso-8859-1"?>
+<data>
+<initiate maxSize="15" startx="20"  starty="99" pictureCross="false" boxSpace="36" autoScroll="45"/>
+<clue value="" item=""/>
+
+<block question="Please do not make ....... for inferior workmanship.(7)" answer="EXCUSES" startBlock="1_5" endBlock="1_11"/>
+<block question="Susie is always telling ..... about her brother to her parents.(5)" answer="TALES" startBlock="2_0" endBlock="2_4"/>
+<block question="Nancy isn't a very pleasant person; she's always spreading malicious ...... about her work colleagues.(6)" answer="GOSSIP" startBlock="5_3" endBlock="5_8"/>
+<block question=".... callers have been contacting emergency services to report fires in office buildings.(4)" answer="HOAX" startBlock="9_7" endBlock="9_10"/>
+<block question="........ on your partner is not an acceptable way to behave in a relationship.(8)" answer="CHEATING" startBlock="11_1" endBlock="11_8"/>
+<block question="I think it's time we told John a few home ...... .(6)" answer="TRUTHS" startBlock="13_7" endBlock="13_12"/>
+
+<block question="If you lie in court, you are committing ....... .(7)" answer="PERJURY" startBlock="0_10" endBlock="6_10"/>
+<block question="Mr Pritchard has been arrested for ....... people out of their money. He sold them holiday flats that didn't exist.(7)" answer="CONNING" startBlock="1_7" endBlock="7_7"/>
+<block question="If you keep on ....... fibs, nobody will believe you when you tell the truth!(7)" answer="TELLING" startBlock="2_0" endBlock="8_0"/>
+<block question="Every time you tell this story you seem to .......... the ending.(10)" answer="EXAGGERATE" startBlock="2_3" endBlock="11_3"/>
+<block question="If I don't want to upset someone close to me, I occasionally tell a ..... lie.(5)" answer="WHITE" startBlock="8_5" endBlock="12_5"/>
+<block question="The fifty euro note was a very clever ....... .(7)" answer="FORGERY" startBlock="8_8" endBlock="14_8"/>
+
+</data>
+
+
+ 	
+	
+
+
+

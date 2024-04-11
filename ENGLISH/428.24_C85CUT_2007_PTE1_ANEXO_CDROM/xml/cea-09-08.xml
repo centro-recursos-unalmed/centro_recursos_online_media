@@ -1,0 +1,24 @@
+<?Xml version="1.0" encoding="iso-8859-1"?>
+<data>
+<initiate maxSize="14" startx="20"  starty="95" pictureCross="false" boxSpace="36" autoScroll="45"/>
+<clue value="" item=""/>
+<block question="At the end of the hike we were well and ..... exhausted.(5)" answer="TRULY" startBlock="0_0" endBlock="0_4"/>
+<block question="There's some sort of dodgy ........ going on between Paul and Charlie; Paul said it could be risky.(8)" answer="BUSINESS" startBlock="4_0" endBlock="4_7"/>
+<block question="The bouncers at the night club were well-..... men who wouldn't stand for any trouble.(5)" answer="BUILT" startBlock="4_9" endBlock="4_13"/>
+<block question="You need to put your .... up and totally relax for a few days.(4)" answer="FEET" startBlock="6_6" endBlock="6_9"/>
+<block question="Roger Federer is aiming to make a clean ..... of all the Grand Slam tennis tournaments.(5)" answer="SWEEP" startBlock="8_3" endBlock="8_7"/>
+<block question="Have you ever seen a ...... saucer? Do you believe they exist?(6)" answer="FLYING" startBlock="10_2" endBlock="10_7"/>
+
+<block question="My boyfriend gave me the ...... up on my new haircut.(6)" answer="THUMBS" startBlock="0_0" endBlock="5_0"/>
+<block question="Are there any interesting projects on the .......?(7)" answer="HORIZON" startBlock="1_11" endBlock="7_11"/>
+<block question="A few months down the ...., I'm sure you'll have forgotten all about it.(4)" answer="LINE" startBlock="3_3" endBlock="6_3"/>
+<block question="Roger didn't get a wink of ..... last night because of the loud party next door.(5)" answer="SLEEP" startBlock="4_7" endBlock="8_7"/>
+<block question="It's my ... that John will buy a second property within a couple of months.(3)" answer="BET" startBlock="4_9" endBlock="6_9"/>
+<block question="I need to get .... from the hustle and bustle of city life every few weeks.(4)" answer="AWAY" startBlock="7_4" endBlock="10_4"/>
+
+</data>
+
+ 	
+
+
+

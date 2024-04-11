@@ -1,0 +1,215 @@
+﻿<?xml version="1.0" encoding="iso-8859-1" ?>
+      <navigation title="Advanced">
+        <folder label="Modules">
+          <folder label="Module 1" title="">
+            <folder label="Language Focus">
+              <file activityFile="cea-01-01.xml" PDF="1" url="preview.swf" activity="01" type="Language Focus" type="LF" title="Continuous verb forms – general " label="Practice 1" />
+              <file activityFile="cea-01-02.xml" PDF="1" url="preview.swf" activity="02" type="Language Focus" type="LF" title="Special uses of the continuous forms" label="Practice 2" />
+              <file activityFile="cea-01-03.xml" PDF="1" url="preview.swf" activity="03" type="Language Focus" type="LF" title="Verbs which change meaning in continuous and simple forms" label="Practice 3" />
+              <file activityFile="cea-01-04.xml" PDF="1" url="preview.swf" activity="04" type="Language Focus" type="LF" title="Verbs which change meaning in continuous and simple forms" label="Practice 4" />
+              <file activityFile="" url="grammar.swf"  PDF="1" type="Language Focus" lesson="" activity="" type="LF" title="Continuous verb forms" label="Summary"/>
+            </folder>
+            <folder label="Vocabulary">
+              <file activityFile="cea-01-05.xml" url="preview.swf" activity="05" type="Vocabulary" title="Globalisation"  label="Activity 1"/>
+              <file activityFile="cea-01-06.xml" url="matching.swf" activity="6" type="Vocabulary" title="Wordspot: &lt;i&gt; world, earth, ground, floor&lt;/i&gt;" label="Activity 2" header="Wordspot:&lt;i&gt; world, earth, ground, floor&lt;/i&gt;" rubric="Drag a line to join the beginnings and endings." />
+            </folder>
+            <folder label="Phrase Builder">
+              <file activityFile="cea-01-07.xml" url="crossword.swf"   activity="7" type="Phrase Builder" title="Phrasal verbs" label="Activity 1" header="Phrasal verbs" rubric="Complete the crossword."/>
+              <file activityFile="cea-01-08.xml" url="preview.swf" activity="08" type="Phrase Builder" title="Idioms" label="Activity 2" />
+            </folder>
+            <folder label="Pronunciation">
+              <file activityFile="cea-01-09.xml" url="preview.swf" activity="09" type="PRON"  title="Word stress: words ending in&lt;i&gt; -nal&lt;/i&gt; and&lt;i&gt; -ion&lt;/i&gt;" label="Activity 1" />
+              <file activityFile="cea-01-10.xml" url="preview.swf" activity="10" type="PRON"  title="Identifying accents"  label="Activity 2" />
+            </folder>
+          </folder>
+          <folder label="Module 2" title="">
+            <folder label="Language Focus">
+              <file activityFile="cea-02-01.xml" url="preview.swf" activity="01" type="Language Focus" PDF="2"  title="Perfect verb forms" label="Practice 1" />
+              <file activityFile="cea-02-02.xml" url="preview.swf" activity="02" type="Language Focus" PDF="2"  title="Perfect verb forms" label="Practice 2" />
+              <file activityFile="cea-02-03.xml" url="preview.swf" activity="03" type="Language Focus" PDF="2"  title="Perfect verb forms" label="Practice 3" />
+              <file activityFile="cea-02-04.xml" url="preview.swf" activity="04" type="Language Focus" PDF="2"  title="Cleft sentences" label="Practice 4" />
+              <file activityFile="" url="grammar.swf" PDF="2" type="Language Focus" title="Perfect verb forms" label="Summary"/>
+            </folder>
+            <folder label="Vocabulary">
+              <file activityFile="cea-02-05.xml" url="preview.swf" activity="05" type="VOCAB" title="Feelings" label="Activity 1" />
+              <file activityFile="cea-02-06.xml" url="matching.swf" activity="06" type="VOCAB" title="Idioms with &lt;i&gt; laugh, cry&lt;/i&gt; and &lt;i&gt;tears&lt;/i&gt;" label="Activity 2" header="Idioms with &lt;i&gt; laugh, cry&lt;/i&gt; and &lt;i&gt;tears&lt;/i&gt;" rubric="Drag a line to join the beginnings and endings of the sentences." />
+            </folder>
+            <folder label="Phrase Builder">
+              <file activityFile="cea-02-07.xml" url="crossword.swf" type="Phrase Builder"  activity="7" title="Phrasal verbs" label="Activity 1" header="Phrasal verbs" rubric="Complete the crossword."/>
+              <file activityFile="cea-02-08.xml" url="preview.swf" activity="08" type="Phrase Builder"  title="Idioms" label="Activity 2" />
+            </folder>
+            <folder label="Pronunciation">
+              <file activityFile="cea-02-09.xml" url="preview.swf" activity="09" type="PRON"  title="Sentence stress which changes meaning" label="Activity 1" />
+            </folder>
+          </folder>
+          <folder label="Module 3" title="">
+            <folder label="Language Focus">
+              <file activityFile="cea-03-01.xml" url="preview.swf" activity="01" type="Language Focus" PDF="3"  title="Modals" label="Practice 1" />
+              <file activityFile="cea-03-02.xml" url="preview.swf" activity="02" type="Language Focus" PDF="3"  title="Modals" label="Practice 2" />
+              <file activityFile="cea-03-03.xml" url="preview.swf" activity="03" type="Language Focus" PDF="3"  title="Modals" label="Practice 3" />
+              <file activityFile="cea-03-04.xml" url="matching.swf" activity="4" type="Language Focus" PDF="3" title="Modals" label="Practice 4" header="Modals" rubric="Drag a line to match one sentence with another to complete the mini dialogues." />
+              <file activityFile="cea-03-05.xml" url="preview.swf" activity="05" type="Language Focus" PDF="3"  title="Patterns with abstract nouns and relative clauses" label="Practice 5" />
+              <file activityFile="" url="grammar.swf" PDF="3" type="Language Focus"  title="Modals" label="Summary"/>
+            </folder>
+            <folder label="Vocabulary">
+              <file activityFile="cea-03-06.xml" url="preview.swf" activity="06" type="VOCAB" title="Describing behaviour" label="Activity 1" />
+              <file activityFile="cea-03-07.xml" url="preview.swf" activity="07" type="VOCAB"  title="Describing behaviour" label="Activity 2" />
+            </folder>
+            <folder label="Phrase Builder">
+              <file activityFile="cea-03-08.xml" url="preview.swf" activity="08" type="Phrase Builder"  title="Phrasal verbs" label="Activity 1" />
+              <file activityFile="cea-03-09.xml" url="crossword.swf" type="Phrase Builder"  activity="9" title="Idioms" label="Activity 2" header="Idioms" rubric="Complete the crossword."/>
+            </folder>
+            <folder label="Pronunciation">
+              <file activityFile="cea-03-10.xml" url="preview.swf" activity="10" type="PRON"  title="Rising and falling intonation with questions" label="Activity 1" />
+            </folder>
+          </folder>
+          <folder label="Module 4" title="">
+            <folder label="Language Focus">
+              <file activityFile="cea-04-01.xml" url="preview.swf" activity="01" type="Language Focus" PDF="4"  title="Word order: attributive and predicative adjectives" label="Practice 1" />
+              <file activityFile="cea-04-02.xml" url="preview.swf" activity="02" type="Language Focus" PDF="4"  title="Compound adjectives" label="Practice 2" />
+              <file activityFile="cea-04-03.xml" url="preview.swf" activity="03" type="Language Focus" PDF="4"  title="Prefixes and suffixes" label="Practice 3" />
+              <file activityFile="cea-04-04.xml" url="preview.swf" activity="04" type="Language Focus" PDF="4"  title="Adverbs of degree" label="Practice 4" />
+              <file activityFile="" url="grammar.swf" PDF="4" type="Language Focus"  title="Adjectives and adverbs" label="Summary"/>
+            </folder>
+            <folder label="Vocabulary">
+              <file activityFile="cea-04-05.xml" url="preview.swf" activity="05" type="VOCAB"  title="Body and spirit vocabulary" label="Activity 1" />
+              <file activityFile="cea-04-06.xml" url="matching.swf" activity="6" type="Vocabulary" title="Wordspot: idioms to do with the body" label="Activity 2" header="Wordspot: idioms to do with the body" rubric="Connect the beginnings and endings to make complete sentences." />
+            </folder>
+            <folder label="Phrase Builder">
+              <file activityFile="cea-04-07.xml" url="preview.swf" activity="07" type="Phrase Builder"  title="Phrasal verbs" label="Activity 1" />
+              <file activityFile="cea-04-08.xml" url="crossword.swf" type="Phrase Builder"  activity="8" title="Idioms" label="Activity 2" header="Idioms" rubric="Complete the crossword."/>
+            </folder>
+            <folder label="Pronunciation">
+              <file activityFile="cea-04-09.xml" url="preview.swf" activity="09" type="PRON"  title="Stress in longer words" label="Activity 1" />
+              <file activityFile="cea-04-10.xml" url="preview.swf" activity="10" type="PRON"  title="Sentence stress" label="Activity 2" />
+            </folder>
+          </folder>
+          <folder label="Module 5" title="">
+            <folder label="Language Focus">
+              <file activityFile="cea-05-01.xml" url="preview.swf" activity="01" type="Language Focus" PDF="5"  title="Passive forms" label="Practice 1" />
+              <file activityFile="cea-05-02.xml" url="preview.swf" activity="02" type="Language Focus" PDF="5"  title="Passive forms" label="Practice 2" />
+              <file activityFile="cea-05-03.xml" url="matching.swf" activity="03" type="Language Focus" PDF="5" title="Passive forms" label="Practice 3" header="Passive forms" rubric="Drag a line to join the beginnings and endings of each sentence." />
+              <file activityFile="cea-05-04.xml" url="preview.swf" activity="04" type="Language Focus" PDF="5"  title="Particles which add meaning to verbs" label="Practice 4" />
+              <file activityFile="" url="grammar.swf" PDF="5" type="Language Focus"  title="Modals" label="Summary"/>
+            </folder>
+            <folder label="Vocabulary">
+              <file activityFile="cea-05-05.xml" url="preview.swf" activity="05" type="VOCAB"  title="Education" label="Activity 1" />
+              <file activityFile="cea-05-06.xml" url="crossword.swf" type="VOCAB"  activity="6" title="Wordspot: &lt;i&gt;way&lt;/i&gt;" label="Activity 2" header="Wordspot: &lt;i&gt;way&lt;/i&gt;" rubric="Complete the crossword."/>
+            </folder>
+            <folder label="Phrase Builder">
+              <file activityFile="cea-05-07.xml" url="preview.swf" activity="07" type="Phrase Builder"  title="Phrasal verbs" label="Activity 1" />
+              <file activityFile="cea-05-08.xml" url="preview.swf" type="Phrase Builder"  activity="8" title="Idioms" label="Activity 2"/>
+            </folder>
+            <folder label="Pronunciation">
+<file activityFile="cea-05-09.xml" url="preview.swf" type="PRON"  activity="1" title="Different pronunciations of  &lt;i&gt;-ch, -gh, -th&lt;/i&gt; and &lt;i&gt;-ss&lt;/i&gt;" label="Activity 1"/>              
+              <file activityFile="cea-05-10.xml" url="preview.swf" activity="10" type="PRON"  title="Different pronunciations of &lt;i&gt;-ti, -ce, -sh&lt;/i&gt; and &lt;i&gt;-es&lt;/i&gt;" label="Activity 2" />
+            </folder>
+          </folder>
+          <folder label="Module 6" title="">
+            <folder label="Language Focus">
+              <file activityFile="cea-06-01.xml" url="preview.swf" activity="01" type="Language Focus" PDF="6"  title="Time and tense" label="Practice 1" />
+              <file activityFile="cea-06-02.xml" url="matching.swf" activity="02" type="Language Focus" PDF="6" title="Time and tense" label="Practice 2" header="Time and tense" rubric="Drag a line to join the beginnings and endings of each sentence." />
+              <file activityFile="cea-06-03.xml" url="preview.swf" activity="03" type="Language Focus" PDF="6"  title="Past verb forms in unreal situations" label="Practice 3"/>
+              <file activityFile="cea-06-04.xml" url="preview.swf" activity="04" type="Language Focus" PDF="6"  title="Tense sequence" label="Practice 4" />
+              <file activityFile="cea-06-05.xml" url="preview.swf" activity="05" type="Language Focus" PDF="6"  title="Inversion with negative adverbials" label="Practice 5" />
+              <file activityFile="" url="grammar.swf" PDF="6" type="Language Focus"  title="Time and tense" label="Summary"/>
+            </folder>
+            <folder label="Vocabulary">
+              <file activityFile="cea-06-06.xml" url="preview.swf" activity="06" type="VOCAB"  title="Money" label="Activity 1" />
+              <file activityFile="cea-06-07.xml" url="preview.swf" activity="07" type="VOCAB"  title="Money" label="Activity 2" />
+            </folder>
+            <folder label="Phrase Builder">
+              <file activityFile="cea-06-08.xml" url="crossword.swf" type="Phrase Builder"  activity="8" title="Phrasal verbs" label="Activity 1" header="Phrasal verbs" rubric="Complete the crossword."/>
+              <file activityFile="cea-06-09.xml" url="preview.swf" activity="09" type="Phrase Builder"  title="Miscellaneous phrases" label="Activity 2" />
+            </folder>
+            <folder label="Pronunciation">
+              <file activityFile="cea-06-10.xml" url="preview.swf" activity="10" type="PRON"  title="Diphthongs" label="Activity 1" />
+              <file activityFile="cea-06-11.xml" url="preview.swf" activity="11" type="PRON"  title="Pronunciation points" label="Activity 2" />
+            </folder>
+          </folder>
+          <folder label="Module 7" title="">
+            <folder label="Language Focus">
+              <file activityFile="cea-07-01.xml" url="preview.swf" activity="01" type="Language Focus" PDF="7"  title="Infinitives and &lt;i&gt;-ing&lt;/i&gt; forms after adjectives" label="Practice 1"/>
+              <file activityFile="cea-07-02.xml" url="preview.swf" activity="02" type="Language Focus" PDF="7"  title="Nouns and verbs with infinitives and&lt;i&gt; -ing&lt;/i&gt; forms"label="Practice 2" />
+              <file activityFile="cea-07-03.xml" url="matching.swf" activity="3" type="Language Focus" PDF="7" title="Nouns and verbs with infinitives and &lt;i&gt;-ing&lt;/i&gt; forms" label="Practice 3" header="Nouns and verbs with infinitives and &lt;i&gt;-ing&lt;/i&gt; forms" rubric="Drag a line to join the beginnings and endings of each sentence." />
+              <file activityFile="cea-07-04.xml" url="preview.swf" activity="04" type="Language Focus" PDF="7"  title="Other uses of &lt;i&gt;-ing&lt;/i&gt; forms" label="Practice 4"/>
+              <file activityFile="cea-07-05.xml" url="preview.swf" activity="05" type="Language Focus" PDF="7"  title="Describing typical habits" label="Practice 5"/>
+              <file activityFile="" url="grammar.swf" PDF="7" type="Language Focus"  title="Infinitives and &lt;i&gt; -ing&lt;/i&gt; forms" label="Summary"/>
+            </folder>
+            <folder label="Vocabulary">
+              <file activityFile="cea-07-06.xml" url="preview.swf" activity="06" type="VOCAB"  title="Describing characteristics" label="Activity 1" />
+              <file activityFile="cea-07-07.xml" url="preview.swf" activity="07" type="VOCAB"  title="Describing characteristics" label="Activity 2" />
+            </folder>
+            <folder label="Phrase Builder">
+              <file activityFile="cea-07-08.xml" url="preview.swf" activity="08" type="Phrase Builder"  title="Phrasal verbs" label="Activity 1" />
+              <file activityFile="cea-07-09.xml" url="crossword.swf" type="Phrase Builder"  activity="9" title="Idioms" label="Activity 2" header="Idioms" rubric="Complete the crossword."/>
+            </folder>
+            <folder label="Pronunciation">
+              <file activityFile="cea-07-10.xml" url="preview.swf" activity="10" type="PRON"  title="Linking words" label="Activity 1" />
+            </folder>
+          </folder>
+          <folder label="Module 8" title="">
+            <folder label="Language Focus">
+              <file activityFile="cea-08-01.xml" url="preview.swf" activity="01" type="Language Focus" PDF="8"  title="The position of adverbs" label="Practice 1" />
+              <file activityFile="cea-08-02.xml" url="preview.swf" activity="02" type="Language Focus" PDF="8"  title="The position of adverbs" label="Practice 2" />
+              <file activityFile="cea-08-03.xml" url="preview.swf" activity="03" type="Language Focus" PDF="8"  title="Adverbs of manner with and without &lt;i&gt;-ly&lt;/i&gt;" label="Practice 3" />
+              <file activityFile="cea-08-04.xml" url="preview.swf" activity="04" type="Language Focus" PDF="8"  title="Focusing adverbs" label="Practice 4" />
+              <file activityFile="" url="grammar.swf" PDF="8" type="Language Focus"  title="Adverbs" label="Summary"/>
+            </folder>
+            <folder label="Vocabulary">
+              <file activityFile="cea-08-05.xml" url="preview.swf" activity="05" type="VOCAB"  title="Descriptive adjectives" label="Activity 1" />
+              <file activityFile="cea-08-06.xml" url="crossword.swf" type="VOCAB"  activity="6" title="Wordspot:&lt;i&gt; look, sound, feel&lt;/i&gt;" label="Activity 2" header="Wordspot:&lt;i&gt; look, sound, feel&lt;/i&gt;" rubric="Complete the crossword."/>
+            </folder>
+            <folder label="Phrase Builder">
+              <file activityFile="cea-08-07.xml" url="matching.swf" activity="7" type="Phrase Builder"  title="Phrasal verbs" label="Activity 1" header="Phrasal verbs" rubric="Drag a line to join the beginnings and endings of the sentences." />
+              <file activityFile="cea-08-08.xml" url="preview.swf" type="Phrase Builder"  activity="8" title="Idioms" label="Activity 2"/>
+            </folder>
+            <folder label="Pronunciation">
+              <file activityFile="cea-08-09.xml" url="preview.swf" activity="09" type="PRON"  title="&lt;font face='Pelphon Pel SILDoulos'&gt; / &#0198;: /  / I /  / FU /&lt;/font&gt; " label="Activity 1" />
+              <file activityFile="cea-08-10.xml" url="preview.swf" activity="10" type="PRON"  title="Sentence stress" label="Activity 2" />
+            </folder>
+          </folder>
+          <folder label="Module 9" title="">
+            <folder label="Language Focus">
+              <file activityFile="cea-09-01.xml" url="preview.swf" activity="01" type="Language Focus" PDF="9"  title="Future forms – general" label="Practice 1" />
+              <file activityFile="cea-09-02.xml" url="preview.swf" activity="02" type="Language Focus" PDF="9"  title="Future forms – general" label="Practice 2" />
+              <file activityFile="cea-09-03.xml" url="preview.swf" activity="03" type="Language Focus" PDF="9"  title="Future phrases" label="Practice 3" />
+              <file activityFile="cea-09-04.xml" url="preview.swf" activity="04" type="Language Focus" PDF="9"  title="Future in the past" label="Practice 4" />
+              <file activityFile="" url="grammar.swf" PDF="9" type="Language Focus"  title="Future forms" label="Summary"/>
+            </folder>
+            <folder label="Vocabulary">
+              <file activityFile="cea-09-05.xml" url="preview.swf" activity="05" type="VOCAB"  title="Work, lifestyle and health" label="Activity 1" />
+              <file activityFile="cea-09-06.xml" url="matching.swf" activity="6" type="Vocabulary" title="Wordspot: &lt;i&gt;well&lt;/i&gt;" label="Activity 2" header="Wordspot: &lt;i&gt;well&lt;/i&gt;" rubric="Drag a line to join the beginnings and endings." />
+            </folder>
+            <folder label="Phrase Builder">
+              <file activityFile="cea-09-07.xml" url="preview.swf" activity="7" type="Phrase Builder"  title="Phrasal verbs" label="Activity 1" />
+              <file activityFile="cea-09-08.xml" url="crossword.swf" type="Phrase Builder"  activity="8" title="Idioms" label="Activity 2" header="Idioms" rubric="Complete the crossword."/>
+            </folder>
+            <folder label="Pronunciation">
+              <file activityFile="cea-09-09.xml" url="preview.swf" activity="09" type="PRON"  title="Collocations with computer terms" label="Activity 1" />
+            </folder>
+          </folder>
+          <folder label="Module 10" title="">
+            <folder label="Language Focus">
+              <file activityFile="cea-10-01.xml" url="preview.swf" activity="01" type="Language Focus" PDF="10"  title="Noun phrases" label="Practice 1" />
+              <file activityFile="cea-10-02.xml" url="preview.swf" activity="02" type="Language Focus" PDF="10"  title="Noun phrases" label="Practice 2" />
+              <file activityFile="cea-10-03.xml" url="preview.swf" activity="03" type="Language Focus" PDF="10"  title="Ellipsis and substitution" label="Practice 3" />
+              <file activityFile="cea-10-04.xml" url="matching.swf" activity="4" type="Language Focus" PDF="10"  title="Substitution" label="Practice 4" header="Substitution" rubric="Drag a line to join the beginnings and endings." />
+              <file activityFile="cea-10-05.xml" url="preview.swf" activity="05" type="Language Focus" PDF="10"  title="Patterns with &lt;i&gt;as ... as&lt;/i&gt; + verb" label="Practice 5" />
+              <file activityFile="" url="grammar.swf" PDF="10" type="Language Focus"  title="Noun phrases" label="Summary"/>
+            </folder>
+            <folder label="Vocabulary">
+              <file activityFile="cea-10-06.xml" url="crossword.swf" type="Vocabulary"  activity="6" title="Truth and lies" label="Activity 1" header="Truth and lies" rubric="Complete the crossword."/>
+              <file activityFile="cea-10-07.xml" url="preview.swf" activity="07" type="VOCAB"  title="Truth and lies" label="Activity 2" />
+            </folder>
+            <folder label="Phrase Builder">
+              <file activityFile="cea-10-08.xml" url="preview.swf" activity="8" type="Phrase Builder"  title="Phrasal verbs" label="Activity 1" />
+              <file activityFile="cea-10-09.xml" url="preview.swf" type="Phrase Builder"  activity="9" title="Idioms" label="Activity 2"/>
+            </folder>
+            <folder label="Pronunciation">
+              <file activityFile="cea-10-10.xml" url="preview.swf" activity="10" type="PRON"  title="Expressing surprise and disbelief" label="Activity 1" />
+            </folder>
+          </folder>
+        </folder>
+        <file url="phonetic.swf" label="Phonemic Chart" activity="98" />
+      </navigation>
