@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<DOC>
+	<!--port>8978</port>
+	<ip>127.0.0.1</ip-->
+	<resultpath></resultpath>
+	<resultfolder>temp</resultfolder>
+	<xmlpath>assets/xml/</xmlpath>
+	<swfpath>assets/swfs/</swfpath>
+	<flashexe>shell.exe</flashexe>
+</DOC>
+
+
+
+
+
+
+

@@ -1,0 +1,280 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<DOC YPos="135">
+<section test="1" skill="Use of English" header="CAE Test 1: Use of English Part 1" type="part1" navType="2" rubricClip="RubricBox_Big" templateType="MCQType_5" assessed="true" XPos="-285" YPos="135" navYPos="137" maxMark="1">
+	<rubric><![CDATA[For questions <b>1-12</b>, read the text below and decide which answer (<b>A</b>, <b>B</b>, <b>C</b> or <b>D</b>) best fits each gap.]]></rubric>
+	<title textAlign="left"><![CDATA[<b>Expedition Health</b>]]></title>
+	<text><![CDATA[Sprains and muscle strains are common injuries <b>affecting</b> people who go trekking in wilderness areas. Ankles, knees, the larger leg muscles and the back are most at  <gap>1</gap> if you head off the beaten  <gap>2</gap> especially if you’re carrying a heavy backpack.<p></p><p></p>One way of avoiding these problems is to walk with trekking poles which to help <gap>3</gap> balance as well as redistributing the shock load produced by constant walking. High-cut boots are another good idea. These will <gap>4</gap> more ankle support, for example, than lightweight, low-cut shoes.<p></p>Back strain can also be triggered by the <gap>5</gap> of trekking and climbing, particularly when hamstrings are overused. To keep such strains at bay, take a few minutes at the end of each day to <gap>6</gap> these muscles. Lie on your back and hold your knees up against your chest. Then, keeping your knees together, roll your legs from side to side.<p></p><p></p><gap>7</gap> treatment is concerned, you should <gap>8</gap> the temptation to reach straight for the drugs. Sprains and strains <gap>9</gap> from rest, ice, compression and elevation (RICE). This combination of measures <gap>10</gap> the effect of reducing swelling and bruising. Snow or ice packs should be applied to the injury immediately or alternatively it may be immersed in cold water. A bandage may then be wrapped around it. Arnica cream is <gap>11</gap> in reducing bruising, so add this to your first-aid <gap>12</gap>.]]></text>
+	<question number="1"  correct="3">
+		<choice>chance</choice>
+		<choice>danger</choice>
+		<choice>risk</choice>
+		<choice>hazard</choice>
+	</question>
+	<question number="2"  correct="4">
+		<choice>trail</choice>
+		<choice>road</choice>
+		<choice>path</choice>
+		<choice>track</choice>
+	</question>
+	<question number="3"  correct="2">
+		<choice>supply</choice>
+		<choice>maintain</choice>
+		<choice>conserve</choice>
+		<choice>defend</choice>
+	</question>
+	<question number="4"  correct="2">
+		<choice>arrange</choice>
+		<choice>provide</choice>
+		<choice>deliver</choice>
+		<choice>present</choice>
+	</question>
+	<question number="5"  correct="1">
+		<choice>rigours</choice>
+		<choice>hardships</choice>
+		<choice>sufferings</choice>
+		<choice>ordeals</choice>
+	</question>
+	<question number="6"  correct="3">
+		<choice>spread</choice>
+		<choice>extend</choice>
+		<choice>stretch</choice>
+		<choice>expand</choice>
+	</question>
+	<question number="7" correct="1">
+		<choice>As far as</choice>
+		<choice>As soon as</choice>
+		<choice>As well as</choice>
+		<choice>As long as</choice>
+	</question>
+	<question number="8" correct="1">
+		<choice>resist</choice>
+		<choice>defy</choice>
+		<choice>restrain</choice>
+		<choice>oppose</choice>
+	</question>
+	<question number="9" correct="4">
+		<choice>improve</choice>
+		<choice>recover</choice>
+		<choice>respond</choice>
+		<choice>benefit</choice>
+	</question>
+	<question number="10" correct="3">
+		<choice>gains</choice>
+		<choice>makes</choice>
+		<choice>has</choice>
+		<choice>gets</choice>
+	</question>
+	<question number="11" correct="2">
+		<choice>capable</choice>
+		<choice>effective</choice>
+		<choice>competent</choice>
+		<choice>profitable</choice>
+	</question>
+	<question number="12" correct="3">
+		<choice>rig</choice>
+		<choice>gear</choice>
+		<choice>kit</choice>
+		<choice>tackle</choice>
+	</question>
+	</section>
+	<section test="1" skill="Use of English" header="CAE Test 1: Use of English Part 2" type="part2" navType="2" rubricClip="RubricBox_Big" templateType="UOEFIBType_5" assessed="true" XPos="70" YPos="142" navYPos="137" maxMark="1">
+		<rubric><![CDATA[For questions <b>13-27</b>, read the text below and think of the word which best fits each gap. Use only <b>one</b> word in each gap.]]></rubric>
+		<audio>fce1_listening_part2.mp3</audio>
+		<textTitle textAlign="left"><![CDATA[<b>The Written Word and the Cinema</b>]]></textTitle>
+		<text><![CDATA[<p></p><p></p>Film isn’t just about moving images and spoken language – the written word can also have a strong impact <b>on</b> the big screen. In the first silent comedies and dramas, words emblazoned on a black screen helped audiences to understand <gap>what</gap> they were seeing. Words spelled <gap>out</gap> what the characters were saying, and connected the different scenes. For example, in between a scene showing our hero rushing to save his beloved and <gap>one|another</gap> of her being tied to the train tracks, the word ‘Meanwhile’ <gap>would</gap> invariably appear on the screen.<p></p><p></p><gap>Although|Though</gap> the introduction of sound<p></p><gap>made</gap> most of this wording redundant, the written word did not disappear from film. <gap>Together|Along</gap> with the music, the design of the written title and opening credits helped to set the scene and establish the mood of the film.<br /><p></p><p></p>The 1930s saw the emergence of different genres of film, each associated with its <gap>own</gap> distinctive form of lettering. Film posters picked <gap>up</gap> on this design feature,<p></p><gap>which</gap> became just as important as the artwork in attracting the right kind of audience to the film. <gap>If</gap> you agree with certain art critics, you’ll regard these posters <gap>as</gap> worthless kitsch. <gap>for</gap> many others, however, they represent a high point in graphic art. A simple sheet of paper was turned <gap>into</gap> an emotional experience equal to the film itself, <gap>with</gap> the lettering playing a key role. ]]></text>
+		<question number="13" totalQuestion="12">
+			<text></text>
+			<ansHint>what</ansHint>
+			<text2><![CDATA[In the first silent comedies and dramas, words emblazoned on a black screen helped audiences to understand <gap>what</gap> they were seeing.]]></text2>
+		</question>
+		<question number="14">
+			<text></text>
+			<ansHint>out</ansHint>
+			<text2><![CDATA[Words spelled <gap>out</gap> what the characters were saying, and connected the different scenes.]]></text2>
+		</question>
+		<question number="15">
+			<text></text>
+			<ansHint>one|another</ansHint>
+			<text2><![CDATA[For example, in between a scene showing our hero rushing to save his beloved and <gap>one|another</gap> of her being tied to the train tracks,]]></text2>
+		</question>
+		<question number="16">
+			<text></text>
+			<ansHint>would</ansHint>
+			<text2><![CDATA[the word ‘Meanwhile’ <gap>would</gap> invariably]]></text2>
+		</question>
+		<question number="17" charToUpper="true">
+			<text></text>
+			<ansHint>Although|Though</ansHint>
+			<text2><![CDATA[appear on the screen.<gap>Although|Though</gap> the introduction]]></text2>
+		</question>
+		<question number="18">
+			<text></text>
+			<ansHint>made</ansHint>
+			<text2><![CDATA[of sound <gap>made</gap> most of this wording redundant, the written word did not disappear from film.]]></text2>
+		</question>
+		<question number="19" charToUpper="true">
+			<text></text>
+			<ansHint>Together|Along</ansHint>
+			<text2><![CDATA[<gap>Together|Along</gap> with the music, the design of the written title and opening credits helped to set the scene and establish the mood of the film.]]></text2>
+		</question>
+		<question number="20">
+			<text></text>
+			<ansHint>own</ansHint>
+			<text2><![CDATA[The 1930s saw the emergence of different genres of film, each associated with its <gap>own</gap> distinctive form of lettering.]]></text2>
+		</question>
+
+		<question number="21">
+			<text></text>
+			<ansHint>up</ansHint>
+			<text2><![CDATA[Film posters picked <gap>up</gap> on this design feature,]]></text2>
+		</question>
+
+		<question number="22">
+			<text></text>
+			<ansHint>which</ansHint>
+			<text2><![CDATA[<gap>which</gap> became just as important as the artwork in attracting the right kind of audience to the film.]]></text2>
+		</question>
+		<question number="23" charToUpper="true">
+			<text></text>
+			<ansHint>If</ansHint>
+			<text2><![CDATA[<gap>If</gap> you agree with certain art critics,]]></text2>
+		</question>
+		<question number="24">
+			<text></text>
+			<ansHint>as</ansHint>
+			<text2><![CDATA[you’ll regard these posters <gap>as</gap> worthless kitsch.]]></text2>
+		</question>
+		<question number="25">
+			<text></text>
+			<ansHint>for</ansHint>
+			<text2><![CDATA[<gap>for</gap> many others, however, they represent a high point in graphic art.]]></text2>
+		</question>
+		<question number="26">
+			<text></text>
+			<ansHint>into</ansHint>
+			<text2><![CDATA[A simple sheet of paper was turned <gap>into</gap> an emotional experience equal to the film itself,]]></text2>
+		</question>
+		<question number="27">
+			<text></text>
+			<ansHint>with</ansHint>
+			<text2><![CDATA[<gap>with</gap> the lettering playing a key role.]]></text2>
+		</question>
+	</section>
+
+	<section test="1" skill="Use of English" header="CAE Test 1: Use of English Part 3" type="part3" navType="2" rubricClip="RubricBox_Big" templateType="FIBType_5" assessed="true" XPos="70" YPos="162" navYPos="137" maxMark="1">
+		<rubric><![CDATA[For questions <b>28-37</b>, read the text below. Use the word given in capitals at the end of some of the lines to form a word that fits in the gap in the same line.]]></rubric>
+		<audio>fce1_listening_part2.mp3</audio>
+		<textTitle textAlign="left"><![CDATA[<b>HIDDEN DEPTHS</b>]]></textTitle>
+		<text><![CDATA[<p></p><p></p>Archaeologists have used aerial photography for many decades to identify patterns of ancient human activity on the ground. Certain features of an area, such as ancient field boundaries or the outline of <gap>settlements</gap> and fortifications, which can no longer be seen on the ground, become <gap>apparent</gap> when viewed from above. The use of such photography has <gap>enabled</gap> archaeologists to produce maps of how the land has been used over the centuries. But these maps have always had gaps where the land is wooded because <gap>traditional</gap> cameras cannot see through trees.<p></p><p></p><gap>Happily</gap> a solution to this problem has now been found. It’s called Lidar, and it’s a laser-based aerial <gap>detection</gap> system that can ‘see hrough’ trees, thus revealing archaeological features concealed in the woodland below. Lidar bounces low-energy laser pulses off the ground and measures the time taken for the light to travel back to the instrument. Most of the pulses coming back are from the trees, but some have reached the ground. A computer selects and <gap>analyses</gap> these and produces an image of the bare earth. Pioneering work with the new technology has led to the <gap>discovery</gap> of hundreds of previously<p></p><gap>unknown</gap> ancient features including military, agricultural and industrial features that are <gap>invisible</gap> to the naked eye.]]></text>
+
+		<question number="28" totalQuestion="10" dummyText = "">
+			<text></text>
+			<ansHint>SETTLE</ansHint>
+			<text2><![CDATA[Certain features of an area, such as ancient field boundaries or the outline of <gap>settlements</gap> and fortifications,]]></text2>
+		</question>
+		<question number="29">
+			<text></text>
+			<ansHint>APPEAR</ansHint>
+			<text2><![CDATA[which can no longer be seen on the ground, become <gap>apparent</gap> when viewed from above.]]></text2>
+		</question>
+		<question number="30">
+			<text></text>
+			<ansHint>ABLE</ansHint>
+			<text2><![CDATA[The use of such photography has <gap>enabled</gap> archaeologists to]]></text2>
+		</question>
+		<question number="31">
+			<text></text>
+			<ansHint>TRADITION</ansHint>
+			<text2><![CDATA[But these maps have always had gaps where the land is wooded because <gap>traditional</gap> cameras cannot]]></text2>
+		</question>
+		<question number="32" charToUpper="true">
+			<text></text>
+			<ansHint>HAPPY</ansHint>
+			<text2><![CDATA[see through trees.<gap>Happily</gap> a solution to this problem has now been found.]]></text2>
+		</question>
+		<question number="33">
+			<text></text>
+			<ansHint>DETECT</ansHint>
+			<text2><![CDATA[It’s called Lidar, and it’s a laser-based aerial <gap>detection</gap> system that can ‘see hrough’ trees, thus revealing archaeological features concealed in the woodland below.]]></text2>
+		</question>
+		<question number="34">
+			<text></text>
+			<ansHint>ANALYSIS</ansHint>
+			<text2><![CDATA[Lidar bounces low-energy laser pulses off the ground and measures the time taken for the light to travel back to the instrument. Most of the pulses coming back are from the trees,but some have reached the ground. A computer selects and <gap>analyses</gap> these and produces an image of the bare earth.]]></text2>
+		</question>
+		<question number="35">
+			<text></text>
+			<ansHint>DISCOVER</ansHint>
+			<text2><![CDATA[Pioneering work with the new technology has led to the <gap>discovery</gap> of hundreds of]]></text2>
+		</question>
+		<question number="36">
+			<text></text>
+			<ansHint>KNOW</ansHint>
+			<text2><![CDATA[hundreds of previously<gap>unknown</gap>ancient features including military,]]></text2>
+		</question>
+		<question number="37">
+			<text></text>
+			<ansHint>VISIBLE</ansHint>
+			<text2><![CDATA[agricultural and industrial features that are <gap>invisible</gap> to the naked eye.]]></text2>
+		</question>
+	</section>
+	<section test="1" skill="Use of English" header="CAE Test 1: Use of English Part 4" type="part4" navType="1" rubricClip="RubricBox_Big" templateType="AutoFillFib" assessed="true" XPos="100" YPos="150" navYPos="137" maxMark="2">
+		<rubric><![CDATA[For questions <b>38–42</b>, think of <b>one</b> word only which can be used appropriately in <b>all three sentences</b>.<p></p>]]></rubric>
+			<question number="38" answer="loose">
+				<text><![CDATA[Clara doesn’t like the heat and often wears <gap>loose</gap> clothes which she says keep her cool.<p></p>The interpreter gave a very <gap>loose</gap> translation of what the speaker had said, causing a few bi-lingual people in the audience to protest.<p></p>My little brother has a <gap>loose</gap> tooth, we’re expecting it to fall out at any moment.]]></text>
+			</question>
+			<question number="39" answer="led">
+				<text><![CDATA[In spite of his physical disability, Professor Simons <gap>led</gap> a full and varied life and became a world authority on his subject.<p></p>Her boss’s unkind remarks <gap>led</gap> Heidi to believe that she was unfit for the job.<p></p>The guide <gap>led</gap> the group of tourists along the narrow streets to the building which housed the famous mosaics.]]></text>
+			</question>
+			<question number="40" answer="match">
+				<text><![CDATA[Although Denise plays chess really well, she was no <gap>match</gap> for James, who won hands down.<p></p>We’ve had blue wallpaper put up in the living-room, so now I’m looking for some curtains that are a good <gap>match</gap>.<p></p>After the <gap>match</gap>, all the players came over to meet the celebrity who was presenting the medals.]]></text>
+			</question>
+			<question number="41" answer="word">
+				<text><![CDATA[You know, we still haven’t had any <gap>word</gap> of David; he must’ve arrived in the USA ages ago, but he hasn’t been in touch.<p></p>I’m going to tell you a secret as long as you promise not to breathe a <gap>word</gap> of it to anyone.<p></p>Simon doesn’t speak a <gap>word</gap> of French, so I don’t know how he’ll manage on his own in Paris.]]></text>
+			</question>
+			<question number="42" answer="further">
+				<text><![CDATA[I can’t get any <gap>further</gap> with this jigsaw puzzle – do you think you could help me?<p></p> <gap>further</gap> to our phone conversation,  I am pleased to inform you that the goods you ordered have now been dispatched.<p></p>She doesn’t live next door to me, but a bit <gap>further</gap> down the road, after the chemist’s.]]></text>
+			</question>
+	</section>
+	<section test="1" skill="Use of English" header="CAE Test 1: Use of English Part 5" type="part5" navType="1" rubricClip="RubricBox_Big" templateType="FIBType_1" assessed="true" XPos="100" YPos="150" navYPos="137" maxMark="2">
+			<rubric><![CDATA[For questions <b>43–50</b>, complete the second sentence so that it has a similar meaning to the first sentence, using the word given. <b>Do not change the word given</b>. You must use between <b>three</b> and <b>six</b> words, including the word given.]]></rubric>
+
+			<question number="43" wordgiven="prevented">
+				<text></text>
+				<text2><![CDATA[One of the footballers was too ill to play that afternoon.<p></p><b>PREVENTED</b><p></p>One of the footballers <gap>was prevented from playing</gap>  by illness that afternoon.]]></text2>
+			</question>
+
+			<question number="44" wordgiven="while">
+				<text></text>
+				<text2><![CDATA[I’d prefer you not to eat in the car, if you don’t mind.<p></p><b>WHILE</b><p></p>I’d rather you <gap>did not eat while you are|did not eat|didn't eat while you are</gap> in the car.]]></text2>
+			</question>
+
+			<question number="45" wordgiven="how">
+				<text></text>
+				<text2><![CDATA[I find it amazing that the young singer performs <p></p>so confidently.<p></p><b>HOW</b><p></p>What <gap>amazes me is how confidently</gap> the young singer performs.]]></text2>
+			</question>
+
+			<question number="46" wordgiven="fall">
+				<text></text>
+				<text2><![CDATA[The price of laptop computers has gone down a lot in <p></p>recent years.<p></p><b>FALL</b><p></p>There has <gap>been a big fall in the</gap> price of laptop computers in recent years.]]></text2>
+			</question>
+
+			<question number="47" wordgiven="comes">
+				<text></text>
+				<text2><![CDATA[The band’s pianist finds it fairly easy to learn new songs.<p></p><b>COMES</b><p></p>Learning new songs <gap>comes fairly easily to</gap> the band’s pianist.]]></text2>
+			</question>
+
+			<question number="48" wordgiven="combination">
+				<text></text>
+				<text2><![CDATA[Applicants for the post need to demonstrate that they are both flexible and patient.<p></p><b>COMBINATION</b><p></p>Applicants for the post need to demonstrate <gap>a combination of flexibility and</gap> patience.]]></text2>
+			</question>
+			<question number="49" wordgiven="cutbacks">
+				<text></text>
+				<text2><![CDATA[The company is cutting back on its staff training budget.<p></p><b>CUTBACKS</b><p></p>The company is <gap>making cutbacks in</gap> its staff training budget.]]></text2>
+			</question>
+			<question number="50" wordgiven="our">
+				<text></text>
+				<text2><![CDATA[Although we all expected Elena to go to university, she decided not to.<p></p><b>OUR</b><p></p>Contrary <gap>to our expectations, Elena decided|to all our expectations, Elena decided</gap> not to go to university.]]></text2>
+			</question>
+		</section>
+</DOC>

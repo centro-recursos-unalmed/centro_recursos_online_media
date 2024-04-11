@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings>
+	<version><![CDATA[0.1]]></version>
+	<command_line>0</command_line>
+	<debug_mode>0</debug_mode>
+	<window>
+		<title_prefix><![CDATA[ Longman  iTest: CAE]]></title_prefix>
+		<!--<title_suffix><![CDATA[XML Viewer]]></title_suffix>-->
+		<launch_mode>0</launch_mode>
+		<minimize_box>1</minimize_box>
+		<maximize_box>1</maximize_box>
+		<close_box>1</close_box>
+		<resizeable>0</resizeable>
+	</window>
+	<flash>
+		<swf><![CDATA[shell]]></swf>
+		<scale>2</scale>
+		<!--
+			Scale constants
+			0 - Show All
+			1 - Exact Fit
+			2 - No Scale
+			3 - Auto Size
+		-->
+	</flash>
+</settings>

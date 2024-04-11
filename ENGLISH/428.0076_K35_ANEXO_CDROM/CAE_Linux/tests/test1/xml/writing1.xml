@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<DOC YPos="135">
+<section test="1" skill="writing" type="part1" navType="1" header="CAE Test 1: Writing Part 1" rubricClip="RubricBox_Big" templateType="FIBType_2"  maxWords="200" rubricLimit="180-220"assessed="false" XPos="15" YPos="125" navYPos="137" maxMark="1">
+			<rubric><![CDATA[You <b>must</b> answer this question. Write your answer in <b>180–220</b> words in an appropriate style.]]></rubric>
+
+			<question number="1">
+				<headerText><![CDATA[Last summer you worked for six months for a company that organises sports holidays abroad. Your friend Sam wants to do the same job this year, and has written to you asking for information and advice. Read the extract from Sam’s letter and your notes that you made at the time, and write a letter to Sam saying whether or not you would recommend the job with your reasons.]]></headerText>
+
+				<text><![CDATA[What do you think – should I go for the job? You know I love all sports and it would be great to organise them for other people! I’d like to try loads of different sports myself, too, and I think the work experience would look really good on my CV. Did it help you?<p></p><p></p>Sam<p></p><p></p><I>Everyday packed  – too much paperwork! In office the whole time – can’t do anything else.<p></p><p></p>Frustrated – only organising things for other people. No sport at all –  already two months in the job!<p></p><p></p>Organised marketing day. Good experience, and great to discover I had business skills. Demonstrated sports to clients, too!<p></p><p></p>Finally played some tennis! Not a great job for doing sport, though.</I><p></p><p></p>Now write your <b>letter</b> to your friend. You do not need to include postal addresses.]]>
+	</text>
+				<sampleAnswer><![CDATA[Dear Sam,
+Thanks for your letter – it was good to hear from you, and I was interested to hear that you are thinking of doing the same job I did last year!
+So would I really recommend the job? Let me tell you about it, and you can decide what to do. It’s not what you might think! There isn’t much sport involved, even though you are organising sports holidays; as you said that you wanted to try lots of different sports you wouldn’t like that aspect of it, and  I wouldn’t want you to get the wrong impression – I spent most of the time in the office doing paperwork! It was two whole months before I even got on to a tennis court. I also found it frustrating organising things for other people when I wanted to do them myself, and you might find the same thing. 
+There is a lot of organising to do which you said in your letter you thought would be great.  I do agree that the experience would look good on your CV – one of the things I had to do was organise a marketing day, which was a very good experience that has stood me in good stead since then.
+Why don’t you apply, have the interview and decide for yourself?
+Hope I’ve helped, and good luck,
+All the best
+Jack
+ (229 words)
+]]></sampleAnswer>
+			</question>
+		</section>
+
+		<section test="1" skill="writing" type="part2" navType="1" header="CAE Test 1: Writing Part 2" rubricClip="RubricBox_Big" templateType="FIBType_3" maxWords="280" rubricLimit="220–260" assessed="false" XPos="-310" YPos="115" navYPos="137" maxMark="1">
+			<rubric><![CDATA[Write an answer to <b>one</b> of the questions (<b>2, 3</b> or <b>4</b>) in this part. Choose the question you intend to answer by clicking on it. Write your answer in <b>220–260 words</b> in the text box.]]></rubric>
+			<question number="2">
+				<text ref="2">
+				<questionText><![CDATA[You see this announcement in an English language magazine.<br/><br/><b>It’s all due to the internet!</b><br/><br/>Calling all students – do you want to win a new computer? Send us an article explaining how using the internet has helped you make new friends, and how you think students might use the internet in the future for work and relaxation.]]></questionText>
+				<footerText><![CDATA[Write your <b>competition entry</b>.]]></footerText>
+				</text>
+				<sampleAnswer ref="2"><![CDATA[I love the internet!
+I was a bit sceptical about the internet at first – not because I didn’t think it was a great way of getting information, but because I couldn’t see many other uses for it. How wrong could I be!
+The internet has helped me to make so many new friends. I have joined on-line chat rooms where I have made friends in Japan, South America and other far-flung places. When I go out in the evenings I often exchange email addresses with new acquaintances, and they turn into friends later. And it’s not only new friends – I often email old friends that I might not otherwise keep contact with – sending an email is so quick and easy and not having to go out and post a letter makes such a difference. 
+I have now realised that the internet is the future for both work and play. The opportunities for using it to work from home are enormous – no more commuting costs and a cup of coffee on tap whenever I want it in my own kitchen! And surfing is such fun – there are now so many games that you can play on-line with people all over the world. And of course the huge amount of information that can be accessed on it means that it is perfect for study.
+But to do all that you need to have a good computer! So the possibilities I can see in the future of the internet means that I would make the very best use of a new laptop.
+ (260 words)
+]]></sampleAnswer>
+				<text ref="3">
+				<questionText><![CDATA[Your college is planning to develop some more self-study facilities for English language students and has asked you for a report outlining facilities currently available and how they are used, with recommendations for upgrading and improving them. Think about the room you can use, the popularity of books and paper-based worksheets and how computers might be used.]]></questionText>
+				<footerText><![CDATA[Write your <b>report</b>.]]></footerText>
+				</text>
+				<sampleAnswer ref="3"><![CDATA[<b>Background information</b>
+This report will outline the self-study facilities available to students at the moment and how they are used, based on student questionnaires, and recommend improvements to the facilities.
+<b>Current situation</b>
+The self-study centre is currently in a very small room with rather poor ventilation and light. Students tend to use it in the evenings, when the lighting problem is made worse. Although there is a good selection of books and worksheets, the photocopier is very slow and students waste a lot of time queuing to get pages copied for them so that they can work on them. There are only four computers with access to the internet, and these are very popular and it is difficult to use them because there is often a queue.
+<b>Recommendations</b>
+•	The self-study centre should be re-housed in a bigger room – the current student common room is under-used, and would be a better space.
+•	Although books clearly have an important place in study, and students should be able to borrow them and use them for reference, the future lies on-line. It would make sound economic sense to invest more money in computers and software for the centre. This would also ease the current frustration with the limited number of computers, and would be popular with students.
+•	The computers could also be used by teachers to prepare lessons, as well as by students doing their homework.
+<b>Conclusion</b>
+The self-study centre needs updating, and if the recommendations are followed it will be well-used and popular with students.
+(256 words)
+]]></sampleAnswer>
+				<text ref="4">
+				<questionText><![CDATA[An international magazine called <i>Film</i> is starting a regular column written by readers reviewing popular films. The magazine has asked readers to send in a review of a film they have enjoyed and think others would enjoy too, to be printed in the first column of the new regular feature.]]></questionText>
+				<footerText><![CDATA[Write your <b>review</b>.]]></footerText>
+				</text>
+				<sampleAnswer ref="4"><![CDATA[I am not really much of a film buff, but there are one or two films that I have really enjoyed and I watch again and again. One of these is ‘Back to the Future’.
+It’s now quite an old film, but has become very much a cult item and is considered by many to be a classic. The story concerns a young man whose inventor friend builds a time machine in the shape of a Delorean car. After going back in time, Marty Mcfly has to make sure that certain things do or don’t happen in the past in order to secure his own future – which is now the present.
+At the time, the film was quite revolutionary both in terms of the story and the special effects. There are many reasons for its continuing success, and why I would recommend it to your readers. The central character is sympathetic, and very well-portrayed by Michael J Fox – you really care what happens to him. There is a lot of humour throughout, especially in the character of the inventor and in the way he talks about things, and in Mcfly’s own humour.  Finally there is a great deal of suspense as it is difficult to predict what will happen not only at the very end but almost minute by minute.
+It is certainly a film that anyone can watch time and time again, and still see something new. It deserves to be featured in your magazine column, and I would recommend it to all ages.
+(255 words)
+]]></sampleAnswer>
+
+			</question>
+		</section>
+</DOC>

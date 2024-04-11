@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSPY v2004 rel. 3 U (http://www.xmlspy.com) by Jethro (XYZ) -->
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" attributeFormDefault="unqualified">
+  <xs:element name="Installer">
+    <xs:annotation>
+      <xs:documentation>Root element</xs:documentation>
+    </xs:annotation>
+    <xs:complexType>
+      <xs:all>
+        <xs:element name="Caption">
+          <xs:annotation>
+            <xs:documentation>The installers caption.</xs:documentation>
+          </xs:annotation>
+        </xs:element>
+        <xs:element name="WelcomeText">
+          <xs:annotation>
+            <xs:documentation>Text to appear on the welcome screen.</xs:documentation>
+          </xs:annotation>
+        </xs:element>
+        <xs:element name="LicenseText">
+          <xs:annotation>
+            <xs:documentation>The license text.</xs:documentation>
+          </xs:annotation>
+        </xs:element>
+        <xs:element name="AppName">
+          <xs:annotation>
+            <xs:documentation>The applications name.</xs:documentation>
+          </xs:annotation>
+        </xs:element>
+        <xs:element name="EXEPath">
+          <xs:annotation>
+            <xs:documentation>The PC exe path relative to the CD root. Needed for shortcut creation.</xs:documentation>
+          </xs:annotation>
+        </xs:element>
+        <xs:element name="LocationText">
+          <xs:annotation>
+            <xs:documentation>The text to prompt the user to choose a location for installation.</xs:documentation>
+          </xs:annotation>
+        </xs:element>
+        <xs:element name="OSXEXEPath">
+          <xs:annotation>
+            <xs:documentation>The path of the OSX application. Needed for run from CD option in the installer.</xs:documentation>
+          </xs:annotation>
+        </xs:element>
+        <xs:element name="OS9EXEPath">
+          <xs:annotation>
+            <xs:documentation>The path of the OS9 application. Needed for run from CD option in the installer.</xs:documentation>
+          </xs:annotation>
+        </xs:element>
+        <xs:element name="ShortcutPath">
+          <xs:annotation>
+            <xs:documentation>The path, relative to the systems start/programs folder to install shortcuts to.</xs:documentation>
+          </xs:annotation>
+        </xs:element>
+        <xs:element name="DefaultProgramPath" />
+        <xs:element name="LaunchScript" minOccurs="0"/>
+        <xs:element name="RunFromCD" minOccurs="0" type="xs:boolean"/>
+      </xs:all>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

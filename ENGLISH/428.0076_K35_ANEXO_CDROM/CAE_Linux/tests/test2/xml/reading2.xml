@@ -1,0 +1,416 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<DOC YPos="135">
+	<section test="2" skill="reading" header="CAE Test 2: Reading Part 1" type="part1" navType="3" rubricClip="RubricBox_Big" templateType="PairedMCQScrolling" assessed="true" XPos="7" YPos="160" navYPos="137" maxMark="1">
+			<rubric><![CDATA[You are going to read three extracts which are concerned in some way with tourism. For questions <b>1–6</b>, choose the answer (<b>A</b>, <b>B</b>, <b>C</b> or <b>D</b>) which you think fits best according to the text.]]></rubric>
+			<title><![CDATA[<b>On Safari</b>]]></title>
+			<text><![CDATA[I didn't know what had awakened me. Just that there was a loud, deep panting outside my tent. As it became slower and quieter, the thought crossed my mind that this was exactly what an out-of-breath lion must sound like. I lay dead still, practising minimalist breathing. When it finally recovered its puff and subsided into inaudibility (as opposed to moving out of earshot) realised I had a problem. For the rest of the night, I would have no way of knowing whether it was still outside or had just, silently padded away. It seemed a jolly long night. But I wouldn't have missed it for anything.<p></p><p></p>'Yes,' said Chris, our tour leader, as we sat around the fire drinking early-morning tea. 'It was a lion okay. I heard it too. He'd probably been chasing one of the giraffes.' I'd got quite used to giraffes peeping over the camp. They and other herbivores had figured out that they were safer from nocturnal predators around humans – or so they thought.<p></p><p></p>This, I reflected later that morning, was an Africa I had never expected to see again. For here we were in Southern Tanzania, just a few of us bumping around in a Land Rover, alone among the animals through mile after mile of lush countryside, its pastures and woodlands set against a bruised backdrop of mountains, and all without another tourist vehicle in sight for days on end.]]></text>
+			<question number="1" correct="2" Pair="2">
+				<text>How does the writer feel now about the night she describes?</text>
+				<choice id="A">proud of how calm she remained</choice>
+				<choice id="B">pleased to have had the experience</choice>
+				<choice id="C">surprised to have been proved right</choice>
+				<choice id="D">relieved to have survived it unharmed</choice>
+			</question>
+			<question number="2" correct="4" Pair="1">
+				<text>In the final paragraph, it is suggested that</text>
+				<choice id="A">the writer had not previously been to Africa.</choice>
+				<choice id="B"><![CDATA[the writer's reason for being there was not tourism.]]></choice>
+				<choice id="C">the writer would have preferred more human contact.</choice>
+				<choice id="D">the writer's trip was unlike others currently on offer.</choice>
+			</question>
+			<title><![CDATA[<b>The Golden Show goes on</b>]]></title>
+			<text><![CDATA[There's less to San Francisco, an old joke says, than meets the eye. There could hardly be more! To enter the city across the burnished sweep of the Golden Gate Bridge, out of the northern California hills, is one of the most sumptuous experiences of all travel. No foreigners saw the site of this metropolis until the 1770s, and all the generations who missed it must justifiably feel deprived. Even visually, of course, not everything is perfect. San Francisco has its dull sprawling suburbs, running away over the contours like scales on a reptile's back. Like anywhere else, it has its slums and its derelict patches and its monotonous back streets.<p></p><p></p>More than in most cities, though, beauty keeps breaking in. Built disorientingly over a cluster of precipitous hills, with the ocean one side and on the other the rambling sea inlet called San Francisco Bay, this is a place of glimpses, tantalising snatches of sea, sky or countryside displayed at the end of city streets as in a stylised film set. To everyday life in San Francisco, too, there is often a theatrical quality in fact. Opening a window early in the morning on Nob Hill, high above Chinatown in the heart of the city, reveals a scene that seems long rehearsed. It is as though the act of drawing back the curtains has set a civic performance in motion.]]></text>
+			<question number="3"  correct="1" Pair="4">
+				<text>The writer mentions the old joke about San Francisco in order to emphasise</text>
+				<choice id="A">how impressive it seems at first glance.</choice>
+				<choice id="B">how much like other cities it is in reality.</choice>
+				<choice id="C">how it fails to live up to people's expectations.</choice>
+				<choice id="D">how its outward appearance can be misleading.</choice>
+			</question>
+			<question number="4"  correct="2" Pair="3">
+				<text>In the second paragraph, the writer suggests that the beauty of San Francisco</text>
+				<choice id="A">seems to have little effect on people's everyday lives.</choice>
+				<choice id="B">owes a great deal to the city's physical location.</choice>
+				<choice id="C">has been over-exploited by the film industry.</choice>
+				<choice id="D">diminishes if you see it too often.</choice>
+			</question>
+			<title><![CDATA[<b>Extract from a magazine article</b>]]></title>
+			<text><![CDATA[It seems to be that the more people want to visit a precious and fascinating sight, the less precious and fascinating it tends to become. Take the example of Uluru, more commonly known as Ayer's Rock by the tourists who flock to this Australian landmark in their hordes, ostensibly to see the view and the ancient rock paintings. Ulura is a sacred place to the indigenous Aboriginal peoples; they describe the rock as a cathedral, holding the spirits of their ancestors. This makes for an uneasy relationship with some visitors, whose connection with the place is often fleeting and superficial. Coming and seeing is one thing, but all too often damage, graffiti and acts of mindless vandalism are in evidence. One man spray painted his name 'Big Dave' in large letters across the rock, for example (this particular individual eventually got his comeuppance, however; he'd signed his name as Big Dave in the park's visitor book, complete with his home address!), and theft is also a problem. The park authorities also get lots of what they call 'sorry' letters from people returning lumps of the rock to them, having become convinced that the stolen stones have brought them misfortune. It can only be assumed that these represent the tip of an iceberg.]]></text>
+			<question number="5" correct="3" Pair="6">
+				<text>According to the writer, most people who visit Uluru</text>
+				<choice id="A">find the experience spiritually rewarding.</choice>
+				<choice id="B">are sympathetic to the feelings of local inhabitants.</choice>
+				<choice id="C">have little genuine interest in what they have come to see.</choice>
+				<choice id="D">fail to appreciate the historical significance of the ancient rock art.</choice>
+			</question>
+			<question number="6" correct="3" Pair="5">
+				<text>In what way might the 'sorry' letters received at Uluru be 'the tip of an iceberg'?</text>
+				<choice id="A">They illustrate people's true feelings about the place.</choice>
+				<choice id="B">They provide an insight into how attitudes are changing.</choice>
+				<choice id="C">They suggest that vandalism and theft are actually quite common.</choice>
+				<choice id="D">They show that people often regret the way they behave as tourists.</choice>
+			</question>
+		</section>
+	<section test="2" skill="reading" type="part2" header="CAE Test 2: Reading Part 2" navType="2" rubricClip="RubricBox_Big" templateType="MCQType_8" assessed="true" XPos="9" YPos="139" maxMark="1">
+		<rubric><![CDATA[You are going to read an article about technological change and how it might affect us in the future. Six paragraphs have been removed from the article. Choose from the paragraphs <b>A–G</b> the one that fits each gap (<b>7–12</b>). There is one extra paragraph you do not need to use.]]></rubric>
+		<title><![CDATA[<p></p><b> Is Reality on the way out?</b>]]></title>
+		<text><![CDATA[  A spirit of futuristic gloom seems to be overtaking Britain's leading scientists. In his book <i>Our Final Century,</i> the astronomer Martin Rees has argued that humanity had only a 50 per cent chance of surviving to 2100. And Susan Greenfield, the country's best-known neuroscientist, has published <i>Tomorrow's</i> <i> People,</i> a passionate warning that human individuality itself stands to be obliterated by developments in science and technology over the next one hundred years. <p></p><p></p><b>7 </b><gap type='dropdown'>7</gap> <p></p><p></p>What's more, everything is made from smart materials that can change their colour, shape and feel. Home, in this imagined world, is an extension of the individual's own mind and body, with constant access to a collective network of data on the minutiae of everyone else's daily life; no one worries about privacy any longer. <p></p><p></p><b>8 </b><gap type='dropdown'>8</gap> <p></p><p></p>As you would expect from a communicator as good as Greenfield, <i>Tomorrow's People</i> is eminently readable. Unfortunately, it is also entirely unconvincing. Saying this puts me immediately into the camp she calls 'the Cynics', who see little point in dusting down the crystal ball because people are so bad at foreseeing the future.<p></p><b>9 </b><gap type='dropdown'>9</gap> <p></p><p></p>After pointing out these failings of past predictions, Greenfield does little to reassure us that hers will be more worthwhile. All she can do is quote the physicist Michio Kaku as saying the problem with most attempts in the past 'is that it hasn't been the scientists themselves making the predictions. Now they are in a very strong position to do so.' <p></p><p></p><b>10 </b><gap type='dropdown'>10</gap> <p></p><p></p>Greenfield may be a fine thinker and academic, but why should she grasp the future of computing and nanotechnology any better than you or I? I agree with her that we cannot assume humanity will somehow muddle through the 21st century. As she says, 'We must be proactive and set the agenda for what we want and need from such rapid technical advances; only then shall we, our children and our grandchildren come to have the best life possible.' But I do not accept her basis for action.<p></p><p></p><b>11 </b><gap type='dropdown'>11</gap> <p></p><p></p>For Greenfield the consequence of all these advances would be homogenisation. A herd instinct would make everyone look and think the same. Traditional families would wither away and distinctions between generations would break down, as children, parents and grandparents lost their specific roles. <p></p><p></p><b>12 </b><gap type='dropdown'>12</gap> <p></p><p></p>Human history suggests that individuality increases with advances in health, wealth and technology – and Greenfield produces no evidence that this trend is suddenly about to reverse itself. Indeed, <i>Tomorrow's People</i> increased my eager anticipation of life to come. 'The bottom line of this book is that the private ego is the most precious thing we each have,' Greenfield writes. She need not worry. The ego will flourish in tomorrow's wonderful cyber-world.]]></text>
+		<ReferencePoints>
+			<point>
+				<id><![CDATA[<b>A</b>]]></id>
+				<text><![CDATA[This virtual world of dreams and shadows – artificial images, sounds, textures and smells – smothers the notion of individual selves. Everyone's mind and body will be pervaded by bionic implants and altered by genetic engineering. Eventually, Greenfield says, we will have to question the meaning of life itself.]]></text>
+			</point>
+			<point>
+				<id><![CDATA[<b>B</b>]]></id>
+				<text><![CDATA[Putting aside this reservation for a moment, however, let us assume that the technological and scientific scenario she puts forward in <i>Tomorrow's People</i> is broadly correct. Immense advances in computing and communication will enable anyone to connect to a ubiquitous cyber-world far more powerful than we can imagine today. Intelligent materials will allow us to design the clothes and surroundings we want, and medicine will reach the stage where no one fears serious illness or death until extreme old age.]]></text>
+			</point>
+			<point>
+				<id><![CDATA[<b>C</b>]]></id>
+				<text><![CDATA[Greenfield is quick to refute this, however. 'It's just a personal vision,' she says, 'of how life will have changed for everyone by then. It wasn't put together by a team of scientists.<p></p><p></p>]]></text>
+			</point>
+			<point>
+				<id><![CDATA[<b>D</b>]]></id>
+				<text><![CDATA[For what Greenfield imagines is that by the end of that period, we will be living in a world where 'reality' loses its meaning; everyone lives in a highly interactive environment in which invisible computers are ubiquitous – embedded in our clothing, our furniture and indeed in all man-made objects.<p></p><p></p>]]></text>
+			</point>
+			<point>
+				<id><![CDATA[<b>E</b>]]></id>
+				<text><![CDATA[As an optimist, I draw exactly the opposite conclusion about personal relationships from the same technological scenario. I think the new freedoms and possibilities of the 21st century will liberate the mind to express its individuality in a way that has never been possible before.<p></p><p></p>]]></text>
+			</point>
+			<point>
+				<id><![CDATA[<b>F</b>]]></id>
+				<text><![CDATA[However, I do not see why those of today should be better placed to make them than their 20th-century predecessors. Indeed, the fragmentation of science into different disciplines has probably made it harder, if anything.<p></p><p></p>]]></text>
+			</point>
+			<point>
+				<id><![CDATA[<b>G</b>]]></id>
+				<text><![CDATA[Greenfield herself concedes: 'The chances are, glancing at the track record of our predecessors, that pretty much any vision of the future anyone conjures up now will be either impractical or uninspired.' Futurists go in either for banal extrapolations of well-known trends or off-the-wall fantasies. Very few foresaw the rapid take-up of new technologies such as powered flight, personal computers, mobile phones and the internet.]]></text>
+			</point>
+		</ReferencePoints>
+		<question number="7" correct="4">
+			<choices>
+				<choice id="1"> A </choice>
+				<choice id="2"> B </choice>
+				<choice id="3"> C </choice>
+				<choice id="4"> D </choice>
+				<choice id="5"> E </choice>
+				<choice id="6"> F </choice>
+				<choice id="7"> G </choice>
+			</choices>
+		</question>
+		<question number="8" correct="1">
+			<choices>
+				<choice id="1"> A </choice>
+				<choice id="2"> B </choice>
+				<choice id="3"> C </choice>
+				<choice id="4"> D </choice>
+				<choice id="5"> E </choice>
+				<choice id="6"> F </choice>
+				<choice id="7"> G </choice>
+			</choices>
+		</question>
+		<question number="9" correct="7">
+			<choices>
+				<choice id="1"> A </choice>
+				<choice id="2"> B </choice>
+				<choice id="3"> C </choice>
+				<choice id="4"> D </choice>
+				<choice id="5"> E </choice>
+				<choice id="6"> F </choice>
+				<choice id="7"> G </choice>
+			</choices>
+		</question>
+		<question number="10" correct="6">
+			<choices>
+				<choice id="1"> A </choice>
+				<choice id="2"> B </choice>
+				<choice id="3"> C </choice>
+				<choice id="4"> D </choice>
+				<choice id="5"> E </choice>
+				<choice id="6"> F </choice>
+				<choice id="7"> G </choice>
+			</choices>
+		</question>
+		<question number="11" correct="2">
+			<choices>
+				<choice id="1"> A </choice>
+				<choice id="2"> B </choice>
+				<choice id="3"> C </choice>
+				<choice id="4"> D </choice>
+				<choice id="5"> E </choice>
+				<choice id="6"> F </choice>
+				<choice id="7"> G </choice>
+			</choices>
+		</question>
+		<question number="12" correct="5">
+			<choices>
+				<choice id="1"> A </choice>
+				<choice id="2"> B </choice>
+				<choice id="3"> C </choice>
+				<choice id="4"> D </choice>
+				<choice id="5"> E </choice>
+				<choice id="6"> F </choice>
+				<choice id="7"> G </choice>
+			</choices>
+		</question>
+	</section>
+	<section test="2" skill="reading" type="part3" header="CAE Test 2: Reading Part 3" navType="1" rubricClip="RubricBox_Big" templateType="MCQType_4" assessed="true" XPos="-236" YPos="132" maxMark="1">
+			<rubric><![CDATA[You are going to read an article about an artist. For questions <b>13–19</b>, choose the best answer (<b>A</b>, <b>B</b>, <b>C</b> or <b>D</b>) which you think fits best according to the text.]]></rubric>
+			<title><![CDATA[<p></p><b> The Star without a Face</b><p></p>]]></title>
+			<text><![CDATA[In the mid 1990s, when stencilled images by the graffiti artist known as Banksy started to pop up overnight on walls, bridges and other public spaces across UK cities, they were hastily painted over or scrubbed off by local authorities and <b>disgruntled</b> residents. Now those in possession of a blank wall may well be crossing their fingers that the invisible street artist, known for his subversive designs and comments, will pay them a visit in the wee hours. <b>This</b> is not representative of a general swing in attitude towards graffiti but is specific to the popular thirty-something Bristolian spray-painter, who has become the contemporary art market's darling – a 'Banksy' on the side of your house may well increase the value of your property.<p></p><p></p>In 2003, the art dealers Bonhams were the first to dare to sell a Banksy at auction; it fetched £580. In 2006, Bonhams sold one on behalf of an anonymous vendor for more than a hundred times that amount – it was a spray-on-steel work featuring an embracing couple wearing divers' helmets that had been used on the cover of an album by the pop group <i>Blur</i>.  The sale hit headlines everywhere and the chunky lettering of the artist's sprayed name tag – once iconic to teenage graffiti-heads only – became a sought-after brand in UK contemporary art circles. 'The sale was packed out,' says Bonhams' Emma Cork. 'It was attended mainly by young wealthy media types under forty.' Other sales followed as owners of early works by Banksy – often people who bought from the artist himself for only a few hundred pounds – were keen to seize the moment.<p></p><p></p>The artist, however, was not present at any of his sales. As far as anyone knows, that is. All dealings with the auction houses have been via his agent of five years, Steve Lazarides. While Banksy's name proliferates in the press almost nobody knows who he is (even his mother and father apparently think he is just an ordinary painter and decorator). This anonymity is a hangover from his early days tagging in Bristol when remaining incognito was the only way to avoid arrest, and indeed he is still an authentic graffiti pest who regularly adorns public property across the UK. In addition to this urban al fresco work, he is also known for his pranks. For example, he has shown his disregard for the art establishment by smuggling examples of his work into major UK and US galleries. His hoax cave painting, which showed a primitive man pushing a shopping trolley, was on display for two days in the British Museum before it was discovered. It now  forms part of the permanent collection. 'They are good enough to be in there – so I don't see why I should wait,' he commented.<p></p><p></p>Banksy's stunts are not only for fun, or to make a point, they are also a maverick form of marketing, assuring maximum media coverage and public excitement. Banksy whipped the art scene into a frenzy by casually announcing on his website that he was to hold a three-day exhibition entitled <i>Barely Legal</i> in a Los Angeles warehouse. The opening night was surprisingly star-encrusted; Brad Pitt and Angelina Jolie reportedly spent £200,000. It has since been revealed, however, that the supposedly spontaneous show had been planned for six months.<p></p><p></p>It seems that, by his wrongdoings, Banksy can do no wrong. This should ensure that the value of his works continues to escalate. But with unauthorised Banksy stencil kits for sale on the internet and his unwillingness to reveal his identity, surely it is tough for dealers and auction houses to know a real Banksy when they see one? Chairman of contemporary art at Sotheby's auction house, Cheyenne Westphal, explains that this is not the case: Banksy's agent, Lazarides, authenticates all real Banksys with a thumb-printed certificate. Whether it is Banksy's own smudge or not, Westphal doesn't know. This is Banksy and Lazarides' attempt to keep the artist's commercial art (mainly stencil-on-canvas work and vandalised oils) separate from his street art, which they wish to remain free for all. But there is no doubt that Banksy's status has shifted. While he still keeps one foot in the street – which saves him from selling out in the eyes of the graffiti community – the other is making its mark on the lucrative world of contemporary art.]]></text>
+
+			<question number="13" correct="4">
+				<text><![CDATA[The word '<b>disgruntled</b>' in line 4 suggests that at first Banksy's work]]></text>
+				<choice>failed to please those who had paid for it.</choice>
+				<choice>wasn't recognised as his work by some people.</choice>
+				<choice>did not attract the attention of serious art collectors.</choice>
+				<choice>was a source of irritation for those who had to live with it.</choice>
+			</question>
+
+			<question number="14" correct="2">
+				<text><![CDATA[The word '<b>This</b>' in line 7 refers to]]></text>
+				<choice>a shift in attitudes towards graffiti</choice>
+				<choice>changing reactions to the artist's work.</choice>
+				<choice>the emergence of a new style of street art.</choice>
+				<choice>the subversive nature of the artist's designs.</choice>
+			</question>
+
+			<question number="15"  correct="2">
+				<text><![CDATA[In second paragraph, what do we learn about the original owners of Banksy's early works?]]></text>
+				<choice>They are often graffiti artists themselves.</choice>
+				<choice>They are ready to cash in on his popularity.</choice>
+				<choice>They are mainly people who work in the media.</choice>
+				<choice>They are usually unwilling to disclose their identities.</choice>
+			</question>
+
+			<question number="16"  correct="1">
+				<text><![CDATA[In the third paragraph, the writer suggests that Banksy prefers to remain anonymous because ]]></text>
+				<choice>it means he can still produce genuine graffiti art.</choice>
+				<choice>it allows him to continue living in his home area.</choice>
+				<choice>it is part of a marketing strategy devised by his agent.</choice>
+				<choice>it prevents his parents from discovering what he really does.</choice>
+			</question>
+
+			<question number="17" correct="3">
+				<text><![CDATA[The writer tells us about the prank at the British Museum to show that Banksy]]></text>
+				<choice>accepts that his art may not appeal to those visiting such galleries.</choice>
+				<choice>realises that his work does not really belong in famous art galleries.</choice>
+				<choice>doesn't have much respect for the people running famous art galleries.</choice>
+				<choice>suspects that people don't pay much attention to art exhibited in galleries.</choice>
+			</question>
+
+			<question number="18" correct="4">
+				<text><![CDATA[Why does the writer mention Banksy's exhibition in Los Angeles?]]></text>
+				<choice>To emphasise how influential his website is.</choice>
+				<choice>To demonstrate the role of the media in his success.</choice>
+				<choice>To show how much celebrities have increased his appeal.</choice>
+				<choice>To illustrate how effective he is at promoting his own work.</choice>
+			</question>
+
+			<question number="19" correct="3">
+				<text><![CDATA[In the final paragraph, the writer suggests that Banksy]]></text>
+				<choice>should do more to prevent people copying his work.</choice>
+				<choice>ought to do more to help dealers authenticate his work.</choice>
+				<choice>is concerned to maintain his credibility as a street artist.</choice>
+				<choice>is more interested in making a point than in making money.</choice>
+			</question>
+		</section>
+	<section test="1" skill="reading" header="CAE Test 2: Reading Part 4" type="part4" navType="2" rubricClip="RubricBox_Small" templateType="PairedDropDown" assessed="true" XPos="70" YPos="142" navYPos="105" maxMark="1">
+		<rubric><![CDATA[You are going to read an article about arts awards ceremonies. For questions <b>20–34</b>, choose from the women (<b>A–D</b>). The women may<br />be chosen more than once.]]></rubric>
+		<textTitle textAlign="center"><![CDATA[<b>And the Winner is....</b><p></p><i>In various branches of the arts and entertainment, the annual awards ceremony is now a key event</i><p></p><p></p><b>A  </b>TV audiences love moments of revelation and few match the one when it all goes quiet, save for the rustle of an envelope and the words: 'And the winner is...' Awards shows work every time because they invite drama, controversy and stellar performances, even if it's only a famous person tripping on the stairs or unwittingly snubbing a rival in an acceptance speech. Meanwhile the shows are selling both a product and TV itself. But when the organiser's priority is maximising the celebrity factor, the result may be deals struck behind the scenes, possibly at the expense of the recognition of new or genuine talent. <p></p><p></p><b>B  </b> The one awards event that has maintained its reputation as above such manipulation is also the most prestigious; Hollywood's Academy Awards or <b><i>Oscars</i></b> as they are more commonly known. The voting system used is complex, with most technical categories being decided by one  branch (i.e. the cinematographers' branch votes for nominees for best cinematography, etc.) and then the general membership (between 5,000 and 7,000) voting on the final nominations list to determine the bigger categories. The process is overseen by a firm of accountants and nobody knows they've won until the envelope is opened. Genuinely. And it is precisely because the <b><i>Oscars</i></b> remain inviolate that film companies instead concentrate their promotional tactics on rival events like <b><i>The Golden Globes</i></b> which are strategically staged during the Academy's voting period and in recent years have played a key role in alerting Academy voters to which films they should try to see. The event's ability to predict, even pre-empt, the outcome of the larger prize has increased its own standing.<p></p><p></p><b>C  </b> A jury system, is used to pick the winner of awards like the <b><i>Booker Prize</i></b> in literature and the <b><i>Mercury Music Prize,</i></b> the latter having a floating panel of the 'great and the good' under a permanent chairperson. This approach has been adopted by other prestige awards shows with varying degrees of conviction. <b><i>The Mercury Prize</i></b> has built the standing it enjoys today on a reputation for the utmost integrity. It's routinely described as the most honourable of music awards shows, the industry's equivalent in status to the <b><i>Oscars</i></b> – and on first look, the voting methods would seem to bear that view out. The <b><i>Mercurys</i></b> work on the basis that only two types of music exist: good and bad. In this way its judges, who sift through upwards of 400 CDs each year, seek to compare modern classical, jazz, folk, pop, rock, hip hop, soul and all the sub-divisions of heavy metal. The nominations work like this: An independent panel of judges selects the 12 albums of the year and then meets again on the night of the show in September, to choose the overall winner of the prize. 'The music is the only thing the judges discuss' – or so the story goes. But while it trades on eclecticism, the Mercury is, at its heart, tokenist. The classical and folk and jazz albums are included every year, but never seem to win.<p></p><p></p><b>D  </b> Experienced committee chairpersons rarely ask for a vote without first ensuring the outcome. The chairman of the <b><i>Turner Prize jury</i></b>, instituted in 1984 to promote contemporary art, officially has no more power in terms of awarding the prize than anyone else on the panel, though nobody believes this. The manipulation with the <b><i>Turner</i></b>, according to Tracy Emin who was shortlisted in 1999 for her work entitled <i>My Bed</i>, is there in the in-crowd nature of art. In Emin's take on the process, the four judges nominate four individuals they want to win. Then one judge says: 'I'm not having person X on the shortlist – over my dead body'. The second one replies: 'In that case, you can't have so-and-so', and so on until you end up with a watered-down list of artists, that at least none of them objects to – but they may not be the artists any of the judges originally wanted. And of course, as with any prize awarded by a panel of judges, the organisers are free to select the judges who'll give them the kind of winner they want.<p></p><p></p><b>E  </b>Former judge Erica Wagner says the way in which the <b><i>Booker Prize</i></b> winner is chosen is 'part literature, part horse-trading, part personal chemistry'. The prize was set up in 1969 to encourage an interest in contemporary quality fiction, and aims to reward the best novel of the year. Judges are selected from critics, writers and academics and the winner receives £50,000 and a guaranteed worldwide audience. A panel of five or six experts shortlist around 120 titles – often complaining bitterly about having to read all of them within tight deadlines. But the <b><i>Booker</i></b> is probably the most important marketing tool for literary fiction in English, and publishers are only allowed to submit two books each, plus any by a previous winner. Fine, you might think. But some well-known authors are asking for a 'must submit' clause in their book contracts which means the publisher's choice is further reduced. Less obvious authors can only hope to get on the list via hint and hype. <p></p><p></p>According to the article, which award or set of awards  .... <p></p><p></p>A    The Oscars<p></p>B    The Golden Globes<p></p>C    The Mercury Prize<p></p>D    The Turner Prize<p></p>E    The Booker Prize<p></p><p></p>]]></textTitle>
+		<text><![CDATA[According to the article, which award or set of awards  .... <p></p><p></p>A    The Oscars<p></p>B    The Golden Globes<p></p>C    The Mercury Prize<p></p>D    The Turner Prize<p></p>E    The Booker Prize<p></p><p></p>is said to put its judges under a degree of time pressure?<b>20 </b><gap type='dropdown'>20</gap><p></p><p></p>is awarded following a compromise amongst its judges? <b>21 </b><gap type='dropdown'>21</gap><p></p><p></p>is seen as influencing the outcome of a more highly-regarded event? <b>22 </b><gap type='dropdown'>22</gap><p></p><p>is inclined to favour certain branches of its industry?<b>23 </b><gap type='dropdown'>23</gap><p></p><p></p>is judged according to a complicated procedure? <b>24 </b><gap type='dropdown'>24</gap><p></p><p></p>is becoming less accessible to new talent? <b>25 </b><gap type='dropdown'>25</gap><p></p><p></p>is judged by a group of leading authorities in the industry? <b>26 </b><gap type='dropdown'>26</gap><p></p><p></p>is favourably compared to an award in another industry.<b>27 </b><gap type='dropdown'>27</gap><p></p><p></p>is strongly influenced by one individual amongst the judges? <b>28 </b><gap type='dropdown'>28</gap><p></p>is monitored by a body which is not directly involved in the industry? <b>29 </b><gap type='dropdown'>29</gap><p></p>is affecting the agreements that potential winners have with companies? <b>30 </b><gap type='dropdown'>30</gap><p></p>is able to keep its results completely confidential until the ceremony itself? <b>31 </b><gap type='dropdown'>31</gap><p></p>is able to rely on specialist knowledge when drawing up certain shortlists? <b>32 </b><gap type='dropdown'>32</gap><p></p>is said to benefit from a careful choice of timing?<b> 33 </b><gap type='dropdown'>33</gap><p></p>is organised so that final decisions are not made in advance of the event? <b> 34 </b><gap type='dropdown'>34</gap><br></br>]]></text>
+		<question number="20" correct="5" totalQuestion="15">
+			<choices>
+				<choice id="1">A</choice>
+				<choice id="2">B</choice>
+				<choice id="3">C</choice>
+				<choice id="4">D</choice>
+				<choice id="5">E</choice>
+			</choices>
+			<text></text>
+			<ansHint>B</ansHint>
+			<text2><![CDATA[realises how fortunate she was to find an effective way of promoting her products?<gap>A</gap>]]></text2>
+		</question>
+		<question number="21" correct="4">
+			<choices>
+				<choice id="1">A</choice>
+				<choice id="2">B</choice>
+				<choice id="3">C</choice>
+				<choice id="4">D</choice>
+				<choice id="5">E</choice>
+			</choices>
+			<text></text>
+			<ansHint>A</ansHint>
+			<text2><![CDATA[The financial success that can result from sporting intelligence.<gap>B</gap>]]></text2>
+		</question>
+		<question number="22" correct="2">
+			<choices>
+				<choice id="1">A</choice>
+				<choice id="2">B</choice>
+				<choice id="3">C</choice>
+				<choice id="4">D</choice>
+				<choice id="5">E</choice>
+			</choices>
+			<text></text>
+			<ansHint>D</ansHint>
+			<text2><![CDATA[An unpromising social background for an exceptional person.<gap>C</gap>]]></text2>
+		</question>
+		<question number="23" correct="3">
+			<choices>
+				<choice id="1">A</choice>
+				<choice id="2">B</choice>
+				<choice id="3">C</choice>
+				<choice id="4">D</choice>
+				<choice id="5">E</choice>
+			</choices>
+			<text></text>
+			<ansHint>B</ansHint>
+			<text2><![CDATA[A passionate belief that certain attitudes are misguided.<gap>D</gap>]]></text2>
+		</question>
+		<question number="24" correct="1">
+			<choices>
+				<choice id="1">A</choice>
+				<choice id="2">B</choice>
+				<choice id="3">C</choice>
+				<choice id="4">D</choice>
+				<choice id="5">E</choice>
+			</choices>
+			<text></text>
+			<ansHint>B</ansHint>
+			<text2><![CDATA[Evidence that some people's view of intelligence is becoming broader.<gap>E</gap>]]></text2>
+		</question>
+		<question number="25" correct="5">
+			<choices>
+				<choice id="1">A</choice>
+				<choice id="2">B</choice>
+				<choice id="3">C</choice>
+				<choice id="4">D</choice>
+				<choice id="5">E</choice>
+			</choices>
+			<text></text>
+			<ansHint>D</ansHint>
+			<text2><![CDATA[A comparison between football and another type of competition.<gap>F</gap>]]></text2>
+		</question>
+		<question number="26" correct="3">
+			<choices>
+				<choice id="1">A</choice>
+				<choice id="2">B</choice>
+				<choice id="3">C</choice>
+				<choice id="4">D</choice>
+				<choice id="5">E</choice>
+			</choices>
+			<text></text>
+			<ansHint>A</ansHint>
+			<text2><![CDATA[A growing acceptance of the value of sporting intelligence in one country.<gap>G</gap>]]></text2>
+		</question>
+		<question number="27" correct="3">
+			<choices>
+				<choice id="1">A</choice>
+				<choice id="2">B</choice>
+				<choice id="3">C</choice>
+				<choice id="4">D</choice>
+				<choice id="5">E</choice>
+			</choices>
+			<text></text>
+			<ansHint>C</ansHint>
+			<text2><![CDATA[The response to an impressive first public appearance.<gap>H</gap>]]></text2>
+		</question>
+		<question number="28" correct="4">
+			<choices>
+				<choice id="1">A</choice>
+				<choice id="2">B</choice>
+				<choice id="3">C</choice>
+				<choice id="4">D</choice>
+				<choice id="5">E</choice>
+			</choices>
+			<text></text>
+			<ansHint>B</ansHint>
+			<text2><![CDATA[Research carried out into an exceptional individual's ability.<gap>I</gap>]]></text2>
+		</question>
+		<question number="29" correct="1">
+			<choices>
+				<choice id="1">A</choice>
+				<choice id="2">B</choice>
+				<choice id="3">C</choice>
+				<choice id="4">D</choice>
+				<choice id="5">E</choice>
+			</choices>
+			<text></text>
+			<ansHint>A</ansHint>
+			<text2><![CDATA[A top sportsperson unfairly criticised for his lack of other abilities.<gap>J</gap>]]></text2>
+		</question>
+		<question number="30" correct="5">
+			<choices>
+				<choice id="1">A</choice>
+				<choice id="2">B</choice>
+				<choice id="3">C</choice>
+				<choice id="4">D</choice>
+				<choice id="5">E</choice>
+			</choices>
+			<text></text>
+			<ansHint>A</ansHint>
+			<text2><![CDATA[The view that some forms of intelligence go unrecognised by educational establishments. <gap>K</gap>]]></text2>
+		</question>
+		<question number="31" correct="1">
+			<choices>
+				<choice id="1">A</choice>
+				<choice id="2">B</choice>
+				<choice id="3">C</choice>
+				<choice id="4">D</choice>
+				<choice id="5">E</choice>
+			</choices>
+			<text></text>
+			<ansHint>C</ansHint>
+			<text2><![CDATA[An ability to foresee the consequences of a particular action. <gap>L</gap>]]></text2>
+		</question>
+		<question number="32" correct="1">
+			<choices>
+				<choice id="1">A</choice>
+				<choice id="2">B</choice>
+				<choice id="3">C</choice>
+				<choice id="4">D</choice>
+				<choice id="5">E</choice>
+			</choices>
+			<text></text>
+			<ansHint>C</ansHint>
+			<text2><![CDATA[<gap>M</gap>]]></text2>
+		</question>
+		<question number="33" correct="2">
+			<choices>
+				<choice id="1">A</choice>
+				<choice id="2">B</choice>
+				<choice id="3">C</choice>
+				<choice id="4">D</choice>
+				<choice id="5">E</choice>
+			</choices>
+			<text></text>
+			<ansHint>B</ansHint>
+			<text2><![CDATA[The idea that real intelligence involves the combination of a number of abilities.<gap>N</gap>]]></text2>
+		</question>
+		<question number="34" correct="3">
+			<choices>
+				<choice id="1">A</choice>
+				<choice id="2">B</choice>
+				<choice id="3">C</choice>
+				<choice id="4">D</choice>
+				<choice id="5">E</choice>
+			</choices>
+			<text></text>
+			<ansHint>C</ansHint>
+			<text2><![CDATA[<gap>O</gap>]]></text2>
+		</question>
+	</section>
+</DOC>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

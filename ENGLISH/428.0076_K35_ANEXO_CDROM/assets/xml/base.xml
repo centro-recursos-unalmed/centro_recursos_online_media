@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<DOC>
+	<login test="testing">
+		<header><![CDATA[<b>Please enter your name below and click submit:</b>]]></header>
+		<field><![CDATA[<b>Name</b>]]></field>
+		<footer><![CDATA[Please remember your user name so you can review your completed tests.]]></footer>
+	</login>
+	<instructions>
+		<instructionsreading><![CDATA[<b>Time</b>: 75 minutes<br><br><b>INSTRUCTIONS TO CANDIDATE</b><p></p><br>Answer all questions.<p></p><p></p>You will be able to change your answers at any time during the test.<p></p>Your test timer will alert you at both 15 and 5 minutes remaining.<p></p><p></p><b>INFORMATION FOR CANDIDATE</b><p></p><br><b>READING</b><p></p>Questions 1–34 carry one mark.]]></instructionsreading>
+			<instructionslistening><![CDATA[<br></br><b>TIME:</b> 40 minutes <br><br> <b>INSTRUCTIONS TO CANDIDATE</b><br><br>Answer all questions.<br>You will be able to change your answers at any time during the test.<p></p><br>There are four parts to the test.<p></p>Each question in this paper carries one mark.<p></p>You should listen to each part twice.<br><br><b>INFORMATION FOR CANDIDATE</b><p></p><br><b>LISTENING</b><p></p>Questions 1–30 carry one mark.]]></instructionslistening>
+			<instructionswriting><![CDATA[<b>Time</b>: 90 minutes<br><br><b>INSTRUCTIONS TO CANDIDATE</b><p></p><br>Answer Part 1 and <b>ONE</b> question from Part 2.<p></p><p></p>You will be able to change your answers at any time during the test.<p></p>Your test timer will alert you at both 15 and 5 minutes remaining.<p></p><p></p><b>INFORMATION FOR CANDIDATE</b><p></p><br><b>WRITING</b><p></p>Answers are not marked by this software.<p></p>Part 1 is marked according to 6 bands 0–5 (not assessed, see sample answer).<p></p>Part 2 is marked according to 6 bands 0–5 (not assessed, see sample answer).]]></instructionswriting>
+			<instructionsuseofenglish><![CDATA[<b>Time</b>: 60 minutes<br><br><b>INSTRUCTIONS TO CANDIDATE</b><p></p><br>Answer all questions.<p></p><p></p>You will be able to change your answers at any time during the test.<p></p>Your test timer will alert you at both 15 and 5 minutes remaining.<p></p><p></p><b>INFORMATION FOR CANDIDATE</b><p></p><br><b>USE OF ENGLISH</b><p></p>Questions 1–37 carry one mark.<p></p>Questions 38–50 carry two marks.]]></instructionsuseofenglish>
+		<instructionsguide><![CDATA[]]></instructionsguide>
+	</instructions>
+	<result>
+		<header><![CDATA[<p align="center"><b>TEST FINISHED</b></p>]]></header>
+		<gradeband><![CDATA[<p align='center'>&gt;85% = <font color = "#33CC00">PASS WITH MERIT; </font>&gt;70%=&gt;85% = <font color = "#33CC00">PASS; </font><br>&gt;65%=&gt;70% =<font color = "#FF3300"> NARROW FAIL</font>, &lt;65% = <font color="#FF3300">FAIL</font></p>]]></gradeband>
+		<resultLable>
+			<txt1><![CDATA[<b>Your score is</b>]]></txt1>
+			<txt2><![CDATA[<b>out of</b>]]></txt2>
+			<txt3><![CDATA[]]></txt3>
+		</resultLable>
+		<timeLable><![CDATA[<p align="right"><b>Time Taken</b></p>]]></timeLable>
+	</result>
+	<testaudio>
+		<header><![CDATA[<p align="center"><b>TEST SOUND</b></p>]]></header>
+		<text>
+			<text1><![CDATA[Put on your headphones and click the button below to play a sample sound.]]></text1>
+			<text2><![CDATA[Adjust the volume control below by clicking the + and - buttons until you can hear the sample sound clearly.]]></text2>
+			<text3><![CDATA[Click continue when you can hear the sample sound clearly.]]></text3>
+		</text>
+		<footnote><![CDATA[Please inform your invigilator if you did not hear the sample sound.]]></footnote>
+	</testaudio>
+</DOC>
+

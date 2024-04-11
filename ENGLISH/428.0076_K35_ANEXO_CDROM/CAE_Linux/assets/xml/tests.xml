@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<tests>
+	<header><![CDATA[<b></b>]]></header>
+	<footer><![CDATA[To start, click on the button(s) available with the tests. For further practice, visit <a href="asfunction:callGoToURL" target="blank"><b>itests.com</b></a> for more practice tests.]]></footer>
+	<Title><![CDATA[Certificate in Advanced English]]></Title>
+	<Test title="Test 1" path="Test1">
+		<skill name = "Reading" time="75 minutes" result="not done"></skill>
+		<skill name = "Writing" time="90 minutes" result="not done"></skill>
+		<skill name = "Use of English" time="60 minutes" result="not done"></skill>
+		<skill name = "Listening" time="40 minutes" result="not done"></skill>
+	</Test>
+	<Test title="Test 2" path="Test2">
+		<skill name = "Reading" time="75 minutes" result="not done"></skill>
+		<skill name = "Writing" time="90 minutes" result="not done"></skill>
+		<skill name = "Use of English" time="60 minutes" result="not done"></skill>
+		<skill name = "Listening" time="40 minutes" result="not done"></skill>
+	</Test>
+</tests>
+
+
+
+
+
+

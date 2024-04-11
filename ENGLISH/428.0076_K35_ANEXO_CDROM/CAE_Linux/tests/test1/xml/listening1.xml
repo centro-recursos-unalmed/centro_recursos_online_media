@@ -1,0 +1,303 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<DOC YPos="135">
+	<section test="1" skill="listening" header="CAE Test 1: Listening Part 1" type="part1" navType="3" rubricClip="RubricBox_Big" templateType="PairedMCQExtract" assessed="true" XPos="40" YPos="165" navYPos="137" maxMark="1">
+		<rubric><![CDATA[You'll hear three different extracts. For questions <b>1-6</b>, choose the answer (<b>A</b>, <b>B</b>, or <b>C</b>) which fits best according to what you hear. There are two questions for each extract.]]></rubric>
+		<extract id="1">
+			<title><![CDATA[Extract 1]]></title>
+			<text>You overhear two friends discussing a film they have seen recently.</text>
+			<audio>cae1_list1_part1.mp3</audio>
+		</extract>
+		<extract id="2">
+			<title><![CDATA[Extract 2]]></title>
+			<text>You hear part of a radio programme about a businessman called Matt Ticknall.</text>
+			<audio>cae1_list1_part2.mp3</audio>
+		</extract>
+		<extract id="3">
+			<title><![CDATA[Extract 3]]></title>
+			<text>You hear part of a radio discussion about the pace of modern life.</text>
+			<audio>cae1_list1_part3.mp3</audio>
+		</extract>
+
+		<question number="1" pair="2" correct="1">
+			<text><![CDATA[What do they agree about the film?]]></text>
+			<audio>fce1_listening1.mp3</audio>
+			<choice>the storyline was weak.</choice>
+			<choice>the overall message as unclear.</choice>
+			<choice>there was too little historical detail.</choice>
+		</question>
+		<question number="2" pair="1" correct="1">
+			<text><![CDATA[The man feels that the film]]></text>
+			<audio>fce1_listening2.mp3</audio>
+			<choice>must have been better in the original language.</choice>
+			<choice>should not have been billed as a comedy.</choice>
+			<choice>can’t have cost much to make.</choice>
+		</question>
+		<question number="3"  pair="4" correct="3">
+			<text><![CDATA[What does the presenter suggest about Matt’s honeymoon?]]></text>
+			<audio>fce1_listening3.mp3</audio>
+			<choice>It was foolish of him to go ahead with the trip.</choice>
+			<choice>It was unfair of him to keep bad news from his wife.</choice>
+			<choice>It was kind of him to keep his business problems to himself.</choice>
+		</question>
+		<question number="4"  pair="3" correct="2">
+			<text><![CDATA[Matt says that at the time of his wedding,]]></text>
+			<audio>fce1_listening4.mp3</audio>
+			<choice>he was confident that his business would improve.</choice>
+			<choice>he had mistimed the development of a new product.</choice>
+			<choice>he could not understand how he lost so much money.</choice>
+		</question>
+		<question number="5"  pair="6" correct="3">
+			<text><![CDATA[The woman feels that the article she has read is]]></text>
+			<audio>fce1_listening5.mp3</audio>
+			<choice>exaggerated.</choice>
+			<choice>highly original.</choice>
+			<choice>thought provoking.</choice>
+		</question>
+		<question number="6"  pair="5" correct="2">
+			<text><![CDATA[What point was made on the TV programme the man saw?]]></text>
+			<audio>fce1_listening6.mp3</audio>
+			<choice>People need to develop their free-time activities.</choice>
+			<choice>Attitudes towards leisure time have changed over the years.</choice>
+			<choice>Social problems can result from having too much spare time.</choice>
+		</question>
+
+	</section>
+	<section test="1" skill="listening" header="CAE Test 1: Listening Part 2" type="part2" navType="2" rubricClip="RubricBox_Big" templateType="FIBType_4" assessed="true" XPos="70" YPos="142" navYPos="137" maxMark="1">
+		<rubric><![CDATA[You will hear part of a radio programme about a man called Lewis Pugh who plans to swim the entire length of the River Thames. For questions <b>7-14</b>, complete the sentences.]]></rubric>
+		<audio>cae1_list2.mp3</audio>
+		<textTitle  textAlign="left"><![CDATA[LEWIS PUGH: LONG-DISTANCE SWIMMER]]></textTitle>
+		<text><![CDATA[<p></p><p></p>Lewis generally swims without the protection of either body oil or <gap>wetsuit</gap>.<p></p><p></p>The subject which Lewis studied at university was <gap>law</gap>.<p></p><p></p>There is a <gap>stone</gap> to show where the source of the River Thames is.<p></p>It will take Lewis <gap>twelve days|12 days</gap> to swim the entire length of the river.<p></p>Lewis will start swimming early each morning to avoid being affected by <gap>sunburn</gap>. <p></p><p></p>On the tidal section of the river, coming into contact with <gap>bridges</gap> is the greatest hazard.<p></p><p></p>In London, Lewis has invited journalists and scientists to an outdoor <gap>debate</gap>.<p></p><p></p>To raise money for his swims, Lewis does what he calls <gap>motivational</gap> speaking.]]></text>
+		<question number="7">
+			<text></text>
+			<text2><![CDATA[Lewis generally swims without the protection of either body oil or <gap>wetsuit</gap>.]]></text2>
+		</question>
+		<question number="8">
+			<text></text>
+			<text2><![CDATA[The subject which Lewis studied at university was <gap>law</gap> .]]></text2>
+		</question>
+		<question number="9">
+			<text></text>
+			<text2><![CDATA[There is a <gap>stone</gap> to show where the source of the River Thames is.]]></text2>
+		</question>
+		<question number="10">
+			<text></text>
+			<text2><![CDATA[It will take Lewis <gap>twelve days|12 days</gap> to swim the entire length of the river.]]></text2>
+		</question>
+		<question number="11">
+			<text></text>
+			<text2><![CDATA[Lewis will start swimming early each morning to avoid being affected by <gap>sunburn</gap> . ]]></text2>
+		</question>
+		<question number="12">
+			<text></text>
+			<text2><![CDATA[On the tidal section of the rivercoming into contact with <gap>bridges</gap> is the greatest hazard.]]></text2>
+		</question>
+		<question number="13">
+			<text></text>
+			<text2><![CDATA[In London, Lewis has invited journalists and scientists to an outdoor <gap>debate</gap> . ]]></text2>
+		</question>
+		<question number="14">
+			<text></text>
+			<text2><![CDATA[To raise money for his swims, Lewis does what he calls <gap>motivational</gap> speaking. <p></p>]]></text2>
+		</question>
+
+	</section>
+	<section test="1" skill="listening" header="CAE Test 1: Listening Part 3" type="part3" navType="2" rubricClip="RubricBox_Big" templateType="MCQType_7" assessed="true" XPos="0" YPos="142" navYPos="137" maxMark="1">
+		<rubric><![CDATA[You will hear an interview with Hilary Bradt, who is the author and publisher of a series of guidebooks. For questions <b>15-20</b>, choose the answer (<b>A</b>, <b>B</b>, <b>C</b> or <b>D</b>) which fits best according to what you hear.]]></rubric>
+		<audio>cae1_list3.mp3</audio>
+		<question number="15" correct="1" pair="16">
+			<text><![CDATA[When asked about her earliest travel memories, Hilary suggests that]]></text>
+			<choice>she still needs help to find her way.</choice>
+			<choice>she really prefers to explore new places alone.</choice>
+			<choice>her mother instilled a love of adventure in her.</choice>
+			<choice>her main reason for travelling is to meet new people.</choice>
+		</question>
+		<question number="16"  correct="2" pair="15">
+			<text><![CDATA[What made Hilary decide to make a career of travel writing?]]></text>
+			<choice>her frustration at the lack of guidebooks for adventurous travellers</choice>
+			<choice>the realisation that it was possible to publish your own work</choice>
+			<choice>a need to find a way of financing future hiking expeditions</choice>
+			<choice>a chance meeting with someone willing to publish her work</choice>
+		</question>
+		<question number="17" pair="18" correct="4">
+			<text><![CDATA[What plans does Hilary have for the immediate future?]]></text>
+			<choice>She’s hoping to train as a teacher.</choice>
+			<choice>She intends to take up a new hobby.</choice>
+			<choice>She wants to update one of her books.</choice>
+			<choice>She’s looking forward to doing more writing.</choice>
+		</question>
+		<question number="18" pair="17" correct="3">
+			<text><![CDATA[When talking about her charity work in Madagascar, Hilary asks listeners to]]></text>
+			<choice>consider joining a visit to a children’s centre.</choice>
+			<choice>assist with the making of items of clothing.</choice>
+			<choice>help her to transport things to the country.</choice>
+			<choice>make a donation to a children’s project.</choice>
+		</question>
+		<question number="19" pair="20" correct="3">
+			<text><![CDATA[Hilary says that she’s irritated by travellers who reveal]]></text>
+			<choice>a lack of respect for local trading customs.</choice>
+			<choice>a reluctance to support the local economy.</choice>
+			<choice>an unwillingness to pay full-price for goods.</choice>
+			<choice>an assumption that local traders will try to cheat them.</choice>
+		</question>
+		<question number="20"  pair="19" correct="1">
+			<text><![CDATA[For Hilary, the best sort of travellers]]></text>
+			<choice>have a broad-minded attitude towards local cultures.</choice>
+			<choice>research a country thoroughly before visiting it.</choice>
+			<choice>are willing to use a variety of transport options.</choice>
+			<choice>try to avoid changing the lives of local people.</choice>
+		</question>
+	</section>
+	<section test="1" skill="listening" header="CAE Test 1: Listening Part 4" type="part4" navType="2" rubricClip="RubricBox_Big" templateType="DropDownCollection" assessed="true" XPos="70" YPos="203" navYPos="137" maxMark="1">
+		<rubric><![CDATA[You will hear five short extracts in which people are talking about their work.For questions <b>21-25</b>, choose from the list For questions <b>26-30</b>, choose from the list <b>A-H</b> the field each speaker works in. <b>A-H</b> what each person is doing as they speak. While you listen you must complete both tasks.]]></rubric>
+		<audio>cae1_list4.mp3</audio>
+		<question number="21" correct="4" totalQuestion="10">
+			<choices>
+				<choice id="0">Select</choice>
+				<choice id="1">A 	agriculture</choice>
+				<choice id="2">B 	e-commerce</choice>
+				<choice id="3">C	education</choice>
+				<choice id="4">D	fashion</choice>
+				<choice id="5">E	fine art</choice>
+				<choice id="6">F       law</choice>
+				<choice id="7">G	medicine</choice>
+				<choice id="8">H	security</choice>
+			</choices>
+			<ansHint>Speaker 1</ansHint>
+		</question>
+		<question number="22" correct="5">
+			<choices>
+				<choice id="0">Select</choice>
+				<choice id="1">A 	agriculture</choice>
+				<choice id="2">B 	e-commerce</choice>
+				<choice id="3">C	education</choice>
+				<choice id="4">D	fashion</choice>
+				<choice id="5">E	fine art</choice>
+				<choice id="6">F       law</choice>
+				<choice id="7">G	medicine</choice>
+				<choice id="8">H	security</choice>
+			</choices>
+			<text></text>
+			<ansHint>Speaker 2</ansHint>
+		</question>
+		<question number="23" correct="1">
+			<choices>
+				<choice id="0">Select</choice>
+				<choice id="1">A 	agriculture</choice>
+				<choice id="2">B 	e-commerce</choice>
+				<choice id="3">C	education</choice>
+				<choice id="4">D	fashion</choice>
+				<choice id="5">E	fine art</choice>
+				<choice id="6">F       law</choice>
+				<choice id="7">G	medicine</choice>
+				<choice id="8">H	security</choice>
+			</choices>
+			<text></text>
+			<ansHint>Speaker 3</ansHint>
+		</question>
+		<question number="24" correct="8">
+			<choices>
+				<choice id="0">Select</choice>
+				<choice id="1">A 	agriculture</choice>
+				<choice id="2">B 	e-commerce</choice>
+				<choice id="3">C	education</choice>
+				<choice id="4">D	fashion</choice>
+				<choice id="5">E	fine art</choice>
+				<choice id="6">F       law</choice>
+				<choice id="7">G	medicine</choice>
+				<choice id="8">H	security</choice>
+			</choices>
+			<text></text>
+			<ansHint>Speaker 4</ansHint>
+		</question>
+		<question number="25" correct="7">
+			<choices>
+				<choice id="0">Select</choice>
+				<choice id="1">A 	agriculture</choice>
+				<choice id="2">B 	e-commerce</choice>
+				<choice id="3">C	education</choice>
+				<choice id="4">D	fashion</choice>
+				<choice id="5">E	fine art</choice>
+				<choice id="6">F       law</choice>
+				<choice id="7">G	medicine</choice>
+				<choice id="8">H	security</choice>
+			</choices>
+			<text></text>
+			<ansHint>Speaker 5</ansHint>
+		</question>
+		<question number="26" correct="4">
+			<choices>
+				<choice id="0">Select</choice>
+				<choice id="1">A  complaining about the attitude of others</choice>
+				<choice id="2">B  suggesting how to avoid problems</choice>
+				<choice id="3">C  stressing the exactness of a process</choice>
+				<choice id="4">D  explaining how a selection is made</choice>
+				<choice id="5">E  describing how an idea developed</choice>
+				<choice id="6">F  justifying a change of direction</choice>
+				<choice id="7">G  outlining a range of responsibilities</choice>
+				<choice id="8">H  regretting the rigidity of a system</choice>
+			</choices>
+			<text></text>
+			<ansHint>Speaker 1</ansHint>
+		</question>
+		<question number="27" correct="6">
+			<choices>
+				<choice id="0">Select</choice>
+				<choice id="1">A  complaining about the attitude of others</choice>
+				<choice id="2">B  suggesting how to avoid problems</choice>
+				<choice id="3">C  stressing the exactness of a process</choice>
+				<choice id="4">D  explaining how a selection is made</choice>
+				<choice id="5">E  describing how an idea developed</choice>
+				<choice id="6">F  justifying a change of direction</choice>
+				<choice id="7">G  outlining a range of responsibilities</choice>
+				<choice id="8">H  regretting the rigidity of a system</choice>
+			</choices>
+			<text></text>
+			<ansHint>Speaker 2</ansHint>
+		</question>
+		<question number="28" correct="5">
+			<choices>
+			<choice id="0">Select</choice>
+				<choice id="1">A  complaining about the attitude of others</choice>
+				<choice id="2">B  suggesting how to avoid problems</choice>
+				<choice id="3">C  stressing the exactness of a process</choice>
+				<choice id="4">D  explaining how a selection is made</choice>
+				<choice id="5">E  describing how an idea developed</choice>
+				<choice id="6">F  justifying a change of direction</choice>
+				<choice id="7">G  outlining a range of responsibilities</choice>
+				<choice id="8">H  regretting the rigidity of a system</choice>
+			</choices>
+			<text></text>
+			<ansHint>Speaker 3</ansHint>
+		</question>
+		<question number="29" correct="7">
+			<choices>
+			<choice id="0">Select</choice>
+				<choice id="1">A  complaining about the attitude of others</choice>
+				<choice id="2">B  suggesting how to avoid problems</choice>
+				<choice id="3">C  stressing the exactness of a process</choice>
+				<choice id="4">D  explaining how a selection is made</choice>
+				<choice id="5">E  describing how an idea developed</choice>
+				<choice id="6">F  justifying a change of direction</choice>
+				<choice id="7">G  outlining a range of responsibilities</choice>
+				<choice id="8">H  regretting the rigidity of a system</choice>
+			</choices>
+			<text></text>
+			<ansHint>Speaker 4</ansHint>
+		</question>
+		<question number="30" correct="3">
+			<choices>
+				<choice id="0">Select</choice>
+				<choice id="1">A  complaining about the attitude of others</choice>
+				<choice id="2">B  suggesting how to avoid problems</choice>
+				<choice id="3">C  stressing the exactness of a process</choice>
+				<choice id="4">D  explaining how a selection is made</choice>
+				<choice id="5">E  describing how an idea developed</choice>
+				<choice id="6">F  justifying a change of direction</choice>
+				<choice id="7">G  outlining a range of responsibilities</choice>
+				<choice id="8">H  regretting the rigidity of a system</choice>
+			</choices>
+			<text></text>
+			<ansHint>Speaker 5</ansHint>
+		</question>
+	</section>
+</DOC>

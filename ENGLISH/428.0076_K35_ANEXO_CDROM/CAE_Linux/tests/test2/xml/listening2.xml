@@ -1,0 +1,297 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<DOC YPos="135">
+	<section test="2" skill="listening" header="CAE Test 2: Listening Part 1" type="part1" navType="3" rubricClip="RubricBox_Big" templateType="PairedMCQExtract" assessed="true" XPos="40" YPos="165" navYPos="137" maxMark="1">
+		<rubric><![CDATA[You will hear three different extracts. For questions <b>1–6</b>, choose the answer (<b>A</b>, <b>B</b> or <b>C</b>) which fits best according to what you hear. There are two questions for each extract.]]></rubric>
+		<extract id="1">
+			<title><![CDATA[<b>Extract 1</b>]]></title>
+			<text>You hear part of a radio discussion about a pop star who does work for an international charity.</text>
+			<audio>Cae2_list_part1_1.mp3</audio>
+		</extract>
+		<extract id="2">
+			<title><![CDATA[<b>Extract 2</b>]]></title>
+			<text>You overhear two friends talking about a formula-one motor-racing driver called Ed Rendleson.</text>
+			<audio>Cae2_list_part1_2.mp3</audio>
+		</extract>
+		<extract id="3">
+			<title><![CDATA[<b>Extract 3</b>]]></title>
+			<text>You hear part of a radio programme about the catering industry.</text>
+			<audio>Cae2_list_part1_3.mp3</audio>
+		</extract>
+		<question number="1" pair="2" correct="2">
+			<text><![CDATA[Why does the woman mention the pop star’s business interests?]]></text>			  <choice>To show how he can afford to devote himself to charity work</choice>
+			<choice>To stress that his credibility is not only due to his celebrity status</choice>
+			<choice>To underline how short-lived stardom in the music business can be</choice>
+		</question>
+		<question number="2" pair="1" correct="3">
+			<text><![CDATA[According to the man, why do politicians have time for the pop star?]]></text>
+			<choice>They respect him for his musical achievements.</choice>
+			<choice>They recognise his expertise in certain fields.</choice>
+			<choice>They hope to increase their own popularity.</choice>
+		</question>
+		<question number="3"  pair="4" correct="1">
+			<text><![CDATA[What do the two friends agree about?]]></text>
+			<choice>the driver’s personal qualities</choice>
+			<choice>the driver’s ability to work as part of a team</choice>
+			<choice>the drivers prospects of winning a championship</choice>
+		</question>
+		<question number="4"  pair="3" correct="1">
+			<text><![CDATA[The man feels that Ed Rendleson]]></text>
+			<choice>may not have the full support of colleagues in his company.</choice>
+			<choice>may not have a strong enough personality to achieve success.</choice>
+			<choice>may lack the driving skills and experience of his competitors.</choice>
+		</question>
+		<question number="5"  pair="6" correct="2">
+			<text><![CDATA[What does the presenter suggest about the rest of the programme?]]></text>
+			<choice>A range of different workplaces will be visited.</choice>
+			<choice>Not everyone we hear will agree with each other.</choice>
+			<choice>A clear picture of life in a busy kitchen will emerge.</choice>
+		</question>
+		<question number="6"  pair="5" correct="2">
+			<text><![CDATA[What does Ian McLeash say about the lifestyle of top chefs?]]></text>
+			<choice>People can end up eating and drinking too much.</choice>
+			<choice>It often means losing touch with outside interests.</choice>
+			<choice>The fascination of the job wears off in the long term.</choice>
+		</question>
+	</section>
+	<section test="2" skill="listening" header="CAE Test 2: Listening Part 2" type="part2" navType="2" rubricClip="RubricBox_Big" templateType="FIBType_4" assessed="true" XPos="70" YPos="142" maxMark="1">
+		<rubric><![CDATA[You will hear a woman called Carla Bunsford giving a talk about conservation projects for volunteers in the rain forest. For questions <b>7–14</b>, complete the sentences.]]></rubric>
+		<audio>Cae2_list_part2.mp3</audio>
+		<textTitle><![CDATA[<b>CONSERVATION PROJECTS FOR VOLUNTEERS</b>]]></textTitle>
+		<text><![CDATA[<p></p><p></p>On the trips Carla describes, volunteers pay what’s called a <gap>contribution</gap> fee on arrival.<p></p>The country Carla eventually went on a trip to was <gap>Brazil</gap>.<p></p>Most of Carla’s team studied the effects of <gap>river boat traffic|boat traffic</gap> on local wildlife.<p></p>Carla’s particular task was to assess the <gap>density</gap> of local bird populations.<p></p>The <i>One Earth</i> organisation’s trips focus on the study of <gap>plants</gap><p></p>The organisation known as <gap>save the planet</gap> concentrates on the study of insects.<p></p>In Peru, volunteers can help in the restoration of ancient <gap>stone walls|walls</gap>. Volunteers staying in Peru for over three months pay $ <gap>295|295 dollars</gap> per month.
+]]></text>
+
+		<question number="7">
+			<text></text>
+			<text2><![CDATA[On the trips Carla describes, volunteers pay what’s called a <gap>contribution</gap> fee on arrival.]]></text2>
+		</question>
+		<question number="8" charToUpper="true">
+			<text></text>
+			<text2><![CDATA[The country Carla eventually went on a trip to was <gap>Brazil</gap>]]></text2>
+		</question>
+		<question number="9">
+			<text></text>
+			<text2><![CDATA[Most of Carla’s team studied the effects of <gap>river boat traffic|boat traffic</gap> on local wildlife.]]></text2>
+		</question>
+		<question number="10">
+			<text></text>
+			<text2><![CDATA[Carla’s particular task was to assess the <gap>density</gap> of local bird populations.]]></text2>
+		</question>
+		<question number="11">
+			<text></text>
+			<text2><![CDATA[The One Earth organisation’s trips focus on the study of <gap>plants</gap>]]></text2>
+		</question>
+		<question number="12">
+			<text></text>
+			<text2><![CDATA[The organisation known as <gap>save the planet</gap> concentrates on the study of insects.]]></text2>
+		</question>
+		<question number="13">
+			<text></text>
+			<text2><![CDATA[In Peru, volunteers can help in the restoration of ancient <gap>stone walls|walls</gap>]]></text2>
+		</question>
+		<question number="14">
+			<text></text>
+			<text2><![CDATA[Volunteers staying in Peru for over three months pay $ <gap>295|295 dollars</gap> per month.]]></text2>
+		</question>
+
+	</section>
+	<section test="2" skill="listening" header="CAE Test 2: Listening Part 3" type="part3" navType="2" rubricClip="RubricBox_Big" templateType="MCQType_7" assessed="true" XPos="0" YPos="142" maxMark="1">
+		<rubric><![CDATA[You will hear an interview with an archaeologist who is talking about flint-knapping which is making stone tools in the way that people did thousands of years ago. For questions <b>15–20</b>, choose the answer (<b>A</b>, <b>B</b>, <b>C</b> or <b>D</b>) which fits best according to what you hear.]]></rubric>
+		<audio>Cae2_list_part3.mp3</audio>
+		<question number="15" correct="4">
+			<text><![CDATA[When Declan first started flint-knapping, he soon realised that]]></text>
+			<choice>studying old objects is the quickest way to learn.</choice>
+			<choice>mathematical principles couldn’t be applied to it.</choice>
+			<choice>success was largely a matter of luck and patience.</choice>
+			<choice>an ability to predict how stone will break was essential.</choice>
+		</question>
+		<question number="16"  correct="2">
+			<text><![CDATA[Why does Declan feel that flint-knapping is useful in his archaeological work?]]></text>
+			<choice>It makes him appreciate how hard tool-making was.</choice>
+			<choice>It gives him insights into how ancient people thought.</choice>
+			<choice>It allows him to see how the skill was developed.</choice>
+			<choice>It helps him understand how hunting was organised.</choice>
+		</question>
+		<question number="17"  correct="1">
+			<text><![CDATA[Declan attributes his love of flint-knapping to]]></text>
+			<choice>the natural ability he has for it.</choice>
+			<choice>the people he has met as a result.</choice>
+			<choice>the growing interest in the subject.</choice>
+			<choice>the connection it gives him with the past.</choice>
+		</question>
+		<question number="18"  correct="3">
+			<text><![CDATA[What point does Declan make about ancient flint-knapping techniques?]]></text>
+			 <choice>It’s puzzling why they changed so slowly.</choice>
+			<choice>Only leading craftsmen had the necessary skills.</choice>
+			<choice>People at the time had a practical attitude towards them.</choice>
+			<choice>They ran parallel with other developments in stone working.</choice>
+		</question>
+		<question number="19" correct="3">
+			<text><![CDATA[Declan feels that, in ancient societies, flint-knappers]]></text>
+			<choice>were highly regarded members of the community.</choice>
+			<choice>had a special working relationship with hunters.</choice>
+			<choice>provided a very important service to the group.</choice>
+			<choice>enjoyed greater job satisfaction than most people.</choice>
+		</question>
+		<question number="20"  correct="2">
+			<text><![CDATA[What does Declan admit about his greatest discovery?]]></text>
+			<choice>It was the result of an experiment which went wrong.</choice>
+			<choice>It was something that happened largely by chance.</choice>
+			<choice>It was related to his choice of background music.</choice>
+			<choice>It was a just reward for his painstaking research.</choice>
+		</question>
+
+	</section>
+	<section test="2" skill="listening" header="CAE Test 2: Listening Part 4" type="part4" navType="2" rubricClip="RubricBox_Big" templateType="DropDownCollection" assessed="true" XPos="70" YPos="203" maxMark="1">
+		<rubric><![CDATA[You will hear five people talking about a decision that changed each of their lives. For questions <b>21–25</b>, choose from the list <b>A–H</b>, each person’s current occupation. For questions <b>26–30</b>, choose from the list <b>A–H</b>, the thing which led each person to make their decision. While you listen you must complete both tasks.]]></rubric>
+		<audio>Cae2_list_part 4.mp3</audio>
+		<question number="21" correct="6" totalQuestion="10">
+			<choices>
+				<choice id="0">Select</choice>
+				<choice id="1">A   insufficient salary</choice>
+				<choice id="2">B   unfriendly colleagues</choice>
+				<choice id="3">C   poor physical environment</choice>
+				<choice id="4">D   lack of promotion prospects</choice>
+				<choice id="5">E   pressure to work overtime</choice>
+				<choice id="6">F   time spent travelling</choice>
+				<choice id="7">G   negative feedback on performance</choice>
+				<choice id="8">H   inflexible working hours</choice>
+			</choices>
+			<ansHint>Speaker 1</ansHint>
+		</question>
+		<question number="22" correct="5">
+			<choices>
+				<choice id="0">Select</choice>
+				<choice id="1">A   insufficient salary</choice>
+				<choice id="2">B   unfriendly colleagues</choice>
+				<choice id="3">C   poor physical environment</choice>
+				<choice id="4">D   lack of promotion prospects</choice>
+				<choice id="5">E   pressure to work overtime</choice>
+				<choice id="6">F   time spent travelling</choice>
+				<choice id="7">G   negative feedback on performance</choice>
+				<choice id="8">H   inflexible working hours</choice>
+			</choices>
+			<text></text>
+			<ansHint>Speaker 2</ansHint>
+		</question>
+		<question number="23" correct="8">
+			<choices>
+				<choice id="0">Select</choice>
+				<choice id="1">A   insufficient salary</choice>
+				<choice id="2">B   unfriendly colleagues</choice>
+				<choice id="3">C   poor physical environment</choice>
+				<choice id="4">D   lack of promotion prospects</choice>
+				<choice id="5">E   pressure to work overtime</choice>
+				<choice id="6">F   time spent travelling</choice>
+				<choice id="7">G   negative feedback on performance</choice>
+				<choice id="8">H   inflexible working hours</choice>
+			</choices>
+			<text></text>
+			<ansHint>Speaker 3</ansHint>
+		</question>
+		<question number="24" correct="3">
+			<choices>
+				<choice id="0">Select</choice>
+				<choice id="1">A   insufficient salary</choice>
+				<choice id="2">B   unfriendly colleagues</choice>
+				<choice id="3">C   poor physical environment</choice>
+				<choice id="4">D   lack of promotion prospects</choice>
+				<choice id="5">E   pressure to work overtime</choice>
+				<choice id="6">F   time spent travelling</choice>
+				<choice id="7">G   negative feedback on performance</choice>
+				<choice id="8">H   inflexible working hours</choice>
+			</choices>
+			<text></text>
+			<ansHint>Speaker 4</ansHint>
+		</question>
+		<question number="25" correct="7">
+			<choices>
+				<choice id="0">Select</choice>
+				<choice id="1">A   insufficient salary</choice>
+				<choice id="2">B   unfriendly colleagues</choice>
+				<choice id="3">C   poor physical environment</choice>
+				<choice id="4">D   lack of promotion prospects</choice>
+				<choice id="5">E   pressure to work overtime</choice>
+				<choice id="6">F   time spent travelling</choice>
+				<choice id="7">G   negative feedback on performance</choice>
+				<choice id="8">H   inflexible working hours</choice>
+			</choices>
+			<text></text>
+			<ansHint>Speaker 5</ansHint>
+		</question>
+		<question number="26" correct="6">
+			<choices>
+				<choice id="0">Select</choice>
+				<choice id="1">A  extra financial incentives</choice>
+				<choice id="2">B  generous holidays</choice>
+				<choice id="3">C  good pension provision</choice>
+				<choice id="4">D  subsidised canteen</choice>
+				<choice id="5">E  organised leisure activities</choice>
+				<choice id="6">F  opportunities for training</choice>
+				<choice id="7">G  child-care facilities</choice>
+				<choice id="8">H  plans for relocation</choice>
+			</choices>
+			<text></text>
+			<ansHint>Speaker 1</ansHint>
+		</question>
+		<question number="27" correct="1">
+			<choices>
+				<choice id="0">Select</choice>
+				<choice id="1">A  extra financial incentives</choice>
+				<choice id="2">B  generous holidays</choice>
+				<choice id="3">C  good pension provision</choice>
+				<choice id="4">D  subsidised canteen</choice>
+				<choice id="5">E  organised leisure activities</choice>
+				<choice id="6">F  opportunities for training</choice>
+				<choice id="7">G  child-care facilities</choice>
+				<choice id="8">H  plans for relocation</choice>
+			</choices>
+			<text></text>
+			<ansHint>Speaker 2</ansHint>
+		</question>
+		<question number="28" correct="5">
+			<choices>
+				<choice id="0">Select</choice>
+				<choice id="1">A  extra financial incentives</choice>
+				<choice id="2">B  generous holidays</choice>
+				<choice id="3">C  good pension provision</choice>
+				<choice id="4">D  subsidised canteen</choice>
+				<choice id="5">E  organised leisure activities</choice>
+				<choice id="6">F  opportunities for training</choice>
+				<choice id="7">G  child-care facilities</choice>
+				<choice id="8">H  plans for relocation</choice>
+			</choices>
+			<text></text>
+			<ansHint>Speaker 3</ansHint>
+		</question>
+		<question number="29" correct="4">
+			<choices>
+				<choice id="0">Select</choice>
+				<choice id="1">A  extra financial incentives</choice>
+				<choice id="2">B  generous holidays</choice>
+				<choice id="3">C  good pension provision</choice>
+				<choice id="4">D  subsidised canteen</choice>
+				<choice id="5">E  organised leisure activities</choice>
+				<choice id="6">F  opportunities for training</choice>
+				<choice id="7">G  child-care facilities</choice>
+				<choice id="8">H  plans for relocation</choice>
+			</choices>
+			<text></text>
+			<ansHint>Speaker 4</ansHint>
+		</question>
+		<question number="30" correct="7">
+			<choices>
+				<choice id="0">Select</choice>
+				<choice id="1">A  extra financial incentives</choice>
+				<choice id="2">B  generous holidays</choice>
+				<choice id="3">C  good pension provision</choice>
+				<choice id="4">D  subsidised canteen</choice>
+				<choice id="5">E  organised leisure activities</choice>
+				<choice id="6">F  opportunities for training</choice>
+				<choice id="7">G  child-care facilities</choice>
+				<choice id="8">H  plans for relocation</choice>
+			</choices>
+			<text></text>
+			<ansHint>Speaker 5</ansHint>
+		</question>
+	</section>
+</DOC>

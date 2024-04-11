@@ -1,0 +1,405 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<DOC YPos="135">
+	<section test="1" skill="reading" header="CAE test 1: Reading Part 1" type="part1" navType="3" rubricClip="RubricBox_Big" templateType="PairedMCQScrolling" assessed="true" XPos="7" YPos="160" navYPos="137" maxMark="1">
+			<rubric><![CDATA[You are going to read three extracts which are all concerned in some way with books. For questions <b>1-6</b>, choose the answer (<b>A</b>, <b>B</b>, <b>C</b> or <b>D</b>) which you think fits best according to the text.]]></rubric>
+			<title><![CDATA[<b>A Novelist Speaks</b>]]></title>
+			<text><![CDATA[BECOMING a writer of novels, even novels fuelled by science, was far from any destiny I would have chosen if you'd asked my younger self what it wanted to be. While I always loved fiction, as a child I thought of it as frivolous, pure make-believe. When I was given my first library card at the age of six, I even made a rule to try to keep the seductive things from enchanting me too thoroughly and making me go soft-brained. Every time I visited the library I allowed myself to take out one work of fiction. To balance it, I had to take out a book that was good for me, something I could learn from. I forbade myself from reading the storybook before completing the good-for-me book.<p></p><p></p>But before long I stumbled on a good-for-me book every bit as enchanting as a storybook. It was called <i>Our Friend the Atom</i> by Heinz Haber, and I brought it home one Friday afternoon only because it seemed nutritious-enough fare to justify the Nancy Drew mystery that I'd chosen as dessert. I never did get around to reading Drew. Instead, I reread <i>Our Friend the Atom</i> two or three times, marvelling. That weekend, I learned the world was much further away than I had thought, that the world consists of multitudes of neighbourhoods of spinning atoms, of protons, neutrons, electrons, and charges that came in three flavours.]]></text>
+			<question number="1" correct="2" Pair="2">
+				<text>In the first paragraph, the writer admits that as a young child, she</text>
+				<choice id="A">only read novels about serious educational subjects.</choice>
+				<choice id="B">considered novels as a treat to look forward to.</choice>
+				<choice id="C">was forbidden from reading too many novels.</choice>
+				<choice id="D">had a secret ambition to become a novelist.</choice>
+			</question>
+			<question number="2" correct="1" Pair="1">
+				<text><![CDATA[What does the writer suggest about the book <i>Our Friend the Atom?</i>]]></text>
+				<choice id="A">she came across it by chance.</choice>
+				<choice id="B">it was written in the style of a novel.</choice>
+				<choice id="C">it was difficult to understand at first reading.</choice>
+				<choice id="D">she realises that it was not particularly accurate.</choice>
+			</question>
+			<title><![CDATA[<b>SALT</b><p></p>by Mark Kurlansky]]></title>
+			<text><![CDATA[A few years ago Mark Kurlansky scored a deserved success with an idiosyncratic book about the exploitation and consequent downfall of the northern hemisphere's favourite eating fish, the cod. It cannot have been easy to come up with a less glamorous subject than the big-eyed, rubber-lipped denizen of the chilly Atlantic waters. But with salt he seems to have managed it.<p></p><p></p>There is a curious parallel between the two, in that both have lost the high positions they once occupied in trade and diet. In the case of the fish, this happened because we plundered the species with such recklessness as to leave next to nothing behind. With salt there is no danger of running out. It is merely that with the advent of food freezing (which also doomed the cod), salt is no longer the essential preservative it once was. It is a telling comment on its decline that in the USA – the world's biggest producer and consumer of salt – fifty-one percent is used to keep roads free from ice, and a meagre eight percent is dropped into cooking pots or shaken from salt-cellars. But throughout almost all of human history, this humble offspring of the metal, sodium, and the poisonous gas, chlorine, eclipsed all other solids in importance. As Kurlansky roams the salt-producing globe, he makes a compelling case for regarding humankind's affection for and dependence on the planet's only edible rock as a serious social force.]]></text>
+			<question number="3"  correct="3" Pair="4">
+				<text>In the first paragraph, the reviewer suggests that this book</text>
+				<choice id="A">lacks some of the originality of its predecessor.</choice>
+				<choice id="B">is unlikely to repeat the success of its predecessor.</choice>
+				<choice id="C">is on an even less appealing topic than its predecessor.</choice>
+				<choice id="D">must have been much easier to research than its predecessor.</choice>
+			</question>
+			<question number="4"  correct="4" Pair="3">
+				<text>In the second paragraph, what 'parallel' does the writer draw between salt and cod?</text>
+				<choice id="A">Both have been made obsolete by new technology.</choice>
+				<choice id="B">Both are now being used for a different purpose.</choice>
+				<choice id="C">Both have been over-exploited in one region.</choice>
+				<choice id="D">Both once had great economic significance.</choice>
+			</question>
+			<title><![CDATA[<b>I meet Victoria High Quality</b>]]></title>
+			<text><![CDATA[I've come to see Toby Litt because his publisher had told me he is one of the authors most enthusiastic about the impact of technology on writing and reading. One of his novels was one of the first titles they published as an electronic book: available to read on desktop, laptop and handheld computers. <p></p><p></p>I'm sitting beside Toby in his London living room. We're listening to a female voice coming from his laptop computer. The voice says: 'Hello. I hope you didn't have too much trouble finding the place. Has Toby offered you a coffee or something?' The name of this particular voice is Victoria High Quality. She continues: 'I am part of the "speakable-items" package that came with this PowerBook. As you can tell, there is a certain robotic quality to my voice. But I'm sure that future generations can look forward to conversing with something a little more natural sounding.' We're not really conversing. Victoria's speech was written by Toby. To start the reading, he typed the speech, pressed a couple of keys and selected Victoria from a pull-down menu. He could have chosen her male counterpart, Bruce High Quality, or other, more exotic voices. And he could have given her something else to read – perhaps one of his novels – but he typed this speech to show the strengths and weaknesses of the software.<p></p><p></p>Victoria pauses, for effect, when she reaches commas and ellipses. She correctly distinguishes between words that are spelt the same but pronounced differently: 'read' in the present tense, for example, and in the past. At question marks, her intonation rises. And she has no problem at all with numbers; not even pausing briefly, as I would, to read 1,000,100,231,005.  On the downside, her French accent is hopeless; and she can't sing. At the end of Victoria's speech, Toby has included a paragraph from his last novel. When she's finished reading that, Victoria says 'Thank you' and Toby shuts her down.
+]]></text>
+			<question number="5" correct="4" Pair="6">
+				<text>Why has Toby asked the writer to listen to Victoria High Quality?</text>
+				<choice id="A">To illustrate how natural Victoria's voice sounds.</choice>
+				<choice id="B">To demonstrate how his interactive novel operates.</choice>
+				<choice id="C">To show why he is dissatisfied with the technology.</choice>
+				<choice id="D">To give an example of what Victoria can and can't do.</choice>
+			</question>
+			<question number="6" correct="1" Pair="5">
+				<text>The writer concedes that Victoria seems more adept than he would be when</text>
+				<choice id="A">reading out complex numbers.</choice>
+				<choice id="B">quickly interpreting punctuation marks.</choice>
+				<choice id="C">anticipating intonation patterns when reading.</choice>
+				<choice id="D">keeping track of the sequence of tenses in a narrative. </choice>
+			</question>
+		</section>
+	<section test="1" skill="reading" type="part2" header="CAE test 1: Reading Part 2" navType="2" rubricClip="RubricBox_Big" templateType="MCQType_8" assessed="true" XPos="9" YPos="139" navYPos="137" maxMark="1">
+		<rubric><![CDATA[You are going to read an extract from a wildlife magazine. Six paragraphs have been removed from the extract. Choose from the paragraphs <b>A–G</b> the one which fits each gap (<b>7–12</b>). There is one extra paragraph which you do not need to use.]]></rubric>
+		<title><![CDATA[<p></p><b>  Don't Fear the Beaver</b>]]></title>
+		<headerText><![CDATA[<p></p><p align="center"></p><i>Cursed with a reputation for destruction, the beaver is now coming to be seen as eco-friendly</i>]]></headerText>
+		<text><![CDATA[<p></p><p></p>It took years of research and planning, but finally everything was ready. After an absence of at least two hundred years, beavers looked set to return to mainland Britain, one of the final frontiers in their reintroduction across Europe. The plan was to release them into a secluded valley in a forest in the west of Scotland and see how they got on. Popular support was strong but last-minute lobbying from powerful local landowners resulted in the Scottish Executive refusing permission. Once again, it seemed, these shy herbivores had fallen foul of their reputation for eco-destruction. <p></p><b>7 </b><gap type='dropdown'>7</gap> <p></p><p></p>The beaver's love of hydrological engineering has in fact brought it into conflict with people across Europe and North America for centuries, so it's no small irony that experts are now realising that this is exactly why we need beavers in the countryside. 'They are the quintessential ecosystem engineers,' says ecologist James Byers at the University of New Hampshire. 'And they'll do this work for free.'<p></p><p></p><b>8 </b><gap type='dropdown'>8</gap> <p></p><p></p>Pursued for centuries by hunters keen to transform their fur into luxury waterproof hats, beavers were probably saved from extinction only by a change of fashion in the 1840s. By the beginning of the twentieth century, tiny populations of the European beaver, <i>Castor fiber</i>, survived in just a few rivers in Russia, Norway, France and Germany. Meanwhile, across the Atlantic, the closely related North American species <i>Castor canadensis</i> clung on only in Canada's remote boreal forests.<p></p><p></p><b>9 </b><gap type='dropdown'>9</gap> <p></p><p></p>'The reintroduction of the beaver in Europe has been an outstanding success,' says Andrew Kitchener, principal curator of mammals and birds at National Museums Scotland in Edinburgh. 'Immensely adaptable, they feed on a wide range of herbaceous plants and can set up home in almost any freshwater environment.'<p></p><p></p><b>10 </b><gap type='dropdown'>10</gap> <p></p><p></p>In North America this is even more the case than in Europe. But 'proactive management' is encouraging people to learn to live with them there too. One useful tool is the 'beaver deceiver', a perforated plastic pipe that beavers find impossible to plug up. Inserted into an inconvenient dam, beaver deceivers create permanent leaks which keep water levels at a chosen maximum.<p></p><b>11 </b><gap type='dropdown'>11</gap> <p></p><p></p>Accepting beavers as neighbours is one thing, but many experts now believe we should be actively promoting their spread into their former ranges. For a start, they say, beavers bring ecological benefits by creating ponds upstream of their dams – instant wetlands recreating those destroyed through centuries of drainage campaigns.<p></p><p></p><b>12 </b><gap type='dropdown'>12</gap> <p></p><p></p>It could be a similar story in those places where beavers remain unwelcome. 'Beavers would create habitats suitable for up to 32 species in need of urgent conservation action,' says Rob Strachan of the UK's Environment Agency. Critics ask why money should be put into bringing back one species? But when lots of other animals and plants benefit too – it makes for extremely cost-effective conservation.]]></text>
+
+		<ReferencePoints>
+			<point>
+				<id><![CDATA[<b>A</b>]]></id>
+				<text>When they choose large rivers for this, they burrow into the banks and build underwater entrances to their 'lodges' which are invisible to humans. In small waterways, however, they construct dams of mud and timber to raise water levels and create ponds in which they can then recreate the same kind of safe shelter. It is these structures that are perceived as a nuisance.</text>
+			</point>
+			<point>
+				<id><![CDATA[<b>B</b>]]></id>
+				<text>Today, both species are steadily re-colonising their original ranges, through a combination of planned releases and natural spread. Now re-established in twenty-six European countries, beavers are missing from only a handful including mainland Britain (there is no evidence that beavers have ever lived in Ireland).</text>
+			</point>
+			<point>
+				<id><![CDATA[<b>C</b>]]></id>
+				<text>These beaver 'ghost towns' are another familiar feature in the wetlands because beavers move along when their preferred food plants are depleted, allowing vegetation to regenerate. In the process they become agents for renewal, helping to create dynamic, biodiverse landscapes.</text>
+			</point>
+			<point>
+				<id><![CDATA[<b>D</b>]]></id>
+				<text>In the Adirondack mountains of New York, for instance, the habitats created by beavers along river banks are rich in plants found nowhere else. In Canada, ecologists have discovered that monitoring the still waters behind beaver dams is the best way to study amphibian populations – the frogs and toads can barely survive anywhere else.</text>
+			</point>
+			<point>
+				<id><![CDATA[<b>E</b>]]></id>
+				<text>Beaver-built waterworks not only create habitats for wildlife, he explains, they also boost water quality and reduce the twin threats of drought and flooding. In fact, the beaver could even be an invaluable ally in battling the effects of climate change.</text>
+			</point>
+			<point>
+				<id><![CDATA[<b>F</b>]]></id>
+				<text>Beavers are no strangers to such opposition. In this case, people feared they would damage valuable salmon stocks in local rivers. Beavers don't eat fish – though plenty of people think they do – but the local groups mistakenly imagined their dams would cause problems. It's an old, misbegotten story.</text>
+			</point>
+			<point>
+				<id><![CDATA[<b>G</b>]]></id>
+				<text><![CDATA[Another device, essentially a sturdy wire-mesh cage, prevents beavers blocking culverts and flooding roads. Trees can be protected by wrapping them in wire mesh, or by coating tree trunks with a sand-rich paint. In the future, chemical repellents containing extracts from unpalatable plants may do the job.]]></text>
+			</point>
+		</ReferencePoints>
+
+		<question number="7" correct="6">
+			<choices>
+				<choice id="1"> A </choice>
+				<choice id="2"> B </choice>
+				<choice id="3"> C </choice>
+				<choice id="4"> D </choice>
+				<choice id="5"> E </choice>
+				<choice id="6"> F </choice>
+				<choice id="7"> G </choice>
+			</choices>
+		</question>
+		<question number="8" correct="5">
+			<choices>
+				<choice id="1"> A </choice>
+				<choice id="2"> B </choice>
+				<choice id="3"> C </choice>
+				<choice id="4"> D </choice>
+				<choice id="5"> E </choice>
+				<choice id="6"> F </choice>
+				<choice id="7"> G </choice>
+			</choices>
+		</question>
+		<question number="9" correct="2">
+			<choices>
+				<choice id="1"> A </choice>
+				<choice id="2"> B </choice>
+				<choice id="3"> C </choice>
+				<choice id="4"> D </choice>
+				<choice id="5"> E </choice>
+				<choice id="6"> F </choice>
+				<choice id="7"> G </choice>
+			</choices>
+		</question>
+		<question number="10" correct="1">
+			<choices>
+				<choice id="1"> A </choice>
+				<choice id="2"> B </choice>
+				<choice id="3"> C </choice>
+				<choice id="4"> D </choice>
+				<choice id="5"> E </choice>
+				<choice id="6"> F </choice>
+				<choice id="7"> G </choice>
+			</choices>
+		</question>
+		<question number="11" correct="7">
+			<choices>
+				<choice id="1"> A </choice>
+				<choice id="2"> B </choice>
+				<choice id="3"> C </choice>
+				<choice id="4"> D </choice>
+				<choice id="5"> E </choice>
+				<choice id="6"> F </choice>
+				<choice id="7"> G </choice>
+			</choices>
+		</question>
+		<question number="12" correct="4">
+			<choices>
+				<choice id="1"> A </choice>
+				<choice id="2"> B </choice>
+				<choice id="3"> C </choice>
+				<choice id="4"> D </choice>
+				<choice id="5"> E </choice>
+				<choice id="6"> F </choice>
+				<choice id="7"> G </choice>
+			</choices>
+		</question>
+	</section>
+	<section test="1" skill="reading" header="CAE test 1: Reading Part 3" type="part3" navType="1" rubricClip="RubricBox_Big" templateType="MCQType_4" assessed="true" XPos="-235" YPos="132" navYPos="137" maxMark="1">
+			<rubric><![CDATA[You are going to read a newspaper article about<br />a famous designer. For questions <b>13–19</b>, choose the answer (<b>A</b>, <b>B</b>, <b>C</b> or <b>D</b>) which you think fits best according to the text.]]></rubric>
+			<title textAlign="center"><![CDATA[<p></p><b>  The Egg Chair</b>]]></title>
+			<text><![CDATA[The Egg Chair, one of the most enduring symbols of the Modernist movement in design, was created in a Danish garage over fifty years ago. Today, the <b>quirky</b> futuristic armchair is more extraordinarily popular than ever before. For five decades, the unmistakable swivel-seats have brightened up fashionable interiors all over the world, starred in Hollywood blockbusters such as <i>Men in Black</i>, and jazzed-up countless trendy hotels, offices, bars and clubs. Genuine Egg Chairs, still made by the Danish company Fritz Hansen and priced at a hefty £5,000, sell by the thousand all over the world. Cheaper reproductions, at anything from £500 to £2,000, have been snapped up by the million. Right now, they've never been more popular and original examples from the 1950s have sold at auction in New York for up to $70,000.<p></p><p></p>For all this, we must thank one man: Arne Jacobsen, a reclusive architect who rarely left his Copenhagen studio. He designed the Egg Chair as part of a commission to create a new landmark hotel in the centre of the city in the 1950s. The SAS Royal Hotel, which was owned by the airline of the same name, was to be the largest hotel in Denmark, and the first skyscraper in the country's history. Compared by critics to a 'glass cigarbox', the rectangular steel structure remains a sort of monument to the Modernist movement, and Jacobsen, who is arguably the most important Scandinavian designer of the twentieth century, pioneered the Modernist movement in which architects began to design both the interiors, and the actual day-to-day contents of their buildings.<p></p><p></p>'At the SAS hotel, this meant he created everything from the door handles and cutlery to the carpets and colour scheme,' says Gemma Curtin, a curator at the Design Museum.'His philosophy was described as “from spoon to city”, and the chair was part of that. The Egg Chair has soft sides. It's really organic, and stems from nature: it looks like a broken shell that a little chick has just run out of. It's sophisticated and minimalist, but still has a sense of fun. You can't imagine a child walking past without wanting to jump in. It's just incredibly warm and relaxing.'<p></p><p></p>Jacobsen built the prototype of the chair in his garage in Copenhagen in 1957. After several minor adjustments, it was unveiled to the public at a local design show. When the hotel opened, Egg Chairs filled the lobby and bar area, and were found in every bedroom. Fritz Hansen, then an up-market, family-owned furniture manufacturer, was handed a contract to build replicas for fashion-conscious homeowners. In keeping with the tradition that true classics develop gradually, the Egg Chair took a while to catch on, and initial sales were disappointing. But by the mid 1960s, buyers had grown to love its revolutionary design.<p></p><p></p>The design expert Stephen Bayley includes the Egg Chair in Design: <i>Intelligence Made Visible</i>, his new guide to modern design classics co-authored by Sir Terence Conran. He believes that 'chair design ended' in the late 1950s. 'This was when Charles Eames produced his Aluminium Group classics, and Arne Jacobsen his Egg,' he says. 'Since then, there have been no changes in human physiology, nor the discovery of any relevant new materials, and no genuine improvements in what a modern chair might be. Jacobsen's achievement was to turn the austerity of functionalism into something elegant and spare, yet luxurious as well. He thought of architecture and furniture design as two expressions of the same desire to achieve both physical and psychological comfort.'<p></p><p></p>Antique Egg Chairs can now command a staggering sum. 'I've watched this grow and grow since the birth of the modern design auction in 1999 or 2000,' says James Zematis, the director of twentieth-century design at Sotheby's in New York. 'There's a surging demand for all postwar Danish furniture.' The sky-high prices have led to a burgeoning market in Egg Chair thefts, which Fritz Hansen are attempting to combat by holding a database of serial numbers which all genuine Eggs have carved into the foot. 'And you can always tell a fake,' says the company's spokesman, Jan Helleskov. 'I look at things like the stitching and the dimensions, and the basic shape and the fabric. We have never come across a fake that we couldn't spot at a glance.'<p></p><p></p>Fritz Hansen still sells thousands of the original model each year. Cheaper reproduction pieces are also made by a host of fashionable furniture retailers. 'They've been incredibly popular in the past year or so,' says John Cohen, the manager of Modern Classics Direct, one such company. 'I think the biggest reason is actually the increasing number of new-build properties on the market. Egg-style chairs sit very well with minimalist architecture. You don't often see many of them being sold to people who own period properties. All designs go in and out of fashion, of course, but with the Egg, you always know it'll eventually come back in.']]></text>
+
+			<question number="13" correct="1">
+				<text><![CDATA[Which adjective, used later in the first paragraph, reinforces the idea that the Egg Chair was '<b>quirky</b>' (line 3)?]]></text>
+				<choice>unmistakable</choice>
+				<choice>trendy</choice>
+				<choice>hefty</choice>
+				<choice>sought-after</choice>
+			</question>
+
+			<question number="14" correct="2">
+				<text><![CDATA[What do we learn about the SAS Royal Hotel in the second paragraph?]]></text>
+				<choice>Only parts of it were designed by Arne Jacobsen.</choice>
+				<choice>Not everybody appreciated its design at the time.</choice>
+				<choice>It was made of materials not previously used in Denmark.</choice>
+				<choice>Part of it has since been turned into a museum of architecture.</choice>
+			</question>
+
+			<question number="15"  correct="1">
+				<text><![CDATA[According to Gemma Curtin, the Egg Chair]]></text>
+				<choice>was inspired by aspects of the natural world.</choice>
+				<choice>has not always been taken seriously by designers.</choice>
+				<choice>is more practical than many people imagine it will be.</choice>
+				<choice>reflects a philosophy no longer important in modern design.</choice>
+			</question>
+
+			<question number="16"  correct="3">
+				<text><![CDATA[In the fourth paragraph, we learn that when the Egg Chair first went on show]]></text>
+				<choice>it had design faults that were later rectified.</choice>
+				<choice>it was already being mass-produced by a company.</choice>
+				<choice>it did not immediately become a commercial success.</choice>
+				<choice>it as recognised as a design that would become highly influential.</choice>
+			</question>
+
+			<question number="17" correct="2">
+				<text><![CDATA[According to Stephen Bayley, the Egg Chair]]></text>
+				<choice>has adapted well to the use of new materials.</choice>
+				<choice>remains the best design for its intended purpose.</choice>
+				<choice>has tended to prevent new chair designs being appreciated.</choice>
+				<choice>continues to achieve only one of its creator's two main aims.</choice>
+			</question>
+
+			<question number="18" correct="4">
+				<text><![CDATA[The writer quotes Jan Helleskov in order to show how]]></text>
+				<choice>worried the original makers are about fakes.</choice>
+				<choice>the original makers help chair owners to avoid theft.</choice>
+				<choice>well made an original chair from the 1960s actually is.</choice>
+				<choice>easy it is for the original makers to identify a reproduction.</choice>
+			</question>
+
+			<question number="19" correct="1">
+				<text><![CDATA[John Cohen attributes the current popularity of the Egg Chair to]]></text>
+				<choice>the number of modern houses coming up for sale.</choice>
+				<choice>the competitive price of reproduction pieces.</choice>
+				<choice>the fact that Fritz Hansen still makes them.</choice>
+				<choice>the current fashion for period properties.</choice>
+			</question>
+		</section>
+	<section test="1" skill="reading" header="CAE test 1: Reading Part 4" type="part4" navType="2" rubricClip="RubricBox_Small" templateType="PairedDropDown" assessed="true" XPos="70" YPos="142" navYPos="105" maxMark="1">
+		<rubric><![CDATA[You are going to read an article about four women who set themselves up in business. For questions <b>20–34</b>, choose from the women (<b>A–D</b>). ]]></rubric>
+		<textTitle textAlign="center"><![CDATA[<b> New Directions</b><p></p><i> Four women who risked everything to make their fortune</i><p></p><p></p><b>A  </b>Nicky Archibald has her own recruitment consultancy called <i>Archibald & Dutch</i>.<p></p><p></p> 'I'd worked for years in marketing, but despite having an MBA degree, I never seemed to be in the running for a more senior position, which was frustrating. One day, a work contact asked if I knew anyone suitable for a post he was trying to fill. I put some names forward, and one of those people was recruited. That got me thinking about becoming a recruitment consultant. I did a bit of discreet networking, asking some business contacts if they'd use me if I set myself up as one. The response was good, but it still took me a year to summon up the courage to resign from my job and go for it. My first job was to find six salespeople for a communications company. I placed an advert in a local business paper and waited. Gradually the CVs came in. I did dozens of interviews and filled all the places. After that, the work rolled in and I'm now well ahead of my projected turnover for the year. I thought I'd struggle financially, but I needn't have worried. The company has exceeded all my expectations and now I have to think about how big I want to go.'<p></p><p></p><b>B  </b> Sally Allen runs a clothing company called <i>Glamour To Go</i>.<p></p><p></p>'I was lying on a beach trying to think of something to wear one evening that I didn't have to iron. That sparked an idea: how fantastic if all my dresses could be wrinkle-free and ready-to-wear. I got very excited and couldn't wait to get home and start researching. I was a complete novice in the fashion world. I was working as a sports marketing and publicity consultant but my heart wasn't in it. Starting my own business seemed to be the answer to a lot of problems. Using my savings, I got on a plane to Thailand and spent a couple of weeks researching fabrics and having dresses made up as cheaply as possible. I came back having found the right material – it looked silky and expensive yet was almost crease-free. I promptly gave up my job and did a business plan. It was scary, but I had faith that the dresses would sell. My lucky break came when a friend managed to get me a cheap advert in an upmarket glossy magazine. She helped me arrange a photo shoot with glamorous models wearing the dresses. It cost a lot, but after that the orders flooded in. You have to be a risk-taker to make a business work, but if you're successful, the rewards are huge.'<p></p><p></p><b>C  </b> Amanda Barnes runs an event planning business called <i>B & K Events</i><p></p><p></p>'The idea for the business came when I was asked to arrange a social event for members of the gym I went to. It occurred to me that arranging this sort of thing was a service that you could sell to companies, and it was something I could do without huge amounts of experience. I had no idea if it would work. My first event was a golf day with a gourmet meal in the evening. I went for a date six weeks ahead and booked everything up, but set aside part of my life savings to cover my costs if it was a disaster. I made up some flyers on my computer, then spent a weekend in town handing them out and emailing everyone I knew. Initially there wasn't much interest and I thought I'd made a terrible mistake. But then the phone started ringing and the event was soon fully booked. The day was a great success and I made a profit. The business grew and I soon found myself working more hours than ever. I'm exhausted but love every minute.'<p></p><p></p><b>D  </b> Sue Houlston has her own web-design business called <i>Sitemaid</i>.<p></p><p></p>'I started up my business through necessity – I was made redundant from my job at an accountancy firm, and couldn't get another. I thought if I brushed up on my computer skills it might help, so I did a course. But I wasted my money because it wasn't up to much. Not to be discouraged, I bought lots of books on computer skills and taught myself. I'd always been interested in website design and thought it was an area where I could make some money. A friend saw some designs I'd done and mentioned my name to someone who wanted a website for his hypnotherapy business. I'd no idea what to charge, so I said the first number that came into my head, which was £700, and he agreed. It only took me a couple of days and he was delighted with the results. Word spread among the alternative therapy community and I got more work than I could cope with. I only needed to design two websites a week to make the salary I'd been earning before. In my first month I designed four websites and in the second month I did six. Now I average between four and seven websites a week, designing sites for everything from rock bands to law firms. Having my own business has given me a boost. I never thought I'd be doing a job I loved so much and be making such a fantastic living from it.']]></textTitle>
+		<text><![CDATA[Which of the women … <p></p><p></p>realises how fortunate she was to find an effective way of promoting <p></p>her products? <b>20 </b><gap type='dropdown'>20</gap><p></p><p></p>admits to having been unnecessarily pessimistic about her new <p></p>business venture? <b>21 </b><gap type='dropdown'>21</gap><p></p><p></p>had enough funds to cover any losses she might make initially? <b>22 </b><gap type='dropdown'>22</gap><p></p>was dissatisfied by the help she sought in order to improve certain skills? <b>23 </b><gap type='dropdown'>23</gap><p></p>did some informal market research before starting her business? <b>24 </b><gap type='dropdown'>24</gap><p></p>was at first disappointed by the response to her publicity? <b>25 </b><gap type='dropdown'>25</gap><p></p><p></p>had no choice but to find a new career path? <b>26 </b><gap type='dropdown'>26</gap><p></p><p></p>felt that her previous career lacked promotion prospects? <b>27 </b><gap type='dropdown'>27</gap><p></p><p></p>admits to having no experience whatsoever in the field she entered? <b>28 </b><gap type='dropdown'>28</gap><p></p>failed to do any research into how to price the service she was providing? <b>29 </b><gap type='dropdown'>29</gap><p></p>produced her own publicity material? <b>30 </b><gap type='dropdown'>30</gap><p></p><p></p>says she didn't feel committed to a previous career? <b>31 </b><gap type='dropdown'>31</gap><p></p><p></p>got business as a result of word-of-mouth recommendations? <b>32 </b><gap type='dropdown'>32</gap><p></p>waited until she felt confident enough to leave a previous position?<b> 33 </b><gap type='dropdown'>33</gap><p></p>mentions having a wide-ranging client base for her new business?<b> 34 </b><gap type='dropdown'>34</gap><br></br>]]></text>
+		<question number="20" correct="2" totalQuestion="15">
+			<choices>
+				<choice id="1">A</choice>
+				<choice id="2">B</choice>
+				<choice id="3">C</choice>
+				<choice id="4">D</choice>
+				
+			</choices>
+			<text></text>
+			<ansHint>B</ansHint>
+			<text2><![CDATA[realises how fortunate she was to find an effective way of promoting her products?<gap>A</gap>]]></text2>
+		</question>
+		<question number="21" correct="1">
+			<choices>
+				<choice id="1">A</choice>
+				<choice id="2">B</choice>
+				<choice id="3">C</choice>
+				<choice id="4">D</choice>
+				
+			</choices>
+			<text></text>
+			<ansHint>A</ansHint>
+			<text2><![CDATA[admits to having been unnecessarily pessimistic about her new business venture?<gap>B</gap>]]></text2>
+		</question>
+		<question number="22" correct="3">
+			<choices>
+				<choice id="1">A</choice>
+				<choice id="2">B</choice>
+				<choice id="3">C</choice>
+				<choice id="4">D</choice>
+				
+			</choices>
+			<text></text>
+			<ansHint>C</ansHint>
+			<text2><![CDATA[had enough funds to cover any losses she might make initially?<gap>C</gap>]]></text2>
+		</question>
+		<question number="23" correct="4">
+			<choices>
+				<choice id="1">A</choice>
+				<choice id="2">B</choice>
+				<choice id="3">C</choice>
+				<choice id="4">D</choice>
+				
+			</choices>
+			<text></text>
+			<ansHint>D</ansHint>
+			<text2><![CDATA[was dissatisfied by the help she sought in order to improve certain skills?<gap>D</gap>]]></text2>
+		</question>
+		<question number="24" correct="1">
+			<choices>
+				<choice id="1">A</choice>
+				<choice id="2">B</choice>
+				<choice id="3">C</choice>
+				<choice id="4">D</choice>
+				
+			</choices>
+			<text></text>
+			<ansHint>A</ansHint>
+			<text2><![CDATA[did some informal market research before starting her business?<gap>E</gap>]]></text2>
+		</question>
+		<question number="25" correct="3">
+			<choices>
+				<choice id="1">A</choice>
+				<choice id="2">B</choice>
+				<choice id="3">C</choice>
+				<choice id="4">D</choice>
+				
+			</choices>
+			<text></text>
+			<ansHint>C</ansHint>
+			<text2><![CDATA[was at first disappointed by the response to her publicity?<gap>F</gap>]]></text2>
+		</question>
+		<question number="26" correct="4">
+			<choices>
+				<choice id="1">A</choice>
+				<choice id="2">B</choice>
+				<choice id="3">C</choice>
+				<choice id="4">D</choice>
+				
+			</choices>
+			<text></text>
+			<ansHint>D</ansHint>
+			<text2><![CDATA[had no choice but to find a new career path?<gap>G</gap>]]></text2>
+		</question>
+		<question number="27" correct="1">
+			<choices>
+				<choice id="1">A</choice>
+				<choice id="2">B</choice>
+				<choice id="3">C</choice>
+				<choice id="4">D</choice>
+				
+			</choices>
+			<text></text>
+			<ansHint>A</ansHint>
+			<text2><![CDATA[felt that her previous career lacked promotion prospects?<gap>H</gap>]]></text2>
+		</question>
+		<question number="28" correct="2">
+			<choices>
+				<choice id="1">A</choice>
+				<choice id="2">B</choice>
+				<choice id="3">C</choice>
+				<choice id="4">D</choice>
+			
+			</choices>
+			<text></text>
+			<ansHint>B</ansHint>
+			<text2><![CDATA[admits to having no experience whatsoever in the field she entered?<gap>I</gap>]]></text2>
+		</question>
+		<question number="29" correct="4">
+			<choices>
+				<choice id="1">A</choice>
+				<choice id="2">B</choice>
+				<choice id="3">C</choice>
+				<choice id="4">D</choice>
+				
+			</choices>
+			<text></text>
+			<ansHint>D</ansHint>
+			<text2><![CDATA[failed to do any research into how to price the service she was providing?<gap>J</gap>]]></text2>
+		</question>
+		<question number="30" correct="3">
+			<choices>
+				<choice id="1">A</choice>
+				<choice id="2">B</choice>
+				<choice id="3">C</choice>
+				<choice id="4">D</choice>
+				
+			</choices>
+			<text></text>
+			<ansHint>C</ansHint>
+			<text2><![CDATA[produced her own publicity material?<gap>K</gap>]]></text2>
+		</question>
+		<question number="31" correct="2">
+			<choices>
+				<choice id="1">A</choice>
+				<choice id="2">B</choice>
+				<choice id="3">C</choice>
+				<choice id="4">D</choice>
+				
+			</choices>
+			<text></text>
+			<ansHint>B</ansHint>
+			<text2><![CDATA[says she didn't feel committed to a previous career?<gap>L</gap>]]></text2>
+		</question>
+		<question number="32" correct="4">
+			<choices>
+				<choice id="1">A</choice>
+				<choice id="2">B</choice>
+				<choice id="3">C</choice>
+				<choice id="4">D</choice>
+				
+			</choices>
+			<text></text>
+			<ansHint>D</ansHint>
+			<text2><![CDATA[got business as a result of word-of-mouth recommendations?<gap>M</gap>]]></text2>
+		</question>
+		<question number="33" correct="1">
+			<choices>
+				<choice id="1">A</choice>
+				<choice id="2">B</choice>
+				<choice id="3">C</choice>
+				<choice id="4">D</choice>
+			
+			</choices>
+			<text></text>
+			<ansHint>A</ansHint>
+			<text2><![CDATA[waited until she felt confident enough to leave a previous position?<gap>N</gap>]]></text2>
+		</question>
+		<question number="34" correct="4">
+			<choices>
+				<choice id="1">A</choice>
+				<choice id="2">B</choice>
+				<choice id="3">C</choice>
+				<choice id="4">D</choice>
+			
+			</choices>
+			<text></text>
+			<ansHint>D</ansHint>
+			<text2><![CDATA[mentions having a wide-ranging client base for her new business?<gap>O</gap>]]></text2>
+		</question>
+	</section>
+</DOC>
