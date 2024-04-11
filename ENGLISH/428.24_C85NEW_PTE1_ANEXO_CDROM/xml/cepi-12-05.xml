@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?> 
+<pairs bckg_color="0x5B9C97" congra_text="Congratulations!!">
+<pair fbtext="Correct!">   
+  <picture label="towels" picture="" />   
+  <picture label="" picture="resources/03123101.jpg" />     
+</pair>  
+
+<pair fbtext="That's right!">   
+  <picture label="toothbrush" picture="" />   
+  <picture label="" picture="resources/03123102.jpg" />     
+</pair>  
+<pair fbtext="Excellent!">   
+  <picture label="hairbrush" picture="" />   
+  <picture label="" picture="resources/03123103.jpg" />    
+</pair>  
+<pair fbtext="Brilliant!">   
+  <picture label="shaving foam" picture="" />   
+  <picture label="" picture="resources/03123104.jpg" />     
+</pair>  
+<pair fbtext="That's correct!">   
+  <picture label="razor" picture="" />   
+  <picture label="" picture="resources/03123105.jpg" />    
+</pair>  
+<pair fbtext="Correct!">   
+  <picture label="lipstick" picture="" />  
+  <picture label="" picture="resources/03123106.jpg" />       
+</pair>  
+<pair fbtext="Well done!">   
+  <picture label="plasters" picture="" /> 
+  <picture label="" picture="resources/03123107.jpg" />    
+</pair> 
+<pair fbtext="Well done!">   
+  <picture label="comb" picture="" />   
+  <picture label="" picture="resources/03123108.jpg" />    
+</pair>  
+</pairs>
+               

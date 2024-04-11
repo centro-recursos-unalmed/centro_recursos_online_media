@@ -1,0 +1,41 @@
+<?Xml version="1.0" encoding="iso-8859-1"?>
+<data>
+<initiate maxSize="15" startx="10"  starty="100" pictureCross="false" boxSpace="50" autoScroll="45"/>
+<clue value="" item=""/>
+<block question="J. R. R. Tolkien was an ______ writer." answer="IMAGINATIVE" startBlock="3_4" endBlock="3_14"/>
+<block question="Linda is a naturally ______ musician. " answer="TALENTED" startBlock="9_0" endBlock="9_7"/>
+<block question="Doctors have to be totally ______ to their work." answer="COMMITTED" startBlock="11_5" endBlock="11_13"/>
+<block question="Andy's been working as an engineer for 30 years so he's very ______." answer="EXPERIENCED" startBlock="0_14" endBlock="10_14"/>
+<block question="My parents weren't very ______ when I told them I had broken up with my boyfriend." answer="SYMPATHETIC" startBlock="1_5" endBlock="11_5"/>
+<block question="Dan's very well-______ and always has a tidy desk." answer="ORGANISED" startBlock="1_7" endBlock="9_7"/>
+<block question="Ben's very ______; he never gets up before 10 o'clock." answer="LAZY" startBlock="2_10" endBlock="5_10"/>
+<block question="She's self-______ and always does her homework before watching television." answer="DISCIPLINED" startBlock="2_12" endBlock="12_12"/>
+<block question="I'm lucky because my students are very ______ and hard-working." answer="MOTIVATED" startBlock="4_1" endBlock="12_1"/>
+<block question="If you always tell the truth, you're very ______." answer="HONEST" startBlock="6_3" endBlock="11_3"/>
+</data>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

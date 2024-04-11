@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='ISO-8859-1' ?>
+<grammar>
+<section>
+<title> &lt;i&gt;should , shouldn't &lt;/i&gt;</title>
+<sectiontitle>We use subject + &lt;i&gt;should&lt;/i&gt; + verb to say that something is a good idea or the right thing to do. We use subject + &lt;i&gt;shouldn't&lt;/i&gt; + verb to say that something is not a good idea or not the right thing to do.</sectiontitle>
+<titlesound>pi_gram3_1_1.mp3</titlesound>
+<text1>It's a good idea to buy a dictionary.</text1>
+<text1a>You &lt;b&gt;should buy&lt;/b&gt; a dictionary.</text1a>
+<sound1>pi_gram3_1_2.mp3</sound1>
+<text2>It's not right to tell Mark.</text2>
+<text2a>She &lt;b&gt;shouldn't &lt;/b&gt;tell Mark. </text2a>
+<sound2>pi_gram3_1_3.mp3</sound2>
+<sectiontitle2>In the question, we use &lt;i&gt;should&lt;/i&gt; + subject + verb.</sectiontitle2>
+<titlesound2>pi_gram3_1_4.mp3</titlesound2>
+<text3></text3>
+<text3a>&lt;b&gt;Should I take&lt;/b&gt; an aspirin? Yes, you should.</text3a>
+<sound3>pi_gram3_1_5.mp3</sound3>
+<text4></text4>
+<text4a>&lt;b&gt;Should they pay&lt;/b&gt; now? No, they shouldn't.</text4a>
+<sound4>pi_gram3_1_6.mp3</sound4>
+</section>
+<section>
+<title> Other phrases for giving advice</title>
+<sectiontitle>We also use &lt;i&gt;Why don't you&lt;/i&gt; + verb and &lt;i&gt;Try&lt;/i&gt; + verb + &lt;i&gt;-ing&lt;/i&gt; to give advice.</sectiontitle>
+<titlesound>pi_gram3_1_7.mp3</titlesound>
+<text1>It's a good idea to see a doctor.</text1>
+<text1a>&lt;b&gt;Why don't you see&lt;/b&gt; a doctor?</text1a>
+<sound1>pi_gram3_1_8.mp3</sound1>
+<text2>It's a good idea to get up earlier.</text2>
+<text2a>&lt;b&gt;Try getting&lt;/b&gt; up earlier.</text2a>
+<sound2>pi_gram3_1_9.mp3</sound2>
+<sectiontitle2></sectiontitle2>
+<titlesound2></titlesound2>
+<text3></text3>
+<text3a></text3a>
+<sound3></sound3>
+<text4></text4>
+<text4a></text4a>
+<sound4></sound4>
+</section>
+</grammar>

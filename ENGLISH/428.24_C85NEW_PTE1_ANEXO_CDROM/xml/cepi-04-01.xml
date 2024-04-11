@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?> 
+<pairs bckg_color="0x5B9C97" congra_text="Congratulations!!">
+<pair fbtext="Correct!">   
+  <picture label="He's going for a run." picture="" />   
+  <picture label="" picture="resources/03013103.jpg" />     
+</pair>  
+
+<pair fbtext="That's right!">   
+  <picture label="They're rollerblading.   " picture="" />   
+  <picture label="" picture="resources/03042102.jpg" />     
+</pair>  
+
+<pair fbtext="Brilliant!">   
+  <picture label="They're doing yoga." picture="" />   
+  <picture label="" picture="resources/03042105.jpg" />     
+</pair>  
+<pair fbtext="That's correct!">   
+  <picture label="He's smiling. " picture="" />   
+  <picture label="" picture="resources/03042106.jpg" />    
+</pair>  
+
+<pair fbtext="Well done!">   
+  <picture label="She's surfing the Internet." picture="" /> 
+  <picture label="" picture="resources/03013107.jpg" />    
+</pair> 
+<pair fbtext="Well done!">   
+  <picture label="He's playing the guitar. " picture="" />   
+  <picture label="" picture="resources/03013108.jpg" />    
+</pair> 
+<pair fbtext="That's correct!">   
+  <picture label="They're doing tai chi." picture="" />   
+  <picture label="" picture="resources/03042107.jpg" />    
+</pair>
+<pair fbtext="That's correct!">   
+  <picture label="She's answering the telephone. " picture="" />   
+  <picture label="" picture="resources/03042108.jpg" />    
+</pair>   
+</pairs>
+          	               

@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='ISO-8859-1' ?>
+<grammar>
+<section>
+<title> Using articles</title>
+<sectiontitle>We do not usually use &lt;i&gt;the&lt;/i&gt; when we talk about people or things in general.</sectiontitle>
+<titlesound>pi_gram8_1_1.mp3</titlesound>
+<text1></text1>
+<text1a>&lt;b&gt;Dogs&lt;/b&gt; make very good pets.</text1a>
+<sound1>pi_gram8_1_2.mp3</sound1>
+<text2></text2>
+<text2a>I like &lt;b&gt;Italian people.</text2a>
+<sound2>pi_gram8_1_3.mp3</sound2>
+<sectiontitle2>We use &lt;i&gt;the&lt;/i&gt; when there is only one of something. We also use it with superlatives.</sectiontitle2>
+<titlesound2>pi_gram8_1_4.mp3</titlesound2>
+<text3>only one:</text3>
+<text3a>&lt;b&gt;the Sun&lt;/b&gt;, &lt;b&gt;the Earth&lt;/b&gt;, &lt;b&gt;the Moon&lt;/b&gt;, &lt;b&gt;the sky</text3a>
+<sound3>pi_gram8_1_5.mp3</sound3>
+<text4>superlatives:</text4>
+<text4a>&lt;b&gt;the best&lt;/b&gt; actor, &lt;b&gt;the longest&lt;/b&gt; river in the world</text4a>
+<sound4>pi_gram8_1_6.mp3</sound4>
+</section>
+<section>
+<title> Using articles</title>
+<sectiontitle>We do not use &lt;i&gt;the&lt;/i&gt; with most place names. </sectiontitle>
+<titlesound>pi_gram8_1_7.mp3</titlesound>
+<text1>continents, countries, cities: </text1>
+<text1a>&lt;b&gt;Africa&lt;/b&gt;, &lt;b&gt;Japan&lt;/b&gt;, &lt;b&gt;Bangkok&lt;/b&gt; </text1a>
+<sound1>pi_gram8_1_8.mp3</sound1>
+<text2>roads, mountains, lakes: </text2>
+<text2a>&lt;b&gt;Fifth Avenue&lt;/b&gt;, &lt;b&gt;Mount Fuji&lt;/b&gt;, &lt;b&gt;Lake Titicaca</text2a>
+<sound2>pi_gram8_1_9.mp3</sound2>
+<sectiontitle2>We use &lt;i&gt;the&lt;/i&gt; for some place names.</sectiontitle2>
+<titlesound2>pi_gram8_1_10.mp3</titlesound2>
+<text3>oceans, seas, rivers:</text3>
+<text3a>&lt;b&gt;the Pacific Ocean&lt;/b&gt;, &lt;b&gt;the Mediterranean Sea &lt;/b&gt;</text3a>
+<sound3>pi_gram8_1_11.mp3</sound3>
+<text4>mountain ranges, republics/unions:</text4>
+<text4a>&lt;b&gt;the Himalayas&lt;/b&gt;, &lt;b&gt;the United Kingdom </text4a>
+<sound4>pi_gram8_1_12.mp3</sound4>
+</section>
+<section>
+<title> Using articles</title>
+<sectiontitle>We use &lt;i&gt;the&lt;/i&gt; with some other phrases.</sectiontitle>
+<titlesound>pi_gram8_1_13.mp3</titlesound>
+<text1></text1>
+<text1a>at &lt;b&gt;the bottom/top&lt;/b&gt;, in &lt;b&gt;the centre/middle&lt;/b&gt;, on &lt;b&gt;the left/right</text1a>
+<sound1>pi_gram8_1_14.mp3</sound1>
+<text2></text2>
+<text2a>in &lt;b&gt;the north/south/east/west&lt;/b&gt;, on &lt;b&gt;the coast/border&lt;/b&gt;, in &lt;b&gt;the morning/afternoon/evening</text2a>
+<sound2>pi_gram8_1_15.mp3</sound2>
+<sectiontitle2>We don't use &lt;i&gt;the&lt;/i&gt; with these phrases:</sectiontitle2>
+<titlesound2>pi_gram8_1_16.mp3</titlesound2>
+<text3></text3>
+<text3a>&lt;b&gt;at home&lt;/b&gt;, &lt;b&gt;at school&lt;/b&gt;, &lt;b&gt;at university&lt;/b&gt;, &lt;b&gt;at work</text3a>
+<sound3>pi_gram8_1_17.mp3</sound3>
+<text4></text4>
+<text4a>&lt;b&gt;in bed&lt;/b&gt;, &lt;b&gt;in hospital&lt;/b&gt;, &lt;b&gt;in prison&lt;/b&gt;, &lt;b&gt;on holiday&lt;/b&gt;, &lt;b&gt;at night</text4a>
+<sound4>pi_gram8_1_18.mp3</sound4>
+</section>
+</grammar>

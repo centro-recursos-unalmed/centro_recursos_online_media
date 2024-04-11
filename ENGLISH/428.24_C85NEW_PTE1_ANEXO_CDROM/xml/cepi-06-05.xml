@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?> 
+<pairs bckg_color="0x5B9C97" congra_text="Congratulations!!">
+<pair fbtext="Correct!">   
+  <picture label="a crowded beach" picture="" />   
+  <picture label="" picture="resources/03063101.jpg" />     
+</pair>  
+
+<pair fbtext="That's right!">   
+  <picture label="a luxurious hotel  " picture="" />   
+	  <picture label="" picture="resources/03063102.jpg" />     
+</pair>  
+<pair fbtext="Excellent!">   
+  <picture label="some great nightlife" picture="" />   
+  <picture label="" picture="resources/03063103.jpg" />    
+</pair>  
+<pair fbtext="Brilliant!">   
+  <picture label="going on an excursion" picture="" />   
+  <picture label="" picture="resources/03063104.jpg" />     
+</pair>  
+<pair fbtext="That's correct!">   
+  <picture label="a peaceful beach" picture="" />   
+  <picture label="" picture="resources/03063105.jpg" />    
+</pair>  
+<pair fbtext="Correct!">   
+  <picture label="waiting for a delayed flight" picture="" />  
+  <picture label="" picture="resources/03063106.jpg" />       
+</pair>  
+<pair fbtext="Well done!">   
+  <picture label="booking a holiday online" picture="" /> 
+  <picture label="" picture="resources/03063107.jpg" />    
+</pair> 
+<pair fbtext="Well done!">   
+  <picture label="going on a cruise" picture="" />   
+  <picture label="" picture="resources/03063108.jpg" />    
+</pair>  
+</pairs>
+               

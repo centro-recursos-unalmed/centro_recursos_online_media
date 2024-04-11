@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='ISO-8859-1' ?>
+<grammar>
+<section>
+<title> &lt;i&gt;used  to</title>
+<sectiontitle>We use &lt;i&gt;used to&lt;/i&gt; + verb to talk about habits and states in the past and which probably aren't true now.</sectiontitle>
+<titlesound>pi_gram10_1_1.mp3</titlesound>
+<text1>He helped me with my homework regularly but not now. </text1>
+<text1a>He &lt;b&gt;used to help&lt;/b&gt; me with my homework.</text1a>
+<sound1>pi_gram10_1_2.mp3</sound1>
+<text2>I was afraid of the dark. I'm not afraid now.</text2>
+<text2a>I &lt;b&gt;used to be&lt;/b&gt; afraid of the dark.</text2a>
+<sound2>pi_gram10_1_3.mp3</sound2>
+<sectiontitle2>In the negative, we use &lt;i&gt;didn't + use to&lt;/i&gt; + verb ... . In the question, we use &lt;i&gt;did + subject + use to &lt;/i&gt;+ verb ... .</sectiontitle2>
+<titlesound2>pi_gram10_1_4.mp3</titlesound2>
+<text3></text3>
+<text3a>I &lt;b&gt;didn't use to like&lt;/b&gt; sport at school.</text3a>
+<sound3>pi_gram10_1_5.mp3</sound3>
+<text4></text4>
+<text4a>&lt;b&gt;Did you use to go&lt;/b&gt; by train? Yes, I did.</text4a>
+<sound4>pi_gram10_1_6.mp3</sound4>
+</section>
+</grammar>

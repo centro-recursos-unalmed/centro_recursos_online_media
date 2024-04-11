@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='ISO-8859-1' ?>
+<grammar>
+<section>
+<title> Revision of question forms</title>
+<sectiontitle>In questions, we use &lt;i&gt;What, Which, When, Where, Who, How, Why, How long, How often, How much, How many. </sectiontitle>
+<titlesound>pi_gram1_1_1.mp3</titlesound>
+<text1></text1>
+<text1a>&lt;b&gt;Why&lt;/b&gt; do you always wear black?</text1a>
+<sound1>pi_gram1_1_2.mp3</sound1>
+<text2></text2>
+<text2a>&lt;b&gt;How long&lt;/b&gt; is the film?</text2a>
+<sound2>pi_gram1_1_3.mp3</sound2>
+<sectiontitle2>We use &lt;i&gt;What&lt;/i&gt; if there are many possible answers and &lt;i&gt;Which&lt;/i&gt; if there are only a few possible answers.</sectiontitle2>
+<titlesound2>pi_gram1_1_4.mp3</titlesound2>
+<text3></text3>
+<text3a>&lt;b&gt;What &lt;/b&gt;'s your name?</text3a>
+<sound3>pi_gram1_1_5.mp3</sound3>
+<text4></text4>
+<text4a>&lt;b&gt;Which&lt;/b&gt; do you prefer, coffee or tea?</text4a>
+<sound4>pi_gram1_1_6.mp3</sound4>
+</section>
+<section>
+<title> Word order in questions</title>
+<sectiontitle>With the verb &lt;i&gt;be&lt;/i&gt; we change the subject and the verb.</sectiontitle>
+<titlesound>pi_gram1_1_7.mp3</titlesound>
+<text1>They are in the kitchen.</text1>
+<text1a>&lt;b&gt;Are they&lt;/b&gt; in the kitchen?</text1a>
+<sound1>pi_gram1_1_8.mp3</sound1>
+<text2>He's late for class.</text2>
+<text2a>&lt;b&gt;Is he&lt;/b&gt; late for class?</text2a>
+<sound2>pi_gram1_1_9.mp3</sound2>
+<sectiontitle2>With other verbs we put the auxiliary verb &lt;i&gt;do&lt;/i&gt; before the subject.</sectiontitle2>
+<titlesound2>pi_gram1_1_10.mp3</titlesound2>
+<text3>They play basketball.</text3>
+<text3a>&lt;b&gt;Do&lt;/b&gt; they &lt;b&gt;play &lt;/b&gt;basketball?</text3a>
+<sound3>pi_gram1_1_11.mp3</sound3>
+<text4>Jamie lives near the school.</text4>
+<text4a>&lt;b&gt;Does&lt;/b&gt; Jamie &lt;b&gt;live&lt;/b&gt; near the school?</text4a>
+<sound4>pi_gram1_1_12.mp3</sound4>
+</section>
+</grammar>

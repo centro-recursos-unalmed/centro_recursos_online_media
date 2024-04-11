@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?> 
+<pairs bckg_color="0x5B9C97" congra_text="Congratulations!!">
+<pair fbtext="Correct!">   
+  <picture label="ice" picture="" />   
+  <picture label="" picture="resources/03083201.jpg" />     
+</pair>  
+
+<pair fbtext="That's right!">   
+  <picture label="desert" picture="" />   
+  <picture label="" picture="resources/03083202.jpg" />     
+</pair>  
+<pair fbtext="Excellent!">   
+  <picture label="lake" picture="" />   
+  <picture label="" picture="resources/03083203.jpg" />    
+</pair>  
+<pair fbtext="Brilliant!">   
+  <picture label="island" picture="" />   
+  <picture label="" picture="resources/03083204.jpg" />     
+</pair>  
+<pair fbtext="That's correct!">   
+  <picture label="canal" picture="" />   
+  <picture label="" picture="resources/03083205.jpg" />    
+</pair>  
+<pair fbtext="Correct!">   
+  <picture label="volcano" picture="" />  
+  <picture label="" picture="resources/03083206.jpg" />       
+</pair>  
+<pair fbtext="Well done!">   
+  <picture label="river" picture="" /> 
+  <picture label="" picture="resources/03083207.jpg" />    
+</pair> 
+<pair fbtext="Well done!">   
+  <picture label="mountain" picture="" />   
+  <picture label="" picture="resources/03083208.jpg" />    
+</pair>  
+</pairs>
+

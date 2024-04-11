@@ -1,0 +1,81 @@
+<DOC>
+<folder  label="Unit 1" title="Unit 1">
+<file activityFile="unit1_1.xml" url="Grammar.swf" type="Language Focus" lesson="" activity="" title="Revision of question forms" label="Presentation 1"/>
+<file activityFile="unit1_2.xml" url="Grammar.swf" type="Language Focus" lesson="" activity="" title="Present simple" label="Presentation 2"/>
+<file activityFile="cepi-01-06.xml" url="pelmanism.swf" activity="6" type="Vocabulary"  label="Activity 1" header="Vocabulary: Leisure activities"  rubric="Match the pictures with the words. See how fast you can match the cards." title="Leisure activities"/>
+</folder>
+<folder  label="Unit 2" title="Unit 2">
+<file activityFile="unit2_1.xml" url="Grammar.swf" type="Language Focus" lesson="" activity="" title="Past simple" label="Presentation 1"/>
+<file activityFile="unit2_2.xml" url="Grammar.swf" type="Language Focus" lesson="" activity="" title="Time phrases often used in the past " label="Presentation 2"/>
+ <file activityFile="cepi-02-06.xml" url="wordsearch.swf" activity="6" type="Vocabulary" title="Words to describe feelings" label="Activity 1" header="Vocabulary: Words to describe feelings"  rubric="Find 11 words to describe feelings in the square. Click on the letters. "/>
+</folder>
+<folder  label="Unit 3" title="Unit 3">
+<file activityFile="unit3_1.xml" url="Grammar.swf" type="Language Focus" lesson="" activity="" title="&lt;i&gt;should &lt;/i&gt;&lt;i&gt;, shouldn't &lt;/i&gt;" label="Presentation 1"/>
+<file activityFile="unit3_2.xml" url="Grammar.swf" type="Language Focus" lesson="" activity="" title="&lt;i&gt;can &lt;/i&gt;&lt;i&gt;, can't, have to, don't have to &lt;/i&gt;" label="Presentation 2"/>
+          <file activityFile="cepi-03-05.xml" url="matching.swf" activity="5" type="Vocabulary" title="Daily routines" label="Activity 1" header="Vocabulary: Daily routines" rubric="Drag a line to connect the two halves." />
+         <file activityFile="cepi-03-08.xml" url="crossword.swf" type="Vocabulary"  activity="8" title="Jobs" label="Activity 4" header="Vocabulary: Jobs" rubric="What's my job? Complete the crossword."/>
+</folder>
+<folder  label="Unit 4" title="Unit 4">
+<file activityFile="unit4_1.xml" url="Grammar.swf" type="Language Focus" lesson="" activity="" title="Present continuous and Present simple" label="Presentation 1"/>
+<file activityFile="unit4_2.xml" url="Grammar.swf" type="Language Focus" lesson="" activity="" title="Present continuous for future arrangements" label="Presentation 2"/>
+<file activityFile="cepi-04-01.xml" url="pelmanism.swf" activity="1" type="Language Focus" pres="1"  title="Present continuous and Present simple" label="Activity 1" header="Present continuous and Present simple"  rubric="What are they doing? Match the pictures with the words. See how fast you can match the cards."/>
+</folder>
+<folder  label="Unit 5" title="Unit 5">
+<file activityFile="unit5_1.xml" url="Grammar.swf" type="Language Focus" lesson="" activity="" title="Comparative and superlative adjectives" label="Presentation 1"/>
+<file activityFile="unit5_2.xml" url="Grammar.swf" type="Language Focus" lesson="" activity="" title="Describing people" label="Presentation 2"/>
+ <file activityFile="cepi-05-05.xml" url="wordsearch.swf" activity="5" type="Vocabulary" title="Physical appearance" label="Activity 1" header="Vocabulary: Physical appearance"  rubric="Find 14 adjectives to describe people in the word square. Click on the letters. "/>
+</folder>
+<folder  label="Unit 6" title="Unit 6">
+<file activityFile="unit6_1.xml" url="Grammar.swf" type="Language Focus" lesson="" activity="" title="Intentions and wishes" label="Presentation 1"/>
+<file activityFile="unit6_2.xml" url="Grammar.swf" type="Language Focus" lesson="" activity="" title="Predictions: &lt;i&gt;will&lt;/i&gt; and &lt;i&gt;won't &lt;/i&gt;" label="Presentation 2"/>
+<file activityFile="cepi-06-05.xml" url="pelmanism.swf" activity="5" type="Vocabulary" title="Holidays" label="Activity 1" header="Vocabulary: Holidays"  rubric="Match the pictures with the phrases. See how fast you can match the cards."/>
+       <file activityFile="cepi-06-07.xml" url="matching.swf" activity="7" type="Vocabulary" title="Holidays" label="Activity 3" header="Vocabulary: Holidays" rubric="Drag a line to connect the two halves." />
+</folder>
+<folder  label="Unit 7" title="Unit 7">
+<file activityFile="unit7_1.xml" url="Grammar.swf" type="Language Focus" lesson="" activity="" title="Present perfect and Past simple with &lt;i&gt;for &lt;/i&gt;" label="Presentation 1"/>
+<file activityFile="unit7_2.xml" url="Grammar.swf" type="Language Focus" lesson="" activity="" title="Time phrases with the Past simple" label="Presentation 2"/>
+ <file activityFile="cepi-07-01.xml" url="wordsearch.swf" activity="1" type="Language Focus" pres="1" title="Irregular past participles" label="Practice 1" header="Language Focus: Irregular past participles"  rubric="Find 22 past participles in the word square. Click on the letters. "/>
+</folder>
+<folder  label="Unit 8" title="Unit 8">
+<file activityFile="unit8_1.xml" url="Grammar.swf" type="Language Focus" lesson="" activity="" title="Using articles" label="Presentation 1"/>
+<file activityFile="unit8_2.xml" url="Grammar.swf" type="Language Focus" lesson="" activity="" title="Countable and uncountable nouns" label="Presentation 2"/>
+<file activityFile="cepi-08-06.xml" url="pelmanism.swf" activity="6" type="Vocabulary" title="Geographical features" label="Activity 2" header="Vocabulary: Geographical features"  rubric="Match the pictures with the words. See how fast you can match the cards."/>
+</folder>
+<folder  label="Unit 9" title="Unit 9">
+<file activityFile="unit9_1.xml" url="Grammar.swf" type="Language Focus" lesson="" activity="" title="&lt;i&gt;will &lt;/i&gt;&lt;i&gt; /won't + definitely/probably&lt;/i&gt;" label="Presentation 1"/>
+<file activityFile="unit9_2.xml" url="Grammar.swf" type="Language Focus" lesson="" activity="" title="Present tense after &lt;i&gt;if, when, before&lt;/i&gt; and other time words" label="Presentation 2"/>
+    <file activityFile="cepi-09-06.xml" url="matching.swf" activity="6" type="Vocabulary" title="Modern and traditional" label="Activity 2" header="Vocabulary: Modern and traditional" rubric="Drag a line to connect the verbs and the nouns." />
+</folder>
+<folder  label="Unit 10" title="Unit 10">
+<file activityFile="unit10_1.xml" url="Grammar.swf" type="Language Focus" lesson="" activity="" title="&lt;i&gt;used &lt;/i&gt;&lt;i&gt; to&lt;/i&gt;" label="Presentation 1"/>
+<file activityFile="unit10_2.xml" url="Grammar.swf" type="Language Focus" lesson="" activity="" title="Past continuous" label="Presentation 2"/>
+         <file activityFile="cepi-10-05.xml" url="crossword.swf" type="Vocabulary"  activity="5" title="Health and accidents" label="Activity 1" header="Vocabulary: Health and accidents" rubric="Complete the crossword."/>
+</folder>
+<folder  label="Unit 11" title="Unit 11">
+<file activityFile="unit11_1.xml" url="Grammar.swf" type="Language Focus" lesson="" activity="" title="Gerunds ( &lt;i&gt;- ing&lt;/i&gt; forms) " label="Presentation 1"/>
+<file activityFile="unit11_2.xml" url="Grammar.swf" type="Language Focus" lesson="" activity="" title="&lt;i&gt;like&lt;/i&gt;&lt;i&gt; doing&lt;/i&gt; and &lt;i&gt;would like to do &lt;/i&gt;" label="Presentation 2"/>
+ <file activityFile="cepi-11-05.xml" url="wordsearch.swf" activity="5" type="Vocabulary" title="Hobbies and interests" label="Activity 1" header="Vocabulary: Hobbies and interests"  rubric="Find 12 things that people &lt;i&gt;collect, play, make&lt;/i&gt; or &lt;i&gt;go to see&lt;/i&gt;."/>
+    <file activityFile="cepi-11-06.xml" url="matching.swf" activity="6" type="Vocabulary" title="Wordspot: &lt;i&gt;like&lt;/i&gt;" label="Activity 2" header="Wordspot: &lt;i&gt;like&lt;/i&gt;" rubric="Drag a line to join the question and answer." />
+</folder>
+<folder  label="Unit 12" title="Unit 12">
+<file activityFile="unit12_1.xml" url="Grammar.swf" type="Language Focus" lesson="" activity="" title="Present simple passive" label="Presentation 1"/>
+<file activityFile="unit12_2.xml" url="Grammar.swf" type="Language Focus" lesson="" activity="" title="Past simple passive" label="Presentation 2"/>
+<file activityFile="cepi-12-05.xml" url="pelmanism.swf" activity="5" type="Vocabulary" title="Everyday objects" label="Activity 1" header="Vocabulary: Everyday objects"  rubric="Match the pictures with the words. See how fast you can match the cards."/>
+</folder>
+<folder  label="Unit 13" title="Unit 13">
+<file activityFile="unit13_1.xml" url="Grammar.swf" type="Language Focus" lesson="" activity="" title="Present perfect continuous" label="Presentation 1"/>
+<file activityFile="unit13_2.xml" url="Grammar.swf" type="Language Focus" lesson="" activity="" title="Present perfect continuous and Present perfect simple" label="Presentation 2"/>
+         <file activityFile="cepi-13-05.xml" url="crossword.swf" type="Vocabulary"  activity="5" title="Personal characteristics" label="Activity 1" header="Vocabulary: Personal characteristics" rubric="Complete the crossword with adjectives to describe people's character."/>
+<file activityFile="cepi-13-08.xml" url="pelmanism.swf" activity="8" type="Pronunciation" title="Personal characteristics" label="Activity 1" header="Pronunciation: Personal characteristics"  rubric="Match the words to the stress patterns. See how quickly you can match the cards."/>
+</folder>
+<folder  label="Unit 14" title="Unit 14">
+<file activityFile="unit14_1.xml" url="Grammar.swf" type="Language Focus" lesson="" activity="" title="Past perfect" label="Presentation 1"/>
+<file activityFile="unit14_2.xml" url="Grammar.swf" type="Language Focus" lesson="" activity="" title="Past time words: &lt;i&gt;already, just,&lt;/i&gt; and &lt;i&gt;never … before &lt;/i&gt;" label="Presentation 2"/>
+    <file activityFile="cepi-14-07.xml" url="matching.swf" activity="7" type="Vocabulary" title="Wordspot: &lt;i&gt;make&lt;/i&gt;" label="Activity 3" header="Wordspot: &lt;i&gt;make&lt;/i&gt;" rubric="Drag a line to connect the two halves of the sentences." />
+</folder>
+<folder  label="Unit 15" title="Unit 15">
+<file activityFile="unit15_1.xml" url="Grammar.swf" type="Language Focus" lesson="" activity="" title="Conditional sentences with &lt;i&gt;would &lt;/i&gt;" label="Presentation 1"/>
+<file activityFile="unit15_2.xml" url="Grammar.swf" type="Language Focus" lesson="" activity="" title="&lt;i&gt;will&lt;/i&gt; and &lt;i&gt;would &lt;/i&gt;" label="Presentation 2"/>
+       <file activityFile="cepi-15-03.xml" url="matching.swf" activity="3" type="Language Focus" pres="2" title="&lt;i&gt;will&lt;/i&gt; and &lt;i&gt;would&lt;/i&gt;" label="Practice 1" header="&lt;i&gt;will&lt;/i&gt; and &lt;i&gt;would&lt;/i&gt; " rubric="Drag a line to match the two halves of the sentences." />
+       <file activityFile="cepi-15-05.xml" url="crossword.swf" type="Vocabulary"  activity="5" title="&lt;i&gt;Imagine&lt;/i&gt;" label="Activity 1" header="Vocabulary: &lt;i&gt;Imagine&lt;/i&gt;" rubric="Complete the crossword with words from the song &lt;i&gt;Imagine&lt;/i&gt;."/>
+</folder></DOC>

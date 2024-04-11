@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='ISO-8859-1' ?>
+<grammar>
+<section>
+<title> Comparative and superlative adjectives</title>
+<sectiontitle>We use the comparative to compare two things and the superlative to compare more than two things. </sectiontitle>
+<titlesound>pi_gram5_1_1.mp3</titlesound>
+<text1>I'm 25 and Kristina's 27.</text1>
+<text1a>Kristina's &lt;b&gt;older&lt;/b&gt; than me.</text1a>
+<sound1>pi_gram5_1_2.mp3</sound1>
+<text2>I'm 25, Kristina's 27 and Ian's 30.</text2>
+<text2a>I'm &lt;b&gt;the youngest&lt;/b&gt; in the family.</text2a>
+<sound2>pi_gram5_1_3.mp3</sound2>
+<sectiontitle2>With one-syllable adjectives, we make the comparative and superlative with adjective + &lt;i&gt;-r/-er/-ier&lt;/i&gt; or &lt;i&gt;the&lt;/i&gt; + adjective + -&lt;i&gt;st/-est/-iest&lt;/i&gt;. </sectiontitle2>
+<titlesound2>pi_gram5_1_4.mp3</titlesound2>
+<text3></text3>
+<text3a>I'm tall&lt;b&gt;er&lt;/b&gt; than Sam but Will's the tall&lt;b&gt;est&lt;/b&gt; in the class.</text3a>
+<sound3>pi_gram5_1_5.mp3</sound3>
+<text4></text4>
+<text4a>Osaka is large&lt;b&gt;r&lt;/b&gt; than Kyoto but Tokyo is the large&lt;b&gt;st&lt;/b&gt; and bus&lt;b&gt;iest&lt;/b&gt; city in Japan. </text4a>
+<sound4>pi_gram5_1_6.mp3</sound4>
+</section>
+<section>
+<title> Comparative and superlative adjectives</title>
+<sectiontitle>With most two-syllable adjectives and longer adjectives, we use &lt;i&gt;more&lt;/i&gt; + adjective or &lt;i&gt;the most&lt;/i&gt; + adjective.</sectiontitle>
+<titlesound>pi_gram5_1_7.mp3</titlesound>
+<text1></text1>
+<text1a>He's &lt;b&gt;more serious&lt;/b&gt; than his brother.</text1a>
+<sound1>pi_gram5_1_8.mp3</sound1>
+<text2></text2>
+<text2a>The Ferrari's &lt;b&gt;the most powerful&lt;/b&gt; car of all.</text2a>
+<sound2>pi_gram5_1_9.mp3</sound2>
+<sectiontitle2>Some adjectives are irregular: &lt;i&gt;good, better, the best; bad, worse, the worst; far, further, the furthest. </sectiontitle2>
+<titlesound2>pi_gram5_1_10.mp3</titlesound2>
+<text3></text3>
+<text3a>It's &lt;b&gt;the worst&lt;/b&gt; restaurant in town.</text3a>
+<sound3>pi_gram5_1_11.mp3</sound3>
+<text4></text4>
+<text4a>The station is &lt;b&gt;further&lt;/b&gt; from here than the cinema.</text4a>
+<sound4>pi_gram5_1_12.mp3</sound4>
+</section>
+<section>
+<title> Other comparative and superlative forms</title>
+<sectiontitle>We use &lt;i&gt;more&lt;/i&gt; and &lt;i&gt;the most&lt;/i&gt; to compare nouns.</sectiontitle>
+<titlesound>pi_gram5_1_13.mp3</titlesound>
+<text1></text1>
+<text1a>She's got &lt;b&gt;more money&lt;/b&gt; than me.</text1a>
+<sound1>pi_gram5_1_14.mp3</sound1>
+<text2></text2>
+<text2a>Keith's got &lt;b&gt;the most students&lt;/b&gt; in his class.</text2a>
+<sound2>pi_gram5_1_15.mp3</sound2>
+<sectiontitle2>We use also &lt;i&gt;similar to, the same as, different from, look like&lt;/i&gt; to compare things and people.</sectiontitle2>
+<titlesound2>pi_gram5_1_16.mp3</titlesound2>
+<text3></text3>
+<text3a>I'm &lt;b&gt;the same&lt;/b&gt; age &lt;b&gt;as Lucy&lt;/b&gt;.</text3a>
+<sound3>pi_gram5_1_17.mp3</sound3>
+<text4></text4>
+<text4a>You &lt;b&gt;look like&lt;/b&gt; your &lt;b&gt;mother&lt;/b&gt;.</text4a>
+<sound4>pi_gram5_1_18.mp3</sound4>
+</section>
+</grammar>

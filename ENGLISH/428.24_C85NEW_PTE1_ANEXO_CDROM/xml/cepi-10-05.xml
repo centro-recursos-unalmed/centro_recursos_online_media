@@ -1,0 +1,33 @@
+<?Xml version="1.0" encoding="iso-8859-1"?>
+<data>
+<initiate maxSize="14" startx="20"  starty="110" pictureCross="false" boxSpace="50" autoScroll="45"/>
+<clue value="" item=""/>
+<block question="The doctor gave me a course of ______ for my ear problem." answer="ANTIBIOTICS" startBlock="0_1" endBlock="0_11"/>
+<block question="You should go to bed and keep ______." answer="WARM" startBlock="2_3" endBlock="2_6"/>
+<block question="He ate some prawns yesterday and now he's developed a ______ on his neck." answer="RASH" startBlock="4_1" endBlock="4_4"/>
+<block question="There's a lot of ______ around your knee and it looks very red." answer="SWELLING" startBlock="4_6" endBlock="4_13"/>
+<block question="I've cut my finger! Can you put a ______ on it?" answer="PLASTER" startBlock="7_4" endBlock="7_10"/>
+<block question="Why don't you taken an ______ for your headache?" answer="ASPIRIN" startBlock="9_0" endBlock="9_6"/>
+<block question="The top of the building was very high and when I looked down I felt ______." answer="DIZZY" startBlock="12_6" endBlock="12_10"/>
+<block question="Atchooo! Is there a cat here? I'm ______ to them." answer="ALLERGIC" startBlock="0_1" endBlock="7_1"/>
+<block question="What should you do if you ______ yourself with a hot iron." answer="BURN" startBlock="0_5" endBlock="3_5"/>
+<block question="I'm worried about Les. He's got a very high ______. " answer="TEMPERATURE" startBlock="0_8" endBlock="10_8"/>
+<block question="It was very hot in the stadium and a lot of people ______." answer="FAINTED" startBlock="6_6" endBlock="12_6"/>
+<block question="Put some of this ______ on your arm and it should feel better." answer="CREAM" startBlock="6_10" endBlock="10_10"/>
+</data>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

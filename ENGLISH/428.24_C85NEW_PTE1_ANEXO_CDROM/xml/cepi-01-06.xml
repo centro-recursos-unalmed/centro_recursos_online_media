@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?> 
+<pairs bckg_color="0x5B9C97" congra_text="Congratulations!!">
+<pair fbtext="Correct!">   
+  <picture label="rollerblading" picture="" />   
+  <picture label="" picture="resources/03013101.jpg" />     
+</pair>  
+
+<pair fbtext="That's right!">   
+  <picture label="skate boarding  " picture="" />   
+  <picture label="" picture="resources/03013102.jpg" />     
+</pair>  
+<pair fbtext="Excellent!">   
+  <picture label="going for a run " picture="" />   
+  <picture label="" picture="resources/03013103.jpg" />    
+</pair>  
+<pair fbtext="Brilliant!">   
+  <picture label="skiing" picture="" />   
+  <picture label="" picture="resources/03013104.jpg" />     
+</pair>  
+<pair fbtext="That's correct!">   
+  <picture label="snow boarding " picture="" />   
+  <picture label="" picture="resources/03013105.jpg" />    
+</pair>  
+<pair fbtext="Correct!">   
+  <picture label="clubbing" picture="" />  
+  <picture label="" picture="resources/03013106.jpg" />       
+</pair>  
+<pair fbtext="Well done!">   
+  <picture label="surfing the Internet " picture="" /> 
+  <picture label="" picture="resources/03013107.jpg" />    
+</pair> 
+<pair fbtext="Well done!">   
+  <picture label="playing the guitar " picture="" />   
+  <picture label="" picture="resources/03013108.jpg" />    
+</pair>  
+</pairs>
+               

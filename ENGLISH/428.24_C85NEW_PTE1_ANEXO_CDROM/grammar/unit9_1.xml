@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='ISO-8859-1' ?>
+<grammar>
+<section>
+<title> &lt;i&gt;will/won't + definitely/probably</title>
+<sectiontitle>We use &lt;i&gt;will definitely&lt;/i&gt; + verb when we are sure something will happen. The negative is &lt;i&gt;definitely won't&lt;/i&gt; + verb.</sectiontitle>
+<titlesound>pi_gram9_1_1.mp3</titlesound>
+<text1>I'm sure I'll be out tomorrow evening.</text1>
+<text1a>I&lt;b&gt;'ll definitely be&lt;/b&gt; out tomorrow evening.</text1a>
+<sound1>pi_gram9_1_2.mp3</sound1>
+<text2>I'm sure they won't win.</text2>
+<text2a>They &lt;b&gt;definitely won't win.</text2a>
+<sound2>pi_gram9_1_3.mp3</sound2>
+<sectiontitle2>We use &lt;i&gt;will probably&lt;/i&gt; + verb when we are fairly sure something will happen. The negative is &lt;i&gt;probably won't&lt;/i&gt; + verb.</sectiontitle2>
+<titlesound2>pi_gram9_1_4.mp3</titlesound2>
+<text3>I think she'll be late.</text3>
+<text3a>She&lt;b&gt;'ll probably be &lt;/b&gt;late.</text3a>
+<sound3>pi_gram9_1_5.mp3</sound3>
+<text4>I don't think we'll come. </text4>
+<text4a>We &lt;b&gt;probably won't come.</text4a>
+<sound4>pi_gram9_1_6.mp3</sound4>
+</section>
+<section>
+<title> &lt;i&gt;may / might</title>
+<sectiontitle>We use &lt;i&gt;may/might&lt;/i&gt; + verb to say that it's possible something will happen. The negative is &lt;i&gt;may/might + not&lt;/i&gt; + verb.</sectiontitle>
+<titlesound>pi_gram9_1_7.mp3</titlesound>
+<text1>It's possible it will rain tomorrow.</text1>
+<text1a>It &lt;b&gt;may rain &lt;/b&gt;tomorrow.</text1a>
+<sound1>pi_gram9_1_8.mp3</sound1>
+<text2>It's possible that he won't play.</text2>
+<text2a>He &lt;b&gt;might not &lt;/b&gt;play.</text2a>
+<sound2>pi_gram9_1_9.mp3</sound2>
+<sectiontitle2></sectiontitle2>
+<titlesound2></titlesound2>
+<text3></text3>
+<text3a></text3a>
+<sound3></sound3>
+<text4></text4>
+<text4a></text4a>
+<sound4></sound4>
+</section>
+</grammar>

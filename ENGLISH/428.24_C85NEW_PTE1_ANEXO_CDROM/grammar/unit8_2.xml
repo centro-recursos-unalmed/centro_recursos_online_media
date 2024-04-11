@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='ISO-8859-1' ?>
+<grammar>
+<section>
+<title> Countable and uncountable nouns</title>
+<sectiontitle>Countable nouns have a singular and plural form.</sectiontitle>
+<titlesound>pi_gram8_2_1.mp3</titlesound>
+<text1>building/building&lt;b&gt;s &lt;/b&gt;</text1>
+<text1a>I work in &lt;b&gt;a&lt;/b&gt; very tall &lt;b&gt;building&lt;/b&gt;.</text1a>
+<sound1>pi_gram8_2_2.mp3</sound1>
+<text2>skyscraper/skyscraper&lt;b&gt;s &lt;/b&gt;</text2>
+<text2a>There &lt;b&gt;are&lt;/b&gt; a lot of &lt;b&gt;skyscrapers &lt;/b&gt;in the city centre.</text2a>
+<sound2>pi_gram8_2_3.mp3</sound2>
+<sectiontitle2>Uncountable nouns do not have a plural form. You can use them with &lt;i&gt;is/was&lt;/i&gt; but not &lt;i&gt;are/were&lt;/i&gt;. </sectiontitle2>
+<titlesound2>pi_gram8_2_4.mp3</titlesound2>
+<text3>traffic, nightlife, scenery</text3>
+<text3a>Traffic &lt;b&gt;is&lt;/b&gt; bad in the city centre.</text3a>
+<sound3>pi_gram8_2_5.mp3</sound3>
+<text4></text4>
+<text4a>The &lt;b&gt;scenery was &lt;/b&gt;beautiful.</text4a>
+<sound4>pi_gram8_2_6.mp3</sound4>
+</section>
+<section>
+<title> Quantifiers &lt;i&gt;some&lt;/i&gt;, &lt;i&gt;any, no &lt;/i&gt;</title>
+<sectiontitle>We use &lt;i&gt; some&lt;/i&gt; with countable and uncountable nouns when we don't know exactly how many/much. We sometimes use it in questions where we think the answer will be &lt;i&gt;yes&lt;/i&gt;.</sectiontitle>
+<titlesound>pi_gram8_2_7.mp3</titlesound>
+<text1></text1>
+<text1a>I'd like &lt;b&gt;some&lt;/b&gt; information, please.</text1a>
+<sound1>pi_gram8_2_8.mp3</sound1>
+<text2></text2>
+<text2a>Can I have &lt;b&gt;some&lt;/b&gt; strawberries, please? Yes, of course.</text2a>
+<sound2>pi_gram8_2_9.mp3</sound2>
+<sectiontitle2>We use &lt;i&gt;not any&lt;/i&gt; or &lt;i&gt;no&lt;/i&gt; with countable or uncountable nouns in the negative. We use &lt;i&gt;any &lt;/i&gt;in questions where the answer could be &lt;i&gt;yes&lt;/i&gt; or &lt;i&gt;no&lt;/i&gt;. </sectiontitle2>
+<titlesound2>pi_gram8_2_10.mp3</titlesound2>
+<text3>There are &lt;b&gt;no&lt;/b&gt; Italian restaurants near here.</text3>
+<text3a>There are&lt;b&gt;n't any&lt;/b&gt; Italian restaurants near here.</text3a>
+<sound3>pi_gram8_2_11.mp3</sound3>
+<text4></text4>
+<text4a>&lt;b&gt;Are there any &lt;/b&gt;shops near here? No, there are&lt;b&gt;n't &lt;/b&gt;.</text4a>
+<sound4>pi_gram8_2_12.mp3</sound4>
+</section>
+<section>
+<title> Other quantifiers </title>
+<sectiontitle>We use &lt;i&gt;a few&lt;/i&gt; with countable nouns for a &lt;i&gt;small number of&lt;/i&gt; and &lt;i&gt;a lot&lt;/i&gt; with countable or uncountable nouns for &lt;i&gt;a large number of. &lt;/i&gt;</sectiontitle>
+<titlesound>pi_gram8_2_13.mp3</titlesound>
+<text1></text1>
+<text1a>I've got &lt;b&gt;a few things&lt;/b&gt; I'd like to discuss with you.</text1a>
+<sound1>pi_gram8_2_14.mp3</sound1>
+<text2></text2>
+<text2a>There are &lt;b&gt;a lot of &lt;/b&gt;nice &lt;b&gt;places&lt;/b&gt; to eat near here.</text2a>
+<sound2>pi_gram8_2_15.mp3</sound2>
+<sectiontitle2>In the negative and question, we use &lt;i&gt;much&lt;/i&gt; for uncountable nouns and &lt;i&gt;many&lt;/i&gt; for countable nouns. </sectiontitle2>
+<titlesound2>pi_gram8_2_16.mp3</titlesound2>
+<text3>uncountable nouns:</text3>
+<text3a>I &lt;b&gt;haven't got much time&lt;/b&gt; today. </text3a>
+<sound3>pi_gram8_2_17.mp3</sound3>
+<text4>countable nouns: </text4>
+<text4a>&lt;b&gt;Are there many tourists&lt;/b&gt; at this time of year?</text4a>
+<sound4>pi_gram8_2_18.mp3</sound4>
+</section>
+<section>
+<title> Other quantifiers </title>
+<sectiontitle>We use &lt;i&gt;too much/too many&lt;/i&gt; with a negative meaning. We use them to mean more than the right amount.</sectiontitle>
+<titlesound>pi_gram8_2_19.mp3</titlesound>
+<text1>uncountable nouns:</text1>
+<text1a>I can't work here. There's &lt;b&gt;too much noise.</text1a>
+<sound1>pi_gram8_2_20.mp3</sound1>
+<text2>countable nouns.</text2>
+<text2a>There are &lt;b&gt;too many people&lt;/b&gt; in this classroom.</text2a>
+<sound2>pi_gram8_2_21.mp3</sound2>
+<sectiontitle2>&lt;i&gt;Not enough&lt;/i&gt; also has a negative meaning. We use it to mean less than the right amount. </sectiontitle2>
+<titlesound2>pi_gram8_2_22.mp3</titlesound2>
+<text3>uncountable nouns:</text3>
+<text3a>There is&lt;b&gt;n't enough&lt;/b&gt; rice for everyone. </text3a>
+<sound3>pi_gram8_2_23.mp3</sound3>
+<text4>countable nouns: </text4>
+<text4a>There are&lt;b&gt;n't enough &lt;/b&gt;chairs.</text4a>
+<sound4>pi_gram8_2_24.mp3</sound4>
+</section>
+</grammar>

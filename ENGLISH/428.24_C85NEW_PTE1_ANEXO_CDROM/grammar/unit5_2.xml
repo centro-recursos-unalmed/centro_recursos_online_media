@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='ISO-8859-1' ?>
+<grammar>
+<section>
+<title> Describing people</title>
+<sectiontitle>We use &lt;i&gt;What does he/she look like? &lt;/i&gt;to ask about someone's physical appearance.</sectiontitle>
+<titlesound>pi_gram5_2_1.mp3</titlesound>
+<text1></text1>
+<text1a>&lt;b&gt;What does she look like?&lt;/b&gt; She's tall with long blond hair.</text1a>
+<sound1>pi_gram5_2_2.mp3</sound1>
+<text2></text2>
+<text2a></text2a>
+<sound2></sound2>
+<sectiontitle2>We use &lt;i&gt;What's he/she like? &lt;/i&gt;to ask about someone's personality.</sectiontitle2>
+<titlesound2>pi_gram5_2_3.mp3</titlesound2>
+<text3></text3>
+<text3a>&lt;b&gt;What's she like?&lt;/b&gt; She's very friendly.</text3a>
+<sound3>pi_gram5_2_4.mp3</sound3>
+<text4></text4>
+<text4a></text4a>
+<sound4></sound4>
+</section>
+</grammar>

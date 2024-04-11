@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='ISO-8859-1' ?>
+<grammar>
+<section>
+<title> Predictions: &lt;i&gt;will&lt;/i&gt; and &lt;i&gt;won't &lt;/i&gt;</title>
+<sectiontitle>We use subject + &lt;i&gt;will&lt;/i&gt; + verb to say what we expect to happen. We use it when there is no particular plan or intention.</sectiontitle>
+<titlesound>pi_gram6_2_1.mp3</titlesound>
+<text1>I expect the weather to be very hot in July.</text1>
+<text1a>The weather &lt;b&gt;will be&lt;/b&gt; very hot in July.</text1a>
+<sound1>pi_gram6_2_2.mp3</sound1>
+<text2>I expect it to cost a lot of money.</text2>
+<text2a>It&lt;b&gt;'ll cost&lt;/b&gt; a lot of money.</text2a>
+<sound2>pi_gram6_2_3.mp3</sound2>
+<sectiontitle2>We often use &lt;i&gt;will&lt;/i&gt; with &lt;i&gt;I think&lt;/i&gt; and &lt;i&gt;I don't think. </sectiontitle2>
+<titlesound2>pi_gram6_2_4.mp3</titlesound2>
+<text3></text3>
+<text3a>&lt;b&gt;Do you think&lt;/b&gt; France &lt;b&gt;will&lt;/b&gt; win? Yes, I do.</text3a>
+<sound3>pi_gram6_2_5.mp3</sound3>
+<text4></text4>
+<text4a>&lt;b&gt;I don't think&lt;/b&gt; she&lt;b&gt;'ll be&lt;/b&gt; very happy when she hears.</text4a>
+<sound4>pi_gram6_2_6.mp3</sound4>
+</section>
+<section>
+<title> Predictions: &lt;i&gt;will&lt;/i&gt; and &lt;i&gt;won't &lt;/i&gt;</title>
+<sectiontitle>We use subject + &lt;i&gt;won't&lt;/i&gt; + verb to make the negative. &lt;i&gt;Won't&lt;/i&gt; means &lt;i&gt;will not.</sectiontitle>
+<titlesound>pi_gram6_2_7.mp3</titlesound>
+<text1>They'll see him next week.</text1>
+<text1a>&lt;b&gt;They won't see&lt;/b&gt; him next week.</text1a>
+<sound1>pi_gram6_2_8.mp3</sound1>
+<text2>It'll be light soon.</text2>
+<text2a>It &lt;b&gt;won't be&lt;/b&gt; light soon.</text2a>
+<sound2>pi_gram6_2_9.mp3</sound2>
+<sectiontitle2>In the question we use &lt;i&gt;will&lt;/i&gt; + subject + verb. We can also use &lt;i&gt;will&lt;/i&gt; + subject + &lt;i&gt;have to/be able to&lt;/i&gt; + verb.</sectiontitle2>
+<titlesound2>pi_gram6_2_10.mp3</titlesound2>
+<text3></text3>
+<text3a>How much &lt;b&gt;will it cost &lt;/b&gt;? </text3a>
+<sound3>pi_gram6_2_11.mp3</sound3>
+<text4></text4>
+<text4a>&lt;b&gt;Will we have to change &lt;/b&gt;trains? No, you won't.</text4a>
+<sound4>pi_gram6_2_12.mp3</sound4>
+</section>
+</grammar>

@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='ISO-8859-1' ?>
+<grammar>
+<section>
+<title> Intentions and wishes</title>
+<sectiontitle>We use subject + &lt;i&gt;be&lt;/i&gt; + &lt;i&gt;going to&lt;/i&gt; + verb to talk about an intention in the near or more distant future.</sectiontitle>
+<titlesound>pi_gram6_1_1.mp3</titlesound>
+<text1></text1>
+<text1a>I&lt;b&gt;'m going to be&lt;/b&gt; a famous actor.</text1a>
+<sound1>pi_gram6_1_2.mp3</sound1>
+<text2></text2>
+<text2a>She&lt;b&gt;'s going to look&lt;/b&gt; for a new job.</text2a>
+<sound2>pi_gram6_1_3.mp3</sound2>
+<sectiontitle2>We normally use &lt;i&gt;planning to&lt;/i&gt; + verb when we have thought carefully about the plan and decided how to do it.</sectiontitle2>
+<titlesound2>pi_gram6_1_4.mp3</titlesound2>
+<text3></text3>
+<text3a>They&lt;b&gt;'re planning to speak &lt;/b&gt;at the meeting.</text3a>
+<sound3>pi_gram6_1_5.mp3</sound3>
+<text4></text4>
+<text4a>He&lt;b&gt;'s planning to leave&lt;/b&gt; this company next year.</text4a>
+<sound4>pi_gram6_1_6.mp3</sound4>
+</section>
+<section>
+<title> Intentions and wishes</title>
+<sectiontitle>In the negative, we use subject + &lt;i&gt;be + not + going/planning to&lt;/i&gt; + verb. We usually use the short form, either &lt;i&gt;we aren't&lt;/i&gt; or &lt;i&gt;we're not &lt;/i&gt;... .</sectiontitle>
+<titlesound>pi_gram6_1_7.mp3</titlesound>
+<text1>I'm going to see James today.</text1>
+<text1a>&lt;b&gt;I'm not going to see&lt;/b&gt; James today.</text1a>
+<sound1>pi_gram6_1_8.mp3</sound1>
+<text2>We're planning to buy a car.</text2>
+<text2a>&lt;b&gt;We're not planning to buy&lt;/b&gt; a car. </text2a>
+<sound2>pi_gram6_1_9.mp3</sound2>
+<sectiontitle2>In the question, we use &lt;i&gt;be&lt;/i&gt; + subject + &lt;i&gt;going/planning to&lt;/i&gt; + verb. </sectiontitle2>
+<titlesound2>pi_gram6_1_10.mp3</titlesound2>
+<text3></text3>
+<text3a>&lt;b&gt;Is she going to sing? &lt;/b&gt;Yes, she is. </text3a>
+<sound3>pi_gram6_1_11.mp3</sound3>
+<text4></text4>
+<text4a>&lt;b&gt;Are you planning to stay&lt;/b&gt; here? No, I'm not.</text4a>
+<sound4>pi_gram6_1_12.mp3</sound4>
+</section>
+<section>
+<title> Intentions and wishes</title>
+<sectiontitle>We use &lt;i&gt;would like to&lt;/i&gt; + verb to say what we want to do. It's more polite than &lt;i&gt;want to&lt;/i&gt;. We usually use the short form.</sectiontitle>
+<titlesound>pi_gram6_1_13.mp3</titlesound>
+<text1></text1>
+<text1a>I&lt;b&gt;'d like to travel&lt;/b&gt; around the world one day.</text1a>
+<sound1>pi_gram6_1_14.mp3</sound1>
+<text2></text2>
+<text2a>I&lt;b&gt;'d like to see&lt;/b&gt; the manager, please.</text2a>
+<sound2>pi_gram6_1_15.mp3</sound2>
+<sectiontitle2>We use &lt;i&gt;would rather&lt;/i&gt; + verb to say we prefer one thing to another thing. We usually use the short form.</sectiontitle2>
+<titlesound2>pi_gram6_1_16.mp3</titlesound2>
+<text3>Do you want to go to the party or stay at home?</text3>
+<text3a>I&lt;b&gt;'d rather stay &lt;/b&gt;at home.</text3a>
+<sound3>pi_gram6_1_17.mp3</sound3>
+<text4>Do you want to drive or go by taxi?</text4>
+<text4a>I&lt;b&gt;'d rather go&lt;/b&gt; by taxi.</text4a>
+<sound4>pi_gram6_1_18.mp3</sound4>
+</section>
+<section>
+<title> Intentions and wishes</title>
+<sectiontitle>In the questions, we use &lt;i&gt;Would&lt;/i&gt; + subject + &lt;i&gt;like to/rather&lt;/i&gt; + verb. </sectiontitle>
+<titlesound>pi_gram6_1_19.mp3</titlesound>
+<text1></text1>
+<text1a>&lt;b&gt;Would she like to come&lt;/b&gt; to the cinema? Yes, she would.</text1a>
+<sound1>pi_gram6_1_20.mp3</sound1>
+<text2></text2>
+<text2a>&lt;b&gt;Would you rather sit&lt;/b&gt; or stand? I'd rather stand.</text2a>
+<sound2>pi_gram6_1_21.mp3</sound2>
+<sectiontitle2>We use subject + &lt;i&gt;would rather + not&lt;/i&gt; + verb to make the negative. We don't often use &lt;i&gt;would like to&lt;/i&gt; in the negative.</sectiontitle2>
+<titlesound2>pi_gram6_1_22.mp3</titlesound2>
+<text3>I'd rather speak to Sam today.</text3>
+<text3a>I&lt;b&gt;'d rather not speak&lt;/b&gt; to Sam today.</text3a>
+<sound3>pi_gram6_1_23.mp3</sound3>
+<text4></text4>
+<text4a></text4a>
+<sound4></sound4>
+</section>
+</grammar>
