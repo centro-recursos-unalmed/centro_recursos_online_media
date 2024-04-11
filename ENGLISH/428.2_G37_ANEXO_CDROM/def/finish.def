@@ -1,0 +1,17 @@
+[Finish
+  [Hintergrund
+    x: 0
+    y: 0
+    bilder: back.jpg
+  ]
+  [yesbtn
+     x: 500
+     y: 152
+     enabled: yes_up.bmp, yes_dn.bmp, yes_up.bmp, yes_dn.bmp
+  ]
+  [nobtn
+     x: 500
+     y: 207
+     enabled: no_up.bmp, no_dn.bmp, no_up.bmp, no_dn.bmp
+  ]
+]

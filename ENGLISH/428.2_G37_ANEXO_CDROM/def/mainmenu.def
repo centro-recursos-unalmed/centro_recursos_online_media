@@ -1,0 +1,44 @@
+[TGC Main Menu
+  [Hintergrund
+    x: 0
+    y: 0 
+    bilder: back.jpg
+  ]
+  [Unitbuttons
+    [Unit 1
+      x: 69
+      y: 178
+      enabled: 1-up.bmp, 1-down.bmp, 1-roll.bmp, 1-down.bmp 
+    ]
+    [Unit 2
+      x: 69
+      y: 266
+      enabled: 2-up.bmp, 2-down.bmp, 2-roll.bmp, 2-down.bmp 
+    ]
+    [Unit 3
+      x: 69
+      y: 355
+      enabled: 3-up.bmp, 3-down.bmp, 3-roll.bmp, 3-down.bmp 
+    ]
+    [Unit 4
+      x: 69
+      y: 445
+      enabled: 4-up.bmp, 4-down.bmp, 4-roll.bmp, 4-down.bmp 
+    ]
+  ]
+  [Exitbutton
+    x: 864
+    y: 645
+    enabled: exit-up.bmp, exit-down.bmp, exit-up.bmp, exit-down.bmp
+  ]
+  [Gobutton
+    x: 295
+    y: 643
+    enabled: go-up.bmp, go-down.bmp, go-up.bmp, go-down.bmp
+  ]
+  [Pagenumber
+    x: 117
+    y: 654
+    w: 52    
+  ]
+]

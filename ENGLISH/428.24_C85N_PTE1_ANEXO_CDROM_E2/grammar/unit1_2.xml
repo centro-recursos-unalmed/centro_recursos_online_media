@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='ISO-8859-1' ?>
+<grammar>
+<section>
+<title>&lt;i&gt;a&lt;/i&gt; and &lt;i&gt;an&lt;/i&gt;</title>
+<sectiontitle>We use &lt;i&gt;a/an&lt;/i&gt; for jobs. We use &lt;i&gt;an&lt;/i&gt; before vowels &lt;i&gt;(a, e, i, o, u).&lt;/i&gt;</sectiontitle>
+<titlesound>el_gram_1_2_1.mp3</titlesound>
+<text1></text1>
+<text1a>Sam's &lt;b&gt;an a&lt;/b&gt;ctor.  </text1a>
+<sound1>el_gram_1_2_2.mp3</sound1>
+<text2></text2>
+<text2a>Pat's &lt;b&gt;an e&lt;/b&gt;ngineer.</text2a>
+<sound2>el_gram_1_2_3.mp3</sound2>
+<sectiontitle2>We use &lt;i&gt;a&lt;/i&gt; before consonants (&lt;i&gt;b, c, d, f, g, h&lt;/i&gt; etc.).</sectiontitle2>
+<titlesound2>el_gram_1_2_4.mp3</titlesound2>
+<text3></text3>
+<text3a>She's&lt;b&gt; a d&lt;/b&gt;octor&lt;b&gt;.&lt;/b&gt;</text3a>
+<sound3>el_gram_1_2_5.mp3</sound3>
+<text4></text4>
+<text4a>He's&lt;b&gt; a l&lt;/b&gt;awyer&lt;b&gt;.&lt;/b&gt;</text4a>
+<sound4>el_gram_1_2_6.mp3</sound4>
+</section>
+</grammar>

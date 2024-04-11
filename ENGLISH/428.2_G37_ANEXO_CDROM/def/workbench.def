@@ -1,0 +1,103 @@
+[TGC 1 Workbench
+  [Hintergrund
+    x: 0
+    y: 0  
+    bilder: back.jpg
+  ]
+  [Exitbutton
+    x: 255
+    y: 641
+    enabled: exit-up.bmp, exit-down.bmp, exit-up.bmp, exit-down.bmp
+  ]
+  [Menubutton
+    x: 126
+    y: 641
+    enabled: menu-up.bmp, menu-down.bmp, menu-up.bmp, menu-down.bmp
+  ] 
+  [Backbutton
+    x: 34
+    y: 641
+    enabled: rew-up.bmp, rew-down.bmp, rew-up.bmp, rew-down.bmp
+  ]
+  [Editbutton
+    x: 584
+    y: 641
+    enabled: edit-up.bmp, edit-down.bmp, edit-up.bmp, edit-down.bmp
+  ]
+  [Printbutton
+    x: 844
+    y: 641
+    enabled: print-up.bmp, print-down.bmp, print-up.bmp, print-down.bmp
+  ]
+  [Savebutton
+    x: 715
+    y: 641
+    enabled: save-up.bmp, save-down.bmp, save-up.bmp, save-down.bmp
+  ]
+  [Rewindbutton
+    x: 46
+    y: 564
+    enabled: back-up.bmp, back-down.bmp, back-up.bmp, back-down.bmp
+  ]
+  [Stopbutton
+    x: 157
+    y: 564
+    enabled: stop-up.bmp, stop-down.bmp, stop-up.bmp, stop-down.bmp
+  ]
+  [Playbutton
+    x: 263
+    y: 564
+    enabled: play-down.bmp, play-up.bmp, play-down.bmp, play-up.bmp
+    active: pause-up.bmp, pause-down.bmp, pause-up.bmp, pause-down.bmp
+  ]
+  [Chapterlabel
+    labelx: 82
+    labely: 217
+    paintLayer: 3
+  ]  
+  [Lessonlabel
+    labelx: 82
+    labely: 324
+    paintLayer: 3
+  ]
+  [Itemlabel
+    labelx: 82
+    labely: 436
+    paintLayer: 3
+  ]
+  [Audiocover
+    x: 47 
+    y: 510
+    bilder: audiocover.bmp
+  ]
+  [Display
+    rect: 404, 180, 510, 476
+    bilder: dummy.bmp
+  ]
+  [Overlay
+    x: 404
+    y: 0
+    transparentColor: 0, 255, 0
+    bilder: overlay.bmp
+  ]
+  [Scrollbar
+    x: 934
+    y: 173
+    Hintergrund: scrollbar.bmp
+    [up
+      x: 0
+      y: 0
+      enabled: arrow1-up.bmp, arrow1-down.bmp, arrow1-up.bmp, arrow1-down.bmp
+    ]
+    [down
+      x: 0
+      y: 0
+      enabled: arrow2-up.bmp, arrow2-down.bmp, arrow2-up.bmp, arrow2-down.bmp
+    ]
+    [PositionMarker
+      x: 0
+      y: 0
+      enabled: ball-scroll.bmp, ball-scroll-down.bmp
+    ]
+  ]
+]

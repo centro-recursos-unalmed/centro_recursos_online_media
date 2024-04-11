@@ -1,0 +1,530 @@
+/* html definitions*/
+body{
+	font-family: verdana, Arial, Helvetica, sans-serif;
+	background-color: #eee;
+	margin-top: 4px;
+	
+	}
+
+h1 {
+font-size:x-large;
+color:#0066CC;}
+
+img {border:0px}
+
+.nobullet{margin:0px; padding:0px}
+h2 { 
+	font-size: x-large; 
+	color: #336633; 
+	font-weight:normal
+	
+	}
+
+h3 {
+	font-weight: normal;
+	font-size: 14pt;
+	
+	}
+
+p {
+	font-size: small; 
+	color: #404040;
+	}
+
+
+/* Homepage styles */
+	
+.home_page {
+	background-color: #FFFFFF;
+vertical-align:top;
+	text-align:center;}
+	
+#home_left{text-align:center; float:left;  margin-left:20px
+
+}
+
+#home_right{text-align:left; float:right; width:50%;
+
+}
+
+	}
+.home_page a {font-size:medium; font-weight:bold; padding:0px 10px 0px 10px}
+	
+.home_levelbox {
+	float: left; 
+	width: 240px; 
+	margin: 20px 8px 20px 0px; 
+	border-right: 1px solid #eeeeee; 
+	border-bottom: 8px solid #eeeeee; 
+	padding:0px;
+	}
+
+#level_one.home_levelbox {
+	border-color: #ff0000;
+	}
+
+#level_one.home_levelbox .right a {
+	background-color: #FF0000
+	}
+
+#level_two.home_levelbox {
+	border-color: #0000FF;
+	}
+
+#level_two.home_levelbox .right a {
+	background-color: #0000FF
+	}
+
+#level_three.home_levelbox {
+	border-color: #00CC00;
+	}
+
+#level_three.home_levelbox .right a {
+	background-color: #00CC00	
+	}
+
+.home_levelbox .left {
+	float: left;
+	margin: 0px;
+	padding: 0px;
+	}
+
+.home_levelbox .left img {
+	border: 0px;
+	margin: 0px;
+	height: 193px;
+	width: 120px;
+	}
+
+.home_levelbox .right {
+	float: right;
+	margin: 0px;
+	padding: 0px;
+	}
+
+.home_levelbox .right a {
+	display: block;
+	font-weight: bold;
+	padding: 4px 0px 10px 2px;
+	margin-bottom: 10px;
+	color: #ffffff;
+	}
+
+.home_bottom {
+	background-color: #2E2E5F
+	
+	}
+/* header classes*/
+
+#header { 
+	width:747px;
+	vertical-align:top;
+	background-color: #fff;
+	}
+
+#oup_logo {
+	float:left;
+
+	background-color: #2E2E5F;
+
+	
+	}
+
+.oup_logo {
+	background-color: #2E2E5F;
+	/*vertical-align:top;*/
+	}
+
+#banner {
+	float:left;
+	margin:0px;
+
+	}
+
+#book_logo {
+	float:right;
+	
+	}
+
+/* breadcrumb*/
+.breadcrumb{
+	clear: both;
+	background-color: #2E2E5F;	
+	color: #fff;
+	margin: 0px;
+	padding: 0px 0px 4px 0px;
+	
+	}
+
+.breadcrumb a{
+font-size:small;
+	font-weight:bold;
+	text-decoration: underline;
+	color: #fff;
+	}
+
+.breadcrumb a:hover {
+	text-decoration: none;
+	color: #fff;
+	}
+
+#footer {
+	font-size: x-small;
+	margin-top: 10px;
+	}
+
+/* Section page exercise links */
+/* display: none; to remove the links */
+/* display: normal; to reveal the links*/
+
+#children {
+	background: #dddddd;
+	border: 1px solid #000000;
+	}
+.child {
+	color: #FF0000;
+	display: block;
+	}
+
+
+
+/* middle matter*/
+#middle_matter {
+	background-color: #669966;
+	clear:both;
+	width:747px;
+	vertical-align:top;
+	border: 0px solid #003399;
+	overflow:hidden;
+	}
+	.middle_matter {
+	background-color:#ffffff;
+	clear:both;
+	width:747px;
+	vertical-align:top;
+	border: 1px solid #003399
+	}
+
+#navigation_top {
+	background-color: #669966;
+	height: 20px;
+	}
+
+#navigation {
+text-align:center;
+	float:left;
+	background-color: #669966;
+	vertical-align: top;
+	width: 156px;
+	height:100%;
+	}
+
+#navigation a {
+margin-left:auto;
+margin-right:auto;
+	text-align: left;
+	background-color:#336633;
+	width:90%;
+	display:block;
+	margin-top:6px;
+	padding:4px 0px 4px 5px;
+	color:#fff;
+	
+	font-size:small;
+	font-weight:bold;
+	text-decoration:none;
+	}
+
+#navigation a:hover {
+	
+	background-color:#fff;
+	color:#000;
+	text-decoration:none;
+	}
+
+.book_image {
+	margin-top: 30px;
+	}
+
+#content {
+float:right;
+	background-color:#ffffff;
+	width:570px;
+	text-align:left;
+	padding:10px 6px 10px 12px;
+	
+	
+	}
+
+#home_page {
+text-align:center;
+	}
+
+.toplink {
+	text-align:right
+	}
+
+#exercise {
+width:100%;
+	overflow:hidden;
+	}
+
+
+#links {
+	font-size:10pt;
+	background-color: #ffffff;
+	text-indent: 5pt;
+	padding-bottom: 4px;
+	}
+
+/* bar at the bottom*/
+/*exercise and level templates*/
+
+#bottom {
+	clear:both;
+	width:747px;
+	background-color: #336633;
+	background-repeat: repeat-x;
+	}
+
+/*home page template*/
+/* left-hand navigation block level style*/
+
+.choice {
+
+text-align:center;
+	
+	}
+
+a.book_logo {
+	border: 0px;
+	}
+
+#content ol, p, dl, ul, {font-size:small; color:#404040;}
+
+#content dd {margin:5px 0px 0px 0px; padding:0px 0px 4px 0px;}
+
+#content dt {font-weight:bold;
+font-size:medium;
+color:#404040;
+padding:2px;
+margin-top:8px ;
+border-bottom:1px solid #ccc;}
+
+#content h3 {
+font-weight:bold;
+font-size:medium;
+color:#404040;
+padding:2px;
+margin:0px;
+border-bottom:1px solid #ccc;
+}
+
+#content h4 {
+font-size:12pt;
+font-weight:bold;
+color:#000000;
+border-bottom:1px solid #eeeeee;
+}
+
+/* exercise styles */
+
+.title {
+	font-weight: bold;
+}
+
+.rubric {
+}
+
+.exercise_number {
+	font-weight: bold;
+	margin: 0px 10px 0px 0px;
+	padding: 0px;
+}
+
+#exercise li{
+	margin-bottom: 10px;
+	padding: 0px;	
+}
+
+#exercise ol{
+	text-align: left;
+	padding: 0px;
+	margin: 0px 0px 0px 25px;
+}
+
+.exercise_text {	
+	margin: 0px;
+	font-weight: normal;
+}
+
+#exercise img {
+	margin: 0px 7px 0px 7px;
+}
+
+.exercise_buttons {
+	margin: 20px 0px 0px 0px;
+	clear:both;
+}
+
+#content h3.title {
+	font-size: 10pt;
+	color: #404040;
+	background-color: #ffffff;
+}
+
+/* Drop Down Styles */
+
+.exercise_dropdown {
+	margin: 0px 5px 0px 5px;
+}
+
+/* Gapfill Styles */
+
+.gapfill_wordsfill {
+	font-weight: bold;
+	word-spacing: 20px;
+	margin-bottom: 25px;
+}
+
+.exercise_gapfillbox {
+	margin: 10px 5px 0px 5px;
+}
+
+.exercise_opencompletiongapfill {
+	width: 100%;
+}
+
+/* Multiple Choice Styles */
+/* Old Multiple Choice Styles */
+
+.multiplechoice {
+	clear:both; 
+	vertical-align: top;
+	margin: 0px;
+	padding: 0px;
+}
+
+.multiplechoice p{
+	float: left;
+	vertical-align: top;
+	margin: 0px 10px 10px 0px;
+	padding: 0px;
+}
+
+.multiplechoice_radiobutton {
+	margin-left: 0px;
+	margin-top: 15px;
+}
+
+
+
+/*Old style one row */
+
+.multiplechoice_onerow_answers {
+	margin: 0px 10px 0px 5px;
+	padding: 0px;
+	font-weight: normal;
+	font-style: italic;
+}
+
+/* Sentence Matching Styles */
+
+.upper_alpha {
+	font-weight: bold;
+	margin-right: 15px;
+	margin-left: 10px;
+}
+
+.sentencematching {
+	clear:both;
+	padding: 10px 0px 10px 0px;
+	margin: 0px;
+}
+.sentencematching .exercise_text{
+	width: 35%;
+}
+.sentencematching span{
+	float: left;
+	display: block;
+}
+
+.sentencematching input {
+	float: left;
+	}
+
+/* Word Ordering Style */
+
+.wordordering a{
+	color: #333333;
+	text-decoration: none;
+	border: 1px solid #cccccc;
+	padding: 2px;
+}
+
+.wordordering a:hover{
+	color: red;
+}
+
+.wordordering a:visited{
+	color: #cccccc;
+}
+
+.wordordering a:active{
+	color: #333333;
+}
+
+.wordordering_gapfillbox {
+	margin-top: 10px;
+	border-bottom: 1px dashed #333333;
+	border-left: 0px;
+	border-right: 0px;
+	border-top: 0px;
+	width: 90%;
+}
+
+/* Spot the mistake styles */
+
+.spotthemistake a{
+	color: #333333;
+	text-decoration: none;
+}
+
+.spotthemistake a:hover{
+	color: red;
+}
+
+.medium {font-size:medium; font-weight:bold; color:#404040}
+
+/* Styles for the errorcorrection template*/
+#errorcorrection input {
+border:1px solid #cccccc;
+margin-top:6px;
+width:100px;
+background-color:#eeeeee;
+}
+
+#errorcorrection a{
+text-decoration:none;
+color:#000000;
+}
+
+#errorcorrection a:hover{
+background-color:#000000;
+color:#FFFFFF
+
+}
+
+legend, label {font-size:small; color:#666666}
+fieldset {display:inline}
+
+.scorebox {
+border:1px solid #ff9933;
+width:20px;
+height:20px;
+font-size:small;
+color:#003399;
+text-align:center;
+font-weight:bold;
+
+}

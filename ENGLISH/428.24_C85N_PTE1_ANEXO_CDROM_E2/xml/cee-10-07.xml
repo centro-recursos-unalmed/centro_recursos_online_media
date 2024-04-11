@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?> 
+<pairs bckg_color="0xEFA499" congra_text="Congratulations!">
+<pair fbtext="Correct!">   
+  <picture label="He’s got blond medium-length hair." picture="" />   
+   <picture label="" picture="resources/02103201.jpg" />      
+</pair>  
+<pair fbtext="Well done!">   
+  <picture label="She’s wearing glasses." picture="" />     
+  <picture label="" picture="resources/02103202.jpg" />    
+</pair>  
+<pair fbtext="That's right!">   
+  <picture label="She’s got a pony-tail." picture="" />   
+   <picture label="" picture="resources/02103203.jpg" />   
+</pair>  
+<pair fbtext="Excellent!">   
+  <picture label="He’s black." picture="" />   
+  <picture label="" picture="resources/02103204.jpg" />   
+</pair>  
+<pair fbtext="Brilliant!">   
+  <picture label="She’s got long dark hair." picture="" />   
+  <picture label="" picture="resources/02103205.jpg" />   
+</pair>  
+<pair fbtext="That's correct!">   
+  <picture label="He’s got short dark hair." picture="" />   
+  <picture label="" picture="resources/02103206.jpg" />    
+</pair>  
+<pair fbtext="Correct!">   
+  <picture label="She’s got blonde hair and blue eyes." picture="" />  
+  <picture label="" picture="resources/02103207.jpg" />   
+</pair>  
+<pair fbtext="Well done!">   
+  <picture label="He’s got a beard and a moustache." picture="" /> 
+  <picture label="" picture="resources/02103208.jpg" />    
+</pair> 
+</pairs>
+
+

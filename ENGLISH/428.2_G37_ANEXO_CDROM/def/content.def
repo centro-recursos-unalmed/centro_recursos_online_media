@@ -1,0 +1,1597 @@
+[content
+  [1 Basic phrase patterns
+    [1.1 Language of description
+      [1.1.A Keys
+        pic: 11\keys.jpg 
+        pre: 11\keys_pre.jpg 
+        largepic: 11\keys_large.jpg
+        page: 16 
+      ] 
+      [1.1.B Text A
+        pic: 11\text_a.jpg 
+        pre: 11\text_a_s.jpg 
+        rtf: 11\text_a.rtf
+        audio: Track01.wav
+        page: 18
+      ]
+      [1.1.B Text B
+        pic: 11\text_b.jpg
+        pre: 11\text_b_s.jpg  
+        rtf: 11\text_b.rtf
+        page: 18
+      ]
+      [1.1.B Text C
+        pic: 11\text_c.jpg
+        pre: 11\text_c_s.jpg  
+        rtf: 11\text_c.rtf
+        page: 18
+      ]
+      [1.1.B Text B Key
+        pic: 11\text_b_key.jpg
+        pre: 11\text_b_key_s.jpg  
+        rtf: 11\text_b_key.rtf
+        page: 19
+      ]
+      [1.1.B Text C Key
+        pic: 11\text_c_key.jpg 
+        pre: 11\text_c_key_s.jpg  
+        rtf: 11\text_c_key.rtf
+        page: 19
+      ]
+    ]
+    [1.2 'Something is the colour of ...'
+      grammar: Something is the colour of, something smells, sounds, tastes like
+      [1.2.A Discovery 1
+        pic: 12\discovery.jpg 
+        pre: 12\discovery_s.jpg
+        rtf: 12\discovery.rtf 
+        page: 20
+      ]
+      [1.2.A Discovery 4
+        pic: 12\discovery1.jpg 
+        pre: 12\discovery1_s.jpg
+        rtf: 12\discovery1.rtf 
+        page: 20
+      ] 
+      [1.2.A Consolidation
+        pic: 12\consolidation.jpg 
+        pre: 12\consolidation_s.jpg 
+        rtf: 12\consolidation.rtf
+        page: 21
+      ]
+      [1.2.B Gapped text
+        pic: 12\gaptext.jpg 
+        pre: 12\gaptext_s.jpg 
+        rtf: 12\gaptext.rtf
+        page: 23
+      ]
+      [1.2.B Model text
+        pic: 12\modeltext.jpg 
+        pre: 12\modeltext_s.jpg 
+        rtf: 12\modeltext.rtf
+        audio: Track02.wav
+        page: 23
+      ]
+    ]
+    [1.3 'There is ...'
+      grammar: There is /there are
+      [1.3.A Restaurant
+        pic: 13\restaurant.jpg 
+        pre: 13\restaurant_pre.jpg 
+        largepic: 13\restaurant_large.jpg
+        page: 25 
+      ] 
+      [1.3.A Egyptian mural
+        pic: 13\egypt.jpg 
+        pre: 13\egypt_pre.jpg 
+        largepic: 13\egypt_large.jpg
+        page: 27 
+      ] 
+      [1.3.B Worksheet A
+        pic: 13\worksheet_a.jpg 
+        pre: 13\worksheet_a_s.jpg 
+        rtf: 13\worksheet_a.rtf
+        page: 28
+      ]
+      [1.3.B Worksheet A Key
+        pic: 13\worksheet_a_key.jpg 
+        pre: 13\worksheet_a_key_s.jpg 
+        rtf: 13\worksheet_a_key.rtf
+        audio: Track03.wav
+        page: 28
+      ]
+      [1.3.B Variation
+        pic: 13\worksheet_a_variation.jpg 
+        pre: 13\worksheet_a_variation_s.jpg 
+        rtf: 13\worksheet_a_variation.rtf
+        page: 29
+      ]
+      [1.3.B Worksheet B
+        pic: 13\worksheet_b.jpg 
+        pre: 13\worksheet_b_s.jpg 
+        rtf: 13\worksheet_b.rtf
+        page: 29
+      ]
+      [1.3.B Worksheet B Key
+        pic: 13\worksheet_b_key.jpg 
+        pre: 13\worksheet_b_key_s.jpg 
+        rtf: 13\worksheet_b_key.rtf
+        page: 29
+      ]
+      [1.3.B Variation 1
+        pic: 13\worksheet_b_variation.jpg 
+        pre: 13\worksheet_b_variation_s.jpg 
+        rtf: 13\worksheet_b_variation.rtf
+        page: 30
+      ]
+      [1.3.B Variation 2
+        pic: 13\worksheet_b_variation2.jpg 
+        pre: 13\worksheet_b_variation2_s.jpg 
+        rtf: 13\worksheet_b_variation2.rtf
+        page: 30
+      ]
+    ]  
+    [1.4 'Something ...'  
+      grammar: Something / anything
+      [1.4.B My birthday
+        pic: 14\my_birthday.jpg 
+        pre: 14\my_birthday_s.jpg 
+        rtf: 14\my_birthday.rtf
+        audio: Track04.wav
+        page: 34
+      ]
+      [1.4.B My birthday (gapped)
+        pic: 14\my_birthday_gaps.jpg 
+        pre: 14\my_birthday_gaps_s.jpg 
+        rtf: 14\my_birthday_gaps.rtf
+        page: 34
+      ]
+      [1.4.B My birthday (for adults)
+        pic: 14\my_birthday_adults.jpg 
+        pre: 14\my_birthday_adults_s.jpg 
+        rtf: 14\my_birthday_adults.rtf
+        audio: Track05.wav
+        page: 35
+      ]
+    ]
+    [1.5 'You'd better' + bare infinitive
+      grammar: You'd better + base form
+      [1.5.A You'd better (half-sentences)
+        pic: 15\you_had_better_half_sentences.jpg 
+        pre: 15\you_had_better_half_sentences_s.jpg 
+        rtf: 15\you_had_better_half_sentences.rtf
+        page: 36
+      ]
+      [1.5.B You'd better (gapped text)
+        pic: 15\you_had_better_gaps.jpg 
+        pre: 15\you_had_better_gaps_s.jpg 
+        rtf: 15\you_had_better_gaps.rtf
+        page: 38
+      ]
+      [1.5.B You'd better (model text)
+        pic: 15\you_had_better_model.jpg 
+        pre: 15\you_had_better_model_s.jpg 
+        rtf: 15\you_had_better_model.rtf
+        audio: Track06.wav
+        page: 38
+      ]
+      [1.5.B You'd better (model for adults)
+        pic: 15\you_had_better_adults.jpg 
+        pre: 15\you_had_better_adults_s.jpg 
+        rtf: 15\you_had_better_adults.rtf
+        audio: Track07.wav
+        page: 39
+      ]
+    ]
+    [1.6 'How long did it take you ...?'
+      grammar: How long did it take you ...? 
+      [1.6.A How long, consolidation
+        pic: 16\duration.jpg 
+        pre: 16\duration_s.jpg 
+        rtf: 16\duration.rtf
+        page: 40
+      ]
+      [1.6.B Map
+        pic: 16\map.jpg 
+        pre: 16\map_pre.jpg 
+        largepic: 16\map_large.jpg
+        page: 42 
+      ] 
+      [1.6.B How long, model text
+        pic: 16\duration_model.jpg 
+        pre: 16\duration_model_s.jpg 
+        rtf: 16\duration_model.rtf
+        audio: Track08.wav
+        page: 43
+      ]
+    ]
+    [1.7 'Used to'
+      grammar: Used to
+      [1.7.B A fantasy trip
+        pic: 17\a_fantasy_trip.jpg 
+        pre: 17\a_fantasy_trip_s.jpg 
+        rtf: 17\a_fantasy_trip.rtf
+        audio: Track09.wav
+        page: 47
+      ]
+      [1.7.B Used to, model text
+        pic: 17\used_to_model.jpg 
+        pre: 17\used_to_model_s.jpg 
+        rtf: 17\used_to_model.rtf
+        audio: Track10.wav
+        page: 48
+      ]
+      [1.7.B Used to, model for adults
+        pic: 17\used_to_adults.jpg 
+        pre: 17\used_to_adults_s.jpg 
+        rtf: 17\used_to_adults.rtf
+        audio: Track11.wav
+        page: 49
+      ]
+    ]
+    [1.8 'I'd rather be ... than ...' 
+      grammar: I'd rather
+      [1.8.A I'd rather (half sentences)
+        pic: 18\Id_rather_half_sentences.jpg 
+        pre: 18\Id_rather_half_sentences_s.jpg 
+        rtf: 18\Id_rather_half_sentences.rtf
+        page: 50
+      ]
+      [1.8.B I'd rather (model text)
+        pic: 18\Id_rather_half_model.jpg 
+        pre: 18\Id_rather_half_model_s.jpg 
+        rtf: 18\Id_rather_half_model.rtf
+        audio: Track12.wav
+        page: 52
+      ]
+    ]
+    [1.9 Superlatives
+      grammar: superlatives
+      [1.9.A Superlatives table
+        pic: 19\superlatives.jpg 
+        pre: 19\superlatives_s.jpg 
+        rtf: 19\superlatives.rtf
+        page: 55
+      ]
+      [1.9.B Noun list
+        pic: 19\noun_study.jpg 
+        pre: 19\noun_study_s.jpg 
+        rtf: 19\noun_study.rtf
+        page: 56
+      ]
+      [1.9.B Superlatives (model text)
+        pic: 19\superlatives_model.jpg 
+        pre: 19\superlatives_model_s.jpg 
+        rtf: 19\superlatives_model.rtf
+        audio: Track13.wav
+        page: 57
+      ]
+    ]  
+    [1.10 Comparisons, 'look good ...'
+      grammar: comparisons, look good, smell good
+      [1.10.A Dog drawings
+        pic: 110\animals.jpg 
+        pre: 110\animals_pre.jpg 
+        largepic: 110\animals_large.jpg
+        page: 59 
+      ]
+      [1.10.B Visualisation exercise
+        pic: 110\focus_on_poems.jpg 
+        pre: 110\focus_on_poems_s.jpg 
+        rtf: 110\focus_on_poems.rtf
+        audio: Track14.wav
+        page: 60
+      ] 
+      [1.10.B Poem A (model)
+        pic: 110\poem_a.jpg 
+        pre: 110\poem_a_s.jpg 
+        rtf: 110\poem_a.rtf
+        audio: Track15.wav
+        page: 60
+      ] 
+      [1.10.B Poem B (model)
+        pic: 110\poem_b.jpg 
+        pre: 110\poem_b_s.jpg 
+        rtf: 110\poem_b.rtf
+        audio: Track16.wav
+        page: 61
+      ]
+      [1.10.B Dictogloss text
+        pic: 110\dictogloss.jpg 
+        pre: 110\dictogloss_s.jpg 
+        rtf: 110\dictogloss.rtf
+        audio: Track17.wav
+        page: 61
+      ] 
+    ]
+    [1.11 Negative + 'want somebody to'
+      grammar: Negative + want somebody to
+      [1.11.A Signs
+        pic: 111\signs.jpg 
+        pre: 111\signs_pre.jpg 
+        largepic: 111\signs_large.jpg
+        page: 64 
+      ]
+      [1.11.B Be polite (half sentences)
+        pic: 111\look_and_remember_half_sentences.jpg 
+        pre: 111\look_and_remember_half_sentences_s.jpg 
+        rtf: 111\look_and_remember_half_sentences.rtf
+        page: 66
+      ]
+      [1.11.B All right 
+        pic: 111\dont_want_somebody_model.jpg 
+        pre: 111\dont_want_somebody_model_s.jpg 
+        rtf: 111\dont_want_somebody_model.rtf
+        audio: Track18.wav
+        page: 66
+      ]
+      [1.11.B All right (variations)  
+        pic: 111\all_right.jpg 
+        pre: 111\all_right_s.jpg 
+        rtf: 111\all_right.rtf
+        page: 67
+      ]
+      [1.11.B All right (for adults)
+        pic: 111\dont_want_somebody_adult.jpg 
+        pre: 111\dont_want_somebody_adult_s.jpg 
+        rtf: 111\dont_want_somebody_adult.rtf
+        audio: Track19.wav
+        page: 67
+      ]
+    ]  
+    [1.12 'Do you mind' + object + '-ing'
+      grammar: Do you mind + object + -ing
+      [1.12.A State of mind
+        pic: 112\do_you_mind.jpg 
+        pre: 112\do_you_mind_s.jpg 
+        rtf: 112\do_you_mind.rtf
+        page: 68
+      ]
+      [1.12.A ‘Mind’ concordance lines
+        pic: 112\mind_concordance_lines.jpg 
+        pre: 112\mind_concordance_lines_s.jpg 
+        rtf: 112\mind_concordance_lines.rtf
+        page: 68
+      ]
+      [1.12.A Do you mind
+        pic: 112\do_you_mind_half_sentences.jpg 
+        pre: 112\do_you_mind_half_sentences_s.jpg 
+        rtf: 112\do_you_mind_half_sentences.rtf
+        page: 69
+      ]
+      [1.12.B Some people 
+        pic: 112\make_up_your_mind.jpg 
+        pre: 112\make_up_your_mind_s.jpg 
+        rtf: 112\make_up_your_mind.rtf
+        page: 70
+      ]
+      [1.12.B Skeleton texts
+        pic: 112\skeleton_texts.jpg 
+        pre: 112\skeleton_texts_s.jpg 
+        rtf: 112\skeleton_texts.rtf
+        page: 71
+      ]
+      [1.12.B Skeleton texts (key)
+        pic: 112\skeleton_texts_key.jpg 
+        pre: 112\skeleton_texts_key_s.jpg 
+        rtf: 112\skeleton_texts_key.rtf
+        page: 71
+      ]
+    ]
+    [1.13 'To have a try at ... -ing' 
+      grammar: To have a try at + -ing
+      [1.13.A ‘Have’ concordance lines
+        pic: 113\have_concordance_lines.jpg 
+        pre: 113\have_concordance_lines_s.jpg 
+        rtf: 113\have_concordance_lines.rtf
+        page: 74
+      ]
+      [1.13.B I’d love to have a try (model)
+        pic: 113\to_have_a_try_model.jpg 
+        pre: 113\to_have_a_try_model_s.jpg 
+        rtf: 113\to_have_a_try_model.rtf
+        audio: Track20.wav
+        page: 76
+      ]
+      [1.13.B I’d love to have a try (worksheet)
+        pic: 113\to_have_a_try_worksheet.jpg 
+        pre: 113\to_have_a_try_worksheet_s.jpg 
+        rtf: 113\to_have_a_try_worksheet.rtf
+        page: 76
+      ]
+    ]
+    [1.14 'Too' + adjective, imperatives
+      grammar: Too + adjective, imperatives
+      [1.14.A It’s very heavy
+        pic: 114\its_very_heavy.jpg 
+        pre: 114\its_very_heavy_s.jpg 
+        rtf: 114\its_very_heavy.rtf
+        page: 77
+      ]
+      [1.14.A Pictures for matching exercise
+        pic: 114\matching.jpg 
+        pre: 114\matching_pre.jpg 
+        largepic: 114\matching_large.jpg
+        page: 78
+      ]
+      [1.14.B Drink it up (model)
+        pic: 114\too_model.jpg 
+        pre: 114\too_model_s.jpg 
+        rtf: 114\too_model.rtf
+        audio: Track21.wav
+        page: 81
+      ]
+      [1.14.B Actions and adjectives
+        pic: 114\text_creation.jpg 
+        pre: 114\text_creation_s.jpg 
+        rtf: 114\text_creation.rtf
+        page: 81
+      ]
+    ]
+    [1.15 '... felt like ... -ing'
+      grammar: She felt like  -ing
+#      [1.15.A Feel like
+#        pic: 115\feel_like.jpg 
+#        pre: 115\feel_like_pre.jpg 
+#        largepic: 115\feel_like_large.jpg
+#        page: 83 
+#      ]
+      [1.15.A When I saw (half sentences)
+        pic: 115\feel_like_half_sentences.jpg 
+        pre: 115\feel_like_half_sentences_s.jpg 
+        rtf: 115\feel_like_half_sentences.rtf
+        page: 83
+      ]
+      [1.15.B Lead-in activities
+        pic: 115\lead_in.jpg 
+        pre: 115\lead_in_s.jpg 
+        rtf: 115\lead_in.rtf
+        page: 85
+      ]
+      [1.15.B Felt like ... (model text)
+        pic: 115\feel_like_model.jpg 
+        pre: 115\feel_like_model_s.jpg 
+        rtf: 115\feel_like_model.rtf
+        audio: Track22.wav
+        page: 86
+      ]
+    ]
+    [1.16 'Hear ...'
+      grammar: Hear / see
+      [1.16.B See and hear
+        pic: 116\hear_see.jpg 
+        pre: 116\hear_see_pre.jpg 
+        largepic: 116\hear_see_large.jpg
+        page: 90 
+      ]
+      [1.16.B I saw a chicken (model text)
+        pic: 116\hear_see_model.jpg 
+        pre: 116\hear_see_model_s.jpg 
+        rtf: 116\hear_see_model.rtf
+        audio: Track23.wav
+        page: 91
+      ]
+    ]
+    [1.17 Possessive 's / 'of' 
+      grammar: Use of the possessive 's
+      [1.17.A The Rings’ Lord
+        pic: 117\s_of_half_sentences.jpg 
+        pre: 117\s_of_half_sentences_s.jpg 
+        rtf: 117\s_of_half_sentences.rtf
+        page: 92
+      ]
+      [1.17.A Film-title word grid
+        pic: 117\titles_of_films.jpg 
+        pre: 117\titles_of_films_s.jpg 
+        rtf: 117\titles_of_films.rtf
+        page: 93
+      ]
+      [1.17.B Worksheet A
+        pic: 117\worksheet_a.jpg 
+        pre: 117\worksheet_a_s.jpg 
+        rtf: 117\worksheet_a.rtf
+        page: 94
+      ]
+      [1.17.B Model texts A and B (keys)
+        pic: 117\model_texts.jpg 
+        pre: 117\model_texts_s.jpg 
+        rtf: 117\model_texts.rtf
+        audio: Track24.wav
+        page: 95
+      ]
+      [1.17.B Worksheet C1 and C2
+        pic: 117\worksheet_c.jpg 
+        pre: 117\worksheet_c_s.jpg 
+        rtf: 117\worksheet_c.rtf
+        page: 95
+      ]
+      [1.17.B Model text C (key)
+        pic: 117\model_c_key.jpg 
+        pre: 117\model_c_key_s.jpg 
+        rtf: 117\model_c_key.rtf
+        audio: Track25.wav
+        page: 95
+      ]
+    ]
+    [1.18 Adjectives / adverbs
+      grammar: Adjectives / adverbs
+      [1.18.B Text A
+        pic: 118\text_a.jpg 
+        pre: 118\text_a_s.jpg 
+        rtf: 118\text_a.rtf
+        audio: Track26.wav
+        page: 99
+      ]
+      [1.18.B Model text B
+        pic: 118\text_b.jpg 
+        pre: 118\text_b_s.jpg 
+        rtf: 118\text_b.rtf
+        audio: Track27.wav
+        page: 99
+      ]
+      [1.18.B Jumbled text B
+        pic: 118\jumbled_text_b.jpg 
+        pre: 118\jumbled_text_b_s.jpg 
+        rtf: 118\jumbled_text_b.rtf
+        page: 99
+      ]
+      [1.18.B Text C
+        pic: 118\text_c.jpg 
+        pre: 118\text_c_s.jpg 
+        rtf: 118\text_c.rtf
+        page: 100
+      ]
+      [1.18.B Gapped text D
+        pic: 118\gap_text_d.jpg 
+        pre: 118\gap_text_d_s.jpg 
+        rtf: 118\gap_text_d.rtf
+        page: 100
+      ]
+      [1.18.B Text D
+        pic: 118\text_d.jpg 
+        pre: 118\text_d_s.jpg 
+        rtf: 118\text_d.rtf
+        audio: Track28.wav
+        page: 100
+      ]
+      [1.18.B Text E
+        pic: 118\text_e.jpg 
+        pre: 118\text_e_s.jpg 
+        rtf: 118\text_e.rtf
+        audio: Track29.wav
+        page: 101
+      ]
+    ]
+    [1.19 Gerund after prepositions
+      grammar: Gerund after prepositions
+      [1.19.A Noun + of + -ing concordance lines
+        pic: 119\concordance_lines.jpg 
+        pre: 119\concordance_lines_s.jpg 
+        rtf: 119\concordance_lines.rtf
+        page: 102
+      ]
+      [1.19.A Gapped concordance text
+        pic: 119\gap_text.jpg 
+        pre: 119\gap_text_s.jpg 
+        rtf: 119\gap_text.rtf
+        page: 103
+      ]
+      [1.19.A Sentence frames
+        pic: 119\sentence_frames.jpg 
+        pre: 119\sentence_frames_s.jpg 
+        rtf: 119\sentence_frames.rtf
+        page: 103
+      ]
+      [1.19.B Text A
+        pic: 119\text_a.jpg 
+        pre: 119\text_a_s.jpg 
+        rtf: 119\text_a.rtf
+        audio: Track30.wav
+        page: 104
+      ]
+      [1.19.B Gapped text B
+        pic: 119\gap_text_b.jpg 
+        pre: 119\gap_text_b_s.jpg 
+        rtf: 119\gap_text_b.rtf
+        page: 105
+      ] 
+      [1.19.B Model text B
+        pic: 119\model_text_b.jpg 
+        pre: 119\model_text_b_s.jpg 
+        rtf: 119\model_text_b.rtf
+        audio: Track31.wav
+        page: 105
+      ] 
+      [1.19.B Text C
+        pic: 119\text_c.jpg 
+        pre: 119\text_c_s.jpg 
+        rtf: 119\text_c.rtf
+        audio: Track32.wav
+        page: 105
+      ]
+      [1.19.B Skeleton text C
+        pic: 119\skeleton_text_c.jpg 
+        pre: 119\skeleton_text_c_s.jpg 
+        rtf: 119\skeleton_text_c.rtf
+        page: 105
+      ] 
+    ]
+    [1.20 'It's high time ...'
+      grammar: It's high time
+      [1.20.B Building sentences
+        pic: 120\lead_in.jpg 
+        pre: 120\lead_in_s.jpg 
+        rtf: 120\lead_in.rtf
+        page: 108
+      ] 
+      [1.20.B Skeleton text
+        pic: 120\skeleton_text.jpg 
+        pre: 120\skeleton_text_s.jpg 
+        rtf: 120\skeleton_text.rtf
+        page: 109
+      ] 
+    ]
+    [1.21 'I wonder why ...'
+      grammar: I wonder why / when
+      [1.21.A Concordance lines
+        pic: 121\concordance_lines.jpg 
+        pre: 121\concordance_lines_s.jpg 
+        rtf: 121\concordance_lines.rtf
+        page: 110
+      ]
+      [1.21.A Verbs of thinking
+        pic: 121\verbs_of_thinking.jpg 
+        pre: 121\verbs_of_thinking_s.jpg 
+        rtf: 121\verbs_of_thinking.rtf
+        page: 110
+      ]
+      [1.21.A Complete the sentences
+        pic: 121\corr_sentences.jpg 
+        pre: 121\corr_sentences_s.jpg 
+        rtf: 121\corr_sentences.rtf
+        page: 111
+      ] 
+      [1.21.A Sometimes I wonder
+        pic: 121\list.jpg 
+        pre: 121\list_s.jpg 
+        rtf: 121\list.rtf
+        page: 111
+      ]
+      [1.21.B Worksheet A
+        pic: 121\worksheet_a.jpg 
+        pre: 121\worksheet_a_s.jpg 
+        rtf: 121\worksheet_a.rtf
+        page: 112
+      ]
+      [1.21.B Worksheet B
+        pic: 121\worksheet_b.jpg 
+        pre: 121\worksheet_b_s.jpg 
+        rtf: 121\worksheet_b.rtf
+        page: 112
+      ]
+      [1.21.B Model text
+        pic: 121\model_text.jpg 
+        pre: 121\model_text_s.jpg 
+        rtf: 121\model_text.rtf
+        audio: Track33.wav
+        page: 112
+      ]
+      [1.21.B Variation for adults
+        pic: 121\model_text_adults.jpg 
+        pre: 121\model_text_adults_s.jpg 
+        rtf: 121\model_text_adults.rtf
+        audio: Track34.wav
+        page: 112
+      ]
+    ]
+  ]
+  [2 Tense, aspect and voice
+    [2.1 Present perfect 'Have you ever ... ?'
+      grammar: Present perfect
+      [2.1.B Red pen
+        pic: 21\red_pen.jpg 
+        pre: 21\red_pen_s.jpg 
+        rtf: 21\red_pen.rtf
+        page: 119
+      ]      
+      [2.1.B Blue pen
+        pic: 21\blue_pen.jpg 
+        pre: 21\blue_pen_s.jpg 
+        rtf: 21\blue_pen.rtf
+        page: 119
+      ]
+      [2.1.B Worksheet
+        pic: 21\worksheet.jpg 
+        pre: 21\worksheet_s.jpg 
+        rtf: 21\worksheet.rtf
+        page: 120
+      ]
+      [2.1.B Model text A
+        pic: 21\model-text_a.jpg 
+        pre: 21\model-text_a_s.jpg 
+        rtf: 21\model-text_a.rtf
+        audio: Track35.wav
+        page: 120
+      ]
+      [2.1.B Model text B
+        pic: 21\model-text_b.jpg 
+        pre: 21\model-text_b_s.jpg 
+        rtf: 21\model-text_b.rtf
+        audio: Track36.wav
+        page: 120
+      ]
+    ]
+    [2.2 Present perfect continuous
+      grammar: Present perfect continuous
+      [2.2.B Worksheet
+        pic: 22\worksheet.jpg 
+        pre: 22\worksheet_s.jpg 
+        rtf: 22\worksheet.rtf
+        page: 124
+      ]
+      [2.2.B Model text
+        pic: 22\model_text.jpg 
+        pre: 22\model_text_s.jpg 
+        rtf: 22\model_text.rtf
+        audio: Track37.wav
+        page: 124
+      ]
+    ]
+    [2.3 Present tense for narration
+      grammar: Present tense for narration
+      [2.3.A Jumbled stories
+        pic: 23\jumbled_stories.jpg 
+        pre: 23\jumbled_stories_s.jpg 
+        rtf: 23\jumbled_stories.rtf
+        page: 126
+      ]
+      [2.3.B Text A
+        pic: 23\text_a.jpg 
+        pre: 23\text_a_s.jpg 
+        rtf: 23\text_a.rtf
+        page: 128
+      ]
+      [2.3.B Text B
+        pic: 23\text_b.jpg 
+        pre: 23\text_b_s.jpg 
+        rtf: 23\text_b.rtf
+        audio: Track38.wav
+        page: 128
+      ]
+      [2.3.B Jumbled text C
+        pic: 23\jumbled_text_c.jpg 
+        pre: 23\jumbled_text_c_s.jpg 
+        rtf: 23\jumbled_text_c.rtf
+        page: 129
+      ]
+      [2.3.B Model text C (key)
+        pic: 23\model_text_c.jpg 
+        pre: 23\model_text_c_s.jpg 
+        rtf: 23\model_text_c.rtf
+        page: 129
+      ]
+    ]
+    [2.4 Present perfect (completion)
+      grammar: Present perfect
+      [2.4.A Book the tickets
+        pic: 24\holiday.jpg 
+        pre: 24\holiday_s.jpg 
+        rtf: 24\holiday.rtf
+        page: 130
+      ]
+      [2.4.A Activity pictures
+        pic: 24\activities.jpg 
+        pre: 24\activities_pre.jpg 
+        largepic: 24\activities_large.jpg
+        page: 131
+      ]
+      [2.4.A Ben has washed the dishes
+        pic: 24\activities_ben.jpg 
+        pre: 24\activities_ben_s.jpg 
+        rtf: 24\activities_ben.rtf
+        audio: Track39.wav
+        page: 131
+      ]
+      [2.4.A Activities Chart
+        pic: 24\activities_chart.jpg 
+        pre: 24\activities_chart_s.jpg 
+        rtf: 24\activities_chart.rtf
+        page: 132
+      ]
+      [2.4.A Activities Chart, completed
+        pic: 24\activities_chart_key.jpg 
+        pre: 24\activities_chart_key_s.jpg 
+        rtf: 24\activities_chart_key.rtf
+        page: 132
+      ]
+      [2.4.B Model text
+        pic: 24\model_text.jpg 
+        pre: 24\model_text_s.jpg 
+        rtf: 24\model_text.rtf
+        audio: Track40.wav
+        page: 133
+      ]
+    ]
+    [2.5 Past passive
+      grammar: Past passive
+      [2.5.B Picture puzzle
+        pic: 25\pic_puzzle.jpg 
+        pre: 25\pic_puzzle_pre.jpg 
+        largepic: 25\pic_puzzle_large.jpg
+        page: 138
+      ]
+      [2.5.B Model text
+        pic: 25\model_text.jpg 
+        pre: 25\model_text_s.jpg 
+        rtf: 25\model_text.rtf
+        audio: Track41.wav
+        page: 138
+      ]
+      [2.5.B Skeleton text
+        pic: 25\skeleton_text.jpg 
+        pre: 25\skeleton_text_s.jpg 
+        rtf: 25\skeleton_text.rtf
+        page: 139
+      ]
+      [2.5.B Model text (for adults)
+        pic: 25\model_text_adults.jpg 
+        pre: 25\model_text_adults_s.jpg 
+        rtf: 25\model_text_adults.rtf
+        audio: Track42.wav
+        page: 140
+      ]
+    ]
+    [2.6 'Going to' 
+      grammar: Going to
+      [2.6.A Dan and Jackie
+        pic: 26\plans.jpg 
+        pre: 26\plans_s.jpg 
+        rtf: 26\plans.rtf
+        page: 141
+      ]
+      [2.6.A Charts
+        pic: 26\chart.jpg 
+        pre: 26\chart_s.jpg 
+        rtf: 26\chart.rtf
+        page: 142
+      ]      
+      [2.6.B Model text for young learners
+        pic: 26\model_text.jpg 
+        pre: 26\model_text_s.jpg 
+        rtf: 26\model_text.rtf
+        audio: Track43.wav
+        page: 144
+      ]
+      [2.6.B Model text (for adults)
+        pic: 26\model_text_adults.jpg 
+        pre: 26\model_text_adults_s.jpg 
+        rtf: 26\model_text_adults.rtf
+        audio: Track44.wav
+        page: 145
+      ]
+    ]
+    [2.7 'When' + present
+      grammar: When + present
+      [2.7.A Shaky science
+        pic: 27\shaky_science.jpg 
+        pre: 27\shaky_science_s.jpg 
+        rtf: 27\shaky_science.rtf
+        page: 146
+      ]
+      [2.7.A Science
+        pic: 27\science.jpg 
+        pre: 27\science_s.jpg 
+        rtf: 27\science.rtf
+        page: 146
+      ]
+      [2.7.A Mood swings A
+        pic: 27\mood_swings_a.jpg 
+        pre: 27\mood_swings_a_s.jpg 
+        rtf: 27\mood_swings_a.rtf
+        page: 146
+      ]
+      [2.7.A Mood swings B
+        pic: 27\mood_swings_b.jpg 
+        pre: 27\mood_swings_b_s.jpg 
+        rtf: 27\mood_swings_b.rtf
+        page: 147
+      ]
+      [2.7.B Worksheet
+        pic: 27\worksheet.jpg 
+        pre: 27\worksheet_s.jpg 
+        rtf: 27\worksheet.rtf
+        page: 148
+      ]
+      [2.7.B Model text (key)
+        pic: 27\model_text.jpg 
+        pre: 27\model_text_s.jpg 
+        rtf: 27\model_text.rtf
+        audio: Track45.wav
+        page: 148
+      ]        
+    ]
+    [2.8 Past simple and progressive
+      grammar: Past simple and progressive
+      [2.8.A Jumbled dialogue
+        pic: 28\jumbled_dialogue.jpg 
+        pre: 28\jumbled_dialogue_s.jpg 
+        rtf: 28\jumbled_dialogue.rtf
+        page: 150
+      ]
+      [2.8.A Dialogue key
+        pic: 28\dialogue.jpg 
+        pre: 28\dialogue_s.jpg 
+        rtf: 28\dialogue.rtf
+        page: 150
+      ]
+      [2.8.A Sentences for miming
+        pic: 28\mime_guess.jpg 
+        pre: 28\mime_guess_s.jpg 
+        rtf: 28\mime_guess.rtf
+        page: 151
+      ]
+      [2.8.B Model text
+        pic: 28\model_text.jpg 
+        pre: 28\model_text_s.jpg 
+        rtf: 28\model_text.rtf
+        audio: Track46.wav
+        page: 153
+      ]
+    ]
+    [2.9 'Might'
+      grammar: Might
+      [2.9.A Possible events
+        pic: 29\events.jpg 
+        pre: 29\events_s.jpg 
+        rtf: 29\events.rtf
+        page: 156
+      ]
+      [2.9.B Model text
+        pic: 29\model_text.jpg 
+        pre: 29\model_text_s.jpg 
+        rtf: 29\model_text.rtf
+        audio: Track47.wav
+        page: 159
+      ]
+      [2.9.B Model text (for adults)
+        pic: 29\model_text_adults.jpg 
+        pre: 29\model_text_adults_s.jpg 
+        rtf: 29\model_text_adults.rtf
+        audio: Track48.wav
+        page: 159
+      ]
+    ]
+    [2.10 'While' + past progressive
+      grammar: While + past progressive
+      [2.10.B Model text 
+        pic: 210\model_text.jpg 
+        pre: 210\model_text_s.jpg 
+        rtf: 210\model_text.rtf
+        audio: Track49.wav
+        page: 163
+      ]
+    ]
+    [2.11 Third person '-s', 'doesn't'
+      grammar: Third person -s, doesn't
+      [2.11.B Model text 
+        pic: 211\model_text.jpg 
+        pre: 211\model_text_s.jpg 
+        rtf: 211\model_text.rtf
+        audio: Track50.wav
+        page: 166
+      ]
+    ]
+    [2.12 Past tense for narrative, questions about the past
+      grammar: Past tense for narrative, questions about the past
+      [2.12.B Model text 
+        pic: 212\model_text.jpg 
+        pre: 212\model_text_s.jpg 
+        rtf: 212\model_text.rtf
+        audio: Track51.wav
+        page: 169
+      ]
+      [2.12.B Guiding questions
+        pic: 212\guiding_questions.jpg 
+        pre: 212\guiding_questions_s.jpg 
+        rtf: 212\guiding_questions.rtf
+        page: 169
+      ]
+      [2.12.B Incident mind map
+        pic: 212\incident.jpg 
+        pre: 212\incident_pre.jpg 
+        largepic: 212\incident_large.jpg
+        page: 170
+      ]
+    ]
+    [2.13 Present perfect 'Have you ever ... ?' (revisited)
+      grammar: Present perfect
+      [2.13.B Skeleton text
+        pic: 213\skeleton_text.jpg 
+        pre: 213\skeleton_text_s.jpg 
+        rtf: 213\skeleton_text.rtf
+        page: 173
+      ]
+      [2.13.B Model text 
+        pic: 213\model_text.jpg 
+        pre: 213\model_text_s.jpg 
+        rtf: 213\model_text.rtf
+        audio: Track52.wav
+        page: 173
+      ]
+      [2.13.B Model text (variation)
+        pic: 213\model_text_variation.jpg 
+        pre: 213\model_text_variation_s.jpg 
+        rtf: 213\model_text_variation.rtf
+        audio: Track53.wav
+        page: 174
+      ]
+      [2.13.B Model text (for adults)
+        pic: 213\model_text_adults.jpg 
+        pre: 213\model_text_adults_s.jpg 
+        rtf: 213\model_text_adults.rtf
+        audio: Track54.wav
+        page: 174
+      ]
+    ]
+    [2.14 Present simple
+      grammar: Present simple
+      [2.14.A A film buff (unfinished)
+        pic: 214\definitions_unfinished.jpg 
+        pre: 214\definitions_unfinished_s.jpg 
+        rtf: 214\definitions_unfinished.rtf
+        page: 175
+      ]
+      [2.14.A Definitions key 
+        pic: 214\definitions.jpg 
+        pre: 214\definitions_s.jpg 
+        rtf: 214\definitions.rtf
+        page: 175
+      ]
+      [2.14.B Visualisation exercise 
+        pic: 214\positive_future.jpg 
+        pre: 214\positive_future_s.jpg 
+        rtf: 214\positive_future.rtf
+        audio: Track55.wav
+        page: 178
+      ]
+      [2.14.B Model text 
+        pic: 214\model_text.jpg 
+        pre: 214\model_text_s.jpg 
+        rtf: 214\model_text.rtf
+        audio: Track56.wav
+        page: 178
+      ]
+      [2.14.B Model text (for adults)
+        pic: 214\model_text_adults.jpg 
+        pre: 214\model_text_adults_s.jpg 
+        rtf: 214\model_text_adults.rtf
+        audio: Track57.wav
+        page: 179
+      ]
+    ]
+  ]
+  [3 Question forms
+    [3.1 Questions 
+      grammar: Questions
+      [3.1.A Matching questions and answers
+        pic: 31\questions_matching.jpg 
+        pre: 31\questions_matching_s.jpg 
+        rtf: 31\questions_matching.rtf
+        page: 184
+      ]
+      [3.1.B Gapped text 
+        pic: 31\gap_text.jpg 
+        pre: 31\gap_text_s.jpg 
+        rtf: 31\gap_text.rtf
+        page: 186
+      ]
+      [3.1.B Model text 
+        pic: 31\model_text.jpg 
+        pre: 31\model_text_s.jpg 
+        rtf: 31\model_text.rtf
+        page: 186
+      ]
+      [3.1.B Model text (for adults)
+        pic: 31\model_text_adults.jpg 
+        pre: 31\model_text_adults_s.jpg 
+        rtf: 31\model_text_adults.rtf
+        audio: Track58.wav
+        page: 187
+      ]
+    ]
+    [3.2 'What is' + adjective?
+      grammar: What is + adjective
+      [3.2.A Elephant jokes (matching)
+        pic: 32\elephant_joke.jpg 
+        pre: 32\elephant_joke_s.jpg 
+        rtf: 32\elephant_joke.rtf
+        page: 188
+      ]
+      [3.2.B Model text
+        pic: 32\model_text.jpg 
+        pre: 32\model_text_s.jpg 
+        rtf: 32\model_text.rtf
+        audio: Track59.wav
+        page: 190
+      ]
+      [3.2.B Model text (for adults)
+        pic: 32\model_text_adults.jpg 
+        pre: 32\model_text_adults_s.jpg 
+        rtf: 32\model_text_adults.rtf
+        audio: Track60.wav
+        page: 190
+      ]
+    ]
+    [3.3 Questions with 'do'
+      grammar: Questions with 'do'
+      [3.3.A Do-questions 
+        pic: 33\do_questions.jpg 
+        pre: 33\do_questions_s.jpg 
+        rtf: 33\do_questions.rtf
+        page: 191
+      ]
+      [3.3.A Questions with 'do' (grid)
+        pic: 33\do_questions_grid.jpg 
+        pre: 33\do_questions_grid_s.jpg 
+        rtf: 33\do_questions_grid.rtf
+        page: 191
+      ]
+     [3.3.A Worksheet 
+        pic: 33\worksheet.jpg 
+        pre: 33\worksheet_s.jpg 
+        rtf: 33\worksheet.rtf
+        page: 192
+      ]
+     [3.3.B Model text
+        pic: 33\model_text.jpg 
+        pre: 33\model_text_s.jpg 
+        rtf: 33\model_text.rtf
+        audio: Track61.wav
+        page: 194
+      ]
+    ]
+    [3.4 Questions in the third person ...
+      grammar: Questions third person, adverbs of frequency, taste, smell, ...
+      [3.4.A Boys cry …
+        pic: 34\adverbs_of_frequency.jpg 
+        pre: 34\adverbs_of_frequency_s.jpg 
+        rtf: 34\adverbs_of_frequency.rtf
+        audio: Track62.wav
+        page: 196
+      ]
+      [3.4.A Question-table
+        pic: 34\questions_models.jpg 
+        pre: 34\questions_models_s.jpg 
+        rtf: 34\questions_models.rtf
+        page: 197
+      ]
+    ]
+    [3.5 'Which' as interrogative pronoun
+      grammar: Which as interrogative pronoun
+      [3.5.A Shark pictures
+        pic: 35\sharks.jpg 
+        pre: 35\sharks_pre.jpg 
+        largepic: 35\sharks_large.jpg
+        page: 199
+      ]
+      [3.5.A Shark questions
+        pic: 35\which_is.jpg 
+        pre: 35\which_is_s.jpg 
+        rtf: 35\which_is.rtf
+        page: 199
+      ]
+      [3.5.A Shark descriptions
+        pic: 35\shark_descriptions.jpg 
+        pre: 35\shark_descriptions_s.jpg 
+        rtf: 35\shark_descriptions.rtf
+        audio: Track63.wav
+        page: 200
+      ]
+      [3.5.B Preparation words
+        pic: 35\lead_in.jpg 
+        pre: 35\lead_in_s.jpg 
+        rtf: 35\lead_in.rtf
+        page: 202
+      ]
+      [3.5.B Model text A
+        pic: 35\model_text_a.jpg 
+        pre: 35\model_text_a_s.jpg 
+        rtf: 35\model_text_a.rtf
+        audio: Track64.wav
+        page: 202
+      ]
+      [3.5.B Gapped text B
+        pic: 35\gap_text_b.jpg 
+        pre: 35\gap_text_b_s.jpg 
+        rtf: 35\gap_text_b.rtf
+        page: 203
+      ]
+      [3.5.B Model text B
+        pic: 35\model_text_b.jpg 
+        pre: 35\model_text_b_s.jpg 
+        rtf: 35\model_text_b.rtf
+        audio: Track65.wav
+        page: 203
+      ]
+    ]
+    [3.6 'Who does it belong to?'
+      grammar: Who does it belong to?
+      [3.6.A 'True' or 'False'
+        pic: 36\true_false.jpg 
+        pre: 36\true_false_s.jpg 
+        rtf: 36\true_false.rtf
+        page: 204
+      ]
+      [3.6.B Visualisation exercise: Beautiful meadow
+        pic: 36\beautiful_meadow.jpg 
+        pre: 36\beautiful_meadow_s.jpg 
+        rtf: 36\beautiful_meadow.rtf
+        audio: Track66.wav
+        page: 206
+      ]
+      [3.6.B Model text
+        pic: 36\model_text.jpg 
+        pre: 36\model_text_s.jpg 
+        rtf: 36\model_text.rtf
+        audio: Track67.wav
+        page: 206
+      ]
+    ]
+  ]
+  [4 Complex sentences
+    [4.1 'If' + present progressive
+      grammar: If + present progressive, imperatives
+      [4.1.A If... (half sentences)
+        pic: 41\if.jpg 
+        pre: 41\if_s.jpg 
+        rtf: 41\if.rtf
+        page: 212
+      ]
+      [4.1.B Model text A
+        pic: 41\model_text_a.jpg 
+        pre: 41\model_text_a_s.jpg 
+        rtf: 41\model_text_a.rtf
+        audio: Track68.wav
+        page: 213
+      ]
+      [4.1.B Jumbled text B
+        pic: 41\jumbled_text_b.jpg 
+        pre: 41\jumbled_text_b_s.jpg 
+        rtf: 41\jumbled_text_b.rtf
+        page: 214
+      ]
+      [4.1.B Model text B
+        pic: 41\model_text_b.jpg 
+        pre: 41\model_text_b_s.jpg 
+        rtf: 41\model_text_b.rtf
+        audio: Track69.wav
+        page: 214
+      ]  
+    ]
+    [4.2 'Whenever'
+      grammar: Whenever
+      [4.2.A Whenever I’m with you
+        pic: 42\poem.jpg 
+        pre: 42\poem_s.jpg 
+        rtf: 42\poem.rtf
+        page: 215
+      ]
+      [4.2.B Whenever my teacher
+        pic: 42\whenever.jpg 
+        pre: 42\whenever_s.jpg 
+        rtf: 42\whenever.rtf
+        audio: Track70.wav
+        page: 217
+      ]
+      [4.2.B Whenever (for adults)
+        pic: 42\whenever_adults.jpg 
+        pre: 42\whenever_adults_s.jpg 
+        rtf: 42\whenever_adults.rtf
+        audio: Track71.wav
+        page: 219
+      ]
+    ]
+    [4.3 'If-' sentences + past perfect
+      grammar: If sentences + past perfect, statements - questions
+      [4.3.B Worksheet
+        pic: 43\worksheet.jpg 
+        pre: 43\worksheet_s.jpg 
+        rtf: 43\worksheet.rtf
+        page: 222
+      ]
+      [4.3.B Model texts
+        pic: 43\model_texts.jpg 
+        pre: 43\model_texts_s.jpg 
+        rtf: 43\model_texts.rtf
+        audio: Track72.wav
+        page: 223
+      ]
+    ]
+    [4.4 Reported speech
+      grammar: Reported speech
+      [4.4.A Jumbled dialogue
+        pic: 44\jumbled_dialogue.jpg 
+        pre: 44\jumbled_dialogue_s.jpg 
+        rtf: 44\jumbled_dialogue.rtf
+        page: 224
+      ]
+      [4.4.A Key to dialogue
+        pic: 44\correct_dialogue.jpg 
+        pre: 44\correct_dialogue_s.jpg 
+        rtf: 44\correct_dialogue.rtf
+        audio: Track73.wav
+        page: 224
+      ]
+      [4.4.A Reported-speech prompts
+        pic: 44\reported_dialogue.jpg 
+        pre: 44\reported_dialogue_s.jpg 
+        rtf: 44\reported_dialogue.rtf
+        page: 224
+      ]
+      [4.4.B Jeff, a high school student
+        pic: 44\fat_girl.jpg 
+        pre: 44\fat_girl_s.jpg 
+        rtf: 44\fat_girl.rtf
+        audio: Track74.wav
+        page: 226
+      ] 
+      [4.4.B Skeleton text A
+        pic: 44\skeleton_text_al.jpg 
+        pre: 44\skeleton_text_al_s.jpg 
+        rtf: 44\skeleton_text_al.rtf
+        page: 226
+      ]
+      [4.4.B Model text A
+        pic: 44\model_text_a.jpg 
+        pre: 44\model_text_a_s.jpg 
+        rtf: 44\model_text_a.rtf
+        audio: Track75.wav
+        page: 226
+      ] 
+      [4.4.B Jumbled text B
+        pic: 44\jumbled_text_b.jpg 
+        pre: 44\jumbled_text_b_s.jpg 
+        rtf: 44\jumbled_text_b.rtf
+        page: 227
+      ] 
+      [4.4.B Model text B
+        pic: 44\model_text_b.jpg 
+        pre: 44\model_text_b_s.jpg 
+        rtf: 44\model_text_b.rtf
+        audio: Track76.wav
+        page: 227
+      ]    
+    ]
+    [4.5 'If-' clause for unreal non-past situations
+      grammar: If-clause for unreal non-past situations
+      [4.5.A Word grid
+        pic: 45\opposites.jpg 
+        pre: 45\opposites_s.jpg 
+        rtf: 45\opposites.rtf
+        page: 228
+      ]
+      [4.5.B Model text (I like)
+        pic: 45\model_text_like.jpg 
+        pre: 45\model_text_like_s.jpg 
+        rtf: 45\model_text_like.rtf
+        audio: Track77.wav
+        page: 230
+      ]
+      [4.5.B Jumbled text (I don't like)
+        pic: 45\jumbled_text_dontlike.jpg 
+        pre: 45\jumbled_text_dontlike_s.jpg 
+        rtf: 45\jumbled_text_dontlike.rtf
+        page: 230
+      ]
+      [4.5.B Model text (I don't like)
+        pic: 45\model_text_dontlike.jpg 
+        pre: 45\model_text_dontlike_s.jpg 
+        rtf: 45\model_text_dontlike.rtf
+        audio: Track78.wav
+        page: 231
+      ]
+    ]
+    [4.6 Reported commands
+      grammar: Reported commands
+      [4.6.A Table
+        pic: 46\table.jpg 
+        pre: 46\table_s.jpg 
+        rtf: 46\table.rtf
+        page: 232
+      ]
+      [4.6.B Model text A
+        pic: 46\model_text_a.jpg 
+        pre: 46\model_text_a_s.jpg 
+        rtf: 46\model_text_a.rtf
+        audio: Track79.wav
+        page: 234
+      ]
+      [4.6.B Model text B
+        pic: 46\model_text_b.jpg 
+        pre: 46\model_text_b_s.jpg 
+        rtf: 46\model_text_b.rtf
+        audio: Track80.wav
+        page: 234
+      ]
+      [4.6.B Model text (for adults)
+        pic: 46\model_text_adults.jpg 
+        pre: 46\model_text_adults_s.jpg 
+        rtf: 46\model_text_adults.rtf
+        audio: Track81.wav
+        page: 235
+      ]
+    ]
+    [4.7 'Could' for possibility
+      grammar: Could for possibility and hypothetical ability
+      [4.7.A Matching sentences
+        pic: 47\matching.jpg 
+        pre: 47\matching_s.jpg 
+        rtf: 47\matching.rtf
+        page: 236
+      ]
+      [4.7.B Photo
+        pic: 47\photo.jpg 
+        pre: 47\photo_pre.jpg 
+        largepic: 47\photo_large.jpg
+        page: 238
+      ]
+      [4.7.B Early childhood mind map
+        pic: 47\early_childhood.jpg 
+        pre: 47\early_childhood_pre.jpg 
+        largepic: 47\early_childhood_large.jpg
+        page: 238
+      ]
+      [4.7.B Model text 
+        pic: 47\model_text.jpg 
+        pre: 47\model_text_s.jpg 
+        rtf: 47\model_text.rtf
+        audio: Track82.wav
+        page: 239
+      ]
+    ]
+    [4.8 'I wish I' + past
+      grammar: I wish + past
+      [4.8.A ‘I wish’ table
+        pic: 48\wish.jpg 
+        pre: 48\wish_s.jpg 
+        rtf: 48\wish.rtf
+        page: 241
+      ]
+      [4.8.B Worksheet
+        pic: 48\worksheet.jpg 
+        pre: 48\worksheet_s.jpg 
+        rtf: 48\worksheet.rtf
+        page: 243
+      ]
+      [4.8.B Model text A
+        pic: 48\model_text_a.jpg 
+        pre: 48\model_text_a_s.jpg 
+        rtf: 48\model_text_a.rtf
+        audio: Track83.wav
+        page: 243
+      ]
+      [4.8.B Model text B
+        pic: 48\model_text_b.jpg 
+        pre: 48\model_text_b_s.jpg 
+        rtf: 48\model_text_b.rtf
+        audio: Track84.wav
+        page: 243
+      ]
+    ]
+    [4.9 Reported speech
+      grammar: Reported speech
+      [4.9.A Cartoons
+        pic: 49\speech_bubbles.jpg 
+        pre: 49\speech_bubbles_pre.jpg 
+        largepic: 49\speech_bubbles_large.jpg
+        page: 245
+      ]
+      [4.9.A Filled speech bubbles
+        pic: 49\bubbles.jpg 
+        pre: 49\bubbles_pre.jpg 
+        largepic: 49\bubbles_large.jpg
+        page: 245
+      ]
+      [4.9.A Jumbled dialogue
+        pic: 49\jumbled_dialogue.jpg 
+        pre: 49\jumbled_dialogue_s.jpg 
+        rtf: 49\jumbled_dialogue.rtf
+        page: 246
+      ]
+      [4.9.A Dialogue key
+        pic: 49\dialogue.jpg 
+        pre: 49\dialogue_s.jpg 
+        rtf: 49\dialogue.rtf
+        page: 246
+      ]
+      [4.9.B Model text
+        pic: 49\model_text.jpg 
+        pre: 49\model_text_s.jpg 
+        rtf: 49\model_text.rtf
+        audio: Track85.wav
+        page: 247
+      ]
+      [4.9.B Model text (for adults)
+        pic: 49\model_text_adults.jpg 
+        pre: 49\model_text_adults_s.jpg 
+        rtf: 49\model_text_adults.rtf
+        audio: Track86.wav
+        page: 248
+      ]   
+    ]
+    [4.10 'If-' clause + past
+      grammar: If-clause + past
+      [4.10.A If-table 
+        pic: 410\table.jpg 
+        pre: 410\table_s.jpg 
+        rtf: 410\table.rtf
+        page: 249
+      ]
+      [4.10.B Model text
+        pic: 410\model_text.jpg 
+        pre: 410\model_text_s.jpg 
+        rtf: 410\model_text.rtf
+        audio: Track87.wav
+        page: 251
+      ]
+      [4.10.B Model text (for adults)
+        pic: 410\model_text_adults.jpg 
+        pre: 410\model_text_adults_s.jpg 
+        rtf: 410\model_text_adults.rtf
+        audio: Track88.wav
+        page: 251
+      ]
+    ]
+    [4.11 Gerund
+      grammar: Gerund
+      [4.11.A Fragmented sayings
+        pic: 411\fragments.jpg 
+        pre: 411\fragments_s.jpg 
+        rtf: 411\fragments.rtf
+        page: 253
+      ]
+      [4.11.A Sayings key
+        pic: 411\sayings.jpg 
+        pre: 411\sayings_s.jpg 
+        rtf: 411\sayings.rtf
+        page: 253
+      ]
+      [4.11.B Table
+        pic: 411\wordlist.jpg 
+        pre: 411\wordlist_s.jpg 
+        rtf: 411\wordlist.rtf
+        page: 255
+      ]
+      [4.11.B Skeleton text
+        pic: 411\skeleton_text.jpg 
+        pre: 411\skeleton_text_s.jpg 
+        rtf: 411\skeleton_text.rtf
+        page: 256
+      ]
+      [4.11.B Model text
+        pic: 411\model_text.jpg 
+        pre: 411\model_text_s.jpg 
+        rtf: 411\model_text.rtf
+        audio: Track89.wav      
+        page: 257
+      ]
+    ]
+    [4.12 Relative pronouns 'who', 'whose'
+      grammar: Relative pronouns who, whose
+      [4.12.B Visualisation exercise: A daydream
+        pic: 412\a_daydream.jpg 
+        pre: 412\a_daydream_s.jpg 
+        rtf: 412\a_daydream.rtf
+        audio: Track90.wav      
+        page: 260
+      ]
+      [4.12.B Model text 
+        pic: 412\model_text.jpg 
+        pre: 412\model_text_s.jpg 
+        rtf: 412\model_text.rtf
+        audio: Track91.wav      
+        page: 261
+      ]
+    ]
+  ]
+]  

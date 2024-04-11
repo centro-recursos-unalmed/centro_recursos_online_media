@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='ISO-8859-1' ?>
+<grammar>
+<section>
+<title>Question words: one-word questions</title>
+<sectiontitle>We use &lt;i&gt;What, Where, When, How, Which&lt;/i&gt; and &lt;i&gt;Why&lt;/i&gt; to make questions.</sectiontitle>
+<titlesound>el_gram_11_2_1.mp3</titlesound>
+<text1></text1>
+<text1a>&lt;b&gt;Where&lt;/b&gt; do you live?</text1a>
+<sound1>el_gram_11_2_2.mp3</sound1>
+<text2></text2>
+<text2a>&lt;b&gt;Why&lt;/b&gt; did you do that?</text2a>
+<sound2>el_gram_11_2_3.mp3</sound2>
+<sectiontitle2>We use &lt;i&gt;What&lt;/i&gt; if there are many possible answers and &lt;i&gt;Which&lt;/i&gt; if there are only a few possible answers.</sectiontitle2>
+<titlesound2>el_gram_11_2_4.mp3</titlesound2>
+<text3>Joe DiMaggio was a famous sportsman.</text3>
+<text3a>&lt;b&gt;What&lt;/b&gt; was his nationality?</text3a>
+<sound3>el_gram_11_2_5.mp3</sound3>
+<text4>I understand Japanese, Chinese and English.</text4>
+<text4a>&lt;b&gt;Which&lt;/b&gt; is the easiest language?</text4a>
+<sound4>el_gram_11_2_6.mp3</sound4>
+</section>
+<section>
+<title>Question words: two-word (compound) questions</title>
+<sectiontitle>We can make compound questions with &lt;i&gt;What&lt;/i&gt; and &lt;i&gt;Which&lt;/i&gt;.</sectiontitle>
+<titlesound>el_gram_11_2_7.mp3</titlesound>
+<text1></text1>
+<text1a>&lt;b&gt;What kind/sort/type&lt;/b&gt; of food do you like? Italian.</text1a>
+<sound1>el_gram_11_2_8.mp3</sound1>
+<text2></text2>
+<text2a>&lt;b&gt;Which &lt;/b&gt;one do you like the best? That one.</text2a>
+<sound2>el_gram_11_2_9.mp3</sound2>
+<sectiontitle2>We can make compound questions with &lt;i&gt;How&lt;/i&gt;.</sectiontitle2>
+<titlesound2>el_gram_11_2_10.mp3</titlesound2>
+<text3></text3>
+<text3a>&lt;b&gt;How often&lt;/b&gt; do you have English classes? Three times a week.</text3a>
+<sound3>el_gram_11_2_11.mp3</sound3>
+<text4></text4>
+<text4a>&lt;b&gt;How long&lt;/b&gt; are your lessons? One and a half hours.</text4a>
+<sound4>el_gram_11_2_12.mp3</sound4>
+</section>
+</grammar>

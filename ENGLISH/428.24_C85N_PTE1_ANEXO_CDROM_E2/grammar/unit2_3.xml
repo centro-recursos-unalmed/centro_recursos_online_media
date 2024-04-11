@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='ISO-8859-1' ?>
+<grammar>
+<section>
+<title>Possessive &lt;i&gt;'s&lt;/i&gt;</title>
+<sectiontitle>We use a person + &lt;i&gt;'s&lt;/i&gt; for possession.</sectiontitle>
+<titlesound>el_gram_2_3_1.mp3</titlesound>
+<text1></text1>
+<text1a>Sam is &lt;b&gt;Tom's&lt;/b&gt; brother.  </text1a>
+<sound1>el_gram_2_3_2.mp3</sound1>
+<text2></text2>
+<text2a>Is this &lt;b&gt;Mary's&lt;/b&gt; pen?</text2a>
+<sound2>el_gram_2_3_3.mp3</sound2>
+<sectiontitle2></sectiontitle2>
+<titlesound2></titlesound2>
+<text3></text3>
+<text3a></text3a>
+<sound3></sound3>
+<text4></text4>
+<text4a></text4a>
+<sound4></sound4>
+</section>
+</grammar>

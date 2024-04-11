@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='ISO-8859-1' ?>
+<grammar>
+<section>
+<title>&lt;i&gt;some &lt;/i&gt;and&lt;i&gt; any&lt;/i&gt;</title>
+<sectiontitle>We use &lt;i&gt;some&lt;/i&gt; with plural and uncountable nouns when we don't say exactly how many or how much.  </sectiontitle>
+<titlesound>el_gram_6_2_1.mp3</titlesound>
+<text1>with a plural noun:</text1>
+<text1a>I'd like &lt;b&gt;some&lt;/b&gt; apples, please. </text1a>
+<sound1>el_gram_6_2_2.mp3</sound1>
+<text2>with an uncountable noun:</text2>
+<text2a>There's &lt;b&gt;some&lt;/b&gt; soup and bread for lunch.</text2a>
+<sound2>el_gram_6_2_3.mp3</sound2>
+<sectiontitle2>In the negative, we use &lt;i&gt;not any&lt;/i&gt; or &lt;i&gt;no&lt;/i&gt;.</sectiontitle2>
+<titlesound2>el_gram_6_2_4.mp3</titlesound2>
+<text3></text3>
+<text3a>I have&lt;b&gt;n't&lt;/b&gt; got &lt;b&gt;any&lt;/b&gt; money.</text3a>
+<sound3>el_gram_6_2_5.mp3</sound3>
+<text4></text4>
+<text4a>I've got &lt;b&gt;no &lt;/b&gt;money.</text4a>
+<sound4>el_gram_6_2_6.mp3</sound4>
+</section>
+<section>
+<title>&lt;i&gt;some &lt;/i&gt;and&lt;i&gt; any&lt;/i&gt;</title>
+<sectiontitle>In the question, we usually use &lt;i&gt;any&lt;/i&gt; with plural and uncountable nouns.</sectiontitle>
+<titlesound>el_gram_6_2_7.mp3</titlesound>
+<text1>plural</text1>
+<text1a>Have you got &lt;b&gt;any brothers&lt;/b&gt;? Yes, I have.</text1a>
+<sound1>el_gram_6_2_8.mp3</sound1>
+<text2>uncountable</text2>
+<text2a>Is there &lt;b&gt;any meat&lt;/b&gt; in this soup? No, there isn't.</text2a>
+<sound2>el_gram_6_2_9.mp3</sound2>
+<sectiontitle2>We usually use &lt;i&gt;some&lt;/i&gt; with &lt;i&gt;Can I have some ...?&lt;/i&gt; We can also use &lt;i&gt;some&lt;/i&gt; with &lt;i&gt;Would you like some ...?&lt;/i&gt; </sectiontitle2>
+<titlesound2>el_gram_6_2_10.mp3</titlesound2>
+<text3></text3>
+<text3a>&lt;b&gt;Can I have some&lt;/b&gt; tea, please?</text3a>
+<sound3>el_gram_6_2_11.mp3</sound3>
+<text4></text4>
+<text4a>&lt;b&gt;Would you like&lt;/b&gt; some sugar?</text4a>
+<sound4>el_gram_6_2_12.mp3</sound4>
+</section>
+</grammar>

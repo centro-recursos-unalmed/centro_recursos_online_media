@@ -1,0 +1,58 @@
+<html>
+<head>
+<title>OXFORD University Press</title>
+<script type="text/javascript">
+<!--
+function closeWindow() {
+	var ret = window.close();
+	alert("Trying to close the Window. This may not work due to security settings of your browser.");
+
+}
+
+function execute_app(complete_app_path) {
+	try {
+      netscape.security.PrivilegeManager.enablePrivilege("UniversalXPConnect");
+      try{
+	 var path = location.href.substring(7, location.href.length-17);
+	 path += complete_app_path;
+	 var file = Components.classes["@mozilla.org/file/local;1"].createInstance(Components.interfaces.nsILocalFile);
+         file.initWithPath(path);
+         var process = Components.classes["@mozilla.org/process/util;1"].createInstance(Components.interfaces.nsIProcess);
+         process.init(file);
+	 process.run(false, new Array(''), 0);
+      } catch(ex2) {
+         alert(ex2);
+      }
+   } catch(ex1) {
+      alert(ex1);
+   }
+}
+//-->
+</script>
+
+</head>
+
+<body>
+
+<center>
+<div >
+<img src="start.jpg" alt="Startscreen">
+
+<a href="#" onclick="javascript:execute_app('/./PIDLinux');">
+<div style="position:relative;top:-401px;left:150px;width:489px;height:75px;">
+</div>
+</a>
+
+<a href="#" onclick="javascript:closeWindow();">
+<div style="position:relative;top:-830px;left:-472px;width:56px;height:30px;">
+</div>
+</a>
+
+<a href="../start_here.htm">
+<div style="position:relative;top:-352px;left:-13px;width:160px;height:44px;">
+</div>
+</a>
+
+</div>
+
+</body></html>

@@ -1,0 +1,36 @@
+[WorldControl
+  [Mouse
+    OriginX: 3
+    OriginY: 3
+    [BilderSerien
+      [goUp
+        bilder: arrow_up.bmp
+        pickTransparent: LEFTBOTTOM
+      ]
+      [goDown
+        bilder: arrow_dn.bmp
+        pickTransparent: LEFTBOTTOM
+      ]
+    ]
+  ]
+  [Demomouse
+     bilder: demo_up.bmp, demo_dn.bmp
+  ]
+  [Languagebutton
+     active: en_up.bmp, en_dn.bmp, en_up.bmp, en_dn.bmp 
+     enabled: it_up.bmp, it_dn.bmp, it_up.bmp, it_dn.bmp 
+     x: 27
+     y: 470
+  ]
+  [FeedbackBack
+    x: 0
+    y: 130
+    bilder: feedback.jpg
+  ]
+  [FeedbackOverlay
+    x: 0
+    y: 130
+    bilder: feedbackoverlay.bmp
+    TransparentColor: 0, 0, 255
+  ]
+]

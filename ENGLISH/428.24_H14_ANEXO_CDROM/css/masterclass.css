@@ -1,0 +1,17 @@
+
+#breadcrumb{
+	clear: both;
+	font-size:small;
+	font-weight:bold;
+	background-color: #669966;	
+	color: #fff;
+	margin: 0px;
+	padding: 0px 0px 4px 0px;
+	}
+
+
+#breadcrumb a{
+	
+	color: #fff;
+	
+	}

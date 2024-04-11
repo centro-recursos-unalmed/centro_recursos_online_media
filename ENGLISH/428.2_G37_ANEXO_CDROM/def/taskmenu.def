@@ -1,0 +1,87 @@
+[TGC 1 Task Menu
+  [Hintergrund
+    x: 0
+    y: 0  # nur Hintergrund mit Offset alles andere relativ
+    bilder: back.jpg
+  ]
+  [Exitbutton
+    x: 255
+    y: 641
+    enabled: exit-up.bmp, exit-down.bmp, exit-up.bmp, exit-down.bmp
+  ]
+  [Menubutton
+    x: 126
+    y: 641
+    enabled: menu-up.bmp, menu-down.bmp, menu-up.bmp, menu-down.bmp
+  ] 
+  [Backbutton
+    x: 34
+    y: 641
+    enabled: rew-up.bmp, rew-down.bmp, rew-up.bmp, rew-down.bmp
+  ]
+  [Chapterdisplay
+    x: 48
+    y: 165
+    bilder: chapterback.bmp
+  ]
+  [Chapterlabel
+    labelx: 82
+    labely: 217
+    paintLayer: 3
+  ]  
+  [Lessondisplay
+    x: 47
+    y: 261
+    bilder: lessonback.bmp
+  ]
+  [Lessonlabel
+    labelx: 82
+    labely: 324
+    paintLayer: 3
+  ]
+  [Itemdisplay
+    x: 47
+    y: 374
+    bilder: itemback.bmp
+  ]
+  [Itemlabel
+    labelx: 82
+    labely: 436
+    paintLayer: 3
+  ]
+  [Displaypic
+    center: 200, 490
+  ]
+  [Captions
+    x: 398
+    y: 103
+    bilder: lessoncaption.bmp, itemcaption.bmp
+  ]  
+  [Listbox
+    x: 404
+    y: 175
+    w: 520
+    h: 500
+    paintLayer: 2
+    [Scrollbar
+      x: 936
+      y: 176
+      Hintergrund: scrollbar.bmp
+      [up
+        x: 0
+        y: 0
+        enabled: arrow1-up.bmp, arrow1-down.bmp, arrow1-up.bmp, arrow1-down.bmp
+      ]
+      [down
+        x: 0
+        y: 0
+        enabled: arrow2-up.bmp, arrow2-down.bmp, arrow2-up.bmp, arrow2-down.bmp
+      ]
+      [PositionMarker
+        x: 0
+        y: 0
+        enabled: ball-scroll.bmp, ball-scroll-down.bmp
+      ]
+    ]
+  ]
+]

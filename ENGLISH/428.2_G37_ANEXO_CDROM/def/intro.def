@@ -1,0 +1,12 @@
+[Startschirm 
+  [Hintergrund
+    x: 0
+    y: 0
+    bilder: introback.jpg
+  ]
+  [Vorspann
+    x: 0
+    y: 0 
+    bilder: introback.jpg
+  ] 
+]
