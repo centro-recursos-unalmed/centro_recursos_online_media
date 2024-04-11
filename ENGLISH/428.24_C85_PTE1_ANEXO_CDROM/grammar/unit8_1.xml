@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='ISO-8859-1' ?>
+<grammar>
+<section>
+<title>&lt;i&gt;can&lt;/i&gt; and &lt;i&gt;can't:&lt;/i&gt; positive and negative forms</title>
+<sectiontitle> In the positive, we use &lt;i&gt;I/you/he/she/we/they can&lt;/i&gt; + verb to talk about ability.</sectiontitle>
+<titlesound>sta_gram8_1_1.mp3</titlesound>
+<text1></text1>
+<text1a>&lt;b&gt; I can&lt;/b&gt; swim.</text1a>
+<sound1>sta_gram8_1_2.mp3</sound1>
+<text2></text2>
+<text2a>&lt;b&gt;We can&lt;/b&gt; ride a bicycle.</text2a>
+<sound2>sta_gram8_1_3.mp3</sound2>
+<sectiontitle2>In the negative, we use &lt;i&gt;I/you/he/she/we/they can't&lt;/i&gt; + verb to talk about a lack of ability.&lt;i&gt; (Can't &lt;/i&gt;is the short form of&lt;i&gt; cannot.)&lt;/i&gt;</sectiontitle2>
+<titlesound2>sta_gram8_1_4.mp3</titlesound2>
+<text3> </text3>
+<text3a>&lt;b&gt;She can't&lt;/b&gt; read music.</text3a>
+<sound3>sta_gram8_1_5.mp3</sound3>
+<text4> </text4>
+<text4a>&lt;b&gt;They can't&lt;/b&gt; use a computer.</text4a>
+<sound4>sta_gram8_1_6.mp3</sound4>
+</section>
+<section>
+<title>&lt;i&gt;can&lt;/i&gt; and &lt;i&gt;can't:&lt;/i&gt; question forms</title>
+<sectiontitle>In the question, we use &lt;i&gt;Can I/you/he/she/we/they&lt;/i&gt; + verb.</sectiontitle>
+<titlesound>sta_gram8_1_7.mp3</titlesound>
+<text1> </text1>
+<text1a>&lt;b&gt; Can you&lt;/b&gt; swim? </text1a>
+<sound1>sta_gram8_1_8.mp3</sound1>
+<text2> </text2>
+<text2a>&lt;b&gt;Can she&lt;/b&gt; play basketball?&lt;b&gt;</text2a>
+<sound2>sta_gram8_1_9.mp3</sound2>
+<sectiontitle2>In the answer, we can use the short form: &lt;i&gt;Yes, I/you/he/she/we/they can&lt;/i&gt; or &lt;i&gt;No, I/you/he/she/we/they can't.&lt;/i&gt;</sectiontitle2>
+<titlesound2>sta_gram8_1_10.mp3</titlesound2>
+<text3>Can you swim?  </text3>
+<text3a>&lt;b&gt;Yes, I can.&lt;/b&gt;</text3a>
+<sound3>sta_gram8_1_11.mp3</sound3>
+<text4>Can they read music?&lt;b&gt;</text4>
+<text4a>&lt;b&gt;No, they can't.</text4a>
+<sound4>sta_gram8_1_12.mp3</sound4>
+</section>
+</grammar>

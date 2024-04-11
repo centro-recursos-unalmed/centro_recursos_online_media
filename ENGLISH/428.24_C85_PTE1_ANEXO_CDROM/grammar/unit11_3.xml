@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='ISO-8859-1' ?>
+<grammar>
+<section>
+<title>&lt;i&gt;and&lt;/i&gt; and &lt;i&gt;but&lt;/i&gt;</title>
+<sectiontitle>We use &lt;i&gt;and&lt;/i&gt; and &lt;i&gt;but&lt;/i&gt; to join two sentences together.</sectiontitle>
+<titlesound>sta_gram11_3_1.mp3</titlesound>
+<text1> I went shopping. I bought a new bag.</text1>
+<text1a>I went shopping &lt;b&gt;and&lt;/b&gt; I bought a new bag.</text1a>
+<sound1>sta_gram11_3_2.mp3</sound1>
+<sectiontitle2>We use &lt;i&gt;but&lt;/i&gt; when something is surprising or different.</sectiontitle2>
+<titlesound2>sta_gram11_3_3.mp3</titlesound2>
+<text3> He had a good time. He decided not to go again </text3>
+<text3a> He had a good time &lt;b&gt;but&lt;/b&gt; he decided not to go again.</text3a>
+<sound3>sta_gram11_3_4.mp3</sound3>
+</section>
+</grammar>

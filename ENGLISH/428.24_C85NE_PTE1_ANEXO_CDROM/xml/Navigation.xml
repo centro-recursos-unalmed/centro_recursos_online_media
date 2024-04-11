@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+  <navigation title="Intermediate">
+    <folder label="Modules">
+<folder label="Module 1" title="">
+    <folder label="Language Focus">
+    
+                <file activityFile="unit1_1.xml" url="Grammar.swf" type="Language Focus" lesson="1" activity="1" label="Presentation 1" title="Auxiliary verbs &lt;i&gt;be, have, do&lt;/i&gt;"/>
+    <file activityFile="cei-01-01.xml" url="preview.swf" activity="01" type="LF" label="Practice 1" />
+    <file activityFile="cei-01-02.xml" url="preview.swf" activity="02" type="LF" label="Practice 2" />
+   
+                <file activityFile="unit1_2.xml" url="Grammar.swf" type="Language Focus" lesson="" activity="2" label="Presentation 2" title="Present simple and continuous"/>
+    <file activityFile="cei-01-03.xml" url="preview.swf" activity="03" type="LF" label="Practice 1" />
+    <file activityFile="cei-01-04.xml" url="preview.swf" activity="04" type="LF" label="Practice 2" />
+   </folder>
+<folder label="Vocabulary">
+    <file activityFile="cei-01-05.xml" url="preview.swf" activity="05" type="VOCAB" label="Activity 1" title="Everyday activities"/>
+           <file activityFile="cei-01-06.xml" url="crossword.swf" activity="6" type="Vocabulary" title="People around you" label="Activity 2" header="People around you" rubric="Complete the crossword with words for people around you."/>
+    <file activityFile="cei-01-07.xml" url="preview.swf" activity="07" type="VOCAB" label="Activity 3" title="Wordspot: &lt;i&gt;have&lt;/i&gt; (and &lt;i&gt;have got&lt;/i&gt;)"/>
+   </folder>
+   <folder label="Pronunciation">
+    <file activityFile="cei-01-08.xml" url="preview.swf" activity="08" type="PRON" label="Activity 1" title="Word stress: People around you"/>
+    <file activityFile="cei-01-09.xml" url="preview.swf" activity="09" type="PRON" label="Activity 2" title="Classroom language"/>
+  </folder>
+ <folder label="Real Life" title="Meeting up">
+<file activityFile="cei-01-10.xml" url="preview.swf" activity="10" title="Meeting up" type="REAL" label="Comprehension 1" rubric="Listen to the video and click on the correct answer."  />
+<file activityFile="cei-01-11.xml" url="preview.swf" activity="11" title="Meeting up" type="REAL" label="Comprehension 2" rubric="Listen again and complete the gaps in Paul’s sentences. Type one word into each gap." />
+<file activityFile="cei-01-12.xml" url="preview.swf" activity="12" title="Meeting up" type="REAL" label="Script" rubric="Play the video and read the script." />
+<file activityFile="cei-01-13.xml" url="preview.swf" activity="13" title="Meeting up" type="REAL" label="Record yourself" rubric="Record and playback the part of Paul." />
+</folder></folder>
+<folder label="Module 2" title="">
+    <folder label="Language Focus">
+    
+                <file activityFile="unit2_1.xml" url="Grammar.swf" type="Language Focus" lesson="1" activity="1" title="Past simple and continuous" label="Presentation 1"/>
+    <file activityFile="cei-02-01.xml" url="preview.swf" activity="01" type="LF" label="Practice 1" />
+    <file activityFile="cei-02-02.xml" url="preview.swf" activity="02" type="LF" label="Practice 2" />
+   
+                <file activityFile="unit2_2.xml" url="Grammar.swf" type="Language Focus" lesson="2" activity="" title="&lt;i&gt;used to&lt;/i&gt;" label="Presentation 2"/>
+    <file activityFile="cei-02-03.xml" url="preview.swf" activity="03" type="LF" label="Practice 1" />
+    <file activityFile="cei-02-04.xml" url="preview.swf" activity="04" type="LF" label="Practice 2" />
+   </folder>
+<folder label="Vocabulary">
+<file activityFile="cei-02-05.xml" url="matching.swf" activity="" type="Vocabulary" title="Remembering and forgetting" label="Activity 1" header="Remembering and forgetting" rubric="Drag a line to connect the two halves of the sentences." />
+    <file activityFile="cei-02-06.xml" url="preview.swf" activity="06" type="VOCAB" label="Activity 2" title="Remembering and forgetting" />
+   </folder>
+   <folder label="Pronunciation">
+    <file activityFile="cei-02-07.xml" url="preview.swf" activity="07" type="PRON" label="Activity 1" title="Past simple"/>
+    <file activityFile="cei-02-08.xml" url="preview.swf" activity="08" type="PRON" label="Activity 2" title="Past continuous"/>
+  </folder>
+ <folder label="Real Life" title="Showing interest">
+<file activityFile="cei-02-09.xml" url="preview.swf" activity="9" title="Showing interest" type="REAL" label="Comprehension 1" rubric="Listen to the video and click on the correct answer." />
+<file activityFile="cei-02-10.xml" url="preview.swf" activity="10" title="Showing interest" type="REAL" label="Comprehension 2" rubric="Listen again and drag a word or phrase to the correct space." />
+<file activityFile="cei-02-11.xml" url="preview.swf" activity="11" title="Showing interest" type="REAL" label="Script" rubric="Play the video and read the script." />
+<file activityFile="cei-02-12.xml" url="preview.swf" activity="12" title="Showing interest" type="REAL" label="Record yourself" rubric="Record and playback the part of the two passers-by." />
+</folder></folder>
+<folder label="Module 3" title="">
+    <folder label="Language Focus">
+    
+                <file activityFile="unit3_1.xml" url="Grammar.swf" type="Language Focus" lesson="1" activity="1" title="Comparatives and superlatives" label="Presentation 1"/>
+    <file activityFile="cei-03-01.xml" url="preview.swf" activity="01" type="LF" label="Practice 1" />
+    <file activityFile="cei-03-02.xml" url="preview.swf" activity="02" type="LF" label="Practice 2" />
+   
+                <file activityFile="unit3_2.xml" url="Grammar.swf" type="Language Focus" lesson="2" activity="2" title="Other phrases for comparing" label="Presentation 2"/>
+    <file activityFile="cei-03-03.xml" url="preview.swf" activity="03" type="LF" label="Practice 1" />
+    <file activityFile="cei-03-04.xml" url="preview.swf" activity="04" type="LF" label="Practice 2" />
+   </folder>
+<folder label="Vocabulary">
+<file activityFile="cei-03-05.xml" url="wordsearch.swf" activity="9" type="Vocabulary" title="Describing towns and cities" label="Activity 1" header="Describing towns and cities"  rubric="Find 10 adjectives in the word square. Click and drag to select the letters."/>
+<file activityFile="cei-03-06.xml" url="matching.swf" activity="" type="Vocabulary" title="Describing towns and cities" label="Activity 2" header="Describing towns and cities" rubric="Drag a line to connect the two halves of the sentences." />
+   </folder>
+   <folder label="Pronunciation">
+    <file activityFile="cei-03-07.xml" url="preview.swf" activity="07" type="PRON" label="Activity 1" title="The sounds /&lt;FONT FACE='Pelphon Pel SILDoulos' &gt;I&lt;/FONT&gt;/ or /&lt;FONT FACE='Pelphon Pel SILDoulos' &gt;i:&lt;/FONT&gt;/"/>
+    <file activityFile="cei-03-08.xml" url="preview.swf" activity="08" type="PRON" label="Activity 2" title="Describing towns and cities" />
+  </folder>
+ <folder label="Real Life" title="At the travel agent's">
+<file activityFile="cei-03-09.xml" url="preview.swf" activity="9" title="At the travel agent's " type="REAL" label="Comprehension 1" rubric="Listen to the video and click on the correct words." />
+<file activityFile="cei-03-10.xml" url="preview.swf" activity="10" title="At the travel agent's " type="REAL" label="Comprehension 2" rubric="Listen again and click on the correct answer." />
+<file activityFile="cei-03-11.xml" url="preview.swf" activity="11" title="At the travel agent's " type="REAL" label="Script" rubric="Play the video and read the script." />
+<file activityFile="cei-03-12.xml" url="preview.swf" activity="12" title="At the travel agent's " type="REAL" label="Record yourself" rubric="Record and playback the part of Yvonne." />
+</folder></folder>
+<folder label="Module 4" title="">
+    <folder label="Language Focus">
+    
+                <file activityFile="unit4_1.xml" url="Grammar.swf" type="Language Focus" lesson="1" activity="1" title="Present perfect simple" label="Presentation 1"/>
+    <file activityFile="cei-04-01.xml" url="preview.swf" activity="01" type="LF" label="Practice 1" />
+    <file activityFile="cei-04-02.xml" url="preview.swf" activity="02" type="LF" label="Practice 2" />
+   
+                <file activityFile="unit4_2.xml" url="Grammar.swf" type="Language Focus" lesson="2" activity="2" title="&lt;i&gt;for, since &lt;/i&gt;and&lt;i&gt; ago&lt;/i&gt; and Present perfect continuous" label="Presentation 2"/>
+    <file activityFile="cei-04-03.xml" url="preview.swf" activity="03" type="LF" label="Practice 1" />
+    <file activityFile="cei-04-04.xml" url="preview.swf" activity="04" type="LF" label="Practice 2" />
+   </folder>
+<folder label="Vocabulary">
+<file activityFile="cei-04-05.xml" url="matching.swf" activity="" type="Vocabulary" title="Describing life events" label="Activity 1" header="Describing life events" rubric="Drag a line to connect the two halves of the sentences about Carla Estefan's life." />
+<file activityFile="cei-04-06.xml" url="crossword.swf" activity="6" type="Vocabulary" title="Positive characteristics" label="Activity 2" header="Positive characteristics" rubric="Complete the crossword with adjectives to describe positive characteristics."/>
+    <file activityFile="cei-04-07.xml" url="preview.swf" activity="07" type="VOCAB" label="Activity 3" title="Wordspot: &lt;i&gt;take&lt;/i&gt;"/>
+   </folder>
+   <folder label="Pronunciation">
+    <file activityFile="cei-04-08.xml" url="preview.swf" activity="08" type="PRON" label="Activity 1" title="Questions with &lt;i&gt;How long&lt;/i&gt; and &lt;i&gt;When&lt;/i&gt;"/>
+    <file activityFile="cei-04-09.xml" url="preview.swf" activity="09" type="PRON" label="Activity 2" title="Positive characteristics" />
+  </folder>
+ <folder label="Real Life" title="Talking about recent events">
+<file activityFile="cei-04-10.xml" url="preview.swf" activity="10" title="Talking about recent events" type="REAL" label="Comprehension 1" rubric="Listen to the video and click on the correct answer." />
+<file activityFile="cei-04-11.xml" url="preview.swf" activity="11" title="Talking about recent events" type="REAL" label="Comprehension 2" rubric="Put the verb in brackets into the correct form. Then listen to the video and check. " />
+<file activityFile="cei-04-12.xml" url="preview.swf" activity="12" title="Talking about recent events" type="REAL" label="Script" rubric="Play the video and read the script." />
+<file activityFile="cei-04-13.xml" url="preview.swf" activity="13" title="Talking about recent events" type="REAL" label="Record yourself" rubric="Record and playback the parts of Jane, Nick and Rob." />
+</folder></folder>
+<folder label="Module 5" title="">
+    <folder label="Language Focus">
+    
+                <file activityFile="unit5_1.xml" url="Grammar.swf" type="Language Focus" lesson="1" activity="1" title="Future forms" label="Presentation 1"/>
+    <file activityFile="cei-05-01.xml" url="preview.swf" activity="01" type="LF" label="Practice 1" />
+    <file activityFile="cei-05-02.xml" url="preview.swf" activity="02" type="LF" label="Practice 2" />
+   
+                <file activityFile="unit5_2.xml" url="Grammar.swf" type="Language Focus" lesson="2" activity="2" title="Future clauses with &lt;i&gt;if, when,&lt;/i&gt; etc." label="Presentation 2"/>
+    <file activityFile="cei-05-03.xml" url="preview.swf" activity="03" type="LF" label="Practice 1" />
+    <file activityFile="cei-05-04.xml" url="preview.swf" activity="04" type="LF" label="Practice 2" />
+   </folder>
+<folder label="Vocabulary">
+    <file activityFile="cei-05-05.xml" url="preview.swf" activity="05" type="VOCAB" label="Activity 1" title="Nouns and adjectives"/>
+<file activityFile="cei-05-06.xml" url="matching.swf" activity="" type="Vocabulary" title="Work" label="Activity 2" header="Work" rubric="Drag a line to connect the two halves of the sentences." />
+   </folder>
+   <folder label="Pronunciation">
+    <file activityFile="cei-05-07.xml" url="preview.swf" activity="07" type="PRON" label="Activity 1" title="Work vocabulary" />
+    <file activityFile="cei-05-08.xml" url="preview.swf" activity="08" type="PRON" label="Activity 2" title="Talking about the future" />
+  </folder>
+ <folder label="Real Life" title="A formal telephone call">
+<file activityFile="cei-05-09.xml" url="preview.swf" activity="09" title="A formal telephone call"  type="REAL" label="Comprehension 1" rubric="Listen to the video and decide if the statements are true or false. Click on the correct answer." />
+<file activityFile="cei-05-10.xml" url="preview.swf" activity="10" title="A formal telephone call" type="REAL" label="Comprehension 2" rubric="Listen again and type in the missing words. " />
+<file activityFile="cei-05-11.xml" url="preview.swf" activity="11" title="A formal telephone call" type="REAL" label="Script" rubric="Play the video and read the script." />
+<file activityFile="cei-05-12.xml" url="preview.swf" activity="12" title="A formal telephone call" type="REAL" label="Record yourself" rubric="Record and playback the part of Steve." />
+</folder></folder>
+<folder label="Module 6" title="">
+    <folder label="Language Focus">
+    
+                <file activityFile="unit6_1.xml" url="Grammar.swf" type="Language Focus" lesson="1" activity="1" title="&lt;i&gt;-ed/-ing&lt;/i&gt; adjectives" label="Presentation 1"/>
+    <file activityFile="cei-06-01.xml" url="preview.swf" activity="01" type="LF" label="Practice 1" />
+    <file activityFile="cei-06-02.xml" url="preview.swf" activity="02" type="LF" label="Practice 2" />
+   
+                <file activityFile="unit6_2.xml" url="Grammar.swf" type="Language Focus" lesson="2" activity="2" title="The passive" label="Presentation 2"/>
+    <file activityFile="cei-06-03.xml" url="preview.swf" activity="03" type="LF" label="Practice 1" />
+    <file activityFile="cei-06-04.xml" url="preview.swf" activity="04" type="LF" label="Practice 2" />
+   </folder>
+<folder label="Vocabulary">
+<file activityFile="cei-06-05.xml" url="pelmanism.swf" activity="" type="Vocabulary" label="Activity 1" title="Extreme adjectives" header="Extreme adjectives"  rubric="Match the adjectives and the extreme adjectives. See how fast you can match the cards."/>
+<file activityFile="cei-06-06.xml" url="matching.swf" activity="" type="Vocabulary" title="Extreme adjectives" label="Activity 2" header="Extreme adjectives" rubric="Drag a line to connect the two halves." />
+   </folder>
+   <folder label="Pronunciation">
+    <file activityFile="cei-06-07.xml" url="preview.swf" activity="07" type="PRON" label="Activity 1" title="&lt;i&gt;-ed/ing&lt;/i&gt; adjectives" />
+    <file activityFile="cei-06-08.xml" url="preview.swf" activity="08" type="PRON" label="Activity 2" title="Extreme adjectives"/>
+  </folder>
+ <folder label="Real Life" title="Reality shows">
+
+<file activityFile="cei-06-09.xml" url="preview.swf" activity="09" title="Reality shows: What do you think?" type="REAL" label="Comprehension 1" rubric="Read the questions below and then listen to the video and click on the correct people. " />
+<file activityFile="cei-06-10.xml" url="preview.swf" activity="10" title="Reality shows: What do you think?" type="REAL" label="Comprehension 2" rubric="Listen again and type in the missing words." />
+<file activityFile="cei-06-11.xml" url="preview.swf" activity="11" title="Reality shows: What do you think?" type="REAL" label="Script" rubric="Play the video and read the script." />
+<file activityFile="cei-06-12.xml" url="preview.swf" activity="12" title="Reality shows: What do you think?" type="REAL" label="Record yourself" rubric="Record and playback your own answer to the question." />
+</folder></folder>
+<folder label="Module 7" title="">
+    <folder label="Language Focus">
+    
+                <file activityFile="unit7_1.xml" url="Grammar.swf" type="Language Focus" lesson="1" activity="1" title="Polite requests" label="Presentation 1"/>
+    <file activityFile="cei-07-01.xml" url="preview.swf" activity="01" type="LF" label="Practice 1" />
+    <file activityFile="cei-07-02.xml" url="preview.swf" activity="02" type="LF" label="Practice 2" />
+   
+                <file activityFile="unit7_2.xml" url="Grammar.swf" type="Language Focus" lesson="2" activity="2" title="&lt;i&gt;will&lt;/i&gt; for offers and instant decisions" label="Presentation 2"/>
+    <file activityFile="cei-07-03.xml" url="preview.swf" activity="03" type="LF" label="Practice 1" />
+   
+          <file activityFile="unit7_3.xml" url="Grammar.swf" type="Language Focus" lesson="3" activity="3" title="Making generalisations" label="Presentation 3"/>
+    <file activityFile="cei-07-04.xml" url="preview.swf" activity="04" type="LF" label="Practice 1" />
+   </folder>
+<folder label="Vocabulary">
+<file activityFile="cei-07-05.xml" url="matching.swf" activity="" type="Vocabulary" title="Socialising: common phrases" label="Activity 1" header="Socialising: common phrases" rubric="Drag a line to connect the two halves of the sentences." />
+    <file activityFile="cei-07-06.xml" url="preview.swf" activity="06" type="VOCAB" label="Activity 2" title="Wordspot: &lt;i&gt;go&lt;/i&gt;"/>
+   </folder>
+   <folder label="Pronunciation">
+    <file activityFile="cei-07-07.xml" url="preview.swf" activity="07" type="PRON" label="Activity 1" title="Polite requests"/>
+    <file activityFile="cei-07-08.xml" url="preview.swf" activity="08" type="PRON" label="Activity 2" title="Making generalisations with adjectives"/>
+  </folder>
+ <folder label="Real Life" title="Making a social arrangement">
+<file activityFile="cei-07-09.xml" url="preview.swf" activity="09" title="Making a social arrangement"  type="REAL" label="Comprehension 1" rubric="Listen to the video and type one word into each gap."  />
+<file activityFile="cei-07-10.xml" url="preview.swf" activity="10" title="Making a social arrangement"  type="REAL" label="Comprehension 2" rubric="Listen again and drag each word to the correct space." />
+<file activityFile="cei-07-11.xml" url="preview.swf" activity="11" title="Making a social arrangement"  type="REAL" label="Script" rubric="Play the video and read the script." />
+<file activityFile="cei-07-12.xml" url="preview.swf" activity="12" title="Making a social arrangement"  type="REAL" label="Record yourself" rubric="Record and playback the part of Dave. " />
+</folder></folder>
+<folder label="Module 8" title="">
+    <folder label="Language Focus">
+    
+                <file activityFile="unit8_1.xml" url="Grammar.swf" type="Language Focus" lesson="1" activity="1" title="Defining relative clauses" label="Presentation 1"/>
+    <file activityFile="cei-08-01.xml" url="preview.swf" activity="01" type="LF" label="Practice 1" />
+    <file activityFile="cei-08-02.xml" url="preview.swf" activity="02" type="LF" label="Practice 2" />
+   
+                <file activityFile="unit8_2.xml" url="Grammar.swf" type="Language Focus" lesson="2" activity="2" title="Quantifiers" label="Presentation 2"/>
+    <file activityFile="cei-08-03.xml" url="preview.swf" activity="03" type="LF" label="Practice 1" />
+    <file activityFile="cei-08-04.xml" url="preview.swf" activity="04" type="LF" label="Practice 2" />
+   </folder>
+<folder label="Vocabulary">
+<file activityFile="cei-08-05.xml" url="matching.swf" activity="" type="Vocabulary" title="How machines work" label="Activity 1" header="How machines work" rubric="Drag a line to connect the two halves of the sentences." />
+    <file activityFile="cei-08-06.xml" url="preview.swf" activity="06" type="VOCAB" label="Activity 2" title="Describing everyday objects" />
+   </folder>
+   <folder label="Pronunciation">
+    <file activityFile="cei-08-07.xml" url="preview.swf" activity="07" type="PRON" label="Activity 1" title="Compound nouns"/>
+    <file activityFile="cei-08-08.xml" url="preview.swf" activity="08" type="PRON" label="Activity 2" title="Linking"/>
+  </folder>
+ <folder label="Real Life" title="Buying things">
+<file activityFile="cei-08-09.xml" url="preview.swf" activity="09" title="Buying things" type="REAL" label="Comprehension 1" rubric="Listen to the video. Are the statements true or false? Click on the correct answer." />
+<file activityFile="cei-08-10.xml" url="preview.swf" activity="10" title="Buying things" type="REAL" label="Comprehension 2" rubric="Listen again and type the answers into each gap. " />
+<file activityFile="cei-08-11.xml" url="preview.swf" activity="11" title="Buying things" type="REAL" label="Script" rubric="Play the video and read the script." />
+<file activityFile="cei-08-12.xml" url="preview.swf" activity="12" title="Buying things" type="REAL" label="Record yourself" rubric="Record and playback the part of Adriana." />
+</folder></folder>
+<folder label="Module 9" title="">
+    <folder label="Language Focus">
+    
+                <file activityFile="unit9_1.xml" url="Grammar.swf" type="Language Focus" lesson="1" activity="1" title="Making predictions" label="Presentation 1"/>
+    <file activityFile="cei-09-01.xml" url="preview.swf" activity="01" type="LF" label="Practice 1" header="Making predictions " rubric="Reorder the words to make predictions."/>
+    <file activityFile="cei-09-02.xml" url="preview.swf" activity="02" type="LF" label="Practice 2" />
+   
+                <file activityFile="unit9_2.xml" url="Grammar.swf" type="Language Focus" lesson="2" activity="2" title="Hypothetical possibilities with &lt;i&gt;if&lt;/i&gt;" label="Presentation 2"/>
+    <file activityFile="cei-09-03.xml" url="preview.swf" activity="03" type="LF" label="Practice 1" />
+    <file activityFile="cei-09-04.xml" url="preview.swf" activity="04" type="LF" label="Practice 2" />
+   </folder>
+<folder label="Vocabulary">
+    <file activityFile="cei-09-05.xml" url="preview.swf" activity="05" type="VOCAB" label="Activity 1" title="Society and change"/>
+    <file activityFile="cei-09-06.xml" url="preview.swf" activity="06" type="VOCAB" label="Activity 2" title="Wordspot: &lt;i&gt;make&lt;/i&gt;"/>
+   </folder>
+   <folder label="Pronunciation">
+    <file activityFile="cei-09-07.xml" url="preview.swf" activity="07" type="PRON" label="Activity 1" title="Making predictions"/>
+    <file activityFile="cei-09-08.xml" url="preview.swf" activity="08" type="PRON" label="Activity 2" title="Wordspot: &lt;i&gt;make&lt;/i&gt;"/>
+  </folder>
+ <folder label="Real Life" title="Ways of saying numbers">
+<file activityFile="cei-09-09.xml" url="preview.swf" activity="09" title="Ways of saying numbers" type="REAL" label="Comprehension 1" rubric="Listen to the video and put the topics into the correct order." />
+<file activityFile="cei-09-10.xml" url="preview.swf" activity="10" title="Ways of saying numbers" type="REAL" label="Comprehension 2" rubric="Listen again and click on the correct number." />
+<file activityFile="cei-09-11.xml" url="preview.swf" activity="11" title="Ways of saying numbers" type="REAL" label="Script" rubric="Play the video and read the script." />
+<file activityFile="cei-09-12.xml" url="preview.swf" activity="12" title="Ways of saying numbers" type="REAL" label="Record yourself" rubric="Record and playback the part of Paul." />
+</folder></folder>
+<folder label="Module 10" title="">
+    <folder label="Language Focus">
+    
+                <file activityFile="unit10_1.xml" url="Grammar.swf" type="Language Focus" lesson="1" activity="1" title="Past perfect" label="Presentation 1"/>
+    <file activityFile="cei-10-01.xml" url="preview.swf" activity="01" type="LF" label="Practice 1" />
+    <file activityFile="cei-10-02.xml" url="preview.swf" activity="02" type="LF" label="Practice 2" />
+   
+                <file activityFile="unit10_2.xml" url="Grammar.swf" type="Language Focus" lesson="2" activity="2" title="Reported speech and Reported questions" label="Presentation 2"/>
+    <file activityFile="cei-10-03.xml" url="preview.swf" activity="03" type="LF" label="Practice 1" />
+    <file activityFile="cei-10-04.xml" url="preview.swf" activity="04" type="LF" label="Practice 2" />
+   </folder>
+<folder label="Vocabulary">
+<file activityFile="cei-10-05.xml" url="wordsearch.swf" activity="9" type="Vocabulary" title="Types of story" label="Activity 1" header="Types of story"  rubric="Find 10 types of story in the word square. Click on the letters."/>
+<file activityFile="cei-10-06.xml" url="matching.swf" activity="" type="Vocabulary" title="Crime" label="Activity 2" header="Crime" rubric="Drag a line to connect the phrase with the correct description." />
+    <file activityFile="cei-10-07.xml" url="preview.swf" activity="07" type="VOCAB" label="Activity 3" title="Wordspot: &lt;i&gt;say&lt;/i&gt; and &lt;i&gt;tell&lt;/i&gt;"/>
+   </folder>
+   <folder label="Pronunciation">
+    <file activityFile="cei-10-08.xml" url="preview.swf" activity="08" type="PRON" label="Activity 1" title="Past perfect and Past simple" />
+    <file activityFile="cei-10-09.xml" url="preview.swf" activity="09" type="PRON" label="Activity 2" title="Adverbs for telling stories"/>
+  </folder>
+ <folder label="Real Life" title="Excuses and apologies">
+<file activityFile="cei-10-10.xml" url="preview.swf" activity="10" title="Excuses and apologies" type="REAL" label="Comprehension 1" rubric="Listen to the video and decide if the statements are true or false. Click on the correct answer." />
+<file activityFile="cei-10-11.xml" url="preview.swf" activity="11" title="Excuses and apologies" type="REAL" label="Comprehension 2" rubric="Listen again, then drag the answers to the correct spaces." />
+<file activityFile="cei-10-12.xml" url="preview.swf" activity="12" title="Excuses and apologies" type="REAL" label="Script" rubric="Play the video and read the script." />
+<file activityFile="cei-10-13.xml" url="preview.swf" activity="13" title="Excuses and apologies" type="REAL" label="Record yourself" rubric="Record and playback the part of Paul. " />
+</folder></folder>
+<folder label="Module 11" title="">
+    <folder label="Language Focus">
+    
+                <file activityFile="unit11_1.xml" url="Grammar.swf" type="Language Focus" lesson="1" activity="1" title="Obligation and permission in the present" label="Presentation 1"/>
+    <file activityFile="cei-11-01.xml" url="preview.swf" activity="01" type="LF" label="Practice 1" />
+    <file activityFile="cei-11-02.xml" url="preview.swf" activity="02" type="LF" label="Practice 2" />
+   
+                <file activityFile="unit11_2.xml" url="Grammar.swf" type="Language Focus" lesson="2" activity="2" title="Obligation and permission in the past" label="Presentation 2"/>
+    <file activityFile="cei-11-03.xml" url="preview.swf" activity="03" type="LF" label="Practice 1" />
+    <file activityFile="cei-11-04.xml" url="preview.swf" activity="04" type="LF" label="Practice 2" />
+   </folder>
+<folder label="Vocabulary">
+<file activityFile="cei-11-05.xml" url="crossword.swf" activity="5" type="Vocabulary" title="Rules and freedom" label="Activity 1" header="Rules and freedom" rubric="Complete the crossword.  "/>
+    <file activityFile="cei-11-06.xml" url="preview.swf" activity="06" type="VOCAB" label="Activity 2" title="Wordspot: &lt;i&gt;do&lt;/i&gt;" />
+   </folder>
+   <folder label="Pronunciation">
+    <file activityFile="cei-11-07.xml" url="preview.swf" activity="07" type="PRON" label="Activity 1" title="Obligation and permission"/>
+    <file activityFile="cei-11-08.xml" url="preview.swf" activity="08" type="PRON" label="Activity 2" title="Pronunciation symbols" />
+  </folder>
+ <folder label="Real Life" title="Hot topics">
+<file activityFile="cei-11-09.xml" url="preview.swf" activity="09" title="Hot topics" type="REAL" label="Comprehension 1" rubric="Listen to the video and click on the correct answer." />
+<file activityFile="cei-11-10.xml" url="preview.swf" activity="10" title="Hot topics" type="REAL" label="Comprehension 2" rubric="Listen to the video again and type one word into each gap." />
+<file activityFile="cei-11-11.xml" url="preview.swf" activity="11" title="Hot topics" type="REAL" label="Script" rubric="Play the video and read the script." />
+<file activityFile="cei-11-12.xml" url="preview.swf" activity="12" title="Hot topics" type="REAL" label="Record yourself" rubric="Record and playback your own answers to the questions." />
+</folder></folder>
+<folder label="Module 12" title="">
+    <folder label="Language Focus">
+    
+                <file activityFile="unit12_1.xml" url="Grammar.swf" type="Language Focus" lesson="1" activity="1" title="&lt;i&gt;could have, should have, would have&lt;/i&gt;" label="Presentation 1"/>
+    <file activityFile="cei-12-01.xml" url="preview.swf" activity="01" type="LF" label="Practice 1" />
+    <file activityFile="cei-12-02.xml" url="preview.swf" activity="02" type="LF" label="Practice 2" />
+   
+                <file activityFile="unit12_2.xml" url="Grammar.swf" type="Language Focus" lesson="2" activity="2" title="Imaginary situations in the past with &lt;i&gt;if&lt;/i&gt;" label="Presentation 2"/>
+    <file activityFile="cei-12-03.xml" url="preview.swf" activity="03" type="LF" label="Practice 1" />
+    <file activityFile="cei-12-04.xml" url="preview.swf" activity="04" type="LF" label="Practice 2" />
+   </folder>
+<folder label="Vocabulary">
+<file activityFile="cei-12-05.xml" url="matching.swf" activity="" type="Vocabulary" title="Problems and solutions" label="Activity 1" header="Problems and solutions" rubric="Drag a line to connect the two halves of the sentences." />
+    <file activityFile="cei-12-06.xml" url="preview.swf" activity="06" type="VOCAB" label="Activity 2" title="Wordspot: &lt;i&gt;think&lt;/i&gt;"/>
+   </folder>
+   <folder label="Pronunciation">
+    <file activityFile="cei-12-07.xml" url="preview.swf" activity="07" type="PRON" label="Activity 1" title="&lt;i&gt;could have, should have, would have&lt;/i&gt;"/>
+    <file activityFile="cei-12-08.xml" url="preview.swf" activity="08" type="PRON" label="Activity 2" title="Imaginary situations in the past with &lt;i&gt;if&lt;/i&gt;"/>
+   </folder>
+ <folder label="Real Life" title="Saying goodbye">
+<file activityFile="cei-12-09.xml" url="preview.swf" activity="09" title="Saying goodbye" type="REAL" label="Comprehension 1" rubric="Listen to the video and click on the correct answers." />
+<file activityFile="cei-12-10.xml" url="preview.swf" activity="10" title="Saying goodbye" type="REAL" label="Comprehension 2" rubric="Listen again and type words or phrases from the pool into each gap to complete the sentences." />
+<file activityFile="cei-12-11.xml" url="preview.swf" activity="11" title="Saying goodbye" type="REAL" label="Script"  rubric="Play the video and read the script."/>
+<file activityFile="cei-12-12.xml" url="preview.swf" activity="12" title="Saying goodbye" type="REAL" label="Record yourself" rubric="Record and playback the part of Jane in conversation 1 and Renata in conversation 2." />
+</folder></folder>
+  </folder><file url="phonetic.swf" label="Phonemic Chart" activity="98" /></navigation>

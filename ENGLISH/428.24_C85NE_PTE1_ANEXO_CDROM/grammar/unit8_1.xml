@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='ISO-8859-1' ?>
+<grammar>
+<section>
+<title> Defining relative clauses</title>
+<sectiontitle>We use relative defining clauses to give information about things, people, possessions, places and times using a relative pronoun (&lt;i&gt;who, which, that,&lt;/i&gt; etc.).</sectiontitle>
+<titlesound>int_gram8_1_1.mp3</titlesound>
+<text1>things: &lt;i&gt;that&lt;/i&gt; or &lt;i&gt;which&lt;/i&gt;</text1>
+<text1a>A scanner is a machine &lt;b&gt;which&lt;/b&gt; can copy pictures.</text1a>
+<sound1>int_gram8_1_2.mp3</sound1>
+<text2></text2>
+<text2a>A calculator is a little machine &lt;b&gt;that&lt;/b&gt; does arithmetic.</text2a>
+<sound2>int_gram8_1_3.mp3</sound2>
+<sectiontitle2>people: &lt;i&gt;who&lt;/i&gt; or &lt;i&gt;that&lt;/i&gt;</sectiontitle2>
+<titlesound2>int_gram8_1_4.mp3</titlesound2>
+<text3></text3>
+<text3a>A technophobe is someone &lt;b&gt;who&lt;/b&gt; doesn't like machines.</text3a>
+<sound3>int_gram8_1_5.mp3</sound3>
+<text4>&lt;i&gt;that&lt;/i&gt; is less common</text4>
+<text4a>A newsreader is a person &lt;b&gt;that&lt;/b&gt; reads the news.</text4a>
+<sound4>int_gram8_1_6.mp3</sound4>
+</section>
+<section>
+<title> Relative defining clauses</title>
+<sectiontitle>We use &lt;i&gt;whose&lt;/i&gt; for possessions.</sectiontitle>
+<titlesound>int_gram8_1_7.mp3</titlesound>
+<text1>An orphan is a child. His/her parents have died.</text1>
+<text1a>An orphan is a child &lt;b&gt;whose&lt;/b&gt; parents have died.</text1a>
+<sound1>int_gram8_1_8.mp3</sound1>
+<text2>An architect is a person. His/her job is to design buildings.</text2>
+<text2a>An architect is a person &lt;b&gt;whose&lt;/b&gt; job is to design buildings. </text2a>
+<sound2>int_gram8_1_9.mp3</sound2>
+<sectiontitle2>We use &lt;i&gt;where&lt;/i&gt; for places and &lt;i&gt;when&lt;/i&gt; for times.</sectiontitle2>
+<titlesound2>int_gram8_1_10.mp3</titlesound2>
+<text3>places:</text3>
+<text3a>This is the house &lt;b&gt;where&lt;/b&gt; I grew up.</text3a>
+<sound3>int_gram8_1_11.mp3</sound3>
+<text4>times:</text4>
+<text4a>The evening's a time &lt;b&gt;when&lt;/b&gt; we can all relax.</text4a>
+<sound4>int_gram8_1_12.mp3</sound4>
+</section>
+<section>
+<title> Relative defining clauses</title>
+<sectiontitle>We must use &lt;i&gt;who, which, that&lt;/i&gt; when these are the &lt;i&gt;subject&lt;/i&gt; of the relative clause.</sectiontitle>
+<titlesound>int_gram8_1_13.mp3</titlesound>
+<text1>A journalist is a person. &lt;i&gt;He&lt;/i&gt; writes for a newspaper or magazine. He is the subject.</text1>
+<text1a>A journalist is a person &lt;b&gt;who writes&lt;/b&gt; for a newspaper or magazine.</text1a>
+<sound1>int_gram8_1_14.mp3</sound1>
+<text2>A modem is a machine. &lt;i&gt;It&lt;/i&gt; connects a computer to the Internet.</text2>
+<text2a>A modem is a machine &lt;b&gt;which connects&lt;/b&gt; a computer to the Internet.</text2a>
+<sound2>int_gram8_1_15.mp3</sound2>
+<sectiontitle2>We can leave out &lt;i&gt;which, who&lt;/i&gt; and &lt;i&gt;that&lt;/i&gt; if they are the &lt;i&gt;object&lt;/i&gt; of the sentence. </sectiontitle2>
+<titlesound2>int_gram8_1_16.mp3</titlesound2>
+<text3>A colleague is someone. You work with &lt;i&gt;them.&lt;/i&gt; </text3>
+<text3a>A colleague is someone &lt;b&gt;you work&lt;/b&gt; with. </text3a>
+<sound3>int_gram8_1_17.mp3</sound3>
+<text4>Gloves are things. You wear &lt;i&gt;them&lt;/i&gt; in cold weather.  </text4>
+<text4a>Gloves are things &lt;b&gt;you wear&lt;/b&gt; in cold weather.</text4a>
+<sound4>int_gram8_1_18.mp3</sound4>
+</section>
+</grammar>

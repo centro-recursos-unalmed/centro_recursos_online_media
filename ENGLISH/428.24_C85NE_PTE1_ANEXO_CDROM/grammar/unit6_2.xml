@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='ISO-8859-1' ?>
+<grammar>
+<section>
+<title> The passive</title>
+<sectiontitle>In active sentences, the subject is the 'doer' of the verb. In passive sentences, the subject is not the 'doer' of the verb.</sectiontitle>
+<titlesound>int_gram6_2_1.mp3</titlesound>
+<text1>active: the subject (the firefighter) is the 'doer':</text1>
+<text1a>The &lt;b&gt;firefighter rescued&lt;/b&gt; the child.</text1a>
+<sound1>int_gram6_2_2.mp3</sound1>
+<text2>passive: the subject (the child) is not the 'doer':</text2>
+<text2a>The &lt;b&gt;child was rescued&lt;/b&gt; by the firefighter.</text2a>
+<sound2>int_gram6_2_3.mp3</sound2>
+<sectiontitle2>We use the passive to focus on the main topic of the sentence. This is usually at the beginning.</sectiontitle2>
+<titlesound2>int_gram6_2_4.mp3</titlesound2>
+<text3>The sentence is mainly about the Olympic gold medal; we use the passive: </text3>
+<text3a>&lt;b&gt;The Olympic gold medal was won&lt;/b&gt; by Jackson.</text3a>
+<sound3>int_gram6_2_5.mp3</sound3>
+<text4>The sentence is mainly about Jackson; we use the active:</text4>
+<text4a>&lt;b&gt;Jackson won&lt;/b&gt; the Olympic gold medal.</text4a>
+<sound4>int_gram6_2_6.mp3</sound4>
+</section>
+<section>
+<title> The passive</title>
+<sectiontitle>We use the passive if the 'doer' of the verb is unknown or unimportant, or it is obvious who does the action.</sectiontitle>
+<titlesound>int_gram6_2_7.mp3</titlesound>
+<text1>We don't know who stole my bag:</text1>
+<text1a>My handbag &lt;b&gt;has been stolen.&lt;/b&gt;</text1a>
+<sound1>int_gram6_2_8.mp3</sound1>
+<text2>It's obvious that the police arrested the people:</text2>
+<text2a>Dozens of people &lt;b&gt;were arrested.&lt;/b&gt;</text2a>
+<sound2>int_gram6_2_9.mp3</sound2>
+<sectiontitle2>If we mention the 'doer' of the verb we use &lt;i&gt;by&lt;/i&gt; + the person.</sectiontitle2>
+<titlesound2>int_gram6_2_10.mp3</titlesound2>
+<text3></text3>
+<text3a>The building was designed &lt;b&gt;by&lt;/b&gt; Sir Andrew Rowley.</text3a>
+<sound3>int_gram6_2_11.mp3</sound3>
+<text4></text4>
+<text4a></text4a>
+<sound4></sound4>
+</section>
+<section>
+<title> The passive</title>
+<sectiontitle>In the positive, we use &lt;i&gt;be&lt;/i&gt; + past participle. </sectiontitle>
+<titlesound>int_gram6_2_12.mp3</titlesound>
+<text1>Present perfect passive:</text1>
+<text1a>Ten films &lt;b&gt;have been made&lt;/b&gt; so far this year.</text1a>
+<sound1>int_gram6_2_13.mp3</sound1>
+<text2>Present continuous passive:</text2>
+<text2a>I think I&lt;b&gt;'m being followed.&lt;/b&gt;</text2a>
+<sound2>int_gram6_2_14.mp3</sound2>
+<sectiontitle2>In the negative, we use &lt;i&gt;be + not&lt;/i&gt; + past participle. In the question, we use &lt;i&gt;be&lt;/i&gt; + subject + past participle.</sectiontitle2>
+<titlesound2>int_gram6_2_15.mp3</titlesound2>
+<text3>negative:</text3>
+<text3a>Credit cards &lt;b&gt;are not accepted&lt;/b&gt; here.</text3a>
+<sound3>int_gram6_2_16.mp3</sound3>
+<text4>question:</text4>
+<text4a>Who &lt;b&gt;was&lt;/b&gt;&lt;i&gt; Superman Returns&lt;/i&gt;&lt;b&gt; directed by?&lt;/b&gt;</text4a>
+<sound4>int_gram6_2_17.mp3</sound4>
+</section>
+</grammar>

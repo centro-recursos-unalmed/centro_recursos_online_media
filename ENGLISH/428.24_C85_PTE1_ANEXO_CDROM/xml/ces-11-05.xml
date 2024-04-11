@@ -1,0 +1,19 @@
+<?Xml version="1.0" encoding="iso-8859-1"?>
+<data>
+<initiate maxSize="13" startx="20"  starty="115" pictureCross="true" boxSpace="80" autoScroll="45"/>
+<clue value="" item=""/>
+<block question="images/relax1.jpg" answer="relax" startBlock="2_2" endBlock="2_6"/>
+<block question="images/11crosswalk.jpg" answer="walk" startBlock="2_8" endBlock="2_11"/>
+<block question="images/11crossshopping.jpg" answer="shopping" startBlock="4_4" endBlock="4_11"/>
+<block question="images/11crossski.jpg" answer="skiing" startBlock="6_1" endBlock="6_6"/>
+<block question="images/11crossbus.jpg" answer="bus" startBlock="8_0" endBlock="8_2"/>
+<block question="images/11crossmountains.jpg" answer="mountains" startBlock="8_4" endBlock="8_12"/>
+<block question="images/11crossholiday.jpg" answer="holiday" startBlock="10_6" endBlock="10_12"/>
+<block question="images/11crosscar.jpg" answer="car" startBlock="0_2" endBlock="2_2"/>
+<block question="images/11crossbeach.jpg" answer="beach" startBlock="0_5" endBlock="4_5"/>
+<block question="images/11crossplane.jpg" answer="plane" startBlock="1_10" endBlock="5_10"/>
+<block question="images/11crossmuseum.jpg" answer="museums" startBlock="4_1" endBlock="10_1"/>
+<block question="images/11crossswim.jpg" answer="swimming" startBlock="4_4" endBlock="11_4"/>
+<block question="images/11crosshotel.jpg" answer="hotel" startBlock="6_8" endBlock="10_8"/>
+</data>
+

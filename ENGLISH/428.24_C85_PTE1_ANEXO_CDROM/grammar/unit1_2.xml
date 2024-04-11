@@ -1,0 +1,22 @@
+﻿<?xml version='1.0' encoding='ISO-8859-1' ?>
+<grammar>
+<section>
+<title>&lt;i&gt;a/an&lt;/i&gt; with jobs</title>
+<sectiontitle> We use &lt;i&gt;a/an&lt;/i&gt; with jobs. We use &lt;i&gt;a&lt;/i&gt; with words beginning with a consonant &lt;br&gt;(&lt;i&gt;b, c, d&lt;/i&gt; ...). We use &lt;i&gt;an&lt;/i&gt; with words beginning with a vowel (&lt;i&gt;a, e, i, o, u&lt;/i&gt;).</sectiontitle>
+<titlesound>sta_gram1_2_1.mp3</titlesound>
+<text1>consonant:</text1>
+<text1a>I'm &lt;b&gt;a&lt;/b&gt; doctor. He's &lt;b&gt;a&lt;/b&gt; teacher.</text1a>
+<sound1>sta_gram1_2_2.mp3</sound1>
+<text2>vowel: </text2>
+<text2a> She's &lt;b&gt;an&lt;/b&gt; engineer. I'm &lt;b&gt;an&lt;/b&gt; actress.</text2a>
+<sound2>sta_gram1_2_3.mp3</sound2>
+<sectiontitle2></sectiontitle2>
+<titlesound2></titlesound2>
+<text3></text3>
+<text3a></text3a>
+<sound3></sound3>
+<text4></text4>
+<text4a></text4a>
+<sound4></sound4>
+</section>
+</grammar>

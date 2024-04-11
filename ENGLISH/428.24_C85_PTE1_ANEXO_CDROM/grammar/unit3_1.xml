@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='ISO-8859-1' ?>
+<grammar>
+<section>
+<title> Singular and plural nouns</title>
+<sectiontitle> We use &lt;i&gt;a&lt;/i&gt; for singular nouns.</sectiontitle>
+<titlesound>sta_gram3_1_1.mp3</titlesound>
+<text1></text1>
+<text1a>&lt;b&gt;a&lt;/b&gt; car   &lt;b&gt;a&lt;/b&gt; bus  &lt;b&gt;a&lt;/b&gt; city  </text1a>
+<sound1>sta_gram3_1_2.mp3</sound1>
+<sectiontitle2>We use &lt;i&gt;-s, -es&lt;/i&gt; or &lt;i&gt;-ies&lt;/i&gt; endings for plural nouns.</sectiontitle2>
+<titlesound2>sta_gram3_1_3.mp3</titlesound2>
+<text3></text3>
+<text3a>two car&lt;b&gt;s&lt;/b&gt;  three bus&lt;b&gt;es&lt;/b&gt;  four cit&lt;b&gt;ies&lt;/b&gt;</text3a>
+<sound3>sta_gram3_1_4.mp3</sound3>
+</section>
+<section>
+<title> Irregular nouns</title>
+<sectiontitle> Some nouns are irregular and do not follow the rules.</sectiontitle>
+<titlesound>sta_gram3_1_5.mp3</titlesound>
+<text1> a man   a woman   a child   a person  </text1>
+<text1a>&lt;b&gt;two men   two women   four children   five people&lt;/b&gt;</text1a>
+<sound1>sta_gram3_1_6.mp3</sound1>
+</section>
+</grammar>

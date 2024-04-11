@@ -1,0 +1,42 @@
+﻿<?xml version='1.0' encoding='ISO-8859-1' ?>
+<grammar>
+<section>
+<title>&lt;i&gt; there is/there are&lt;/i&gt;  </title>
+<sectiontitle> We use &lt;i&gt;there is&lt;/i&gt; + singular noun. We usually use the short form &lt;i&gt;there's.&lt;/i&gt;</sectiontitle>
+<titlesound>sta_gram4_1_1.mp3</titlesound>
+<text1>There is a café near the bus stop.</text1>
+<text1a>&lt;b&gt;There's&lt;/b&gt; a café near the bus stop.</text1a>
+<sound1>sta_gram4_1_2.mp3</sound1>
+<sectiontitle2>In the negative we use &lt;i&gt;there is not&lt;/i&gt;. We usually use the short form &lt;i&gt;there isn't.&lt;/i&gt;</sectiontitle2>
+<titlesound2>sta_gram4_1_3.mp3</titlesound2>
+<text3> There is not a park in the town.</text3>
+<text3a>&lt;b&gt;There isn't&lt;/b&gt; a park in the town.</text3a>
+<sound3>sta_gram4_1_4.mp3</sound3>
+</section>
+<section>
+<title>&lt;i&gt; there is/there are&lt;/i&gt; plural</title>
+<sectiontitle> We use &lt;i&gt;there are&lt;/i&gt; + plural noun. We don't usually use the short form.</sectiontitle>
+<titlesound>sta_gram4_1_5.mp3</titlesound>
+<text1> </text1>
+<text1a>&lt;b&gt; There are&lt;/b&gt; five restaurant&lt;b&gt;s&lt;/b&gt; in the town. </text1a>
+<sound1>sta_gram4_1_6.mp3</sound1>
+<sectiontitle2> In the negative we use &lt;i&gt;there are not.&lt;/i&gt; We usually use the short form &lt;i&gt;there aren't.&lt;/i&gt;&lt;i&gt; &lt;/i&gt;</sectiontitle2>
+<titlesound2>sta_gram4_1_7.mp3</titlesound2>
+<text3> There are not any people in the bank.</text3>
+<text3a>&lt;b&gt;There aren't&lt;/b&gt; any people in the bank.</text3a>
+<sound3>sta_gram4_1_8.mp3</sound3>
+</section>
+<section>
+<title>&lt;i&gt; there is, there are&lt;/i&gt; questions</title>
+<sectiontitle> We use &lt;i&gt;Is there +&lt;/i&gt; singular noun for questions. </sectiontitle>
+<titlesound>sta_gram4_1_9.mp3</titlesound>
+<text1> </text1>
+<text1a>&lt;b&gt;Is there&lt;/b&gt; a supermarket in this street?</text1a>
+<sound1>sta_gram4_1_10.mp3</sound1>
+<sectiontitle2>We use &lt;i&gt;Are there +&lt;/i&gt; plural noun for questions.</sectiontitle2>
+<titlesound2>sta_gram4_1_11.mp3</titlesound2>
+<text3> </text3>
+<text3a>&lt;b&gt;Are there&lt;/b&gt; any car park&lt;b&gt;s&lt;/b&gt; near the hotel?</text3a>
+<sound3>sta_gram4_1_12.mp3</sound3>
+</section>
+</grammar>

@@ -1,0 +1,41 @@
+﻿<?xml version='1.0' encoding='ISO-8859-1' ?>
+<grammar>
+<section>
+<title> Subject and object pronouns </title>
+<sectiontitle> We use the subject pronouns: &lt;i&gt;I, you&lt;/i&gt; and &lt;i&gt;he/she/it&lt;/i&gt;&lt;b&gt; before&lt;/b&gt; the verb. </sectiontitle>
+<titlesound>sta_gram6_1_1.mp3</titlesound>
+<text1>Subject pronouns:</text1>
+<text1a>&lt;b&gt; I&lt;/b&gt; hate dancing. &lt;b&gt;You&lt;/b&gt; are great! &lt;b&gt;He&lt;/b&gt; works in London. &lt;b&gt;It&lt;/b&gt; is awful! </text1a>
+<sound1>sta_gram6_1_2.mp3</sound1>
+<text2></text2>
+<text2a></text2a>
+<sound2></sound2>
+<sectiontitle2>We use the object pronouns: &lt;i&gt;me, you&lt;/i&gt; and &lt;i&gt;him/her/it&lt;/i&gt;&lt;b&gt; after&lt;/b&gt; the verb.</sectiontitle2>
+<titlesound2>sta_gram6_1_3.mp3</titlesound2>
+<text3> Object pronouns:</text3>
+<text3a>My friend likes &lt;b&gt;me.&lt;/b&gt; Alex loves &lt;b&gt;you.&lt;/b&gt; She hates &lt;b&gt;him/her.&lt;/b&gt; I don't like &lt;b&gt;it.&lt;/b&gt;</text3a>
+<sound3>sta_gram6_1_4.mp3</sound3>
+<text4></text4>
+<text4a></text4a>
+<sound4></sound4>
+</section>
+<section>
+<title> Subject and object pronouns</title>
+<sectiontitle> We use the subject pronouns: &lt;i&gt;we, you&lt;/i&gt; and &lt;i&gt;they&lt;/i&gt;&lt;b&gt; before&lt;/b&gt; the verb.</sectiontitle>
+<titlesound>sta_gram6_1_5.mp3</titlesound>
+<text1> Subject pronouns: </text1>
+<text1a>&lt;b&gt;We&lt;/b&gt; like classical music. &lt;b&gt;You&lt;/b&gt; don't like shopping. &lt;b&gt;They&lt;/b&gt; live in Oxford. </text1a>
+<sound1>sta_gram6_1_6.mp3</sound1>
+<text2> </text2>
+<text2a></text2a>
+<sound2></sound2>
+<sectiontitle2>We use the object pronouns: &lt;i&gt;us, you&lt;/i&gt; and &lt;i&gt;them&lt;/i&gt;&lt;b&gt; after&lt;/b&gt; the verb.</sectiontitle2>
+<titlesound2>sta_gram6_1_7.mp3</titlesound2>
+<text3>Object pronouns:</text3>
+<text3a>Peter lives with &lt;b&gt;us&lt;/b&gt;. My parents like &lt;b&gt;you&lt;/b&gt;. I love &lt;b&gt;them&lt;/b&gt;.</text3a>
+<sound3>sta_gram6_1_8.mp3</sound3>
+<text4></text4>
+<text4a></text4a>
+<sound4></sound4>
+</section>
+</grammar>

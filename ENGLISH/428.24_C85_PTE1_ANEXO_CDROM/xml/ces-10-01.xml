@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?> 
+<pairs bckg_color="0x5595D5" congra_text="Congratulations!!">
+<pair fbtext="Correct!">   
+  <picture label="become" picture="" />   
+  <picture label="became" picture="" />     
+</pair>  
+<pair fbtext="Well done!">   
+  <picture label="meet" picture="" />   
+  <picture label="met" picture="" />   
+</pair>  
+<pair fbtext="That's right!">   
+  <picture label="begin" picture="" />   
+  <picture label="began" picture="" />   
+</pair>  
+<pair fbtext="Excellent!">   
+  <picture label="sing" picture="" />   
+  <picture label="sang" picture="" />   
+</pair>  
+<pair fbtext="Brilliant!">   
+  <picture label="have" picture="" />   
+  <picture label="had" picture="" />   
+</pair>  
+<pair fbtext="That's correct!">   
+  <picture label="sell" picture="" />   
+  <picture label="sold" picture="" />   
+</pair>  
+<pair fbtext="Correct!">   
+  <picture label="leave" picture="" />  
+  <picture label="left" picture="" />    
+</pair>  
+<pair fbtext="Well done!">   
+  <picture label="go" picture="" /> 
+  <picture label="went" picture="" /> 
+</pair> 
+</pairs>
+
+
+
+
+

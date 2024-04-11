@@ -1,0 +1,41 @@
+﻿<?xml version='1.0' encoding='ISO-8859-1' ?>
+<grammar>
+<section>
+<title>&lt;i&gt;be: I, you, he, she, it&lt;/i&gt; positive form</title>
+<sectiontitle> We use &lt;i&gt;I am&lt;/i&gt; and &lt;i&gt;you are.&lt;/i&gt; We usually use the short forms &lt;i&gt;I'm&lt;/i&gt; and&lt;i&gt; you're.&lt;/i&gt;</sectiontitle>
+<titlesound>sta_gram2_1_1.mp3</titlesound>
+<text1>I am a teacher.</text1>
+<text1a>&lt;b&gt;I'm&lt;/b&gt; a teacher.</text1a>
+<sound1>sta_gram2_1_2.mp3</sound1>
+<text2>You are Spanish.</text2>
+<text2a>&lt;b&gt;You're &lt;/b&gt;Spanish.</text2a>
+<sound2>sta_gram2_1_3.mp3</sound2>
+<sectiontitle2>We use &lt;i&gt;he/she/it is.&lt;/i&gt; We usually use the short form &lt;i&gt;he's/she's/it's.&lt;/i&gt;</sectiontitle2>
+<titlesound2>sta_gram2_1_4.mp3</titlesound2>
+<text3>She is Polish.</text3>
+<text3a>&lt;b&gt;She's &lt;/b&gt;Polish.</text3a>
+<sound3>sta_gram2_1_5.mp3</sound3>
+<text4>He is French.</text4>
+<text4a>&lt;b&gt;He's &lt;/b&gt;French.&lt;b&gt;</text4a>
+<sound4>sta_gram2_1_6.mp3</sound4>
+</section>
+<section>
+<title>&lt;i&gt;be: I, you, he, she, it&lt;/i&gt; (negative form)</title>
+<sectiontitle>We use &lt;i&gt;I am not&lt;/i&gt; and&lt;i&gt; you are not.&lt;/i&gt; We usually use the short forms &lt;i&gt;I'm not&lt;/i&gt; and &lt;i&gt;you aren't/you're not.&lt;/i&gt;</sectiontitle>
+<titlesound>sta_gram2_1_7.mp3</titlesound>
+<text1> I am not from Japan.</text1>
+<text1a>&lt;b&gt;I'm not&lt;/b&gt; from Japan.</text1a>
+<sound1>sta_gram2_1_8.mp3</sound1>
+<text2>You are not a student.</text2>
+<text2a>&lt;b&gt;You aren't&lt;/b&gt; a student. Or &lt;b&gt;You're not&lt;/b&gt; a student.</text2a>
+<sound2>sta_gram2_1_9.mp3</sound2>
+<sectiontitle2>We use &lt;i&gt;he/she/it is not.&lt;/i&gt; We usually use the short forms &lt;i&gt;he/she/it isn't.&lt;/i&gt; </sectiontitle2>
+<titlesound2>sta_gram2_1_10.mp3</titlesound2>
+<text3>She is not from Russia.</text3>
+<text3a>&lt;b&gt; She isn't&lt;/b&gt;  from Russia. </text3a>
+<sound3>sta_gram2_1_11.mp3</sound3>
+<text4>It is not a postcard.</text4>
+<text4a>&lt;b&gt; It isn't&lt;/b&gt;  a postcard. </text4a>
+<sound4>sta_gram2_1_12.mp3</sound4>
+</section>
+</grammar>

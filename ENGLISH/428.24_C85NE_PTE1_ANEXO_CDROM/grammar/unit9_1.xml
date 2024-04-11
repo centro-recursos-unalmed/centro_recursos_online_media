@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='ISO-8859-1' ?>
+<grammar>
+<section>
+<title> Making predictions</title>
+<sectiontitle>We often use the adverbs &lt;i&gt;definitely, almost certainly, probably&lt;/i&gt; + &lt;i&gt;will&lt;/i&gt; + verb to show how certain we are about something happening.</sectiontitle>
+<titlesound>int_gram9_1_1.mp3</titlesound>
+<text1></text1>
+<text1a>I think he&lt;b&gt;'ll almost certainly pass&lt;/b&gt; the exam. </text1a>
+<sound1>int_gram9_1_2.mp3</sound1>
+<text2></text2>
+<text2a>Our team &lt;b&gt;will probably lose&lt;/b&gt; on Saturday.</text2a>
+<sound2>int_gram9_1_3.mp3</sound2>
+<sectiontitle2>We use the same adverbs + &lt;i&gt;won't + &lt;/i&gt;verb.</sectiontitle2>
+<titlesound2>int_gram9_1_4.mp3</titlesound2>
+<text3></text3>
+<text3a>We &lt;b&gt;definitely won't be&lt;/b&gt; there on time. </text3a>
+<sound3>int_gram9_1_5.mp3</sound3>
+<text4></text4>
+<text4a>They &lt;b&gt;probably won't come&lt;/b&gt;. </text4a>
+<sound4>int_gram9_1_6.mp3</sound4>
+</section>
+<section>
+<title> Making predictions</title>
+<sectiontitle>We use the modal verbs &lt;i&gt;may, might, could&lt;/i&gt; to say that something is possible in the future. We add &lt;i&gt;well &lt;/i&gt;if we are more certain it will happen.</sectiontitle>
+<titlesound>int_gram9_1_7.mp3</titlesound>
+<text1>It is possible that it will rain tomorrow. </text1>
+<text1a>It &lt;b&gt;might rain&lt;/b&gt; tomorrow. </text1a>
+<sound1>int_gram9_1_8.mp3</sound1>
+<text2>We are more sure:</text2>
+<text2a>It &lt;b&gt;could well rain&lt;/b&gt; tomorrow. </text2a>
+<sound2>int_gram9_1_9.mp3</sound2>
+<sectiontitle2>In the negative, we use &lt;i&gt;may not&lt;/i&gt; and &lt;i&gt;might not&lt;/i&gt;. We don't use short forms. We don't use &lt;i&gt;could not&lt;/i&gt; to talk about the future. </sectiontitle2>
+<titlesound2>int_gram9_1_10.mp3</titlesound2>
+<text3></text3>
+<text3a>He &lt;b&gt;might not tell&lt;/b&gt; you. </text3a>
+<sound3>int_gram9_1_11.mp3</sound3>
+<text4></text4>
+<text4a>She &lt;b&gt;may not like&lt;/b&gt; it. </text4a>
+<sound4>int_gram9_1_12.mp3</sound4>
+</section>
+<section>
+<title> Making predictions</title>
+<sectiontitle>We use &lt;i&gt;is likely to&lt;/i&gt; when we think something will probably happen. In the negative, we use &lt;i&gt;is not likely to&lt;/i&gt;. </sectiontitle>
+<titlesound>int_gram9_1_13.mp3</titlesound>
+<text1></text1>
+<text1a>People &lt;b&gt;are likely to live&lt;/b&gt; longer in the next century.</text1a>
+<sound1>int_gram9_1_14.mp3</sound1>
+<text2></text2>
+<text2a>It &lt;b&gt;isn't likely to snow&lt;/b&gt;.</text2a>
+<sound2>int_gram9_1_15.mp3</sound2>
+<sectiontitle2></sectiontitle2>
+<titlesound2></titlesound2>
+<text3></text3>
+<text3a></text3a>
+<sound3></sound3>
+<text4></text4>
+<text4a></text4a>
+<sound4></sound4>
+</section>
+</grammar>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='ISO-8859-1' ?>
+<grammar>
+<section>
+<title>&lt;i&gt;-ed/-ing&lt;/i&gt; adjectives</title>
+<sectiontitle>We use adjectives ending in &lt;i&gt;-ing&lt;/i&gt; to describe the thing or person that has an effect on us.</sectiontitle>
+<titlesound>int_gram6_1_1.mp3</titlesound>
+<text1>The lesson interested me.</text1>
+<text1a>The lesson was &lt;b&gt;interesting.&lt;/b&gt;</text1a>
+<sound1>int_gram6_1_2.mp3</sound1>
+<text2>Tom annoyed me a lot.</text2>
+<text2a>Tom was very &lt;b&gt;annoying.&lt;/b&gt;</text2a>
+<sound2>int_gram6_1_3.mp3</sound2>
+<sectiontitle2>We use adjectives ending in &lt;i&gt;-ed&lt;/i&gt; to describe our feelings about something or someone.</sectiontitle2>
+<titlesound2>int_gram6_1_4.mp3</titlesound2>
+<text3>I find people interesting.</text3>
+<text3a>I'm &lt;b&gt;interested&lt;/b&gt; in people.</text3a>
+<sound3>int_gram6_1_5.mp3</sound3>
+<text4>Jude found the party boring.</text4>
+<text4a>Jude felt &lt;b&gt;bored&lt;/b&gt; at the party.</text4a>
+<sound4>int_gram6_1_6.mp3</sound4>
+</section>
+</grammar>

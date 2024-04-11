@@ -1,0 +1,16 @@
+﻿<?xml version='1.0' encoding='ISO-8859-1' ?>
+<grammar>
+<section>
+<title> Possessive &lt;i&gt;'s&lt;/i&gt;</title>
+<sectiontitle> We add an &lt;i&gt;'s&lt;/i&gt; to a person (or object) to show possession.</sectiontitle>
+<titlesound>sta_gram5_1_1.mp3</titlesound>
+<text1> &lt;b&gt;NOT&lt;/b&gt; Emma is the daughter of Jill.</text1>
+<text1a>Emma is Jill&lt;b&gt;'s&lt;/b&gt; daughter.</text1a>
+<sound1>sta_gram5_1_2.mp3</sound1>
+<sectiontitle2>Remember – the contracted form of &lt;i&gt;is&lt;/i&gt; is&lt;i&gt; 's.&lt;/i&gt; We also use &lt;i&gt;'s &lt;/i&gt;to show possession.</sectiontitle2>
+<titlesound2>sta_gram5_1_3.mp3</titlesound2>
+<text3> Rosie &lt;b&gt;is&lt;/b&gt; Chantelle&lt;b&gt;'s&lt;/b&gt; cat.</text3>
+<text3a>Rosie&lt;b&gt;'s&lt;/b&gt; Chantelle&lt;b&gt;'s&lt;/b&gt; cat.</text3a>
+<sound3>sta_gram5_1_4.mp3</sound3>
+</section>
+</grammar>

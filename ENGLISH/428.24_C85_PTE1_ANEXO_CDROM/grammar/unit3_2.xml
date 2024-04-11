@@ -1,0 +1,51 @@
+﻿<?xml version='1.0' encoding='ISO-8859-1' ?>
+<grammar>
+<section>
+<title>&lt;i&gt;be: we/you/they&lt;/i&gt; positive </title>
+<sectiontitle> We use &lt;i&gt;we/you are.&lt;/i&gt; We usually use the short forms: &lt;i&gt;we're&lt;/i&gt; and&lt;i&gt; you're.&lt;/i&gt;</sectiontitle>
+<titlesound>sta_gram3_2_1.mp3</titlesound>
+<text1> We are happy. </text1>
+<text1a>&lt;b&gt;We're&lt;/b&gt; happy.</text1a>
+<sound1>sta_gram3_2_2.mp3</sound1>
+<text2> You are children. </text2>
+<text2a>&lt;b&gt; You're&lt;/b&gt;  children. </text2a>
+<sound2>sta_gram3_2_3.mp3</sound2>
+<sectiontitle2>We use &lt;i&gt;they are.&lt;/i&gt; We usually use the short form:&lt;i&gt; they're&lt;/i&gt;.</sectiontitle2>
+<titlesound2>sta_gram3_2_4.mp3</titlesound2>
+<text3> They are expensive. </text3>
+<text3a>&lt;b&gt; They're&lt;/b&gt;  expensive. </text3a>
+<sound3>sta_gram3_2_5.mp3</sound3>
+</section>
+<section>
+<title>&lt;i&gt;be: we/you/they&lt;/i&gt; negative</title>
+<sectiontitle>We use &lt;i&gt;we/you are not.&lt;/i&gt; We usually use the short forms: &lt;i&gt;we're/you're not&lt;/i&gt; or &lt;i&gt;we/you aren't.&lt;/i&gt;</sectiontitle>
+<titlesound>sta_gram3_2_6.mp3</titlesound>
+<text1> </text1>
+<text1a>&lt;b&gt;We're not&lt;/b&gt; happy. OR &lt;b&gt;You're not&lt;/b&gt; happy.</text1a>
+<sound1>sta_gram3_2_7.mp3</sound1>
+<text2> </text2>
+<text2a>&lt;b&gt; We aren't&lt;/b&gt;  happy.  OR &lt;b&gt;You aren't&lt;/b&gt; happy. </text2a>
+<sound2>sta_gram3_2_8.mp3</sound2>
+<sectiontitle2> We use &lt;i&gt;they are not.&lt;/i&gt; We usually use the short forms: &lt;i&gt;they're not&lt;/i&gt; or &lt;i&gt;they aren't.&lt;/i&gt;</sectiontitle2>
+<titlesound2>sta_gram3_2_9.mp3</titlesound2>
+<text3> </text3>
+<text3a>&lt;b&gt; They're not&lt;/b&gt;  expensive. OR &lt;b&gt;They aren't&lt;/b&gt; expensive.</text3a>
+<sound3>sta_gram3_2_10.mp3</sound3>
+</section>
+<section>
+<title>&lt;i&gt;be: we/you/they&lt;/i&gt; questions</title>
+<sectiontitle> In the question we use, &lt;i&gt;Are we&lt;/i&gt; and &lt;i&gt;Are you?&lt;/i&gt;</sectiontitle>
+<titlesound>sta_gram3_2_11.mp3</titlesound>
+<text1> We're French. </text1>
+<text1a>&lt;b&gt;Are we&lt;/b&gt; French?</text1a>
+<sound1>sta_gram3_2_12.mp3</sound1>
+<text2> You're Spanish. </text2>
+<text2a>&lt;b&gt;Are you&lt;/b&gt; Spanish?</text2a>
+<sound2>sta_gram3_2_13.mp3</sound2>
+<sectiontitle2>In the question we use, &lt;i&gt;Are they?&lt;/i&gt; &lt;i&gt; &lt;/i&gt;</sectiontitle2>
+<titlesound2>sta_gram3_2_14.mp3</titlesound2>
+<text3> They're Polish. </text3>
+<text3a>&lt;b&gt;Are they&lt;/b&gt; Polish?</text3a>
+<sound3>sta_gram3_2_15.mp3</sound3>
+</section>
+</grammar>

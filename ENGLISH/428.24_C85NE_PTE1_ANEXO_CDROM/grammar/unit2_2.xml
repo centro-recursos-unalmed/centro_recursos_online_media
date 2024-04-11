@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='ISO-8859-1' ?>
+<grammar>
+<section>
+<title>&lt;i&gt;used to&lt;/i&gt;</title>
+<sectiontitle>We use &lt;i&gt;used to&lt;/i&gt; + verb for habits and states in the past. </sectiontitle>
+<titlesound>int_gram2_2_1.mp3</titlesound>
+<text1>a habit in the past:</text1>
+<text1a>I &lt;b&gt;used to go&lt;/b&gt; to the gym every day.</text1a>
+<sound1>int_gram2_2_2.mp3</sound1>
+<text2>a state in the past:</text2>
+<text2a>My sister &lt;b&gt;used to have&lt;/b&gt; really long hair.</text2a>
+<sound2>int_gram2_2_3.mp3</sound2>
+<sectiontitle2>In the negative, we use &lt;i&gt;did not use to&lt;/i&gt; + verb. In the question, we use &lt;i&gt;did&lt;/i&gt; + subject + &lt;i&gt;use to&lt;/i&gt; + verb.</sectiontitle2>
+<titlesound2>int_gram2_2_4.mp3</titlesound2>
+<text3>He used to wear glasses. Now he wears contact lenses.</text3>
+<text3a>He &lt;b&gt;didn't use to wear&lt;/b&gt; contact lenses.</text3a>
+<sound3>int_gram2_2_5.mp3</sound3>
+<text4></text4>
+<text4a>&lt;b&gt;Did you use to like&lt;/b&gt; sports at school? No, I didn't.</text4a>
+<sound4>int_gram2_2_6.mp3</sound4>
+</section>
+<section>
+<title>&lt;i&gt;used to&lt;/i&gt;<span lang=EN-US style=''></title>
+<sectiontitle>We use &lt;i&gt;not … any longer&lt;/i&gt; and &lt;i&gt;not … any more&lt;/i&gt; to say that something was true in the past but it not true now.</sectiontitle>
+<titlesound>int_gram2_2_7.mp3</titlesound>
+<text1>I used to play volleyball but I don't play volleyball now.</text1>
+<text1a>I used to play volleyball, but I do&lt;b&gt;n't any longer&lt;/b&gt;.</text1a>
+<sound1>int_gram2_2_8.mp3</sound1>
+<text2>Andy used to drink coffee but he doesn't drink coffee now.</text2>
+<text2a>Andy does&lt;b&gt;n't&lt;/b&gt; drink coffee &lt;b&gt;any more&lt;/b&gt; – it gives him a headache.</text2a>
+<sound2>int_gram2_2_9.mp3</sound2>
+<sectiontitle2>We use &lt;i&gt;still &lt;/i&gt;to emphasise that something has not stopped or changed but continues to the present.</sectiontitle2>
+<titlesound2>int_gram2_2_10.mp3</titlesound2>
+<text3>I used to like the Beatles in the past and I like them now.</text3>
+<text3a>I &lt;b&gt;still&lt;/b&gt; like the Beatles.</text3a>
+<sound3>int_gram2_2_11.mp3</sound3>
+<text4a>She &lt;b&gt;still&lt;/b&gt; lives in Holland. </text4a>
+<sound4>int_gram2_2_12.mp3</sound4>
+</section>
+</grammar>

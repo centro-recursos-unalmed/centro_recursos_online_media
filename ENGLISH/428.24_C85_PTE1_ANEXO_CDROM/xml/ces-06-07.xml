@@ -1,0 +1,15 @@
+<?Xml version="1.0" encoding="iso-8859-1"?>
+<data>
+<initiate maxSize="14" startx="12"  starty="115" pictureCross="true" pictureHeight="100" boxSpace="80" autoScroll="45"/>
+<clue value="" item=""/>
+<block question="images/classicalmusic2.jpg" answer="classicalmusic" startBlock="0_0" endBlock="0_13"/>
+<block question="images/rockmusic2.jpg" answer="rockmusic" startBlock="2_3" endBlock="2_11"/>
+<block question="images/italianfood2.jpg" answer="italianfood" startBlock="5_0" endBlock="5_10"/>
+<block question="images/cartoon2.jpg" answer="cartoon" startBlock="7_6" endBlock="7_12"/>
+<block question="images/reading2.jpg" answer="reading" startBlock="9_7" endBlock="9_13"/>
+<block question="images/shopping2.jpg" answer="shopping" startBlock="0_4" endBlock="7_4"/>
+<block question="images/cooking2.jpg" answer="cooking" startBlock="0_13" endBlock="6_13"/>
+<block question="images/dancing2.jpg" answer="dancing" startBlock="4_2" endBlock="10_2"/>
+<block question="images/football2.jpg" answer="football" startBlock="4_9" endBlock="11_9"/>
+</data>
+

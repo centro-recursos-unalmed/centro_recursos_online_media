@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='ISO-8859-1' ?>
+<grammar>
+<section>
+<title>&lt;i&gt;be: I, you, he, she, it&lt;/i&gt; questions</title>
+<sectiontitle> We use &lt;i&gt;Am I ...?&lt;/i&gt; and&lt;i&gt; Are you ...?&lt;/i&gt; for questions.</sectiontitle>
+<titlesound>sta_gram2_2_1.mp3</titlesound>
+<text1> I am a doctor.  </text1>
+<text1a>&lt;b&gt;Am I&lt;/b&gt; a doctor?</text1a>
+<sound1>sta_gram2_2_2.mp3</sound1>
+<text2>You are French.  </text2>
+<text2a>&lt;b&gt; Are you&lt;/b&gt; French?     </text2a>
+<sound2>sta_gram2_2_3.mp3</sound2>
+<sectiontitle2>We also use &lt;i&gt;Is he/she/it ...?&lt;/i&gt;  </sectiontitle2>
+<titlesound2>sta_gram2_2_4.mp3</titlesound2>
+<text3> He is married.  </text3>
+<text3a>&lt;b&gt;Is he&lt;/b&gt; married? </text3a>
+<sound3>sta_gram2_2_5.mp3</sound3>
+<text4> It's a dog.  </text4>
+<text4a>&lt;b&gt;Is it&lt;/b&gt; a dog?</text4a>
+<sound4>sta_gram2_2_6.mp3</sound4>
+</section>
+<section>
+<title>&lt;i&gt;be: I, you, he, she, it&lt;/i&gt; questions</title>
+<sectiontitle> We also use the question words &lt;i&gt;what, where&lt;/i&gt; and &lt;i&gt;how&lt;/i&gt; or &lt;i&gt;how old&lt;/i&gt; for questions.</sectiontitle>
+<titlesound>sta_gram2_2_7.mp3</titlesound>
+<text1> </text1>
+<text1a>&lt;b&gt;What&lt;/b&gt;'s your job? &lt;b&gt;Where&lt;/b&gt;'s he from?</text1a>
+<sound1>sta_gram2_2_8.mp3</sound1>
+<text2></text2>
+<text2a>&lt;b&gt;How old&lt;/b&gt; are you?</text2a>
+<sound2>sta_gram2_2_9.mp3</sound2>
+<sectiontitle2></sectiontitle2>
+<titlesound2></titlesound2>
+<text3> </text3>
+<text3a></text3a>
+<sound3></sound3>
+<text4></text4>
+<text4a></text4a>
+<sound4></sound4>
+</section>
+</grammar>

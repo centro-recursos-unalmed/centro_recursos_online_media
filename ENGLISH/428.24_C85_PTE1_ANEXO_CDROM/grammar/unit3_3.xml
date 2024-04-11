@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='ISO-8859-1' ?>
+<grammar>
+<section>
+<title>&lt;i&gt; this/these&lt;/i&gt; </title>
+<sectiontitle> We use &lt;i&gt;this&lt;/i&gt; for an object close to us.</sectiontitle>
+<titlesound>sta_gram3_3_1.mp3</titlesound>
+<text1> </text1>
+<text1a>&lt;b&gt;This&lt;/b&gt; building.</text1a>
+<sound1>sta_gram3_3_2.mp3</sound1>
+<sectiontitle2> In the plural, we use &lt;i&gt;these.&lt;/i&gt;&lt;i&gt; &lt;/i&gt;</sectiontitle2>
+<titlesound2>sta_gram3_3_3.mp3</titlesound2>
+<text3> </text3>
+<text3a>&lt;b&gt;These&lt;/b&gt; buildings.</text3a>
+<sound3>sta_gram3_3_4.mp3</sound3>
+</section>
+<section>
+<title>&lt;i&gt;that/those&lt;/i&gt;</title>
+<sectiontitle> We use &lt;i&gt;that&lt;/i&gt; for an object which isn't close to us.</sectiontitle>
+<titlesound>sta_gram3_3_5.mp3</titlesound>
+<text1> </text1>
+<text1a>&lt;b&gt;That&lt;/b&gt; man.</text1a>
+<sound1>sta_gram3_3_6.mp3</sound1>
+<sectiontitle2> In the plural, we use &lt;i&gt;those.&lt;/i&gt;&lt;i&gt; &lt;/i&gt;</sectiontitle2>
+<titlesound2>sta_gram3_3_7.mp3</titlesound2>
+<text3> </text3>
+<text3a>&lt;b&gt; Those&lt;/b&gt; men.</text3a>
+<sound3>sta_gram3_3_8.mp3</sound3>
+</section>
+</grammar>

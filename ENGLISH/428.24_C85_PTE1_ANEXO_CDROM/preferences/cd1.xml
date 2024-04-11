@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><CDPreferences title="The title">
+
+<Skin file="Skins1.swf" folder="skins/"/>
+
+<ActivitySettings selectableText="1"/>
+
+<ActivityFont face="Stone Informal" font-size="13" fg-colour="000000"/>
+	<TitleFont face="Congress Sans Bold" font-size="18" fg-colour="5D90BF"/>
+	
+<RubricFont face="Congress Sans" font-size="14" fg-colour="000000"/>
+	<HintFont face="Stone Informal" font-size="14" fg-colour="000000"/>
+
+<Blank bg-colour="5B9C97" fg-colour="000000" border-colour="000000" min-width="6" max-width="64"/>
+	
+<WordPoolText fg-colour="000000" bg-colour="ffffff" border-colour="3398CC" max-lines="6"/>
+	
+<CorrectBlank fg-colour="000000" bg-colour="75B453" border-colour="000000"/>
+
+<IncorrectBlank fg-colour="000000" bg-colour="F6B8D6" border-colour="000000"/>
+	
+<ColourWords highlight-colour="99ccff" correct-highlight-colour="99ffcc" incorrect-highlight-colour="ff9999"/>
+	
+<LabelPicture pointer-colour="000000" pointer-width="1" pointer-radius="2"/>
+</CDPreferences>
+

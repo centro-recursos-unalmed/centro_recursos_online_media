@@ -1,0 +1,15 @@
+<?Xml version="1.0" encoding="iso-8859-1"?>
+<data>
+<initiate maxSize="10" startx="12"  starty="115" pictureCross="true" boxSpace="80" autoScroll="45"/>
+<clue value="" item=""/>
+<block question="images/shorts.jpg" answer="shorts" startBlock="0_1" endBlock="0_6"/>
+<block question="images/trousers.jpg" answer="trousers" startBlock="3_0" endBlock="3_7"/>
+<block question="images/shirt.jpg" answer="shirt" startBlock="6_2" endBlock="6_6"/>
+<block question="images/shoes.jpg" answer="shoes" startBlock="8_5" endBlock="8_9"/>
+<block question="images/socks.jpg" answer="socks" startBlock="9_1" endBlock="9_5"/>
+<block question="images/skirt.jpg" answer="skirt" startBlock="0_6" endBlock="4_6"/>
+<block question="images/trainers.jpg" answer="trainers" startBlock="1_9" endBlock="8_9"/>
+<block question="images/boots.jpg" answer="boots" startBlock="2_2" endBlock="6_2"/>
+<block question="images/t-shirt.jpg" answer="top" startBlock="3_0" endBlock="5_0"/>
+<block question="images/dress.jpg" answer="dress" startBlock="5_5" endBlock="9_5"/>
+</data>

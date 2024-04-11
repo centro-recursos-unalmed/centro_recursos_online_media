@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='ISO-8859-1' ?>
+<grammar>
+<section>
+<title>&lt;i&gt;could have, should have, would have</title>
+<sectiontitle>We use &lt;i&gt;could have&lt;/i&gt; + past participle to talk about events which were possible in the past, but didn't happen. </sectiontitle>
+<titlesound>int_gram12_1_1.mp3</titlesound>
+<text1>It was possible for him to drown but he didn't.</text1>
+<text1a>He &lt;b&gt;could have drowned.&lt;/b&gt;</text1a>
+<sound1>int_gram12_1_2.mp3</sound1>
+<text2>It was possible for Ruby to walk to work but she took a taxi.</text2>
+<text2a>Ruby &lt;b&gt;could have walked&lt;/b&gt; but she took a taxi instead.</text2a>
+<sound2>int_gram12_1_3.mp3</sound2>
+<sectiontitle2>We use &lt;i&gt;would have / would not have&lt;/i&gt; + past participle when we imagine something in the past that didn't happen.</sectiontitle2>
+<titlesound2>int_gram12_1_4.mp3</titlesound2>
+<text3>I'm imagining the situation in the past:</text3>
+<text3a>I &lt;b&gt;would have waited&lt;/b&gt; for help.</text3a>
+<sound3>int_gram12_1_5.mp3</sound3>
+<text4></text4>
+<text4a>I &lt;b&gt;wouldn't have stayed &lt;/b&gt;on the boat&lt;b&gt;.&lt;/b&gt;</text4a>
+<sound4>int_gram12_1_6.mp3</sound4>
+</section>
+<section>
+<title>&lt;i&gt;could have, should have, would have&lt;/i&gt;</title>
+<sectiontitle>We use &lt;i&gt;should have&lt;/i&gt; + past participle when it was a good idea for you to do something in the past but you didn't do it. We often use this to criticise people or for past regrets.</sectiontitle>
+<titlesound>int_gram12_1_7.mp3</titlesound>
+<text1>criticism: It was a good idea to bring water but you didn't.</text1>
+<text1a>You &lt;b&gt;should have brought&lt;/b&gt; some water.</text1a>
+<sound1>int_gram12_1_8.mp3</sound1>
+<text2>regret: It was a good idea to look in the mirror but I didn't.</text2>
+<text2a>I &lt;b&gt;should have looked&lt;/b&gt; in the mirror before I came out.</text2a>
+<sound2>int_gram12_1_9.mp3</sound2>
+<sectiontitle2>In the negative, we use &lt;i&gt;should not have&lt;/i&gt; + past participle when it was a bad idea for you to do something in the past but you did it.</sectiontitle2>
+<titlesound2>int_gram12_1_10.mp3</titlesound2>
+<text3>criticism: It was a bad idea to be rude but you were.</text3>
+<text3a>You &lt;b&gt;shouldn't have been&lt;/b&gt; so rude.</text3a>
+<sound3>int_gram12_1_11.mp3</sound3>
+<text4>regret: It was a bad idea to come but I did.</text4>
+<text4a>I &lt;b&gt;shouldn't have come&lt;/b&gt;.</text4a>
+<sound4>int_gram12_1_12.mp3</sound4>
+</section>
+</grammar>

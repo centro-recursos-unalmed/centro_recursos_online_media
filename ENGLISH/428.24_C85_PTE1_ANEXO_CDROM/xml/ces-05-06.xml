@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?> 
+<pairs bckg_color="0x5595D5" congra_text="Congratulations!!">
+<pair fbtext="Correct!">   
+  <picture label="camera" picture="" />   
+  <picture label="" picture="images/camera.jpg" />     
+</pair>  
+<pair fbtext="Well done!">   
+  <picture label="wallet" picture="" />   
+  <picture label="" picture="images/wallet.jpg" />   
+</pair>  
+<pair fbtext="That's right!">   
+  <picture label="watch" picture="" />   
+  <picture label="" picture="images/watch.jpg" />   
+</pair>  
+<pair fbtext="Excellent!">   
+  <picture label="purse" picture="" />   
+  <picture label="" picture="images/purse.jpg" />   
+</pair>  
+<pair fbtext="Brilliant!">   
+  <picture label="magazine" picture="" />   
+  <picture label="" picture="images/magazine.jpg" />   
+</pair>  
+<pair fbtext="That's correct!">   
+  <picture label="credit card" picture="" />   
+  <picture label="" picture="images/creditcard.jpg" />   
+</pair>  
+<pair fbtext="Correct!">   
+  <picture label="passport" picture="" />  
+  <picture label="" picture="images/passport.jpg" />    
+</pair>  
+<pair fbtext="Well done!">   
+  <picture label="mobile phone" picture="" /> 
+  <picture label="" picture="images/mobile.jpg" /> 
+</pair> 
+</pairs>
+
+
+
+
+

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='ISO-8859-1' ?>
+<grammar>
+<section>
+<title> Personal pronouns and possessive adjectives</title>
+<sectiontitle> We use &lt;i&gt;I&lt;/i&gt; + verb and &lt;i&gt;my&lt;/i&gt; + noun. We usually use the short form, &lt;i&gt;I'm&lt;/i&gt;.</sectiontitle>
+<titlesound>sta_gram1_1_1.mp3</titlesound>
+<text1></text1>
+<text1a>&lt;b&gt;I'm&lt;/b&gt; a student. &lt;b&gt;My&lt;/b&gt; name's Alison.</text1a>
+<sound1>sta_gram1_1_2.mp3</sound1>
+<sectiontitle2>We use &lt;i&gt;you&lt;/i&gt; + verb and &lt;i&gt;your&lt;/i&gt; + noun.</sectiontitle2>
+<titlesound2>sta_gram1_1_3.mp3</titlesound2>
+<text3></text3>
+<text3a>&lt;b&gt;You&lt;/b&gt;'re a teacher. &lt;b&gt;Your&lt;/b&gt; name is Mrs Adams.</text3a>
+<sound3>sta_gram1_1_4.mp3</sound3>
+</section>
+<section>
+<title> Personal pronouns and possessive adjectives</title>
+<sectiontitle>We use &lt;i&gt;he +&lt;/i&gt; verb and &lt;i&gt;his +&lt;/i&gt; noun&lt;i&gt;. &lt;/i&gt;We usually use the short form, &lt;i&gt;he's.&lt;/i&gt;</sectiontitle>
+<titlesound>sta_gram1_1_5.mp3</titlesound>
+<text1></text1>
+<text1a>&lt;b&gt;He's&lt;/b&gt; a student. &lt;b&gt;His&lt;/b&gt; name's Stephen.</text1a>
+<sound1>sta_gram1_1_6.mp3</sound1>
+<text2></text2>
+<text2a></text2a>
+<sound2></sound2>
+<sectiontitle2>We use &lt;i&gt;she +&lt;/i&gt; verb and &lt;i&gt;her +&lt;/i&gt; noun. We usually use the short form &lt;i&gt;she's&lt;/i&gt;.</sectiontitle2>
+<titlesound2>sta_gram1_1_7.mp3</titlesound2>
+<text3> </text3>
+<text3a>&lt;b&gt;She's&lt;/b&gt; an actress. &lt;b&gt;Her&lt;/b&gt; name's Jodie.</text3a>
+<sound3>sta_gram1_1_8.mp3</sound3>
+<text4></text4>
+<text4a></text4a>
+<sound4></sound4>
+</section>
+</grammar>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='ISO-8859-1' ?>
+<grammar>
+<section>
+<title> Time expressions</title>
+<sectiontitle> We use &lt;i&gt;on&lt;/i&gt; + day of the week.</sectiontitle>
+<titlesound>sta_gram7_2_1.mp3</titlesound>
+<text1> I usually do my homework &lt;b&gt;on Sunday.&lt;/b&gt;</text1>
+<text1a> He always cleans the house &lt;b&gt;on Friday.&lt;/b&gt; </text1a>
+<sound1>sta_gram7_2_2.mp3</sound1>
+<text2> We sometimes meet friends &lt;b&gt;on Saturday&lt;/b&gt; evening.</text2>
+<text2a>They never watch TV &lt;b&gt;on Sunday&lt;/b&gt; morning.</text2a>
+<sound2>sta_gram7_2_3.mp3</sound2>
+<sectiontitle2>We use &lt;i&gt;every&lt;/i&gt; + day of the week/&lt;i&gt;week/weekend/month/year/morning&lt;/i&gt; or &lt;i&gt;afternoon.&lt;/i&gt;</sectiontitle2>
+<titlesound2>sta_gram7_2_4.mp3</titlesound2>
+<text3>I play tennis &lt;b&gt;every Tuesday.&lt;/b&gt;</text3>
+<text3a>She goes to the cinema &lt;b&gt;every week.&lt;/b&gt;</text3a>
+<sound3>sta_gram7_2_5.mp3</sound3>
+<text4>I meet my friends &lt;b&gt;every weekend.&lt;/b&gt;</text4>
+<text4a>We go to the mountains &lt;b&gt;every month.&lt;/b&gt;</text4a>
+<sound4>sta_gram7_2_6.mp3</sound4>
+</section>
+<section>
+<title> Time expressions</title>
+<sectiontitle> We use &lt;i&gt;in + the morning, the afternoon&lt;/i&gt; or &lt;i&gt;the evening.&lt;/i&gt;</sectiontitle>
+<titlesound>sta_gram7_2_7.mp3</titlesound>
+<text1> I have breakfast &lt;b&gt;in the morning.&lt;/b&gt;</text1>
+<text1a>She uses the Internet &lt;b&gt;in the afternoon.&lt;/b&gt;</text1a>
+<sound1>sta_gram7_2_8.mp3</sound1>
+<text2> </text2>
+<text2a> We watch TV &lt;b&gt;in the evening.&lt;/b&gt; </text2a>
+<sound2>sta_gram7_2_9.mp3</sound2>
+<sectiontitle2>We use &lt;i&gt;at +&lt;/i&gt; time,&lt;i&gt; the weekend&lt;/i&gt; or &lt;i&gt;night.&lt;/i&gt;&lt;i&gt; &lt;/i&gt;</sectiontitle2>
+<titlesound2>sta_gram7_2_10.mp3</titlesound2>
+<text3> I get up &lt;b&gt;at eight o'clock.&lt;/b&gt;</text3>
+<text3a> He starts work &lt;b&gt;at nine o'clock.&lt;/b&gt;</text3a>
+<sound3>sta_gram7_2_11.mp3</sound3>
+<text4> I go to the cinema &lt;b&gt;at the weekend.&lt;/b&gt; </text4>
+<text4a> She reads a book &lt;b&gt;at night.&lt;/b&gt; </text4a>
+<sound4>sta_gram7_2_12.mp3</sound4>
+</section>
+</grammar>

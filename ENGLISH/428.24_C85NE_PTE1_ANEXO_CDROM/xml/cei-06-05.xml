@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?> 
+<pairs bckg_color="0xFDBB88" congra_text="Congratulations!!">
+<pair fbtext="Correct!">   
+  <picture label="very stupid" picture="" />   
+  <picture label="ridiculous" picture="" />     
+</pair>  
+<pair fbtext="Well done!">   
+  <picture label="very good" picture="" />   
+  <picture label="superb" picture="" />   
+</pair>  
+<pair fbtext="That's right!">   
+  <picture label="very funny" picture="" />   
+  <picture label="hilarious" picture="" />   
+</pair>  
+<pair fbtext="Excellent!">   
+  <picture label="very surprised" picture="" />   
+  <picture label="astonished" picture="" />   
+</pair>  
+<pair fbtext="Brilliant!">   
+  <picture label="very bad" picture="" />   
+  <picture label="dreadful" picture="" />   
+</pair>  
+<pair fbtext="That's correct!">   
+  <picture label="very angry" picture="" />   
+  <picture label="furious" picture="" />   
+</pair>  
+<pair fbtext="Correct!">   
+  <picture label="very happy" picture="" />  
+  <picture label="delighted" picture="" />    
+</pair>  
+<pair fbtext="Well done!">   
+  <picture label="very frightened" picture="" /> 
+  <picture label="terrified" picture="" /> 
+</pair> 
+</pairs>
+
+
+ 	  
+ 	  
+ 	 
+ 	  
+ 	  
+ 	  
+ 	  

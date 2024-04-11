@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='ISO-8859-1' ?>
+<grammar>
+<section>
+<title> Polite requests</title>
+<sectiontitle>We use &lt;i&gt;Can I ... Could I (possibly) ... Is it all right/okay if I ... Do you think I could ... &lt;/i&gt;+ verb? to ask if we can do things. </sectiontitle>
+<titlesound>int_gram7_1_1.mp3</titlesound>
+<text1>with a positive answer:</text1>
+<text1a>&lt;b&gt;Could I possibly borrow&lt;/b&gt; your pen? Certainly.</text1a>
+<sound1>int_gram7_1_2.mp3</sound1>
+<text2>with a negative answer:</text2>
+<text2a>&lt;b&gt;Is it all right if I use&lt;/b&gt; the scanner? Well, I'm afraid I need it at the moment.  </text2a>
+<sound2>int_gram7_1_3.mp3</sound2>
+<sectiontitle2>We also use &lt;i&gt;Do you mind if I&lt;/i&gt; + verb? to ask for permission. This means &lt;i&gt;Is it a problem if I …?&lt;/i&gt;  </sectiontitle2>
+<titlesound2>int_gram7_1_4.mp3</titlesound2>
+<text3>with a positive answer:</text3>
+<text3a>&lt;b&gt;Do you mind if I smoke?&lt;/b&gt; No, not at all.</text3a>
+<sound3>int_gram7_1_5.mp3</sound3>
+<text4>with a negative answer:</text4>
+<text4a>&lt;b&gt;Do you mind if I sit&lt;/b&gt; here? I'm afraid someone's already here.</text4a>
+<sound4>int_gram7_1_6.mp3</sound4>
+</section>
+<section>
+<title> Polite requests</title>
+<sectiontitle>We use &lt;i&gt;Can you ... Could you (possibly) ... Do you think you could … Will you ... Would you ...&lt;/i&gt; &lt;i&gt;+&lt;/i&gt; verb? to ask other people to do things.</sectiontitle>
+<titlesound>int_gram7_1_7.mp3</titlesound>
+<text1>with a positive answer:</text1>
+<text1a>&lt;b&gt;Would you&lt;/b&gt; sign here, please? Certainly.</text1a>
+<sound1>int_gram7_1_8.mp3</sound1>
+<text2>with a negative answer:</text2>
+<text2a>&lt;b&gt;Do you think you could check&lt;/b&gt; this letter?  Sorry, but I don't have time now.</text2a>
+<sound2>int_gram7_1_9.mp3</sound2>
+<sectiontitle2>We also use &lt;i&gt;Do you mind &lt;/i&gt;... and &lt;i&gt;Would you mind &lt;/i&gt;... + &lt;i&gt;-ing?&lt;/i&gt; for requests. This means &lt;i&gt;Is it a problem for you to ...?&lt;/i&gt;</sectiontitle2>
+<titlesound2>int_gram7_1_10.mp3</titlesound2>
+<text3>with a positive answer:</text3>
+<text3a>&lt;b&gt;Do you mind helping&lt;/b&gt; me with this bag? No, not at all.</text3a>
+<sound3>int_gram7_1_11.mp3</sound3>
+<text4>with a negative answer:</text4>
+<text4a>&lt;b&gt;Would you mind lending&lt;/b&gt; me £20? Well, the problem is I've only got £5 myself.</text4a>
+<sound4>int_gram7_1_12.mp3</sound4>
+</section>
+<section>
+<title> Polite requests</title>
+<sectiontitle>We use &lt;i&gt;Do you mind if I &lt;/i&gt;…&lt;i&gt; Do/Would you mind + -ing &lt;/i&gt;… &lt;i&gt;Could I/you (possibly) … Do you think I/you could …&lt;/i&gt; when we want to sound particularly polite. </sectiontitle>
+<titlesound>int_gram7_1_13.mp3</titlesound>
+<text1></text1>
+<text1a>&lt;b&gt;Do you think I could possibly use&lt;/b&gt; your mobile?</text1a>
+<sound1>int_gram7_1_14.mp3</sound1>
+<text2></text2>
+<text2a>&lt;b&gt;Would you mind helping&lt;/b&gt; me?</text2a>
+<sound2>int_gram7_1_15.mp3</sound2>
+<sectiontitle2>&lt;i&gt;Could/Would you&lt;/i&gt; … are a little more polite than &lt;i&gt;Can/Will you&lt;/i&gt; …? However, in all these questions the intonation is more important than the words.</sectiontitle2>
+<titlesound2>int_gram7_1_16.mp3</titlesound2>
+<text3></text3>
+<text3a>&lt;b&gt;Could we have&lt;/b&gt; the bill, please?</text3a>
+<sound3>int_gram7_1_17.mp3</sound3>
+<text4></text4>
+<text4a>&lt;b&gt;Would you hold&lt;/b&gt; this for a moment, please?</text4a>
+<sound4>int_gram7_1_18.mp3</sound4>
+</section>
+</grammar>

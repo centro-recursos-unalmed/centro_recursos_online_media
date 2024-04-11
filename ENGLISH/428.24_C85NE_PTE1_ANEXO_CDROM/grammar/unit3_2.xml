@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='ISO-8859-1' ?>
+<grammar>
+<section>
+<title> Other phrases for comparing</title>
+<sectiontitle>We use &lt;i&gt;(exactly) the same as&lt;/i&gt; when there is no difference between two things.</sectiontitle>
+<titlesound>int_gram3_2_1.mp3</titlesound>
+<text1>&lt;i&gt;Wonderful = fantastic. Marvellous = fantastic&lt;/i&gt;.</text1>
+<text1a>&lt;i&gt;Wonderful&lt;/i&gt; means &lt;b&gt;the same as &lt;/b&gt;&lt;i&gt; marvellous.&lt;/i&gt;</text1a>
+<sound1>int_gram3_2_2.mp3</sound1>
+<text2></text2>
+<text2a>Your watch is &lt;b&gt;exactly the same as&lt;/b&gt; mine.</text2a>
+<sound2>int_gram3_2_3.mp3</sound2>
+<sectiontitle2>We use &lt;i&gt;very similar to/almost the same as&lt;/i&gt; when things are nearly the same.</sectiontitle2>
+<titlesound2>int_gram3_2_4.mp3</titlesound2>
+<text3></text3>
+<text3a>Their new car is &lt;b&gt;similar to&lt;/b&gt; their old car.</text3a>
+<sound3>int_gram3_2_5.mp3</sound3>
+<text4></text4>
+<text4a>The train times are &lt;b&gt;about the same as&lt;/b&gt; before.</text4a>
+<sound4>int_gram3_2_6.mp3</sound4>
+</section>
+<section>
+<title> Other phrases for comparing</title>
+<sectiontitle>We use &lt;i&gt;slightly different from&lt;/i&gt; when there is a small difference between two things.</sectiontitle>
+<titlesound>int_gram3_2_7.mp3</titlesound>
+<text1></text1>
+<text1a>The new timetable is &lt;b&gt;slightly different from&lt;/b&gt; the old one.</text1a>
+<sound1>int_gram3_2_8.mp3</sound1>
+<text2></text2>
+<text2a></text2a>
+<sound2></sound2>
+<sectiontitle2>We use &lt;i&gt;completely different from&lt;/i&gt; when there is a big difference between two things.</sectiontitle2>
+<titlesound2>int_gram3_2_9.mp3</titlesound2>
+<text3></text3>
+<text3a>The new stadium's &lt;b&gt;completely different from&lt;/b&gt; the old one.</text3a>
+<sound3>int_gram3_2_10.mp3</sound3>
+<text4></text4>
+<text4a></text4a>
+<sound4></sound4>
+</section>
+</grammar>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration xmlns="urn:schemas-multidmedia-com:configuration" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:schemas-multidmedia-com:configuration configuration.xsd" PID="XP_Flash_Player">
+	<License>
+		<Name>Multidmedia</Name>
+		<Organization>Multidmedia Ltd</Organization>
+		<Type>FULL</Type>
+		<Key>F110-5491-752</Key>
+	</License>
+	<RuntimeSettings>
+                <WindowStyle>536874560</WindowStyle>
+		<WindowTitle>Pearson Longman</WindowTitle>
+		<WindowPosition>-1,-1</WindowPosition>
+		<WindowSize>800,600</WindowSize>
+		<EmbedParams>src="1.swf" LOOP=false MENU=true QUALITY=high SCALE=exactfit SALIGN=CC BGCOLOR=#FFFFFF width=300 height=300 type=application/x-shockwave-flash</EmbedParams>
+		<Port>3002</Port>
+                <EscExits>true</EscExits>
+                <Fullscreen>false</Fullscreen>
+		<MouseMode>normal</MouseMode>
+	</RuntimeSettings>
+</Configuration>
+<!--5cbc665841cff60de4df595f61dc2397-->
