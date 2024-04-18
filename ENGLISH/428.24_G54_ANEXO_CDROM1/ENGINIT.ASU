@@ -1,0 +1,49 @@
+; Expert mode. Creation Date and Time: 11/20/97 15:06:50
+
+[General]
+Title=THE ENGLISH INITIATIVE Setup
+Background=Blue,None
+Directory=C:\ENGINIT
+ArchiveName=ENGINIT
+RegistrationINI=$Windows$\asym.ini,Registered Apps
+FullInstallBMP=DEFAULT
+Common=MTB40,$windows$\asym\runtime,4.0,United States
+
+[Component0]
+Name=THE ENGLISH INITIATIVE utilities
+TotalSize=3975406
+File0=enginit.ico,$Install$,F:\AMBBC\SSS,AlwaysCopy,0
+File1=t3.wav,$Install$,F:\AMBBC\SSS,IfNewer,0
+File2=t4.wav,$Install$,F:\AMBBC\SSS,IfNewer,0
+File3=t6.wav,$Install$,F:\AMBBC\SSS,IfNewer,0
+File4=t7.wav,$Install$,F:\AMBBC\SSS,IfNewer,0
+File5=t8.wav,$Install$,F:\AMBBC\SSS,IfNewer,0
+File6=t9.wav,$Install$,F:\AMBBC\SSS,IfNewer,0
+PMGroupItem0=THE ENGLISH INITIATIVE,$Source$\BBCENG\MAIN.EXE,THE ENGLISH INITIATIVE,$Install$\ENGINIT.ICO,0
+Ini0=WIN.INI,THE ENGLISH INITIATIVE,HDPath,$Install$\
+Ini1=WIN.INI,THE ENGLISH INITIATIVE,CDPath,$Source$\
+
+[CommonComponent]
+Name=MMTB runtime
+TotalSize=3212519
+File0=tbload.exe,$Common$,D:\MTB40,IfNewer,0
+File1=mtb40utl.dll,$Common$,D:\MTB40,IfNewer,0
+File2=mtb40run.exe,$Common$,D:\MTB40,IfNewer,0
+File3=mtb40rcr.dll,$Common$,D:\MTB40,IfNewer,0
+File4=mtb40net.exe,$Common$,D:\MTB40,IfNewer,0
+File5=mtb40mm.ini,$Common$,D:\MTB40,IfNewer,0
+File6=mtb40mm.dll,$Common$,D:\MTB40,IfNewer,0
+File7=mtb40lnl.dll,$Common$,D:\MTB40,IfNewer,0
+File8=mtb40flt.dll,$Common$,D:\MTB40,IfNewer,0
+File9=mtb40cmp.dll,$Common$,D:\MTB40,IfNewer,0
+File10=mtb40bmp.dll,$Common$,D:\MTB40,IfNewer,0
+File11=mtb40bas.dll,$Common$,D:\MTB40,IfNewer,0
+File12=tb40db3.dll,$Common$,D:\MTB40,IfNewer,0
+File13=tb40win.dll,$Common$,D:\MTB40,IfNewer,0
+File14=tb40dos.dll,$Common$,D:\MTB40,IfNewer,0
+File15=tb40dlg.dll,$Common$,D:\MTB40,IfNewer,0
+Ini0=asym.ini,ToolBook Load Information,MTB40,$Common$\MTB40RUN.EXE,NoReplace
+Ini1=WIN.INI,Extensions,TBK,$Common$\TBLOAD.EXE ^.TBK
+
+[DefaultComponent]
+Message0="THE ENGLISH INITIATIVE setup completed. Please double-click the icon to start."
